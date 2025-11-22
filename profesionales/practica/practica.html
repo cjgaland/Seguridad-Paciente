@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica · Herramientas</title>
+    
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/sidebar.css">
+    <link rel="stylesheet" href="practica.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+        <div class="sp-header-left"><img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo"></div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right"><img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right"></div>
+    </header>
+
+    <div class="sp-layout">
+        <aside class="sidebar">
+            <div class="sidebar-header"><i class="fa-solid fa-clipboard-check"></i> <span>Zona de Práctica</span></div>
+            <nav class="sidebar-nav">
+                <div class="sidebar-group">
+                    <div style="padding:0 10px 5px;font-size:0.85rem;color:#8A5B00;font-weight:bold;text-transform:uppercase;">Disponibles</div>
+                    
+                    <a href="notificasp/notificasp.html" class="sidebar-btn" style="text-decoration:none;"><i class="fa-solid fa-bullhorn"></i> Simulador NotificaSP</a>
+                    <a href="checklist/checklist.html" class="sidebar-btn" style="text-decoration:none;margin-top:5px;"><i class="fa-solid fa-list-check"></i> Checklist Quirúrgico</a>
+                    <a href="calculadoras/calculadoras.html" class="sidebar-btn" style="text-decoration:none;margin-top:5px;"><i class="fa-solid fa-calculator"></i> Escalas Clínicas</a>
+
+                    <div style="margin-top:5px;">
+                        <button class="sidebar-btn" data-toggle="submenu-cultura">
+                            <i class="fa-solid fa-heart-pulse"></i> Cultura Seguridad
+                        </button>
+                        <ul id="submenu-cultura" class="sidebar-submenu">
+                            <li><a href="cultura/autotest.html">Realizar Encuesta</a></li>
+                            <li><a href="cultura/resultados.html"><strong>Ver Estadísticas</strong></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="sidebar-group" style="margin-top:20px;border-top:1px solid #F2C273;padding-top:20px;">
+                    <a href="../../profesionales.html" class="sidebar-btn" style="background-color:#FFE4B3;text-decoration:none;"><i class="fa-solid fa-user-doctor"></i> Volver a Profesionales</a>
+                    <a href="../../index.html" class="sidebar-btn" style="background-color:#FFE4B3;margin-top:10px;text-decoration:none;"><i class="fa-solid fa-house"></i> Volver al Inicio</a>
+                </div>
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar"><h2>Entrenamiento y Herramientas</h2></div>
+            <p class="main-intro">Simuladores seguros y utilidades para aplicar los protocolos de seguridad.</p>
+
+            <div class="tools-grid">
+                <article class="tool-card sim" onclick="location.href='notificasp/notificasp.html'">
+                    <div class="tool-icon"><i class="fa-solid fa-bullhorn"></i></div>
+                    <div class="tool-badge">Simulador</div>
+                    <h3>Notificación de Incidentes</h3>
+                    <p>Practica cómo reportar un incidente en notificaSP sin miedo.</p>
+                    <span class="btn-tool">Iniciar <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+                <article class="tool-card check" onclick="location.href='checklist/checklist.html'">
+                    <div class="tool-icon"><i class="fa-solid fa-list-check"></i></div>
+                    <div class="tool-badge">Interactivo</div>
+                    <h3>Checklist Quirúrgico</h3>
+                    <p>Simulación del "Time Out" y fases de la OMS.</p>
+                    <span class="btn-tool">Entrar <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+                <article class="tool-card calc" onclick="location.href='calculadoras/calculadoras.html'">
+                    <div class="tool-icon"><i class="fa-solid fa-calculator"></i></div>
+                    <div class="tool-badge">Utilidad</div>
+                    <h3>Calculadoras Clínicas</h3>
+                    <p>Escalas Braden, Downton y herramientas de valoración.</p>
+                    <span class="btn-tool">Calcular <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+                <article class="tool-card test" onclick="location.href='cultura/autotest.html'">
+                    <div class="tool-icon"><i class="fa-solid fa-heart-pulse"></i></div>
+                    <div class="tool-badge">Reflexión</div>
+                    <h3>Termómetro de Seguridad</h3>
+                    <p>Evalúa el clima de seguridad de tu unidad.</p>
+                    <span class="btn-tool">Encuesta <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+            </div>
+        </main>
+    </div>
+
+    <footer class="sp-footer">Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias</footer>
+    <script src="../../js/sidebar.js"></script>
+</body>
+</html>

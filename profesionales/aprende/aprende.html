@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprende · Seguridad del Paciente</title>
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/icons/favicons/favicon_512.png">
+
+    
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/sidebar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        /* Estilos locales para tarjetas de aprendizaje */
+        .learn-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .learn-card {
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            border: 1px solid #e5e7eb;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .learn-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-color: #F5A623;
+        }
+
+        .card-header {
+            height: 120px;
+            background: #f3f4f6;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            color: #9ca3af;
+        }
+        .card-header.blue { background: #e0f2fe; color: #3b82f6; }
+        .card-header.green { background: #dcfce7; color: #16a34a; }
+        .card-header.purple { background: #f3e8ff; color: #9333ea; }
+
+        .card-body {
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-body h3 { margin: 0 0 10px 0; font-size: 1.2rem; color: #333; }
+        .card-body p { margin: 0 0 20px 0; font-size: 0.95rem; color: #666; flex: 1; }
+
+        .btn-learn {
+            align-self: flex-start;
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            color: #555;
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        .learn-card:hover .btn-learn {
+            background: #F5A623;
+            border-color: #F5A623;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+        <div class="sp-header-left">
+            <img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        </div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right">
+            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        </div>
+    </header>
+
+    <div class="sp-layout">
+        
+        <!-- SIDEBAR -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-graduation-cap"></i>
+                <span>Formación</span>
+            </div>
+
+            <nav class="sidebar-nav">
+                
+                <div class="sidebar-group">
+                    <div style="padding: 0 10px 5px; font-size:0.85rem; color:#8A5B00; font-weight:bold; text-transform:uppercase;">
+                        Disponibles
+                    </div>
+                    
+                    <!-- Aprende 1: Lavado de manos -->
+                    <a href="manos/manos.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-hands-bubbles"></i> Lavado de manos
+                    </a>
+
+                    <!-- Aprende 2: Uso correcto del EPI -->
+                    <a href="epis/epis.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-head-side-mask"></i> Uso correcto del EPI
+                    </a>
+
+                    <!-- Aprende 3: Casos Clínicos -->
+                    <a href="casos/casos.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-user-injured"></i> Casos Clínicos Interactivos
+                    </a>
+
+                </div>
+
+
+                <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
+                    <a href="../../profesionales.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3;">
+                        <i class="fa-solid fa-user-doctor"></i> Volver a Profesionales
+                    </a>
+                    <a href="../../index.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3; margin-top:10px;">
+                        <i class="fa-solid fa-house"></i> Volver al Inicio
+                    </a>
+                </div>
+
+            </nav>
+        </aside>
+
+                <main class="main-content">
+            <div class="top-bar">
+                <h2>Recursos Formativos Interactivos</h2>
+            </div>
+
+            <p class="main-intro">
+                Píldoras de conocimiento visuales y prácticas para refrescar conceptos clave de seguridad.
+            </p>
+
+            <div class="learn-grid">
+                
+                <!-- RECURSO 1: MANOS (ACTIVO) -->
+                <article class="learn-card">
+                    <div class="card-header blue">
+                        <i class="fa-solid fa-hands-bubbles"></i>
+                    </div>
+                    <div class="card-body">
+                        <h3>Manos Limpias, Manos Seguras</h3>
+                        <p>Explora los 5 momentos de la OMS para la higiene de manos y la diferencia entre fricción y lavado.</p>
+                        <a href="manos/manos.html" class="btn-learn">Entrar <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <!-- RECURSO 2: EPIS (activos) -->
+                <article class="learn-card">
+                    <div class="card-header green">
+                        <i class="fa-solid fa-head-side-mask"></i>
+                    </div>
+                    <div class="card-body">
+                        <h3>Uso Correcto de EPIs</h3>
+                        <p>Guía visual sobre mascarillas, guantes y protección según el tipo de transmisión.</p>
+                        <a href="epis/epis.html" class="btn-learn">Entrar <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <!-- RECURSO 3: CASOS (activo) -->
+                <article class="learn-card">
+                    <div class="card-header purple">
+                        <i class="fa-solid fa-user-injured"></i>
+                    </div>
+                    <div class="card-body">
+                        <h3>Casos Clínicos Interactivos</h3>
+                        <p>Toma decisiones en escenarios reales y aprende de las consecuencias en un entorno seguro.</p>
+                        <a href="casos/casos.html" class="btn-learn">Entrar <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
+            </div>
+        </main>
+    </div>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+    
+    <script src="../../js/sidebar.js"></script>
+</body>
+</html>

@@ -1,0 +1,212 @@
+/* ==========================================
+   ESTILOS SOPA DE LETRAS (Identidad Corporativa)
+   ========================================== */
+
+/* Panel Principal */
+.mt-panel {
+    width: min(900px, 100%);
+    margin: 0 auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 16px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.text-center { text-align: center; }
+
+/* --- 1. SELECTOR DE NIVEL (Menú Inicio) --- */
+.level-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.btn-level {
+    background: #fff;
+    border: 2px solid #F2C273;
+    border-radius: 12px;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-level strong {
+    font-size: 1.1rem;
+}
+
+.btn-level small {
+    font-size: 0.95rem;
+}
+
+.btn-level:hover {
+    background: #FFECC1;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(245, 166, 35, 0.2);
+}
+
+.lvl-badge {
+    background: #86efac;
+    color: #14532d;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.lvl-badge.adv {
+    background: #fca5a5;
+    color: #7f1d1d;
+}
+
+/* --- HUD --- */
+.kpi {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.kpi .box {
+    background: #fafafa; border: 1px solid #eee;
+    border-radius: 8px; padding: 8px 12px;
+    text-align: center; min-width: 80px;
+}
+.kpi .muted { font-size: 0.7rem; color: #888; text-transform: uppercase; }
+.kpi .value { font-size: 1.2rem; font-weight: 800; color: #333; }
+
+/* --- ÁREA DE JUEGO --- */
+.game-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+@media (min-width: 768px) {
+    .game-container {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+}
+
+/* REJILLA DE LETRAS */
+.word-grid {
+    background: #fff;
+    border: 2px solid #333;
+    border-radius: 8px;
+    display: grid;
+    user-select: none; /* Importante para arrastrar */
+    touch-action: none; /* Mejor control táctil */
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.cell {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+/* Selección */
+.cell.selected {
+    background-color: #F5A623; /* Amarillo mientras seleccionas */
+    color: white;
+}
+
+.cell.found {
+    background-color: #dcfce7; /* Verde cuando aciertas */
+    color: #166534;
+    animation: popIn 0.3s;
+}
+
+/* LISTA DE PALABRAS */
+.word-list-panel {
+    flex: 1;
+    background: #f9fafb;
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+}
+
+.word-list-panel h3 {
+    color: #8A5B00;
+    border-bottom: 2px solid #F2C273;
+    padding-bottom: 5px;
+    margin-top: 0;
+}
+
+.word-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Mayor interlineado */
+    margin: 15px 0;
+}
+
+.word-item {
+    padding: 10px 12px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    display: flex;
+    justify-content: flex-start; /* Alineación a la izquierda */
+    align-items: center;
+    text-align: left;
+    font-weight: 500;
+    color: #333; /* Color negro por defecto */
+}
+
+.word-item.found {
+    background-color: #dcfce7;
+    border-color: #86efac;
+    color: #16a34a; /* Verde vibrante sin tachado */
+    font-weight: 600;
+}
+
+/* Feedback Overlay */
+.feedback-overlay {
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    text-align: center;
+    z-index: 100;
+    display: none;
+    border: 2px solid #16a34a;
+}
+.feedback-overlay.show { display: block; animation: fadeIn 0.3s; }
+
+.btn-action {
+    background: #F5A623; color: white;
+    border: none; padding: 12px 24px;
+    border-radius: 8px; font-weight: 700;
+    cursor: pointer; display: inline-block; margin-top: 10px;
+    font-size: 1rem; box-shadow: 0 4px 6px rgba(245, 166, 35, 0.2);
+}
+.btn-action:hover { background: #d68b1a; transform: translateY(-2px); }
+
+.player-input { padding: 8px; border: 1px solid #ccc; border-radius: 4px; text-align: center; }
+
+@keyframes popIn { from {transform: scale(0.5);} to {transform: scale(1);} }
+@keyframes fadeIn { from {opacity:0;} to {opacity:1;} }

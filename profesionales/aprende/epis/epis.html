@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de EPIs · Aprende</title>
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="epis.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-head-side-mask" style="color:#10b981;"></i> Uso Correcto de EPIs</h2>
+            <a href="../aprende.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Volver a Aprende
+            </a>
+        </div>
+
+        <p class="main-intro">
+            Selecciona el <strong>tipo de precaución</strong> o transmisión para visualizar el equipo de protección individual (EPI) requerido según los protocolos estándar.
+        </p>
+
+        <div class="scenario-selector">
+            <button class="scenario-btn active" data-scenario="standard">
+                <i class="fa-solid fa-shield-halved"></i> Estándar
+            </button>
+            <button class="scenario-btn" data-scenario="contact">
+                <i class="fa-solid fa-hand-dots"></i> Contacto
+            </button>
+            <button class="scenario-btn" data-scenario="droplet">
+                <i class="fa-solid fa-viruses"></i> Gotas
+            </button>
+            <button class="scenario-btn" data-scenario="airborne">
+                <i class="fa-solid fa-wind"></i> Aérea
+            </button>
+        </div>
+
+        <div class="epi-panel">
+            
+            <div class="epi-info">
+                <h3 id="scenario-title">Precauciones Estándar</h3>
+                <p id="scenario-desc">Medidas básicas aplicables a <strong>todos</strong> los pacientes, independientemente de su diagnóstico, para reducir el riesgo de transmisión de microorganismos.</p>
+                
+                <div class="key-indications">
+                    <h4><i class="fa-solid fa-clipboard-list"></i> Indicaciones Clave:</h4>
+                    <ul id="scenario-list">
+                        <li>Higiene de manos (siempre).</li>
+                        <li>Uso de guantes si hay riesgo de contacto con fluidos.</li>
+                        <li>Mascarilla/bata si hay riesgo de salpicaduras.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="epi-kit-container">
+                <div class="kit-grid" id="kit-grid">
+                    </div>
+            </div>
+
+        </div>
+        
+        <div class="alert-box">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            <p><strong>Recuerda:</strong> El orden de colocación y retirada es crítico. La retirada es el momento de mayor riesgo de contaminación.</p>
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergenias
+    </footer>
+
+    <script src="epis.js"></script>
+</body>
+</html>

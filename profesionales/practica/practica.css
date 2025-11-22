@@ -1,0 +1,116 @@
+/* ==========================================
+   ESTILOS ESPECÍFICOS: ZONA DE PRÁCTICA
+   ========================================== */
+
+.tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.tool-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 25px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Efecto hover */
+.tool-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    border-color: #F5A623;
+}
+
+/* Icono en caja cuadrada */
+.tool-icon {
+    width: 60px; 
+    height: 60px;
+    background: #fff7ed;
+    color: #ea580c;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.tool-card h3 { 
+    margin: 0 0 10px 0; 
+    font-size: 1.2rem; 
+    color: #333; 
+}
+
+.tool-card p { 
+    margin: 0 0 20px 0; 
+    color: #666; 
+    font-size: 0.95rem; 
+    line-height: 1.5; 
+    flex: 1; /* Empuja el botón hacia abajo */
+}
+
+/* Badge (Etiqueta superior derecha) */
+.tool-badge {
+    position: absolute;
+    top: 20px; 
+    right: 20px;
+    background: #f3f4f6;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #666;
+}
+
+/* Botón inferior (enlace falso) */
+.btn-tool {
+    color: #ea580c;
+    font-weight: 600;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.95rem;
+    transition: gap 0.2s ease;
+}
+
+.tool-card:hover .btn-tool { 
+    gap: 10px; /* Animación de la flecha */
+}
+
+/* ==========================================
+   VARIANTES DE COLOR POR TIPO DE HERRAMIENTA
+   ========================================== */
+
+/* 1. Simuladores (Azul) */
+.tool-card.sim .tool-icon { background: #eff6ff; color: #3b82f6; }
+.tool-card.sim:hover .tool-icon { background: #3b82f6; color: white; }
+.tool-card.sim .btn-tool { color: #3b82f6; }
+
+/* 2. Checklists (Verde) */
+.tool-card.check .tool-icon { background: #f0fdf4; color: #16a34a; }
+.tool-card.check:hover .tool-icon { background: #16a34a; color: white; }
+.tool-card.check .btn-tool { color: #16a34a; }
+
+/* 3. Calculadoras (Morado) */
+.tool-card.calc .tool-icon { background: #fdf4ff; color: #9333ea; }
+.tool-card.calc:hover .tool-icon { background: #9333ea; color: white; }
+.tool-card.calc .btn-tool { color: #9333ea; }
+
+/* 4. Tests/Cultura (Naranja) */
+.tool-card.test .tool-icon { background: #fff7ed; color: #f97316; }
+.tool-card.test:hover .tool-icon { background: #f97316; color: white; }
+.tool-card.test .btn-tool { color: #f97316; }
+
+/* Responsive adjustments si fueran necesarios, 
+   pero el grid layout ya lo maneja bien */

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking · Seguridad del Paciente</title>
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/icons/favicons/favicon_512.png">
+    
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/sidebar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        /* ESTILOS ESPECÍFICOS RANKING */
+        .ranking-container { margin-top: 1rem; }
+        
+        .ranking-controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+            align-items: flex-end;
+            background: #fff;
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid #e5e7eb;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+        }
+
+        .control-group { flex: 1; min-width: 220px; }
+        .control-group label { 
+            display: block; 
+            font-weight: 700; 
+            color: #8A5B00; 
+            font-size: 0.85rem; 
+            margin-bottom: 6px; 
+            text-transform: uppercase;
+        }
+        .control-group select {
+            width: 100%;
+            padding: .6rem;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+            background-color: #fff;
+            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        .control-group select:hover { border-color: #F5A623; }
+        .control-group select:focus { outline: none; border-color: #F5A623; box-shadow: 0 0 0 3px rgba(245,166,35,0.2); }
+        .control-group select:disabled { background-color: #f3f4f6; color: #999; cursor: not-allowed; }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            margin-top: 10px;
+        }
+
+        th, td { padding: 1rem; text-align: left; border-bottom: 1px solid #f0f0f0; }
+        th { background: #FFEFC7; font-weight: 700; color: #8A5B00; font-size: 0.9rem; text-transform: uppercase; }
+        tr:last-child td { border-bottom: none; }
+        tr:hover { background: #fffbf4; }
+
+        /* Medallas */
+        .rank-1 { font-size: 1.2rem; } 
+        .rank-2 { font-size: 1.1rem; } 
+        .rank-3 { font-size: 1.1rem; }
+
+        /* Botón Jugar este nivel */
+        .play-btn-container { flex: 0 0 auto; text-align: right; }
+        .play-btn {
+            background: #F5A623;
+            padding: .7rem 1.5rem;
+            border-radius: 8px;
+            color: white;
+            font-weight: 700;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+            box-shadow: 0 4px 6px rgba(245, 166, 35, 0.2);
+        }
+        .play-btn:hover { background: #d68b1a; transform: translateY(-2px); }
+        .play-btn.disabled { 
+            background: #e5e7eb; color: #999; pointer-events: none; box-shadow: none; transform: none; 
+        }
+
+        /* Estado vacío */
+        .empty-state { padding: 40px; text-align: center; color: #888; font-style: italic; }
+    </style>
+</head>
+
+<body>
+
+<header class="sp-header">
+    <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <div class="sp-header-left">
+        <img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+    </div>
+    <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+    <div class="sp-header-right">
+        <img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </div>
+</header>
+
+<div class="sp-layout">
+
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <i class="fa-solid fa-trophy"></i>
+            <span>Ranking</span>
+        </div>
+        <nav class="sidebar-nav">
+            <div class="sidebar-group">
+                <div style="padding: 0 10px 5px; font-size:0.85rem; color:#8A5B00; font-weight:bold; text-transform:uppercase;">
+                    Volver a
+                </div>
+                <a href="juega.html" class="sidebar-btn">
+                    <i class="fa-solid fa-gamepad"></i> Panel de Juegos
+                </a>
+            </div>
+            <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
+                <a href="../../profesionales.html" class="sidebar-btn" style="background-color: #FFE4B3;">
+                    <i class="fa-solid fa-user-doctor"></i> Profesionales
+                </a>
+                <a href="../../index.html" class="sidebar-btn" style="background-color: #FFE4B3; margin-top:10px;">
+                    <i class="fa-solid fa-house"></i> Inicio
+                </a>
+            </div>
+        </nav>
+    </aside>
+
+    <main class="main-content">
+        <h2><i class="fa-solid fa-chart-line" style="color:#F5A623;"></i> Clasificación Global</h2>
+        <p class="main-intro">Consulta las mejores puntuaciones registradas por tus compañeros en cada actividad.</p>
+
+        <div class="ranking-container">
+            
+            <!-- CONTROLES DE FILTRADO -->
+            <div class="ranking-controls">
+                <div class="control-group">
+                    <label for="selectJuego"><i class="fa-solid fa-gamepad"></i> Juego / Actividad</label>
+                    <select id="selectJuego">
+                        <option value="" disabled selected>-- Selecciona un juego --</option>
+                        <option value="riesgos">Identificación de Riesgos</option>
+                        <option value="quiz">Test Quiz</option>
+                        <option value="anagramas">Anagramas</option>
+                        <option value="sopa">Sopa de Letras</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="selectNivel"><i class="fa-solid fa-layer-group"></i> Nivel / Escenario</label>
+                    <select id="selectNivel" disabled>
+                        <option value="">-- Primero selecciona juego --</option>
+                    </select>
+                </div>
+
+                <div class="play-btn-container">
+                     <a id="btnJugar" class="play-btn disabled" href="#">
+                        <i class="fa-solid fa-play"></i> Jugar este nivel
+                    </a>
+                </div>
+            </div>
+
+            <!-- TABLA DE RESULTADOS -->
+            <table id="rankingTable">
+                <thead>
+                    <tr>
+                        <th style="width: 60px; text-align:center">#</th>
+                        <th>Jugador</th>
+                        <th>Puntos</th>
+                        <th>Tiempo</th>
+                        <th>Fecha</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="5" class="empty-state">Selecciona un juego y nivel para ver los resultados.</td></tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+        
+    </main>
+</div>
+
+<script src="../../js/sidebar.js"></script>
+<script type="module">
+    import { getRanking } from "../../js/core/scores.js";
+
+    // --- REFERENCIAS DOM ---
+    const selectJuego = document.getElementById("selectJuego");
+    const selectNivel = document.getElementById("selectNivel");
+    const rankingTable = document.querySelector("#rankingTable tbody");
+    const btnJugar = document.getElementById("btnJugar");
+
+    // --- CONFIGURACIÓN DINÁMICA DE NIVELES ---
+    // Definimos qué niveles tiene cada juego para evitar conflictos
+    const CONFIG_JUEGOS = {
+        "riesgos": {
+            ruta: "riesgos/riesgos.html",
+            niveles: [
+                { val: "escenario1", texto: "Escenario 1: Habitación" },
+                { val: "escenario2", texto: "Escenario 2: Carro de Medicación" },
+                { val: "escenario3", texto: "Escenario 3: Mostrador" },
+                { val: "escenario4", texto: "Escenario 4: Camilla" }
+            ]
+        },
+        "quiz": {
+            ruta: "test/test.html",
+            niveles: [
+                { val: "nivel1", texto: "Nivel Básico (Fundamentos)" },
+                { val: "nivel2", texto: "Nivel Avanzado (Clínico)" }
+            ]
+        },
+        "anagramas": {
+            ruta: "anagramas/anagramas.html",
+            niveles: [
+                { val: "nivel1", texto: "Nivel 1: Palabras Cortas" },
+                { val: "nivel2", texto: "Nivel 2: Palabras Largas" }
+            ]
+        },
+        "sopa": {
+            ruta: "sopa/sopa.html",
+            niveles: [
+                { val: "nivel1", texto: "Nivel 1 (10x10)" },
+                { val: "nivel2", texto: "Nivel 2 (15x15)" }
+            ]
+        }
+    };
+
+    // --- 1. EVENTO: CAMBIO DE JUEGO ---
+    selectJuego.addEventListener("change", () => {
+        const juegoID = selectJuego.value;
+        const config = CONFIG_JUEGOS[juegoID];
+
+        // Limpiamos el selector de nivel completamente
+        selectNivel.innerHTML = '<option value="" disabled selected>-- Selecciona nivel --</option>';
+        
+        if (config) {
+            // Habilitamos y llenamos con SUS niveles específicos
+            selectNivel.disabled = false;
+            config.niveles.forEach(opcion => {
+                const opt = document.createElement("option");
+                opt.value = opcion.val;
+                opt.textContent = opcion.texto;
+                selectNivel.appendChild(opt);
+            });
+
+            // Preparamos el botón de jugar (pero lo mantenemos deshabilitado hasta elegir nivel)
+            btnJugar.href = config.ruta;
+        } else {
+            selectNivel.disabled = true;
+        }
+
+        // Reseteamos la tabla y bloqueamos el botón jugar
+        rankingTable.innerHTML = `<tr><td colspan="5" class="empty-state">Selecciona un nivel...</td></tr>`;
+        btnJugar.classList.add("disabled");
+    });
+
+    // --- 2. EVENTO: CAMBIO DE NIVEL -> CARGAR DATOS ---
+    selectNivel.addEventListener("change", cargarDatosRanking);
+
+    // --- FUNCIÓN: CARGAR DATOS DE FIREBASE ---
+    async function cargarDatosRanking() {
+        const juego = selectJuego.value;
+        const nivel = selectNivel.value;
+
+        if (!juego || !nivel) return;
+
+        // Activamos el botón "Jugar este nivel"
+        btnJugar.classList.remove("disabled");
+
+        // UI de Carga
+        rankingTable.innerHTML = `<tr><td colspan="5" style="text-align:center; padding:30px;">
+            <i class="fa-solid fa-circle-notch fa-spin" style="color:#F5A623; font-size:1.5rem"></i><br><br>Cargando...
+        </td></tr>`;
+
+        try {
+            // Llamada a Firebase (core/scores.js)
+            const datos = await getRanking(juego, nivel);
+
+            rankingTable.innerHTML = ""; // Limpiar carga
+
+            if (!datos || datos.length === 0) {
+                rankingTable.innerHTML = `<tr><td colspan="5" class="empty-state">
+                    <i class="fa-regular fa-folder-open"></i><br>
+                    No hay puntuaciones registradas para este nivel.<br>
+                    ¡Juega ahora y sé el primero en aparecer!
+                </td></tr>`;
+                return;
+            }
+
+            // Renderizar Filas
+            datos.forEach((r, i) => {
+                const tr = document.createElement("tr");
+                
+                // Medallas
+                let rankIcon = `<strong>${i + 1}</strong>`;
+                if (i === 0) rankIcon = `<span class="rank-1">🥇</span>`;
+                if (i === 1) rankIcon = `<span class="rank-2">🥈</span>`;
+                if (i === 2) rankIcon = `<span class="rank-3">🥉</span>`;
+
+                // Fecha
+                let fechaStr = "—";
+                if(r.fecha) {
+                    const d = new Date(r.fecha);
+                    fechaStr = d.toLocaleDateString(); // Solo fecha para limpieza visual
+                }
+
+                // Tiempo (formato min:seg o seg)
+                let tiempoStr = r.tiempo ? `${r.tiempo}s` : "—";
+
+                tr.innerHTML = `
+                    <td style="text-align:center">${rankIcon}</td>
+                    <td><strong style="color:#333">${r.jugador || "Anónimo"}</strong></td>
+                    <td style="font-weight:bold; color:#d68b1a; font-size:1.1rem">${r.puntuacion}</td>
+                    <td>${tiempoStr}</td>
+                    <td style="font-size:0.85rem; color:#888;">${fechaStr}</td>
+                `;
+                rankingTable.appendChild(tr);
+            });
+
+        } catch (error) {
+            console.error(error);
+            rankingTable.innerHTML = `<tr><td colspan="5" style="text-align:center; color:red; padding:20px;">
+                Error al cargar datos. Revisa tu conexión.
+            </td></tr>`;
+        }
+    }
+
+    // --- LÓGICA DE URL (PARA ENLACES DESDE LOS JUEGOS) ---
+    function checkUrlParams() {
+        const params = new URLSearchParams(window.location.search);
+        const juegoParam = params.get('juego'); // ej: 'sopa'
+        const nivelParam = params.get('nivel'); // ej: 'nivel1'
+
+        if (juegoParam && CONFIG_JUEGOS[juegoParam]) {
+            // 1. Establecer el juego en el select
+            selectJuego.value = juegoParam;
+            
+            // 2. Disparar manualmente el evento 'change' para que se rellenen los niveles
+            selectJuego.dispatchEvent(new Event('change'));
+
+            // 3. Si también venía el nivel, seleccionarlo y cargar
+            if (nivelParam) {
+                // Esperamos un microsegundo para asegurar que el DOM se actualizó (aunque al ser síncrono el dispatch suele ir bien)
+                const existe = Array.from(selectNivel.options).some(o => o.value === nivelParam);
+                if (existe) {
+                    selectNivel.value = nivelParam;
+                    cargarDatosRanking();
+                }
+            }
+        }
+    }
+
+    // Ejecutar al inicio
+    checkUrlParams();
+
+</script>
+
+</body>
+</html>

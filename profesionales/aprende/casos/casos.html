@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casos Clínicos · Aprende</title>
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="casos.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-user-injured" style="color:#9333ea;"></i> Casos Clínicos</h2>
+            
+            <button id="btn-top-exit" class="btn-home" style="border:none; cursor:pointer; font-size:1rem;">
+                <i class="fa-solid fa-arrow-left"></i> Volver
+            </button>
+        </div>
+
+        <section id="menu-section">
+            <p class="main-intro">Selecciona un escenario clínico para poner a prueba tus decisiones.</p>
+            <div class="case-grid" id="case-grid">
+                </div>
+        </section>
+
+        <section id="game-section" class="hidden">
+            
+            <div class="status-bar">
+                <button id="btn-back-menu" style="border:none; background:none; cursor:pointer; font-size:1.1rem; color:#666;">
+                    <i class="fa-solid fa-chevron-left"></i> Menú
+                </button>
+                <div class="patient-health">
+                    <div class="health-track">
+                        <div class="health-fill" id="health-fill" style="width: 100%;"></div>
+                    </div>
+                </div>
+                <div class="case-badge" id="case-badge">Caso Cargando...</div>
+            </div>
+
+            <div class="game-container">
+                <div class="scene-visual" id="scene-icon"></div>
+                <div class="story-text" id="story-text"></div>
+                <div class="options-grid" id="options-container"></div>
+
+                <div class="feedback-panel hidden" id="feedback-panel">
+                    <div class="feedback-content">
+                        <h3 id="feedback-title">Consecuencia</h3>
+                        <p id="feedback-text">Explicación...</p>
+                        <button class="btn-continue" id="btn-continue">Continuar</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+        
+            <script type="module" src="casos.js"></script>
+        
+    </main>
+
+
+</body>
+</html>

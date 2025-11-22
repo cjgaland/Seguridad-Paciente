@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juegos · Profesionales</title>
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/icons/favicons/favicon_512.png">
+    
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/sidebar.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        /* CORRECCIÓN VISUAL: Cards interactivas limpias */
+        .module-card {
+            box-shadow: none !important; 
+            border: 1px solid #e5e7eb;   
+            transition: transform 0.2s, border-color 0.2s, background-color 0.2s;
+        }
+
+        .module-card:hover {
+            border-color: #F5A623; 
+            transform: translateY(-2px);
+            background-color: #fffdf5;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+        <div class="sp-header-left">
+            <img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        </div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right">
+            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        </div>
+    </header>
+
+    <div class="sp-layout">
+        
+        <!-- SIDEBAR -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-gamepad"></i>
+                <span>Zona de Juegos</span>
+            </div>
+
+            <nav class="sidebar-nav">
+                
+                <div class="sidebar-group">
+                    <div style="padding: 0 10px 5px; font-size:0.85rem; color:#8A5B00; font-weight:bold; text-transform:uppercase;">
+                        Disponibles
+                    </div>
+                    
+                    <!-- Juego 1: Riesgos -->
+                    <a href="riesgos/riesgos.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-triangle-exclamation"></i> Riesgos
+                    </a>
+
+                    <!-- Juego 2: Test Quiz -->
+                    <a href="test/test.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-list-check"></i> Test Quiz
+                    </a>
+
+                    <!-- Juego 3: Anagramas (NUEVO) -->
+                    <a href="anagramas/anagramas.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-shuffle"></i> Anagramas
+                    </a>
+
+                    <!-- Juego 4: Sopa de Letras (NUEVO) -->
+                    <a href="sopa/sopa.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-table-cells"></i> Sopa de Letras
+                    </a>
+                </div>
+
+                <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
+                    <a href="ranking.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-trophy"></i> Ver Ranking
+                    </a>
+                </div>
+
+                <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
+                    <a href="../../profesionales.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3;">
+                        <i class="fa-solid fa-user-doctor"></i> Volver a Profesionales
+                    </a>
+                    <a href="../../index.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3; margin-top:10px;">
+                        <i class="fa-solid fa-house"></i> Volver al Inicio
+                    </a>
+                </div>
+
+            </nav>
+        </aside>
+
+        <!-- CONTENIDO PRINCIPAL -->
+        <main class="main-content">
+            
+            <h2>Catálogo de Juegos</h2>
+            <p class="main-intro">
+                Selecciona una actividad para entrenar tus competencias en seguridad.
+            </p>
+
+            <section class="module-grid">
+                
+                <!-- Tarjeta 1: RIESGOS -->
+                <article class="module-card" onclick="location.href='riesgos/riesgos.html';" style="cursor:pointer;">
+                    <h3><i class="fa-solid fa-triangle-exclamation"></i> Identificación de Riesgos</h3>
+                    <p>Entorno interactivo. Encuentra los fallos de seguridad latentes en la consulta o habitación.</p>
+                </article>
+
+                <!-- Tarjeta 2: TEST QUIZ -->
+                <article class="module-card" onclick="location.href='test/test.html';" style="cursor:pointer;">
+                    <h3><i class="fa-solid fa-list-check"></i> Test de Conocimientos</h3>
+                    <p>Desafío de preguntas rápidas con dos niveles de dificultad (Básico y Avanzado).</p>
+                </article>
+
+                <!-- Tarjeta 3: ANAGRAMAS (ACTIVADO) -->
+                <article class="module-card" onclick="location.href='anagramas/anagramas.html';" style="cursor:pointer;">
+                    <h3><i class="fa-solid fa-shuffle"></i> Anagramas Sanitarios</h3>
+                    <p>Ordena las letras para descubrir conceptos de seguridad. ¿Aceptas el reto?</p>
+                </article>
+
+                <!-- Tarjeta 4: SOPA DE LETRAS (NUEVO) -->
+                <article class="module-card" onclick="location.href='sopa/sopa.html';" style="cursor:pointer;">
+                    <h3><i class="fa-solid fa-table-cells"></i> Sopa de Letras</h3>
+                    <p>Busca y encuentra la terminología clave en el tablero. Niveles 10x10 y 15x15.</p>
+                </article>
+
+            </section>
+            
+            <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+            
+        </main>
+    </div>
+
+    
+
+    <script src="../../js/sidebar.js"></script>
+</body>
+</html>

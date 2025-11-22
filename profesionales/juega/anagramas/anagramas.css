@@ -1,0 +1,279 @@
+/* ==========================================
+   ESTILOS ANAGRAMAS (Identidad Corporativa)
+   ========================================== */
+
+/* Panel Principal */
+.mt-panel {
+    width: min(800px, 100%);
+    margin: 0 auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 16px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* --- 1. SELECTOR DE NIVEL (Menú Inicio) --- */
+.level-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.btn-level {
+    background: #fff;
+    border: 2px solid #F2C273;
+    border-radius: 12px;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-level strong {
+    font-size: 1.1rem;
+}
+
+.btn-level small {
+    font-size: 0.95rem;
+}
+
+.btn-level:hover {
+    background: #FFECC1;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(245, 166, 35, 0.2);
+}
+
+.lvl-badge {
+    background: #86efac;
+    color: #14532d;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.lvl-badge.adv {
+    background: #fca5a5;
+    color: #7f1d1d;
+}
+
+/* --- HUD --- */
+.kpi {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.kpi .box {
+    background: #fafafa;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 8px 12px;
+    text-align: center;
+    min-width: 80px;
+}
+
+.kpi .muted {
+    font-size: 0.75rem;
+    color: #888;
+    text-transform: uppercase;
+}
+
+.kpi .value {
+    font-size: 1.3rem;
+    font-weight: 800;
+    color: #333;
+}
+
+/* --- ÁREA DE JUEGO --- */
+.game-area {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Zona de Pista */
+.clue-section {
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.btn-hint {
+    background: #fff;
+    border: 2px dashed #F5A623;
+    color: #8A5B00;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-hint:hover {
+    background: #fffbeb;
+    transform: scale(1.05);
+}
+
+.clue-text {
+    font-style: italic;
+    color: #666;
+    font-size: 1.1rem;
+    animation: fadeIn 0.3s;
+}
+
+/* Fichas */
+.tiles-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 2rem;
+    min-height: 60px;
+}
+
+.letter-tile {
+    width: 50px;
+    height: 50px;
+    background: white;
+    border: 2px solid #F2C273;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #333;
+    cursor: pointer;
+    box-shadow: 0 4px 0 #d68b1a;
+    transition: transform 0.1s, box-shadow 0.1s;
+    user-select: none;
+}
+
+.letter-tile:active {
+    transform: translateY(4px);
+    box-shadow: 0 0 0 #d68b1a;
+}
+
+/* Zona respuesta */
+.answer-zone {
+    background: rgba(0, 0, 0, 0.03);
+    border-radius: 12px;
+    padding: 10px;
+    min-width: 200px;
+    border: 2px dashed #ccc;
+    margin-bottom: 20px;
+}
+
+/* Botón Saltar */
+.btn-skip {
+    background: none;
+    border: 1px solid #ccc;
+    color: #666;
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+}
+
+.btn-skip:hover {
+    background: #eee;
+    color: #333;
+}
+
+/* Feedback Overlay */
+.feedback-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    animation: fadeIn 0.2s;
+}
+
+/* Resumen Final */
+.review-list {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+
+.review-item {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+    font-size: 0.9rem;
+}
+
+.btn-action {
+    background: #F5A623;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(245, 166, 35, 0.2);
+}
+
+.btn-action:hover {
+    background: #d68b1a;
+    transform: translateY(-2px);
+}
+
+.player-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}

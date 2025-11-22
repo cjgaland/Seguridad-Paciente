@@ -1,0 +1,212 @@
+/* ==========================================
+   ESTILOS: ESCALA DOWNTON
+   ========================================== */
+
+.calc-container {
+    max-width: 1000px;
+    margin: 20px auto 100px;
+}
+
+/* --- GRID --- */
+.items-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.calc-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: box-shadow 0.2s;
+}
+.calc-card:hover { box-shadow: 0 5px 15px rgba(0,0,0,0.05); }
+
+.card-header {
+    background: #fff7ed; /* Naranja muy suave */
+    padding: 15px;
+    border-bottom: 1px solid #fed7aa;
+    font-weight: 700;
+    color: #9a3412;
+    display: flex; align-items: center; gap: 10px;
+}
+.card-header i { color: #ea580c; }
+
+/* BOTONES OPCIONES */
+.card-options {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.opt-btn {
+    background: white;
+    border: 1px solid #f1f5f9;
+    padding: 12px 15px;
+    text-align: left;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #555;
+    font-size: 0.95rem;
+    transition: all 0.2s;
+    display: flex; align-items: center; justify-content: space-between;
+}
+
+.opt-btn:hover { background: #fff7ed; color: #ea580c; }
+
+/* SELECCIONADO */
+.opt-btn.selected {
+    background: #ea580c;
+    color: white;
+    border-color: #c2410c;
+    font-weight: 600;
+    box-shadow: 0 2px 5px rgba(234, 88, 12, 0.2);
+}
+
+/* Check visual para multiselección */
+.opt-btn.multi::after {
+    content: '\f0c8'; /* Cuadrado vacío */
+    font-family: "Font Awesome 6 Free";
+    font-weight: 400;
+    opacity: 0.5;
+}
+.opt-btn.multi.selected::after {
+    content: '\f14a'; /* Checkbox marcado */
+    font-weight: 900;
+    opacity: 1;
+}
+
+/* --- PANEL STICKY (RESULTADOS) --- */
+.result-panel {
+    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    width: 90%; max-width: 850px; /* Un poco más ancho */
+    background: white; 
+    padding: 15px 25px; 
+    border-radius: 50px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    border: 1px solid #e5e7eb; 
+    z-index: 100;
+    gap: 20px; /* Separación general entre bloques */
+}
+
+.score-display {
+    display: flex; flex-direction: column; align-items: center;
+    border-right: 1px solid #eee; padding-right: 20px;
+    min-width: 80px;
+}
+.score-label { font-size: 0.75rem; color: #888; font-weight: 600; }
+.score-value { font-size: 1.8rem; font-weight: 800; color: #333; }
+
+.risk-display { flex: 1; padding-left: 10px; }
+.risk-text { margin: 0; font-size: 1.2rem; color: #999; line-height: 1.2; }
+.risk-text.alto { color: #dc2626; }
+.risk-text.bajo { color: #16a34a; }
+
+/* --- CORRECCIÓN DE BOTONES --- */
+.action-display { 
+    display: flex; 
+    align-items: center; 
+    gap: 20px; /* Separación forzada de 20px */
+    flex-shrink: 0; /* Evita que se aplasten si hay poco sitio */
+}
+
+.btn-info {
+    background: #333; color: white; border: none; padding: 12px 20px;
+    border-radius: 30px; cursor: pointer; font-weight: 600;
+    display: flex; align-items: center; gap: 8px;
+    white-space: nowrap; /* Evita que el texto salte de línea */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.btn-info:hover { transform: translateY(-2px); background: #111; }
+
+.btn-reset {
+    width: 45px; height: 45px; /* Botón un poco más grande */
+    border-radius: 50%; border: 1px solid #ccc;
+    background: #fff; cursor: pointer; 
+    display: flex; align-items: center; justify-content: center;
+    color: #555; font-size: 1.1rem;
+    transition: all 0.2s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.btn-reset:hover { background: #f3f4f6; color: #dc2626; border-color: #dc2626; transform: rotate(90deg); }
+
+/* --- MODAL --- */
+.modal {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.5); z-index: 200;
+    display: flex; align-items: center; justify-content: center;
+    opacity: 0; pointer-events: none; transition: opacity 0.3s;
+}
+.modal:not(.hidden) { opacity: 1; pointer-events: all; }
+
+.modal-content {
+    background: white; width: 90%; max-width: 600px; border-radius: 16px;
+    overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.2);
+}
+.modal-header {
+    background: #fff7ed; padding: 15px 20px; display: flex; justify-content: space-between;
+    align-items: center; border-bottom: 1px solid #fed7aa;
+}
+.modal-header h3 { margin: 0; color: #9a3412; }
+.close-btn { border: none; background: none; font-size: 1.2rem; cursor: pointer; color: #666; }
+.modal-body { padding: 25px; line-height: 1.6; color: #444; }
+.modal-body ul { padding-left: 20px; margin-top: 10px; }
+.modal-body li { margin-bottom: 8px; }
+
+/* ==========================================
+   RESPONSIVE (MÓVILES Y TABLETS)
+   ========================================== */
+@media (max-width: 700px) {
+    
+    /* 1. Aumentamos el margen inferior para que el panel sticky (más alto) no tape la última tarjeta */
+    .calc-container {
+        margin-bottom: 280px; 
+    }
+
+    /* 2. Transformamos el panel horizontal en vertical */
+    .result-panel { 
+        flex-direction: column; 
+        border-radius: 20px; 
+        gap: 15px; 
+        bottom: 15px; 
+        padding: 20px;
+        text-align: center;
+        width: 85%; /* Un poco de margen lateral */
+    }
+    
+    .score-display { 
+        border-right: none; 
+        border-bottom: 1px solid #eee; 
+        padding: 0 0 15px 0; 
+        width: 100%; 
+    }
+    
+    .risk-display { 
+        padding: 0; 
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    
+    /* 3. Ajuste de botones para que quepan bien */
+    .action-display { 
+        width: 100%; 
+        justify-content: center; 
+        gap: 15px;
+    }
+    
+    /* El botón de info se estira para ser fácil de pulsar */
+    .btn-info { 
+        flex: 1; /* Ocupa el espacio disponible */
+        justify-content: center; 
+    }
+    
+    /* El botón de reset mantiene su forma redonda */
+    .btn-reset {
+        flex-shrink: 0; /* No te encojas */
+    }
+}

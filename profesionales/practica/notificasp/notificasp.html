@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador NotificaSP · Práctica</title>
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="notificasp.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-bullhorn" style="color:#3b82f6;"></i> Simulador de Notificación</h2>
+            <a href="../practica.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Salir</a>
+        </div>
+
+        <div class="sim-container">
+            
+            <div class="sim-context">
+                <div class="case-selector-box">
+                    <label for="case-select"><i class="fa-solid fa-list"></i> Caso de Entrenamiento:</label>
+                    <select id="case-select" class="case-dropdown"></select>
+                </div>
+
+                <div class="context-card">
+                    <h3><i class="fa-solid fa-clipboard-question"></i> El Incidente</h3>
+                    <p id="case-title-display" style="font-weight:bold; color:#3b82f6; margin-bottom:10px;">...</p>
+                    <blockquote class="scenario-text" id="case-description-display">Cargando...</blockquote>
+                </div>
+
+                <div class="severity-legend">
+                    <h4><i class="fa-solid fa-palette"></i> Clasificación del Daño</h4>
+                    <div class="legend-item l-cuasi"><strong>Cuasi-Incidente:</strong> No llegó al paciente.</div>
+                    <div class="legend-item l-leve"><strong>Incidente Leve:</strong> Sin daño.</div>
+                    <div class="legend-item l-adverso"><strong>Evento Adverso:</strong> Daño leve/mod.</div>
+                    <div class="legend-item l-centinela"><strong>Evento Centinela:</strong> Severo/Muerte.</div>
+                </div>
+                
+                <div class="tips-box">
+                    <h4><i class="fa-solid fa-lightbulb"></i> Pistas Rápidas</h4>
+                    <ul>
+                        <li>Lee bien si el error <strong>llegó</strong> al paciente.</li>
+                        <li>Identifica la <strong>causa principal</strong>.</li>
+                        <li>Considera los <strong>factores contibuyentes</strong>.</li>
+                        <li>Investiga sobre la <strong>frecuencia</strong> del suceso.</li>
+                        <li>Mantén el anonimato en la descripción.</li>
+                    </ul>
+                    
+                    <div class="form-group" style="margin-top:20px;">
+                        <label>Descripción del Suceso</label>
+                        <textarea id="descripcion" rows="9" placeholder="Describe los hechos..."></textarea>
+                        <div class="feedback-msg" id="msg-desc"></div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+
+            <div class="sim-form-wrapper">
+                <div class="form-header">
+                    <i class="fa-solid fa-file-medical"></i> <span>Formulario de Análisis</span>
+                </div>
+
+                <form id="notifica-form" class="sim-form">
+                    
+                    <div class="form-row">
+                        <div class="form-group half">
+                            <label>Fecha del suceso</label>
+                            <input type="datetime-local" id="fecha">
+                        </div>
+                        <div class="form-group half">
+                            <label>Tipo de Incidente</label>
+                            <select id="tipo">
+                                <option value="">-- Selecciona --</option>
+                                <option value="caida">Caída</option>
+                                <option value="medicacion">Medicación</option>
+                                <option value="identificacion">Identificación</option>
+                                <option value="pruebas">Pruebas/Diagnóstico</option>
+                                <option value="equipamiento">Equipamiento</option>
+                                <option value="cuidados">Cuidados/Comunicación</option>
+                            </select>
+                            <div class="feedback-msg" id="msg-tipo"></div>
+                        </div>
+                    </div>
+
+                    <hr class="form-divider">
+
+                    <div class="form-group">
+                        <label>Clasificación de Gravedad (Daño)</label>
+                        <div class="radio-grid">
+                            <label class="radio-card l-cuasi">
+                                <input type="radio" name="impacto" value="cuasi">
+                                <span class="card-content"><strong>Cuasi</strong><span>No llegó</span></span>
+                            </label>
+                            <label class="radio-card l-leve">
+                                <input type="radio" name="impacto" value="leve">
+                                <span class="card-content"><strong>Leve</strong><span>Sin daño</span></span>
+                            </label>
+                            <label class="radio-card l-adverso">
+                                <input type="radio" name="impacto" value="adverso">
+                                <span class="card-content"><strong>Adverso</strong><span>Con daño</span></span>
+                            </label>
+                            <label class="radio-card l-centinela">
+                                <input type="radio" name="impacto" value="centinela">
+                                <span class="card-content"><strong>Centinela</strong><span>Grave</span></span>
+                            </label>
+                        </div>
+                        <div class="feedback-msg" id="msg-impacto"></div>
+                    </div>
+
+                    <hr class="form-divider">
+
+                    <div class="form-group">
+                        <label>Factores Contribuyentes</label>
+                        <div class="factors-grid">
+                            <label class="check-factor"><input type="checkbox" value="paciente"> Paciente</label>
+                            <label class="check-factor"><input type="checkbox" value="profesional"> Profesional</label>
+                            <label class="check-factor"><input type="checkbox" value="tarea"> Tarea</label>
+                            <label class="check-factor"><input type="checkbox" value="comunicacion"> Comunicación</label>
+                            <label class="check-factor"><input type="checkbox" value="equipo"> Equipo</label>
+                            <label class="check-factor"><input type="checkbox" value="entorno"> Entorno</label>
+                            <label class="check-factor"><input type="checkbox" value="organizacion"> Organización</label>
+                            <label class="check-factor"><input type="checkbox" value="tecnologia"> Tecnología</label>
+                        </div>
+                    </div>
+
+                    <div class="risk-matrix-box">
+                        <div class="matrix-header"><i class="fa-solid fa-chart-area"></i> Estimación del Nivel de Riesgo</div>
+                        <div class="matrix-body">
+                            <div class="matrix-inputs">
+                                <div class="matrix-input-group">
+                                    <label>Gravedad (Seleccionada arriba)</label>
+                                    <div id="gravity-display" class="matrix-value-display" style="color:#94a3b8;">--</div>
+                                </div>
+                                <div class="matrix-input-group">
+                                    <label>Frecuencia de aparición</label>
+                                    <select id="frecuencia">
+                                        <option value="">-- Selecciona --</option>
+                                        <option value="rara">Rara (Años)</option>
+                                        <option value="ocasional">Ocasional (Meses)</option>
+                                        <option value="frecuente">Frecuente (Semanas)</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="risk-result" id="risk-result-badge">
+                                <span id="risk-label">--</span>
+                                <small id="risk-action">Calculando...</small>
+                            </div>
+                        </div>
+                        <div class="feedback-msg" id="msg-riesgo"></div>
+                    </div>
+
+                    <button type="submit" class="btn-submit"><i class="fa-regular fa-paper-plane"></i> Enviar Análisis</button>
+                </form>
+
+                <div id="final-message" class="final-message hidden">
+                    <div class="final-content">
+                        <i class="fa-solid fa-award success-icon"></i>
+                        <h3>¡Caso Resuelto!</h3>
+                        <p>Has completado el análisis correctamente.</p>
+                        <p class="learning-point">...</p>
+                        
+                        <div class="final-actions">
+                            <button onclick="location.href='../practica.html'" class="btn-secondary">
+                                <i class="fa-solid fa-bars"></i> Menú Práctica
+                            </button>
+                            <button onclick="location.reload()" class="btn-primary">
+                                Siguiente Caso <i class="fa-solid fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </main>
+
+    <footer class="sp-footer">Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias</footer>
+    <script type="module" src="notificasp.js"></script>
+</body>
+</html>

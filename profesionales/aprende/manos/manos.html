@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manos Limpias · Aprende</title>
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <!-- Estilos Globales -->
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="manos.css">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-hands-bubbles" style="color:#3b82f6;"></i> Higiene de Manos</h2>
+            <a href="../aprende.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Volver a Aprende
+            </a>
+        </div>
+
+        <p class="main-intro">
+            La higiene de manos es la medida más sencilla y eficaz para reducir las infecciones relacionadas con la asistencia sanitaria. 
+            Explora los <strong>5 Momentos de la OMS</strong> pasando el ratón por los iconos.
+        </p>
+
+        <!-- CONTENEDOR INTERACTIVO -->
+        <div class="interactive-container">
+            
+            <!-- GRÁFICO CENTRAL (Mano) -->
+            <div class="hand-graphic patient-mode">
+                <img src="../../../assets/images/graphics/5-momentos-paciente.png" 
+                     alt="Diagrama 5 Momentos OMS" 
+                     class="patient-img">
+                
+                <button class="moment-btn m1" data-id="1" aria-label="Momento 1">
+                    <span class="num">1</span>
+                    <!-- <span class="label">Antes del contacto</span> -->
+                </button>
+
+                <button class="moment-btn m2" data-id="2" aria-label="Momento 2">
+                    <span class="num">2</span>
+                    <!-- <span class="label">Antes de técnica</span> -->
+                </button>
+
+                <button class="moment-btn m3" data-id="3" aria-label="Momento 3"> 
+                    <span class="num">3</span>
+                    <!-- <span class="label">Tras fluido</span> -->
+                </button>
+
+                <button class="moment-btn m4" data-id="4" aria-label="Momento 4">
+                    <span class="num">4</span>
+                    <!-- <span class="label">Tras contacto</span> -->
+                </button>
+
+                <button class="moment-btn m5" data-id="5" aria-label="Momento 5">
+                    <span class="num">5</span>
+                    <!-- <span class="label">Tras entorno</span> -->
+                </button>
+            </div>
+
+            <!-- PANEL DE INFORMACIÓN (Dinámico) -->
+            <div class="info-panel" id="info-panel">
+                <div class="info-placeholder">
+                    <i class="fa-regular fa-hand-pointer"></i>
+                    <p>Selecciona un momento para ver los detalles.</p>
+                </div>
+                
+                <div class="info-content hidden" id="info-content">
+                    <div class="info-header">
+                        <div class="info-num" id="info-num">1</div>
+                        <h3 id="info-title">Título del Momento</h3>
+                    </div>
+                    <div class="info-body">
+                        <div class="info-section">
+                            <h4><i class="fa-regular fa-clock"></i> ¿CUÁNDO?</h4>
+                            <p id="info-when">...</p>
+                        </div>
+                        <div class="info-section">
+                            <h4><i class="fa-solid fa-shield-virus"></i> ¿POR QUÉ?</h4>
+                            <p id="info-why">...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- RECURSO ADICIONAL: Fricción vs Lavado -->
+        <div class="extra-resource">
+            <h3>¿Fricción o Lavado?</h3>
+            <div class="comparison-grid">
+                <div class="method-card rub">
+                    <i class="fa-solid fa-pump-soap"></i>
+                    <h4>Fricción Alcohólica</h4>
+                    <p>Es la <strong>elección preferente</strong>. Más rápida, más eficaz y mejor tolerada.</p>
+                    <small>Usar siempre que las manos NO estén visiblemente sucias.</small>
+                </div>
+                <div class="method-card wash">
+                    <i class="fa-solid fa-faucet-drip"></i>
+                    <h4>Lavado con Agua y Jabón</h4>
+                    <p>Solo cuando las manos están <strong>visiblemente sucias</strong> o manchadas de fluidos.</p>
+                    <small>También tras ir al baño o ante sospecha de esporas (C. difficile).</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="technique-section">
+            <div class="tech-header">
+                <h3>Técnica de Lavado con Agua y Jabón</h3>
+                <span class="duration-badge"><i class="fa-regular fa-clock"></i> 40-60 segundos</span>
+            </div>
+            
+            <p class="tech-intro">Seguir paso a paso para una desinfección eficaz:</p>
+
+            <div class="tech-grid">
+                <div class="tech-step">
+                    <div class="step-num">0</div>
+                    <div class="step-icon"><i class="fa-solid fa-faucet-drip"></i></div>
+                    <p>Mójese las manos con agua.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">1</div>
+                    <div class="step-icon"><i class="fa-solid fa-pump-soap"></i></div>
+                    <p>Deposite en la palma jabón suficiente para cubrir todas las superficies.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">2</div>
+                    <div class="step-icon"><i class="fa-solid fa-hands"></i></div>
+                    <p>Frótese las palmas de las manos entre sí.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">3</div>
+                    <div class="step-icon"><i class="fa-solid fa-hand-back-fist"></i></div>
+                    <p>Frótese la palma derecha contra el dorso de la izquierda entrelazando los dedos y viceversa.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">4</div>
+                    <div class="step-icon"><i class="fa-solid fa-hands-bound"></i></div>
+                    <p>Frótese las palmas entre sí, con los dedos entrelazados.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">5</div>
+                    <div class="step-icon"><i class="fa-solid fa-hand-fist"></i></div>
+                    <p>Frótese el dorso de los dedos con la palma opuesta, agarrándose los dedos.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">6</div>
+                    <div class="step-icon"><i class="fa-regular fa-thumbs-up"></i></div>
+                    <p>Frótese con movimiento de rotación el pulgar atrapándolo con la palma opuesta.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">7</div>
+                    <div class="step-icon"><i class="fa-solid fa-hand-sparkles"></i></div>
+                    <p>Frótese la punta de los dedos contra la palma opuesta con movimiento de rotación.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">8</div>
+                    <div class="step-icon"><i class="fa-solid fa-water"></i></div>
+                    <p>Enjuáguese las manos con agua.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">9</div>
+                    <div class="step-icon"><i class="fa-solid fa-scroll"></i></div>
+                    <p>Séquese con una toalla desechable.</p>
+                </div>
+
+                <div class="tech-step">
+                    <div class="step-num">10</div>
+                    <div class="step-icon"><i class="fa-solid fa-ban"></i></div>
+                    <p>Sírvase de la toalla para cerrar el grifo.</p>
+                </div>
+
+                <div class="tech-step finish">
+                    <div class="step-num"><i class="fa-solid fa-check"></i></div>
+                    <div class="step-icon"><i class="fa-solid fa-hands-holding-circle"></i></div>
+                    <p>Sus manos son seguras.</p>
+                </div>
+            </div>
+        </div>
+        
+        
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="manos.js"></script>
+</body>
+</html>

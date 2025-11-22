@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Braden · Práctica</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../../css/style.css">
+    <link rel="stylesheet" href="braden.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-calculator" style="color:#9333ea;"></i> Escala Braden (Riesgo UPP)</h2>
+            <a href="../calculadoras.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Salir
+            </a>
+        </div>
+
+        <div class="calc-container">
+            
+            <div class="items-grid">
+                
+                <div class="calc-card" id="card-sensorial">
+                    <div class="card-header">
+                        <i class="fa-solid fa-brain"></i> 1. Percepción Sensorial
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-cat="sensorial" data-val="1">1. Completamente limitada</button>
+                        <button class="opt-btn" data-cat="sensorial" data-val="2">2. Muy limitada</button>
+                        <button class="opt-btn" data-cat="sensorial" data-val="3">3. Ligeramente limitada</button>
+                        <button class="opt-btn" data-cat="sensorial" data-val="4">4. Sin limitaciones</button>
+                    </div>
+                </div>
+
+                <div class="calc-card" id="card-humedad">
+                    <div class="card-header">
+                        <i class="fa-solid fa-droplet"></i> 2. Exposición a la Humedad
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-cat="humedad" data-val="1">1. Constantemente húmeda</button>
+                        <button class="opt-btn" data-cat="humedad" data-val="2">2. A menudo húmeda</button>
+                        <button class="opt-btn" data-cat="humedad" data-val="3">3. Ocasionalmente húmeda</button>
+                        <button class="opt-btn" data-cat="humedad" data-val="4">4. Raramente húmeda</button>
+                    </div>
+                </div>
+
+                <div class="calc-card" id="card-actividad">
+                    <div class="card-header">
+                        <i class="fa-solid fa-bed"></i> 3. Actividad
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-cat="actividad" data-val="1">1. Encamado</button>
+                        <button class="opt-btn" data-cat="actividad" data-val="2">2. En silla</button>
+                        <button class="opt-btn" data-cat="actividad" data-val="3">3. Deambula ocasionalmente</button>
+                        <button class="opt-btn" data-cat="actividad" data-val="4">4. Deambula frecuentemente</button>
+                    </div>
+                </div>
+
+                <div class="calc-card" id="card-movilidad">
+                    <div class="card-header">
+                        <i class="fa-solid fa-person-walking"></i> 4. Movilidad
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-cat="movilidad" data-val="1">1. Completamente inmóvil</button>
+                        <button class="opt-btn" data-cat="movilidad" data-val="2">2. Muy limitada</button>
+                        <button class="opt-btn" data-cat="movilidad" data-val="3">3. Ligeramente limitada</button>
+                        <button class="opt-btn" data-cat="movilidad" data-val="4">4. Sin limitaciones</button>
+                    </div>
+                </div>
+
+                <div class="calc-card" id="card-nutricion">
+                    <div class="card-header">
+                        <i class="fa-solid fa-utensils"></i> 5. Nutrición
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-cat="nutricion" data-val="1">1. Muy pobre</button>
+                        <button class="opt-btn" data-cat="nutricion" data-val="2">2. Probablemente inadecuada</button>
+                        <button class="opt-btn" data-cat="nutricion" data-val="3">3. Adecuada</button>
+                        <button class="opt-btn" data-cat="nutricion" data-val="4">4. Excelente</button>
+                    </div>
+                </div>
+
+                <div class="calc-card" id="card-roce">
+                    <div class="card-header">
+                        <i class="fa-solid fa-sheet-plastic"></i> 6. Roce y Peligro de Lesiones
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-cat="roce" data-val="1">1. Problema</button>
+                        <button class="opt-btn" data-cat="roce" data-val="2">2. Problema potencial</button>
+                        <button class="opt-btn" data-cat="roce" data-val="3">3. No existe problema aparente</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="result-panel">
+                <div class="score-display">
+                    <span class="score-label">PUNTUACIÓN</span>
+                    <span class="score-value" id="total-score">0</span>
+                </div>
+                
+                <div class="risk-display">
+                    <span class="risk-label">Nivel de Riesgo:</span>
+                    <h3 id="risk-text" class="risk-text">--</h3>
+                </div>
+
+                <div class="action-display">
+                    <button id="btn-info" class="btn-info" onclick="toggleInfo()">
+                        <i class="fa-solid fa-circle-info"></i> Ver Recomendaciones
+                    </button>
+                    <button onclick="location.reload()" class="btn-reset" title="Reiniciar">
+                        <i class="fa-solid fa-rotate-right"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div id="recommendations-modal" class="modal hidden">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 id="modal-title">Medidas Preventivas</h3>
+                        <button class="close-btn" onclick="toggleInfo()"><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                    <div class="modal-body" id="modal-body">
+                        <p>Selecciona todos los parámetros para ver las recomendaciones específicas.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="braden.js"></script>
+</body>
+</html>

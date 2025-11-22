@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados · Cultura de Seguridad</title>
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="resultados.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-chart-pie" style="color:#3b82f6;"></i> Resultados: Termómetro de Seguridad</h2>
+            <div class="actions">
+                <button onclick="location.reload()" class="btn-refresh"><i class="fa-solid fa-rotate-right"></i> Actualizar</button>
+                <a href="autotest.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Volver al Test</a>
+            </div>
+        </div>
+
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-icon"><i class="fa-solid fa-users"></i></div>
+                <div class="kpi-data">
+                    <span class="kpi-value" id="total-responses">0</span>
+                    <span class="kpi-label">Participantes</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon"><i class="fa-solid fa-star"></i></div>
+                <div class="kpi-data">
+                    <span class="kpi-value" id="global-score">0.0</span>
+                    <span class="kpi-label">Puntuación Global (1-5)</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon"><i class="fa-solid fa-bullhorn"></i></div>
+                <div class="kpi-data">
+                    <span class="kpi-value" id="notifica-score">0.0</span>
+                    <span class="kpi-label">Uso NotificaSP</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="charts-container">
+            
+            <div class="chart-card">
+                <h3><i class="fa-solid fa-user-nurse"></i> Participación por Perfil</h3>
+                <div class="chart-box">
+                    <canvas id="chart-perfil"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <h3><i class="fa-solid fa-chart-bar"></i> Clima de Seguridad por Dimensiones</h3>
+                <div class="chart-box">
+                    <canvas id="chart-dimensiones"></canvas>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script type="module" src="resultados.js"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checklist Quirúrgico · Práctica</title>
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="checklist.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-list-check" style="color:#16a34a;"></i> Lista de Verificación Quirúrgica</h2>
+            <a href="../practica.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Salir
+            </a>
+        </div>
+
+        <div class="steps-container">
+            <div class="step active" id="step-1">
+                <div class="step-circle">1</div>
+                <div class="step-label">Entrada</div>
+            </div>
+            <div class="step-line"></div>
+            <div class="step" id="step-2">
+                <div class="step-circle">2</div>
+                <div class="step-label">Pausa Qx</div>
+            </div>
+            <div class="step-line"></div>
+            <div class="step" id="step-3">
+                <div class="step-circle">3</div>
+                <div class="step-label">Salida</div>
+            </div>
+        </div>
+
+        <div class="checklist-card">
+            
+            <div class="phase-header">
+                <h3 id="phase-title">Fase 1: Entrada</h3>
+                <p id="phase-desc">Antes de la inducción de anestesia</p>
+            </div>
+
+            <div class="items-list" id="items-container">
+                </div>
+
+            <div id="error-msg" class="feedback-msg error hidden">
+                <i class="fa-solid fa-circle-exclamation"></i> Debes completar todos los puntos críticos.
+            </div>
+
+            <div class="action-bar">
+                <button id="btn-next" class="btn-action">Confirmar y Avanzar <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+
+        </div>
+
+        <div id="final-screen" class="final-screen hidden">
+            <div class="final-content">
+                <i class="fa-solid fa-clipboard-check success-icon"></i>
+                <h3>¡Cirugía Segura!</h3>
+                <p>Has completado correctamente las 3 fases de seguridad de la OMS.</p>
+                
+                <div class="final-actions">
+                    <button onclick="location.href='../practica.html'" class="btn-secondary">
+                        <i class="fa-solid fa-bars"></i> Menú
+                    </button>
+                    <button onclick="location.reload()" class="btn-restart">
+                        Repetir <i class="fa-solid fa-rotate-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="checklist.js"></script>
+</body>
+</html>

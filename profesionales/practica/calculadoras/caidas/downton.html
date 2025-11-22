@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escala Downton · Práctica</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../../css/style.css">
+    <link rel="stylesheet" href="downton.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-person-falling" style="color:#ea580c;"></i> Escala J.H. Downton (Riesgo Caídas)</h2>
+            <a href="../calculadoras.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Salir
+            </a>
+        </div>
+
+        <div class="calc-container">
+            
+            <div class="items-grid">
+                
+                <div class="calc-card single-select" id="card-caidas">
+                    <div class="card-header">
+                        <i class="fa-solid fa-clock-rotate-left"></i> 1. Caídas Previas
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-val="0">No</button>
+                        <button class="opt-btn" data-val="1">Sí</button>
+                    </div>
+                </div>
+
+                <div class="calc-card multi-select" id="card-meds">
+                    <div class="card-header">
+                        <i class="fa-solid fa-pills"></i> 2. Medicamentos (Selecciona todos)
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn multi" data-val="0">Ninguno</button>
+                        <button class="opt-btn multi risk" data-val="1">Tranquilizantes / Sedantes</button>
+                        <button class="opt-btn multi risk" data-val="1">Diuréticos</button>
+                        <button class="opt-btn multi risk" data-val="1">Hipotensores (No Diuréticos)</button>
+                        <button class="opt-btn multi risk" data-val="1">Antiparkinsonianos</button>
+                        <button class="opt-btn multi risk" data-val="1">Antidepresivos</button>
+                    </div>
+                </div>
+
+                <div class="calc-card multi-select" id="card-deficit">
+                    <div class="card-header">
+                        <i class="fa-solid fa-eye-low-vision"></i> 3. Déficits Sensoriales
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn multi" data-val="0">Ninguno</button>
+                        <button class="opt-btn multi risk" data-val="1">Alteraciones Visuales</button>
+                        <button class="opt-btn multi risk" data-val="1">Alteraciones Auditivas</button>
+                        <button class="opt-btn multi risk" data-val="1">Extremidades (Ictus...)</button>
+                    </div>
+                </div>
+
+                <div class="calc-card single-select" id="card-mental">
+                    <div class="card-header">
+                        <i class="fa-solid fa-brain"></i> 4. Estado Mental
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-val="0">Orientado</button>
+                        <button class="opt-btn" data-val="1">Confuso / Desorientado</button>
+                    </div>
+                </div>
+
+                <div class="calc-card single-select" id="card-deambulacion">
+                    <div class="card-header">
+                        <i class="fa-solid fa-person-walking"></i> 5. Deambulación
+                    </div>
+                    <div class="card-options">
+                        <button class="opt-btn" data-val="0">Normal</button>
+                        <button class="opt-btn" data-val="0">Segura con ayuda</button>
+                        <button class="opt-btn" data-val="1">Insegura (con/sin ayuda)</button>
+                        <button class="opt-btn" data-val="0">Imposible</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="result-panel">
+                <div class="score-display">
+                    <span class="score-label">PUNTOS</span>
+                    <span class="score-value" id="total-score">0</span>
+                </div>
+                
+                <div class="risk-display">
+                    <span class="risk-label">Interpretación:</span>
+                    <h3 id="risk-text" class="risk-text">--</h3>
+                </div>
+
+                <div class="action-display">
+                    <button id="btn-info" class="btn-info" onclick="toggleInfo()">
+                        <i class="fa-solid fa-clipboard-list"></i> Medidas
+                    </button>
+                    <button onclick="location.reload()" class="btn-reset" title="Reiniciar">
+                        <i class="fa-solid fa-rotate-right"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div id="recommendations-modal" class="modal hidden">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 id="modal-title">Protocolo de Prevención</h3>
+                        <button class="close-btn" onclick="toggleInfo()"><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                    <div class="modal-body" id="modal-body">
+                        <p>Realiza la valoración para ver las medidas.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="downton.js"></script>
+</body>
+</html>

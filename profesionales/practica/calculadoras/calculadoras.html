@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadoras Clínicas · Práctica</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="../../../css/sidebar.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        /* Estilos locales para el Grid de Calculadoras */
+        .calc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .calc-card {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .calc-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-color: #9333ea;
+        }
+
+        .calc-icon {
+            width: 60px; height: 60px;
+            background: #fdf4ff;
+            color: #9333ea;
+            border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.8rem; margin-bottom: 20px;
+        }
+
+        .calc-card h3 { margin: 0 0 10px 0; font-size: 1.2rem; color: #333; }
+        .calc-card p { margin: 0 0 20px 0; color: #666; font-size: 0.95rem; line-height: 1.5; flex: 1; }
+
+        .btn-calc {
+            color: #9333ea;
+            font-weight: 600;
+            text-decoration: none;
+            display: flex; align-items: center; gap: 5px;
+        }
+        .calc-card:hover .btn-calc { gap: 10px; }
+    </style>
+</head>
+<body>
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+        
+        <div class="sp-header-left">
+            <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        </div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right">
+            <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        </div>
+    </header>
+
+    <div class="sp-layout">
+        
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-calculator"></i>
+                <span>Calculadoras</span>
+            </div>
+            <nav class="sidebar-nav">
+                
+                <div class="sidebar-group">
+                    <div style="padding: 0 10px 5px; font-size:0.85rem; color:#8A5B00; font-weight:bold; text-transform:uppercase;">
+                        Disponibles
+                    </div>
+                    
+                    <a href="braden/braden.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-bed"></i> Escala Braden
+                    </a>
+
+                    <a href="caidas/downton.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-person-falling"></i> Escala Downton
+                    </a>
+                </div>
+
+                <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
+                    <a href="../practica.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3;">
+                        <i class="fa-solid fa-arrow-left"></i> Volver a Práctica
+                    </a>
+                    <a href="../../../profesionales.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3; margin-top:10px;">
+                        <i class="fa-solid fa-user-doctor"></i> Volver a Profesionales
+                    </a>
+                    <a href="../../../index.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3; margin-top:10px;">
+                        <i class="fa-solid fa-house"></i> Volver al Inicio
+                    </a>
+                </div>
+
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            
+            <div class="top-bar">
+                <h2>Herramientas de Valoración</h2>
+            </div>
+            
+            <p class="main-intro">
+                Escalas estandarizadas para la valoración del riesgo y la toma de decisiones clínicas.
+            </p>
+
+            <div class="calc-grid">
+                
+                <article class="calc-card" onclick="location.href='braden/braden.html'">
+                    <div class="calc-icon"><i class="fa-solid fa-bed"></i></div>
+                    <h3>Escala Braden</h3>
+                    <p>Valoración del riesgo de Úlceras por Presión (UPP). Evalúa movilidad, humedad, nutrición y fricción.</p>
+                    <span class="btn-calc">Calcular <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+                <article class="calc-card" onclick="location.href='caidas/downton.html'">
+                    <div class="calc-icon" style="background:#fff7ed; color:#ea580c;"><i class="fa-solid fa-person-falling"></i></div>
+                    <h3>Escala J.H. Downton</h3>
+                    <p>Valoración del riesgo de caídas. (En desarrollo).</p>
+                    <span class="btn-calc">Calcular <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+            </div>
+        </main>
+    </div>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="../../../js/sidebar.js"></script>
+</body>
+</html>

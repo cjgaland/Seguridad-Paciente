@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Juego · Identificación de Riesgos</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    
+    <!-- Estilos globales de la plataforma -->
+    <link rel="stylesheet" href="../../../css/style.css">
+    <!-- Estilos específicos del juego -->
+    <link rel="stylesheet" href="riesgos.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- CABECERA INSTITUCIONAL, IGUAL QUE EN PROFESIONALES.HTML -->
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png"
+             alt="Logo Estrategia" class="sp-logo">
+
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg"
+             alt="Logo Consejería" class="sp-logo-right">
+    </header>
+
+    <!-- CONTENIDO PRINCIPAL, USANDO LA MISMA MAQUETA QUE EL RESTO -->
+    <main class="sp-main">
+
+        <div class="top-bar">
+            <h2>Identificación de Riesgos · Juego Interactivo</h2>
+
+            <!-- Botón volver al área de juegos de profesionales -->
+            <a href="../juega.html" class="btn-home">
+                <i class="fa-solid fa-gamepad"></i>
+                Volver a Juegos
+            </a>
+        </div>
+
+        <!-- Aquí se pinta el juego -->
+        <div id="game-root"></div>
+
+        <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+        
+    </main>
+
+    <!-- SCRIPTS -->
+    <script type="module">
+        import { initGame } from "./riesgos.js";
+        import { saveScore } from "../../../js/core/scores.js";
+
+        // Guardado en Firebase
+        function saveScoreFirebase(escenario, puntos, tiempo) {
+            const jugador = localStorage.getItem("jugador-sp") || "Anónimo";
+            return saveScore("riesgos", escenario, jugador, puntos, tiempo);
+        }
+
+        // Inicializar juego
+        initGame({
+            root: document.getElementById("game-root"),
+            saveScoreFirebase
+        });
+    </script>
+
+</body>
+</html>
