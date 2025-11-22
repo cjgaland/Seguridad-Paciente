@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ciudadanía · Seguridad del Paciente</title>
+  
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16"  href="assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/images/icons/favicons/favicon_512.png">
+
+        
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/sidebar.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- CABECERA COMÚN -->
+    <header class="sp-header">
+        
+        <button id="menu-toggle" class="menu-toggle">
+            <i class="fa-solid fa-bars"></i>
+        </button>
+
+<div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+        
+        <div class="sp-header-left">
+            <img src="assets/images/icons/logos/logo_Estrategia.png"
+                 alt="Logo Estrategia" class="sp-logo">
+        </div>
+
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+
+        <div class="sp-header-right">
+            <img src="assets/images/icons/logos/logo_CSPyE.svg"
+                 alt="Logo Consejería" class="sp-logo-right">
+        </div>
+    </header>
+
+
+    <!-- LAYOUT CON BARRA LATERAL -->
+    <div class="sp-layout">
+        
+        <!-- SIDEBAR -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-users"></i>
+                <span>Ciudadanía</span>
+            </div>
+
+            <nav class="sidebar-nav">
+
+                <!-- BLOQUE 1: APRENDE -->
+                <div class="sidebar-group">
+                    <button class="sidebar-btn" data-toggle="aprende-ciud">
+                        <i class="fa-solid fa-circle-info"></i>
+                        Aprende
+                    </button>
+                    <ul id="aprende-ciud" class="sidebar-submenu">
+                        <li><a href="#">¿Qué es la seguridad del paciente?</a></li>
+                        <li><a href="#">Tus derechos como paciente</a></li>
+                        <li><a href="#">Información y consentimiento</a></li>
+                        <li><a href="#">Cómo preparar una consulta</a></li>
+                        <li><a href="#">Medicamentos: uso seguro</a></li>
+                    </ul>
+                </div>
+
+                <!-- BLOQUE 2: JUEGA -->
+                <div class="sidebar-group">
+                    <button class="sidebar-btn" data-toggle="juega-ciud">
+                        <i class="fa-solid fa-gamepad"></i>
+                        Juega
+                    </button>
+                    <ul id="juega-ciud" class="sidebar-submenu">
+                        <li><a href="ciudadanos/juega/juega.html"><strong>Ver panel de juegos</strong></a></li>
+                        
+                        <li><a href="#">Cuestionarios rápidos</a></li>
+                        <li><a href="#">Escenarios interactivos</a></li>
+                        <li><a href="#">¿Qué harías tú?</a></li>
+                    </ul>
+                </div>
+
+                <!-- BLOQUE 3: PRACTICA -->
+                <div class="sidebar-group">
+                    <button class="sidebar-btn" data-toggle="practica-ciud">
+                        <i class="fa-solid fa-heart-circle-check"></i>
+                        Practica
+                    </button>
+                    <ul id="practica-ciud" class="sidebar-submenu">
+                        <li><a href="#">Consejos para tu seguridad</a></li>
+                        <li><a href="#">Lista de comprobación antes de acudir</a></li>
+                        <li><a href="#">Materiales para pacientes y familias</a></li>
+                    </ul>
+                </div>
+
+            </nav>
+        </aside>
+
+        <!-- CONTENIDO PRINCIPAL -->
+        <main class="main-content">
+            <div class="top-bar">
+            <h2>Área de Ciudadanía</h2>
+            <a href="index.html" class="btn-home">
+                <i class="fa-solid fa-house"></i> Inicio
+            </a>
+        </div>
+
+            <p class="main-intro">
+                Información sencilla y recursos prácticos para ayudarte a participar activamente 
+                en tu seguridad y en la de tus familiares durante la atención sanitaria.
+            </p>
+
+            <section class="module-grid">
+                <article class="module-card">
+                    <h3><i class="fa-solid fa-hand-holding-heart"></i> Ser paciente activo</h3>
+                    <p>Cómo preguntar, cómo expresar dudas y cómo participar en las decisiones sobre tu salud.</p>
+                </article>
+
+                <article class="module-card">
+                    <h3><i class="fa-solid fa-notes-medical"></i> Medicación segura</h3>
+                    <p>Qué debes saber sobre tus tratamientos, cómo llevar un listado actualizado y evitar errores.</p>
+                </article>
+
+                <article class="module-card">
+                    <h3><i class="fa-solid fa-hospital-user"></i> Antes, durante y después</h3>
+                    <p>Recomendaciones para visitas, urgencias, pruebas diagnósticas e ingresos hospitalarios.</p>
+                </article>
+
+                <article class="module-card">
+                    <h3><i class="fa-solid fa-comments"></i> Comunicación</h3>
+                    <p>La importancia de comunicar síntomas, antecedentes y cambios en tu estado de salud.</p>
+                </article>
+            </section>
+        <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>    
+            
+            
+        </main>
+    </div>
+
+
+    <script src="js/sidebar.js"></script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profesionales · Seguridad del Paciente</title>
+  
+    <link rel="icon" type="image/png" sizes="16x16"  href="assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/sidebar.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    
+    <style>
+        /* Ajuste para que las tarjetas principales sean clicables y visuales */
+        .module-card {
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid #e5e7eb;
+        }
+        .module-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-color: #F5A623;
+        }
+        .module-card h3 { font-size: 1.4rem; }
+        .module-card i { font-size: 3rem; margin-bottom: 15px; display: block; }
+        
+        /* Colores temáticos suaves */
+        .card-aprende:hover i { color: #3b82f6; }
+        .card-juega:hover i { color: #F5A623; }
+        .card-practica:hover i { color: #16a34a; }
+    </style>
+</head>
+<body>
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+        
+        <div class="sp-header-left">
+            <img src="assets/images/icons/logos/logo_Estrategia.png" alt="Logo Estrategia" class="sp-logo">
+        </div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right">
+            <img src="assets/images/icons/logos/logo_CSPyE.svg" alt="Logo Consejería" class="sp-logo-right">
+        </div>
+    </header>
+
+    <div class="sp-layout">
+        
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-user-doctor"></i>
+                <span>Profesionales</span>
+            </div>
+
+            <nav class="sidebar-nav">
+
+                <div class="sidebar-group">
+                    <button class="sidebar-btn" data-toggle="aprende">
+                        <i class="fa-solid fa-graduation-cap"></i> Aprende
+                    </button>
+                    <ul id="aprende" class="sidebar-submenu">
+                        <li><a href="profesionales/aprende/aprende.html"><strong>Ver panel de formación</strong></a></li>
+                        <li><a href="profesionales/aprende/manos/manos.html">Lavado de manos</a></li>
+                        <li><a href="profesionales/aprende/epis/epis.html">Uso correcto de EPI</a></li>
+                        <li><a href="profesionales/aprende/casos/casos.html">Casos Clínicos Interactivos</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-group">
+                    <button class="sidebar-btn" data-toggle="juega">
+                        <i class="fa-solid fa-gamepad"></i> Juega
+                    </button>
+                    <ul id="juega" class="sidebar-submenu">
+                        <li><a href="profesionales/juega/juega.html"><strong>Ver panel de juegos</strong></a></li>
+                        <li><a href="profesionales/juega/riesgos/riesgos.html">Identificación de Riesgos</a></li>
+                        <li><a href="profesionales/juega/test/test.html">Test de Conocimientos</a></li>
+                        <li><a href="profesionales/juega/anagramas/anagramas.html">Anagramas Sanitarios</a></li>
+                        <li><a href="profesionales/juega/sopa/sopa.html">Sopa de Letras</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-group">
+                    <button class="sidebar-btn" data-toggle="practica">
+                        <i class="fa-solid fa-clipboard-check"></i> Practica
+                    </button>
+                    <ul id="practica" class="sidebar-submenu">
+                        <li><a href="profesionales/practica/practica.html"><strong>Ver panel de herramientas</strong></a></li>
+                        <li><a href="profesionales/practica/notificasp/notificasp.html">Simulador NotificaSP</a></li>
+                        <li><a href="profesionales/practica/checklist/checklist.html">Checklist Quirúrgico</a></li>
+                        <li><a href="profesionales/practica/calculadoras/calculadoras.html">Escalas Clínicas</a></li>
+                        <li><a href="profesionales/practica/cultura/autotest.html">Termómetro Seguridad</a></li>
+                    </ul>
+                </div>
+
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            
+            <div class="top-bar">
+                <h2>Área de Profesionales</h2>
+                <a href="index.html" class="btn-home">
+                    <i class="fa-solid fa-house"></i> Inicio
+                </a>
+            </div>
+
+            <p class="main-intro">
+                Bienvenido al entorno de entrenamiento seguro. Selecciona un itinerario para comenzar:
+            </p>
+
+            <section class="module-grid">
+                
+                <article class="module-card card-aprende" onclick="location.href='profesionales/aprende/aprende.html'">
+                    <h3><i class="fa-solid fa-graduation-cap" style="color:#3b82f6;"></i> Aprende</h3>
+                    <p>Módulos formativos interactivos sobre protocolos, higiene de manos, EPIs y toma de decisiones clínicas.</p>
+                </article>
+
+                <article class="module-card card-juega" onclick="location.href='profesionales/juega/juega.html'">
+                    <h3><i class="fa-solid fa-gamepad" style="color:#F5A623;"></i> Juega</h3>
+                    <p>Gamificación para reforzar conceptos. Identifica riesgos, resuelve anagramas y compite en el ranking global.</p>
+                </article>
+
+                <article class="module-card card-practica" onclick="location.href='profesionales/practica/practica.html'">
+                    <h3><i class="fa-solid fa-clipboard-check" style="color:#16a34a;"></i> Practica</h3>
+                    <p>Herramientas de uso diario y simuladores. Notificación de incidentes, checklists y calculadoras de riesgo.</p>
+                </article>
+
+            </section>
+
+            <footer class="sp-footer">
+                Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+            </footer>
+        </main>
+    </div>
+
+    <script src="js/sidebar.js"></script>
+</body>
+</html>
