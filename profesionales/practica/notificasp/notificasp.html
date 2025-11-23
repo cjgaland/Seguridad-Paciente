@@ -5,21 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simulador NotificaSP · Práctica</title>
     
-    <!-- Favicons -->
-    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
-    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
-    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
-    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
-    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
-    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
     
     <link rel="stylesheet" href="../../../css/style.css">
     <link rel="stylesheet" href="notificasp.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
 </head>
 <body>
 
@@ -51,30 +41,22 @@
 
                 <div class="severity-legend">
                     <h4><i class="fa-solid fa-palette"></i> Clasificación del Daño</h4>
-                    <div class="legend-item l-cuasi"><strong>Cuasi-Incidente:</strong> No llegó al paciente.</div>
-                    <div class="legend-item l-leve"><strong>Incidente Leve:</strong> Sin daño.</div>
-                    <div class="legend-item l-adverso"><strong>Evento Adverso:</strong> Daño leve/mod.</div>
-                    <div class="legend-item l-centinela"><strong>Evento Centinela:</strong> Severo/Muerte.</div>
+                    <div class="legend-item l-cuasi"><strong>Cuasi:</strong> No llegó al paciente.</div>
+                    <div class="legend-item l-leve"><strong>Leve:</strong> Sin daño.</div>
+                    <div class="legend-item l-adverso"><strong>Adverso:</strong> Daño leve/mod.</div>
+                    <div class="legend-item l-centinela"><strong>Centinela:</strong> Severo/Muerte.</div>
                 </div>
-                
-                <div class="tips-box">
-                    <h4><i class="fa-solid fa-lightbulb"></i> Pistas Rápidas</h4>
-                    <ul>
-                        <li>Lee bien si el error <strong>llegó</strong> al paciente.</li>
-                        <li>Identifica la <strong>causa principal</strong>.</li>
-                        <li>Considera los <strong>factores contibuyentes</strong>.</li>
-                        <li>Investiga sobre la <strong>frecuencia</strong> del suceso.</li>
-                        <li>Mantén el anonimato en la descripción.</li>
-                    </ul>
-                    
-                    <div class="form-group" style="margin-top:20px;">
-                        <label>Descripción del Suceso</label>
-                        <textarea id="descripcion" rows="9" placeholder="Describe los hechos..."></textarea>
-                        <div class="feedback-msg" id="msg-desc"></div>
+
+                <div class="alert-box-real">
+                    <div class="alert-icon"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                    <div class="alert-content">
+                        <strong>ENTORNO DE PRUEBAS</strong>
+                        <p>Estás en el simulador docente. No se registrará ningún incidente real.</p>
+                        <a href="https://notificasp.seguridadpaciente.es/registrar_incidente_profesional" target="_blank" class="btn-official">
+                            Ir a NotificaSP (Real) <i class="fa-solid fa-external-link-alt"></i>
+                        </a>
                     </div>
-                    
                 </div>
-                
             </div>
 
             <div class="sim-form-wrapper">
@@ -104,71 +86,85 @@
                         </div>
                     </div>
 
-                    <hr class="form-divider">
+                    <div class="form-group">
+                        <label>Descripción del Suceso</label>
+                        <textarea id="descripcion" rows="3" placeholder="Describe brevemente los hechos..."></textarea>
+                        <div class="feedback-msg" id="msg-desc"></div>
+                    </div>
+
+
 
                     <div class="form-group">
                         <label>Clasificación de Gravedad (Daño)</label>
-                        <div class="radio-grid">
+                        <div class="radio-grid compact">
+                            
                             <label class="radio-card l-cuasi">
-                                <input type="radio" name="impacto" value="cuasi">
-                                <span class="card-content"><strong>Cuasi</strong><span>No llegó</span></span>
+                                <input type="radio" name="impacto" value="cuasi" class="hidden-input">
+                                <span class="card-text">Cuasi-Incidente</span>
                             </label>
+
                             <label class="radio-card l-leve">
-                                <input type="radio" name="impacto" value="leve">
-                                <span class="card-content"><strong>Leve</strong><span>Sin daño</span></span>
+                                <input type="radio" name="impacto" value="leve" class="hidden-input">
+                                <span class="card-text">Incidente Leve</span>
                             </label>
+
                             <label class="radio-card l-adverso">
-                                <input type="radio" name="impacto" value="adverso">
-                                <span class="card-content"><strong>Adverso</strong><span>Con daño</span></span>
+                                <input type="radio" name="impacto" value="adverso" class="hidden-input">
+                                <span class="card-text">Evento Adverso</span>
                             </label>
+
                             <label class="radio-card l-centinela">
-                                <input type="radio" name="impacto" value="centinela">
-                                <span class="card-content"><strong>Centinela</strong><span>Grave</span></span>
+                                <input type="radio" name="impacto" value="centinela" class="hidden-input">
+                                <span class="card-text">Evento Centinela</span>
                             </label>
+
                         </div>
                         <div class="feedback-msg" id="msg-impacto"></div>
                     </div>
 
-                    <hr class="form-divider">
-
                     <div class="form-group">
                         <label>Factores Contribuyentes</label>
-                        <div class="factors-grid">
-                            <label class="check-factor"><input type="checkbox" value="paciente"> Paciente</label>
-                            <label class="check-factor"><input type="checkbox" value="profesional"> Profesional</label>
-                            <label class="check-factor"><input type="checkbox" value="tarea"> Tarea</label>
-                            <label class="check-factor"><input type="checkbox" value="comunicacion"> Comunicación</label>
-                            <label class="check-factor"><input type="checkbox" value="equipo"> Equipo</label>
-                            <label class="check-factor"><input type="checkbox" value="entorno"> Entorno</label>
-                            <label class="check-factor"><input type="checkbox" value="organizacion"> Organización</label>
-                            <label class="check-factor"><input type="checkbox" value="tecnologia"> Tecnología</label>
+                        <div class="factors-grid compact">
+                            <label class="check-factor"><input type="checkbox" value="paciente" class="hidden-input"> <span>Paciente</span></label>
+                            <label class="check-factor"><input type="checkbox" value="profesional" class="hidden-input"> <span>Profesional</span></label>
+                            <label class="check-factor"><input type="checkbox" value="tarea" class="hidden-input"> <span>Tarea</span></label>
+                            <label class="check-factor"><input type="checkbox" value="comunicacion" class="hidden-input"> <span>Comunicación</span></label>
+                            <label class="check-factor"><input type="checkbox" value="equipo" class="hidden-input"> <span>Equipo</span></label>
+                            <label class="check-factor"><input type="checkbox" value="entorno" class="hidden-input"> <span>Entorno</span></label>
+                            <label class="check-factor"><input type="checkbox" value="organizacion" class="hidden-input"> <span>Organización</span></label>
+                            <label class="check-factor"><input type="checkbox" value="tecnologia" class="hidden-input"> <span>Tecnología</span></label>
                         </div>
                     </div>
 
+
                     <div class="risk-matrix-box">
-                        <div class="matrix-header"><i class="fa-solid fa-chart-area"></i> Estimación del Nivel de Riesgo</div>
+                        <div class="matrix-header"><i class="fa-solid fa-chart-area"></i> Estimación de Riesgo</div>
                         <div class="matrix-body">
                             <div class="matrix-inputs">
                                 <div class="matrix-input-group">
-                                    <label>Gravedad (Seleccionada arriba)</label>
+                                    <label>Gravedad</label>
                                     <div id="gravity-display" class="matrix-value-display" style="color:#94a3b8;">--</div>
                                 </div>
                                 <div class="matrix-input-group">
-                                    <label>Frecuencia de aparición</label>
+                                    <label>Frecuencia</label>
                                     <select id="frecuencia">
                                         <option value="">-- Selecciona --</option>
-                                        <option value="rara">Rara (Años)</option>
-                                        <option value="ocasional">Ocasional (Meses)</option>
-                                        <option value="frecuente">Frecuente (Semanas)</option>
+                                        <option value="rara">Rara</option>
+                                        <option value="ocasional">Ocasional</option>
+                                        <option value="frecuente">Frecuente</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="risk-result" id="risk-result-badge">
                                 <span id="risk-label">--</span>
-                                <small id="risk-action">Calculando...</small>
                             </div>
                         </div>
                         <div class="feedback-msg" id="msg-riesgo"></div>
+                    </div>
+
+                    <div class="form-group" style="margin-top:20px;">
+                        <label style="color:#059669;"><i class="fa-solid fa-lightbulb"></i> Propuestas de Mejora (Barreras)</label>
+                        <textarea id="propuestas" rows="2" placeholder="¿Qué harías para evitar que se repita?"></textarea>
                     </div>
 
                     <button type="submit" class="btn-submit"><i class="fa-regular fa-paper-plane"></i> Enviar Análisis</button>
@@ -180,14 +176,9 @@
                         <h3>¡Caso Resuelto!</h3>
                         <p>Has completado el análisis correctamente.</p>
                         <p class="learning-point">...</p>
-                        
                         <div class="final-actions">
-                            <button onclick="location.href='../practica.html'" class="btn-secondary">
-                                <i class="fa-solid fa-bars"></i> Menú Práctica
-                            </button>
-                            <button onclick="location.reload()" class="btn-primary">
-                                Siguiente Caso <i class="fa-solid fa-arrow-right"></i>
-                            </button>
+                            <button onclick="location.href='../practica.html'" class="btn-secondary"><i class="fa-solid fa-bars"></i> Menú</button>
+                            <button onclick="location.reload()" class="btn-primary">Siguiente <i class="fa-solid fa-arrow-right"></i></button>
                         </div>
                     </div>
                 </div>
