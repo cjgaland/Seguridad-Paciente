@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ciudadanía · Seguridad del Paciente</title>
   
-    <!-- Favicons -->
     <link rel="icon" type="image/png" sizes="16x16"  href="assets/images/icons/favicons/favicon_16.png">
     <link rel="icon" type="image/png" sizes="32x32"  href="assets/images/icons/favicons/favicon_32.png">
     <link rel="icon" type="image/png" sizes="48x48"  href="assets/images/icons/favicons/favicon_48.png">
@@ -16,44 +15,49 @@
     <link rel="icon" type="image/png" sizes="256x256" href="assets/images/icons/favicons/favicon_256.png">
     <link rel="icon" type="image/png" sizes="512x512" href="assets/images/icons/favicons/favicon_512.png">
 
-        
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/sidebar.css">
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    
+    <style>
+        /* Estilos específicos para diferenciar sutilmente el área ciudadana */
+        .module-card {
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid #e5e7eb;
+        }
+        .module-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-color: #0ea5e9; /* Azul cielo para ciudadanos */
+        }
+        .module-card h3 { font-size: 1.4rem; }
+        .module-card i { font-size: 3rem; margin-bottom: 15px; display: block; }
+        
+        /* Colores temáticos amigables */
+        .card-aprende:hover i { color: #0ea5e9; } /* Azul claro */
+        .card-juega:hover i { color: #f59e0b; } /* Naranja */
+        .card-practica:hover i { color: #10b981; } /* Verde */
+    </style>
 </head>
 <body>
 
-    <!-- CABECERA COMÚN -->
     <header class="sp-header">
-        
-        <button id="menu-toggle" class="menu-toggle">
-            <i class="fa-solid fa-bars"></i>
-        </button>
-
-<div id="sidebar-overlay" class="sidebar-overlay"></div>
-
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
         
         <div class="sp-header-left">
-            <img src="assets/images/icons/logos/logo_Estrategia.png"
-                 alt="Logo Estrategia" class="sp-logo">
+            <img src="assets/images/icons/logos/logo_Estrategia.png" alt="Logo Estrategia" class="sp-logo">
         </div>
-
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
-
         <div class="sp-header-right">
-            <img src="assets/images/icons/logos/logo_CSPyE.svg"
-                 alt="Logo Consejería" class="sp-logo-right">
+            <img src="assets/images/icons/logos/logo_CSPyE.svg" alt="Logo Consejería" class="sp-logo-right">
         </div>
     </header>
 
-
-    <!-- LAYOUT CON BARRA LATERAL -->
     <div class="sp-layout">
         
-        <!-- SIDEBAR -->
         <aside class="sidebar">
             <div class="sidebar-header">
                 <i class="fa-solid fa-users"></i>
@@ -62,95 +66,89 @@
 
             <nav class="sidebar-nav">
 
-                <!-- BLOQUE 1: APRENDE -->
                 <div class="sidebar-group">
-                    <button class="sidebar-btn" data-toggle="aprende-ciud">
-                        <i class="fa-solid fa-circle-info"></i>
+                    <button class="sidebar-btn" data-toggle="aprende-c">
+                        <i class="fa-solid fa-book-medical"></i>
                         Aprende
                     </button>
-                    <ul id="aprende-ciud" class="sidebar-submenu">
-                        <li><a href="#">¿Qué es la seguridad del paciente?</a></li>
-                        <li><a href="#">Tus derechos como paciente</a></li>
-                        <li><a href="#">Información y consentimiento</a></li>
-                        <li><a href="#">Cómo preparar una consulta</a></li>
-                        <li><a href="#">Medicamentos: uso seguro</a></li>
+                    <ul id="aprende-c" class="sidebar-submenu">
+                        <li><a href="ciudadanos/aprende/aprende.html"><strong>Panel de Guías</strong></a></li>
+                        <li><a href="ciudadanos/aprende/paciente-activo/paciente-activo.html">Ser Paciente Activo</a></li>
+                        <li><a href="ciudadanos/aprende/manos/manos.html">Higiene de Manos</a></li>
+                        <li><a href="ciudadanos/aprende/medicacion/medicacion.html">Medicación Segura</a></li>
+                        <li><a href="ciudadanos/aprende/proceso/proceso.html">El Proceso (Antes/Durante/Después)</a></li>
+                        <li><a href="ciudadanos/aprende/comunicacion/comunicacion.html">Comunicación Efectiva</a></li>
                     </ul>
                 </div>
 
-                <!-- BLOQUE 2: JUEGA -->
                 <div class="sidebar-group">
-                    <button class="sidebar-btn" data-toggle="juega-ciud">
-                        <i class="fa-solid fa-gamepad"></i>
+                    <button class="sidebar-btn" data-toggle="juega-c">
+                        <i class="fa-solid fa-puzzle-piece"></i>
                         Juega
                     </button>
-                    <ul id="juega-ciud" class="sidebar-submenu">
-                        <li><a href="ciudadanos/juega/juega.html"><strong>Ver panel de juegos</strong></a></li>
-                        
-                        <li><a href="#">Cuestionarios rápidos</a></li>
-                        <li><a href="#">Escenarios interactivos</a></li>
-                        <li><a href="#">¿Qué harías tú?</a></li>
+                    <ul id="juega-c" class="sidebar-submenu">
+                        <li><a href="ciudadanos/juega/juega.html"><strong>Zona de Juegos</strong></a></li>
+                        <li><a href="ciudadanos/juega/detectives/detectives.html">Detectives del Hogar</a></li>
+                        <li><a href="ciudadanos/juega/semaforo/semaforo.html">Semáforo de Urgencias</a></li>
+                        <li><a href="ciudadanos/juega/mochila/mochila.html">La Mochila Segura</a></li>
+                        <li><a href="ciudadanos/juega/adivina/adivina.html">Adivina la Medicina</a></li>
                     </ul>
                 </div>
 
-                <!-- BLOQUE 3: PRACTICA -->
                 <div class="sidebar-group">
-                    <button class="sidebar-btn" data-toggle="practica-ciud">
-                        <i class="fa-solid fa-heart-circle-check"></i>
-                        Practica
+                    <button class="sidebar-btn" data-toggle="practica-c">
+                        <i class="fa-solid fa-hand-holding-heart"></i>
+                        Participa
                     </button>
-                    <ul id="practica-ciud" class="sidebar-submenu">
-                        <li><a href="#">Consejos para tu seguridad</a></li>
-                        <li><a href="#">Lista de comprobación antes de acudir</a></li>
-                        <li><a href="#">Materiales para pacientes y familias</a></li>
+                    <ul id="practica-c" class="sidebar-submenu">
+                        <li><a href="ciudadanos/practica/practica.html"><strong>Panel de Herramientas</strong></a></li>
+                        <li><a href="ciudadanos/practica/buzon/buzon.html">Buzón de Seguridad</a></li>
+                        <li><a href="ciudadanos/practica/consulta/consulta.html">Prepara tu Consulta</a></li>
+                        <li><a href="ciudadanos/practica/dudas/dudas.html">Mi Lista de Dudas</a></li>
+                        <li><a href="ciudadanos/practica/cultura/autotest.html">Termómetro Seguridad</a></li>
                     </ul>
                 </div>
 
             </nav>
         </aside>
 
-        <!-- CONTENIDO PRINCIPAL -->
         <main class="main-content">
+            
             <div class="top-bar">
-            <h2>Área de Ciudadanía</h2>
-            <a href="index.html" class="btn-home">
-                <i class="fa-solid fa-house"></i> Inicio
-            </a>
-        </div>
+                <h2>Área de Ciudadanía y Familias</h2>
+                <a href="index.html" class="btn-home">
+                    <i class="fa-solid fa-house"></i> Inicio
+                </a>
+            </div>
 
             <p class="main-intro">
-                Información sencilla y recursos prácticos para ayudarte a participar activamente 
-                en tu seguridad y en la de tus familiares durante la atención sanitaria.
+                Tu participación es clave. Aquí encontrarás recursos sencillos para ayudarte a ser un paciente activo y colaborar en tu propia seguridad.
             </p>
 
             <section class="module-grid">
-                <article class="module-card">
-                    <h3><i class="fa-solid fa-hand-holding-heart"></i> Ser paciente activo</h3>
-                    <p>Cómo preguntar, cómo expresar dudas y cómo participar en las decisiones sobre tu salud.</p>
+                
+                <article class="module-card card-aprende" onclick="location.href='ciudadanos/aprende/aprende.html'">
+                    <h3><i class="fa-solid fa-book-medical" style="color:#0ea5e9;"></i> Aprende</h3>
+                    <p>Guías visuales y consejos prácticos sobre higiene, medicación y prevención de infecciones.</p>
                 </article>
 
-                <article class="module-card">
-                    <h3><i class="fa-solid fa-notes-medical"></i> Medicación segura</h3>
-                    <p>Qué debes saber sobre tus tratamientos, cómo llevar un listado actualizado y evitar errores.</p>
+                <article class="module-card card-juega" onclick="location.href='ciudadanos/juega/juega.html'">
+                    <h3><i class="fa-solid fa-puzzle-piece" style="color:#f59e0b;"></i> Juega</h3>
+                    <p>Actividades lúdicas para toda la familia. Aprende a identificar riesgos en casa mientras te diviertes.</p>
                 </article>
 
-                <article class="module-card">
-                    <h3><i class="fa-solid fa-hospital-user"></i> Antes, durante y después</h3>
-                    <p>Recomendaciones para visitas, urgencias, pruebas diagnósticas e ingresos hospitalarios.</p>
+                <article class="module-card card-practica" onclick="location.href='ciudadanos/practica/practica.html'">
+                    <h3><i class="fa-solid fa-hand-holding-heart" style="color:#10b981;"></i> Participa</h3>
+                    <p>Herramientas para preparar tu visita al médico y un buzón para contarnos tus preocupaciones.</p>
                 </article>
 
-                <article class="module-card">
-                    <h3><i class="fa-solid fa-comments"></i> Comunicación</h3>
-                    <p>La importancia de comunicar síntomas, antecedentes y cambios en tu estado de salud.</p>
-                </article>
             </section>
-        <footer class="sp-footer">
-        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
-    </footer>    
-            
-            
+
+            <footer class="sp-footer">
+                Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+            </footer>
         </main>
     </div>
-
 
     <script src="js/sidebar.js"></script>
 </body>
