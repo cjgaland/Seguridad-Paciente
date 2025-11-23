@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Proceso · Aprende</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../../css/style.css">
+    <link rel="stylesheet" href="proceso.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-route" style="color:#16a34a;"></i> Tu Seguridad: El Proceso</h2>
+            <a href="../aprende.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Volver
+            </a>
+        </div>
+
+        <p class="main-intro">
+            Una atención segura requiere preparación. Despliega cada fase para ver qué puedes hacer tú para evitar riesgos en cada momento.
+        </p>
+
+        <div class="timeline-container">
+            
+            <div class="timeline-item">
+                <button class="timeline-header phase-1" onclick="toggleAccordion(this)">
+                    <span class="icon-box"><i class="fa-solid fa-suitcase-medical"></i></span>
+                    <span class="header-text">
+                        <strong class="phase-title">1. Antes de ir (Preparación)</strong>
+                        <span class="phase-subtitle">Lo que debes llevar y preparar desde casa.</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-down arrow"></i>
+                </button>
+                <div class="timeline-content">
+                    <ul>
+                        <li>
+                            <i class="fa-solid fa-id-card"></i>
+                            <strong>Documentación:</strong> DNI/Pasaporte y Tarjeta Sanitaria.
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-pills"></i>
+                            <strong>Medicación:</strong> Lleva una lista actualizada de lo que tomas (o las cajas).
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-clipboard-question"></i>
+                            <strong>Dudas:</strong> Escribe en un papel las preguntas que quieres hacerle al médico.
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-hands-holding-child"></i>
+                            <strong>Acompañante:</strong> Si es posible, ve acompañado, especialmente si te van a hacer pruebas o eres mayor.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <button class="timeline-header phase-2" onclick="toggleAccordion(this)">
+                    <span class="icon-box"><i class="fa-solid fa-hospital-user"></i></span>
+                    <span class="header-text">
+                        <strong class="phase-title">2. Durante la atención (Hospital/Consulta)</strong>
+                        <span class="phase-subtitle">Tu papel activo mientras estás con nosotros.</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-down arrow"></i>
+                </button>
+                <div class="timeline-content">
+                    <ul>
+                        <li>
+                            <i class="fa-solid fa-fingerprint"></i>
+                            <strong>Identificación:</strong> Comprueba que te ponen la pulsera y que tus datos son correctos. Diles tu nombre si no te lo preguntan.
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-hand-sparkles"></i>
+                            <strong>Higiene:</strong> Lávate las manos y pide amablemente al personal que también lo haga si no lo has visto.
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-person-falling"></i>
+                            <strong>Caídas:</strong> Si estás ingresado, usa calzado cerrado, mantén las barandillas subidas y pide ayuda para levantarte.
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-circle-question"></i>
+                            <strong>Pregunta:</strong> "Doctor/Enfermera, ¿qué me van a hacer ahora?"
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <button class="timeline-header phase-3" onclick="toggleAccordion(this)">
+                    <span class="icon-box"><i class="fa-solid fa-house-medical"></i></span>
+                    <span class="header-text">
+                        <strong class="phase-title">3. Después (Vuelta a casa)</strong>
+                        <span class="phase-subtitle">Asegura la continuidad de tus cuidados.</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-down arrow"></i>
+                </button>
+                <div class="timeline-content">
+                    <ul>
+                        <li>
+                            <i class="fa-solid fa-file-medical"></i>
+                            <strong>Informe de Alta:</strong> No te vayas sin él. Léelo antes de salir y pregunta si algo no se entiende.
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-prescription-bottle-medical"></i>
+                            <strong>Nueva Medicación:</strong> Asegúrate de entender los cambios: ¿qué dejo de tomar? ¿qué empiezo nuevo?
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                            <strong>Signos de Alarma:</strong> Pregunta: "¿Qué síntomas son normales y por cuáles debo volver a Urgencias?".
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-calendar-check"></i>
+                            <strong>Citas:</strong> Confirma cuándo y dónde es tu próxima revisión.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="proceso.js"></script>
+</body>
+</html>

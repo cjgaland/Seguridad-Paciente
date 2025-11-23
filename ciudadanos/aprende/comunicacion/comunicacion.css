@@ -1,0 +1,135 @@
+/* ==========================================
+   ESTILOS: COMUNICACIÓN EFECTIVA
+   ========================================== */
+
+.main-intro { max-width: 800px; margin: 0 auto 40px; color: #555; font-size: 1.1rem; }
+
+.comm-container {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-bottom: 50px;
+}
+
+/* TARJETA CONTENEDOR */
+.comm-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.comm-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    border-color: #9333ea;
+}
+
+.card-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    min-height: 100px;
+}
+
+/* BURBUJAS DE DIÁLOGO */
+.bubble {
+    flex: 1;
+    padding: 15px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    transition: all 0.4s ease;
+}
+
+.bubble-icon { font-size: 1.5rem; }
+.bubble-text strong { display: block; margin-bottom: 4px; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; }
+.bubble-text { font-size: 1rem; line-height: 1.4; }
+
+/* Estilo Vago (Inicial) */
+.bubble.vague {
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    color: #991b1b;
+}
+.bubble.vague .bubble-icon { color: #dc2626; }
+
+/* Estilo Efectivo (Final) */
+.bubble.effective {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    color: #166534;
+    animation: slideIn 0.4s ease-out;
+}
+.bubble.effective .bubble-icon { color: #16a34a; }
+
+/* Elementos de transición */
+.arrow-transform {
+    color: #cbd5e1;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.instruction-hint {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    font-size: 0.75rem;
+    color: #9333ea;
+    font-weight: bold;
+    opacity: 0.7;
+    animation: pulse 2s infinite;
+}
+
+/* ESTADO "RESUELTO" (Cuando se hace clic) */
+.comm-card.solved .bubble.vague {
+    opacity: 0.4; /* Se apaga lo incorrecto */
+    transform: scale(0.95);
+}
+
+.comm-card.solved .arrow-transform {
+    color: #16a34a;
+    transform: translateX(5px);
+}
+
+.comm-card.solved .instruction-hint {
+    display: none;
+}
+
+/* UTILIDADES */
+.hidden { display: none !important; }
+
+/* CONSEJO FINAL */
+.final-tip {
+    margin-top: 20px;
+    background: #f3e8ff;
+    border: 1px solid #d8b4fe;
+    border-radius: 12px;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.final-tip i { font-size: 2rem; color: #9333ea; }
+.final-tip h4 { margin: 0 0 5px 0; color: #6b21a8; }
+.final-tip p { margin: 0; color: #4c1d95; }
+
+/* ANIMACIONES */
+@keyframes slideIn { from { opacity: 0; transform: translateX(20px); } to { opacity: 1; transform: translateX(0); } }
+@keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; } 100% { opacity: 0.5; } }
+
+@media (max-width: 700px) {
+    .card-content { flex-direction: column; text-align: center; }
+    .arrow-transform { transform: rotate(90deg); margin: 10px 0; }
+    .comm-card.solved .arrow-transform { transform: rotate(90deg) translateY(5px); }
+    .bubble { width: 100%; justify-content: center; flex-direction: column; }
+}

@@ -1,0 +1,186 @@
+/* ==========================================
+   ESTILOS: ADIVINA LA MEDICINA
+   ========================================== */
+
+.game-container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* MARCADOR */
+.status-bar {
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    padding: 15px 25px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    font-weight: bold;
+    color: #555;
+}
+.score-box span, .round-box span { color: #9333ea; font-size: 1.2rem; }
+
+/* PREGUNTA */
+.question-card {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    margin-bottom: 30px;
+    text-align: center;
+    border-top: 5px solid #9333ea;
+}
+.q-icon { font-size: 2.5rem; color: #9333ea; margin-bottom: 15px; }
+.question-card h3 { margin: 0; color: #333; font-size: 1.3rem; line-height: 1.5; }
+
+/* OPCIONES */
+.options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.option-card {
+    background: white;
+    border: 2px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 25px 15px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.option-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Icono dentro de la opción */
+.opt-icon {
+    width: 60px; height: 60px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.8rem;
+    background: #f3f4f6;
+    color: #666;
+}
+
+.option-card strong { font-size: 1.1rem; color: #333; }
+
+/* FEEDBACK MODAL */
+.modal {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.8); z-index: 100;
+    display: flex; align-items: center; justify-content: center;
+}
+.modal.hidden { display: none; }
+.modal-content {
+    background: white; padding: 30px; border-radius: 16px; max-width: 500px; text-align: center;
+    animation: popIn 0.3s;
+}
+.modal-content i { font-size: 4rem; margin-bottom: 15px; }
+.modal.correct i { color: #22c55e; }
+.modal.wrong i { color: #ef4444; }
+
+.btn-modal { background: #333; color: white; padding: 10px 25px; border-radius: 20px; border:none; cursor: pointer; font-weight: bold; margin-top: 20px; }
+
+/* FINAL SCREEN & SUMMARY */
+.final-screen {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(255,255,255,0.95); z-index: 200;
+    display: flex; align-items: center; justify-content: center;
+}
+.final-screen.hidden { display: none; }
+
+.final-content {
+    background: white; padding: 40px; border-radius: 20px; border: 2px solid #9333ea;
+    max-width: 600px; width: 90%; text-align: center;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.2);
+    max-height: 90vh; overflow-y: auto; /* Scroll si el resumen es largo */
+}
+
+.trophy-icon { font-size: 5rem; color: #F5A623; margin-bottom: 20px; }
+
+.summary-list { margin: 20px 0; text-align: left; border: 1px solid #eee; border-radius: 8px; padding: 10px; }
+.sum-item { padding: 10px; border-bottom: 1px solid #eee; font-size: 0.9rem; }
+.sum-item:last-child { border-bottom: none; }
+.sum-item.ok { color: #16a34a; }
+.sum-item.bad { color: #ef4444; }
+
+.final-actions { display: flex; gap: 15px; justify-content: center; margin-top: 25px; }
+.btn-restart { background: #3b82f6; color: white; padding: 10px 20px; border-radius: 8px; border:none; cursor: pointer; }
+.btn-ranking { background: #F5A623; color: white; padding: 10px 20px; border-radius: 8px; border:none; cursor: pointer; }
+
+@keyframes popIn { from { transform: scale(0.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+@media (max-width: 600px) {
+    .options-grid { grid-template-columns: 1fr; }
+}
+/* ... (MANTÉN TODO LO ANTERIOR) ... */
+
+/* --- ESTILOS DEL RESUMEN FINAL --- */
+.summary-list {
+    margin: 20px 0;
+    text-align: left;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 15px;
+    background: #f8fafc;
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+.sum-card {
+    background: white;
+    border: 1px solid #eee;
+    border-left-width: 5px; /* Borde grueso de color */
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+}
+
+.sum-card.correct { border-left-color: #22c55e; }
+.sum-card.wrong { border-left-color: #ef4444; }
+
+.sum-q {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 8px;
+    font-size: 0.95rem;
+}
+
+.sum-detail {
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.sum-detail i { font-size: 1rem; }
+
+.user-ans { color: #ef4444; text-decoration: line-through; }
+.correct-ans { color: #16a34a; font-weight: 600; }
+
+.sum-why {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px dashed #eee;
+    font-size: 0.85rem;
+    color: #666;
+    font-style: italic;
+}
+.sum-why strong { color: #9333ea; } /* Color morado para destacar "Por qué" */
+
+/* AJUSTE PANTALLA FINAL */
+.final-content {
+    text-align: center; /* Centrar título */
+    max-width: 700px; /* Un poco más ancho para leer bien */
+}
