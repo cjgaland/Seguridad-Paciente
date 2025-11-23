@@ -1,0 +1,157 @@
+/* ==========================================
+   ESTILOS: BUZÓN DE SEGURIDAD (CIUDADANÍA)
+   ========================================== */
+
+.sim-container {
+    display: flex;
+    gap: 30px;
+    max-width: 1100px;
+    margin: 20px auto;
+    align-items: flex-start;
+}
+
+/* --- COLUMNA IZQUIERDA --- */
+.sim-context {
+    flex: 1;
+    min-width: 300px;
+}
+
+.case-selector-box {
+    background: #10b981; /* Verde Ciudadano */
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    color: white;
+}
+.case-selector-box label { display: block; margin-bottom: 8px; font-weight: 600; }
+.case-dropdown { width: 100%; padding: 10px; border-radius: 6px; border: none; font-size: 1rem; cursor: pointer; }
+
+.context-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    border-left: 5px solid #10b981;
+    margin-bottom: 20px;
+}
+.context-card h3 { margin-top: 0; color: #333; font-size: 1.2rem; }
+.scenario-text {
+    background: #ecfdf5; /* Fondo verde muy suave */
+    padding: 15px; border-radius: 8px; font-style: italic; color: #444; border: 1px dashed #6ee7b7; margin: 15px 0;
+}
+.instruction { font-weight: 600; color: #047857; }
+
+.tips-box {
+    background: #f0fdf4; padding: 20px; border-radius: 12px; border: 1px solid #bbf7d0; margin-top: 20px;
+}
+.tips-box h4 { margin-top: 0; color: #15803d; }
+.tips-box ul { padding-left: 20px; color: #555; margin-bottom: 0; }
+.tips-box li { margin-bottom: 5px; }
+
+/* --- COLUMNA DERECHA --- */
+.sim-form-wrapper {
+    flex: 1.5;
+    background: white; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); overflow: hidden; border: 1px solid #e5e7eb; position: relative;
+}
+
+.form-header {
+    background: #f8fafc; padding: 15px 25px; border-bottom: 1px solid #e2e8f0; display: flex; align-items: center; gap: 15px; font-weight: 600; color: #475569;
+}
+.sim-form { padding: 30px; }
+.form-group { margin-bottom: 20px; }
+.form-group label { display: block; font-weight: 600; color: #333; margin-bottom: 8px; }
+
+input, select, textarea {
+    width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.95rem; font-family: inherit; box-sizing: border-box;
+}
+
+.form-divider { border: 0; border-top: 1px solid #e2e8f0; margin: 25px 0; }
+
+/* --- GRID CLASIFICACIÓN (2 Columnas Grandes) --- */
+.radio-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+.radio-card {
+    display: flex; align-items: center; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; cursor: pointer; transition: all 0.2s; background: #fff;
+}
+.radio-card:hover { transform: translateY(-2px); box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+.radio-card input { margin-right: 10px; }
+.card-content { display: flex; flex-direction: column; }
+.card-content strong { font-size: 1rem; color: #333; display: block; margin-bottom: 2px; }
+.card-content span { font-size: 0.8rem; color: #666; }
+
+/* Colores Activos (Verde y Rojo para ciudadanos) */
+.radio-card.l-cuasi:has(input:checked) { background: #dcfce7; border-color: #10b981; box-shadow: 0 0 0 1px #10b981; }
+.radio-card.l-leve:has(input:checked) { background: #fee2e2; border-color: #ef4444; box-shadow: 0 0 0 1px #ef4444; }
+
+/* --- FEEDBACK & BOTONES --- */
+.feedback-msg { font-size: 0.9rem; margin-top: 5px; min-height: 1.2em; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+.feedback-msg.error { color: #dc2626; }
+.feedback-msg.ok { color: #16a34a; }
+
+.btn-submit { width: 100%; background: #10b981; color: white; padding: 12px; border: none; border-radius: 6px; font-size: 1rem; font-weight: bold; cursor: pointer; margin-top: 20px; }
+.btn-submit:hover { background: #059669; }
+
+/* --- PANTALLA DE ÉXITO --- */
+.success-screen { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: white; display: flex; align-items: center; justify-content: center; z-index: 10; }
+.success-screen.hidden { display: none; }
+.success-content { text-align: center; padding: 40px; max-width: 400px; width: 100%; }
+.success-content i { font-size: 5rem; color: #10b981; margin-bottom: 20px; }
+.success-content h3 { color: #333; margin-bottom: 10px; }
+.learning-point { background: #ecfdf5; color: #065f46; padding: 15px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #10b981; }
+
+.final-actions { display: flex; justify-content: center; gap: 15px; margin-top: 25px; width: 100%; }
+.btn-restart { padding: 12px 20px; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.95rem; transition: transform 0.2s; flex: 1; color: white; }
+.btn-restart:hover { transform: translateY(-2px); opacity: 0.9; }
+
+@media (max-width: 900px) {
+    .sim-container { flex-direction: column; }
+    .radio-grid { grid-template-columns: 1fr; }
+}
+
+/* --- AVISO SIMULADOR vs REAL --- */
+.alert-box-real {
+    margin-top: 25px;
+    background: #fffbeb; /* Fondo amarillo muy claro */
+    border: 2px solid #fcd34d; /* Borde amarillo */
+    border-radius: 12px;
+    padding: 20px;
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.alert-icon {
+    font-size: 1.8rem;
+    color: #d97706; /* Icono ámbar */
+    margin-top: 5px;
+}
+
+.alert-content strong {
+    color: #92400e;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+}
+
+.alert-content p {
+    font-size: 0.9rem;
+    color: #78350f;
+    margin: 0 0 10px 0;
+    line-height: 1.4;
+}
+
+.btn-official {
+    display: inline-block;
+    background: #d97706;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    transition: background 0.2s;
+}
+
+.btn-official:hover {
+    background: #b45309;
+}

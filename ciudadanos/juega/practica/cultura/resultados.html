@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados · Ciudadanía</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+    <link rel="stylesheet" href="../../../../css/style.css">
+    <link rel="stylesheet" href="resultados.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-chart-pie" style="color:#10b981;"></i> La Voz de los Pacientes</h2>
+            <div class="actions">
+                <a href="autotest.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Volver</a>
+            </div>
+        </div>
+
+        <div class="filters-bar">
+            <div class="filter-group">
+                <label><i class="fa-solid fa-filter"></i> Perfil:</label>
+                <select id="filter-role">
+                    <option value="all">Todos</option>
+                    <option value="paciente">Pacientes</option>
+                    <option value="familiar">Familiares</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label><i class="fa-solid fa-location-dot"></i> Lugar:</label>
+                <select id="filter-scope">
+                    <option value="all">Todos</option>
+                    <option value="hospital">Hospital</option>
+                    <option value="urgencias">Urgencias</option>
+                    <option value="consultas">Consultas</option>
+                    <option value="centro_salud">C. Salud</option>
+                </select>
+            </div>
+            <button id="btn-reset-filters" class="btn-reset-filters"><i class="fa-solid fa-rotate-right"></i></button>
+        </div>
+
+        <div class="dashboard-top-section">
+            
+            <div class="kpi-column">
+                <div class="kpi-card">
+                    <div class="kpi-icon"><i class="fa-solid fa-users"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-value" id="total-responses">0</span>
+                        <span class="kpi-label">Encuestas</span>
+                    </div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-icon"><i class="fa-solid fa-heart-pulse"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-value" id="global-score">0.0</span>
+                        <span class="kpi-label">Media Global</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chart-card profile-chart">
+                <h3><i class="fa-solid fa-hospital-user"></i> Perfil de Participación</h3>
+                <div class="chart-box medium">
+                    <canvas id="chart-perfil"></canvas>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="charts-container">
+            
+            <div class="chart-card">
+                <h3><i class="fa-solid fa-layer-group"></i> Valoración por Temas</h3>
+                <div class="chart-box">
+                    <canvas id="chart-bloques"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <h3><i class="fa-solid fa-list-check"></i> Detalle por Pregunta</h3>
+                <div class="chart-tabs">
+                    <button class="chart-tab active" data-block="0">Comunicación</button>
+                    <button class="chart-tab" data-block="1">Higiene</button>
+                    <button class="chart-tab" data-block="2">Participación</button>
+                </div>
+                <div class="chart-box">
+                    <canvas id="chart-detalle"></canvas>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script type="module" src="resultados.js"></script>
+</body>
+</html>
