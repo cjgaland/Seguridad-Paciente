@@ -1,0 +1,118 @@
+/* ==========================================
+   ESTILOS: MEDICACIÓN SEGURA (FLIP CARDS)
+   ========================================== */
+
+.main-intro { max-width: 800px; margin: 0 auto 30px; color: #555; font-size: 1.1rem; }
+
+.section-title {
+    margin-top: 40px; margin-bottom: 20px; color: #475569; font-size: 1.3rem; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;
+}
+.section-title i { margin-right: 10px; color: #3b82f6; }
+
+/* --- GRID --- */
+.flip-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    perspective: 1000px; /* Necesario para el efecto 3D */
+}
+
+/* --- FLIP CARD (CONTENEDOR) --- */
+.flip-card {
+    background-color: transparent;
+    height: 220px; /* Altura fija para que giren bien */
+    cursor: pointer;
+}
+
+/* EL INTERIOR QUE GIRA */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    border-radius: 16px;
+}
+
+/* Efecto al pasar ratón (Desktop) o clase .flipped (Móvil) */
+.flip-card:hover .flip-card-inner, 
+.flip-card.flipped .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* CARAS (FRENTE Y DORSO) */
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #e5e7eb;
+}
+
+/* FRENTE */
+.flip-card-front {
+    background-color: white;
+    color: #333;
+}
+
+.flip-card-front i { font-size: 3.5rem; margin-bottom: 15px; }
+.flip-card-front h4 { margin: 0; font-size: 1.2rem; font-weight: 700; }
+
+/* Colores Temáticos Frente */
+.front-blue i { color: #3b82f6; }
+.front-blue h4 { color: #1e3a8a; }
+
+.front-orange i { color: #f97316; }
+.front-orange h4 { color: #c2410c; }
+
+/* DORSO (RESPUESTA) */
+.flip-card-back {
+    background-color: #333;
+    color: white;
+    transform: rotateY(180deg);
+    background: linear-gradient(135deg, #475569 0%, #1e293b 100%);
+}
+
+.flip-card-back p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* --- CAJA CONSEJO FINAL --- */
+.tips-box {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    border-radius: 16px;
+    padding: 25px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.tip-icon {
+    width: 60px; height: 60px;
+    background: #dcfce7; color: #16a34a;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.8rem;
+    flex-shrink: 0;
+}
+
+.tip-content h4 { margin: 0 0 5px 0; color: #166534; font-size: 1.1rem; }
+.tip-content p { margin: 0; color: #333; font-size: 0.95rem; }
+
+@media (max-width: 600px) {
+    .tips-box { flex-direction: column; text-align: center; }
+}

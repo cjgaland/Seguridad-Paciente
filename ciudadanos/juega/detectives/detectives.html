@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Juego · Detectives del Hogar</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    
+    <link rel="stylesheet" href="../../../../css/style.css">
+    <link rel="stylesheet" href="detectives.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" alt="Logo Estrategia" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" alt="Logo Consejería" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-magnifying-glass" style="color:#f97316;"></i> Detectives del Hogar</h2>
+
+            <a href="../juega.html" class="btn-home">
+                <i class="fa-solid fa-gamepad"></i> Volver
+            </a>
+        </div>
+
+        <div id="game-root"></div>
+
+        <footer class="sp-footer">
+            Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+        </footer>
+        
+    </main>
+
+    <script type="module">
+        import { initGame } from "./detectives.js";
+        import { saveScore } from "../../../../js/core/scores.js";
+
+        // Configuración de guardado para Ciudadanos
+        function saveScoreFirebase(escenario, puntos, tiempo) {
+            const jugador = localStorage.getItem("jugador-sp") || "Detective";
+            // Guardamos con el ID de juego "detectives"
+            return saveScore("detectives", escenario, jugador, puntos, tiempo);
+        }
+
+        // Iniciar
+        initGame({
+            root: document.getElementById("game-root"),
+            saveScoreFirebase
+        });
+    </script>
+
+</body>
+</html>

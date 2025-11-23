@@ -1,0 +1,155 @@
+/* ==========================================
+   ESTILOS: LA MOCHILA SEGURA
+   ========================================== */
+
+.game-info-bar {
+    background: white; padding: 15px 25px; border-radius: 12px;
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 20px; border: 1px solid #e5e7eb; box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.game-info-bar p { margin: 0; color: #555; }
+.score-box { font-size: 1.1rem; font-weight: bold; color: #9333ea; display: flex; gap: 20px; }
+
+.game-area {
+    display: flex; gap: 30px; min-height: 500px;
+}
+
+/* --- ESTANTERÍA (Izquierda) --- */
+.items-shelf {
+    flex: 1;
+    background: #f8fafc;
+    border: 2px dashed #cbd5e1;
+    border-radius: 16px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 15px;
+    align-content: start;
+}
+
+.item-card {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 15px 5px;
+    text-align: center;
+    cursor: grab;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+
+.item-card:hover { transform: scale(1.05); box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-color: #9333ea; }
+.item-card:active { cursor: grabbing; }
+
+.item-card i { font-size: 2rem; color: #64748b; }
+.item-card span { font-size: 0.8rem; font-weight: 600; color: #333; line-height: 1.2; }
+
+/* Clase mientras se arrastra */
+.item-card.dragging { opacity: 0.5; border: 2px dashed #9333ea; }
+
+/* --- MOCHILA (Derecha) --- */
+.backpack-zone {
+    flex: 1;
+    background: #f3e8ff;
+    border: 3px solid #d8b4fe;
+    border-radius: 16px;
+    position: relative;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+    transition: background 0.3s;
+}
+
+/* Efecto visual al arrastrar encima */
+.backpack-zone.drag-over { background: #dbeafe; border-color: #3b82f6; transform: scale(1.02); }
+
+.backpack-img {
+    text-align: center; padding-top: 40px; color: #9333ea; opacity: 0.3;
+    position: absolute; width: 100%; top: 20%; pointer-events: none;
+}
+.backpack-img i { font-size: 8rem; display: block; margin-bottom: 10px; }
+.backpack-img span { font-size: 1.5rem; font-weight: bold; }
+
+.backpack-contents {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 10px;
+    z-index: 2; /* Encima de la imagen de fondo */
+}
+
+/* Objetos dentro de la mochila (más pequeños) */
+.backpack-contents .item-card {
+    cursor: default; transform: none; background: #fff; border-color: #22c55e;
+}
+.backpack-contents .item-card i { color: #16a34a; font-size: 1.5rem; }
+
+/* --- MODAL FEEDBACK --- */
+.modal {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.7); z-index: 100;
+    display: flex; align-items: center; justify-content: center;
+}
+.modal.hidden { display: none; }
+.modal-content { background: white; padding: 30px; border-radius: 16px; max-width: 400px; text-align: center; animation: popIn 0.3s; }
+.modal-content i { font-size: 4rem; margin-bottom: 15px; }
+.modal.error i { color: #ef4444; }
+.modal.success i { color: #22c55e; }
+
+.btn-modal { background: #333; color: white; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; margin-top: 20px; }
+
+/* PANTALLA FINAL */
+.final-screen {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(255,255,255,0.95); z-index: 200;
+    display: flex; align-items: center; justify-content: center;
+}
+.final-screen.hidden { display: none; }
+.final-content { text-align: center; padding: 40px; border: 2px solid #10b981; border-radius: 20px; background: white; box-shadow: 0 20px 50px rgba(0,0,0,0.2); }
+.trophy-icon { font-size: 5rem; color: #F5A623; margin-bottom: 20px; }
+
+.final-actions { display: flex; gap: 15px; justify-content: center; margin-top: 25px; }
+.btn-restart { background: #3b82f6; color: white; padding: 10px 20px; border-radius: 8px; border:none; cursor: pointer; }
+.btn-ranking { background: #F5A623; color: white; padding: 10px 20px; border-radius: 8px; border:none; cursor: pointer; }
+
+@keyframes popIn { from { transform: scale(0.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+@media (max-width: 700px) {
+    .game-area { flex-direction: column; }
+    .items-shelf { min-height: 200px; }
+    .backpack-zone { min-height: 250px; }
+}
+/* --- RESUMEN FINAL (Informe) --- */
+.summary-container {
+    text-align: left;
+    margin: 20px 0;
+    max-height: 300px;
+    overflow-y: auto; /* Scroll si es muy largo */
+    padding-right: 10px;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 15px;
+    background: #f8fafc;
+}
+
+.summary-item {
+    padding: 10px;
+    border-bottom: 1px solid #e2e8f0;
+    font-size: 0.9rem;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+}
+.summary-item:last-child { border-bottom: none; }
+
+/* Estilos de estado */
+.summary-item.packed { border-left: 4px solid #16a34a; background: #f0fdf4; } /* Guardado (Bien) */
+.summary-item.mistake { border-left: 4px solid #ef4444; background: #fef2f2; } /* Error (Mal) */
+.summary-item.avoided { border-left: 4px solid #9ca3af; background: #f9fafb; opacity: 0.7; } /* Ignorado (Neutro) */
+
+.s-icon { font-size: 1.2rem; margin-top: 2px; }
+.packed .s-icon { color: #16a34a; }
+.mistake .s-icon { color: #ef4444; }
+.avoided .s-icon { color: #9ca3af; }
+
+.s-content strong { display: block; color: #333; margin-bottom: 2px; }
+.s-content p { margin: 0; color: #666; font-size: 0.85rem; font-style: italic; }
