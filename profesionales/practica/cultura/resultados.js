@@ -13,85 +13,161 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
+// CONFIGURACIÓN DE BLOQUES (Profesionales)
+// Mapeo exacto de las 8 preguntas del autotest.js de profesionales
+const BLOQUES_INFO = [
+    {
+        labels: ["1. Apoyo mutuo", "2. Hablar sin miedo", "3. Respeto profesional"],
+        indices: [0, 1, 2] // Trabajo en Equipo
+    },
+    {
+        labels: ["4. Prioridad Gerencia", "5. Supervisión escucha"],
+        indices: [3, 4] // Gerencia
+    },
+    {
+        labels: ["6. Aprender errores", "7. Medidas tras incidente"],
+        indices: [5, 6] // Aprendizaje
+    },
+    {
+        labels: ["8. Dotación personal"],
+        indices: [7] // Dotación
+    }
+];
+
+let allData = [];
+let currentAvgQ = new Array(8).fill(0); // 8 Preguntas
+let chartDetalleInstance = null;
+let chartBloquesInstance = null;
+let chartPerfilInstance = null;
+let activeBlockIndex = 0;
+
 document.addEventListener('DOMContentLoaded', () => {
-    console.log("Iniciando Dashboard...");
     loadData();
+
+    document.getElementById('filter-role').addEventListener('change', applyFilters);
+    document.getElementById('filter-scope').addEventListener('change', applyFilters);
+    document.getElementById('btn-reset-filters').addEventListener('click', resetFilters);
+
+    document.querySelectorAll('.chart-tab').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            document.querySelectorAll('.chart-tab').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            activeBlockIndex = parseInt(e.target.dataset.block);
+            renderDetalleChart();
+        });
+    });
 });
 
 async function loadData() {
     try {
+        // IMPORTANTE: Colección 'encuestas_cultura' (Profesionales)
         const querySnapshot = await getDocs(collection(db, "encuestas_cultura"));
         
-        if (querySnapshot.empty) {
-            document.getElementById('total-responses').textContent = "0";
-            return;
-        }
+        if (querySnapshot.empty) { updateKPIs(0, 0); return; }
 
-        const data = [];
+        allData = [];
         querySnapshot.forEach(doc => {
-            // Validación básica para evitar errores si hay datos corruptos
             const d = doc.data();
-            if (d.respuestas && d.perfil) data.push(d);
+            if (d.respuestas && d.perfil) allData.push(d);
         });
         
-        processData(data);
+        applyFilters();
 
     } catch (error) {
-        console.error("Error cargando datos:", error);
-        alert("Error leyendo datos. Verifica las Reglas de Firebase.");
+        console.error("Error:", error);
+        alert("Error cargando datos. Verifica permisos Firebase.");
     }
 }
 
-function processData(data) {
+function resetFilters() {
+    document.getElementById('filter-role').value = "all";
+    document.getElementById('filter-scope').value = "all";
+    applyFilters();
+}
+
+function applyFilters() {
+    const roleFilter = document.getElementById('filter-role').value;
+    const scopeFilter = document.getElementById('filter-scope').value;
+
+    const filteredData = allData.filter(d => {
+        const roleMatch = (roleFilter === 'all') || (d.perfil.categoria === roleFilter);
+        const scopeMatch = (scopeFilter === 'all') || (d.perfil.ambito === scopeFilter);
+        return roleMatch && scopeMatch;
+    });
+
+    processMetrics(filteredData);
+}
+
+function processMetrics(data) {
     const total = data.length;
+    
+    if (total === 0) {
+        updateKPIs(0, 0);
+        if(chartBloquesInstance) chartBloquesInstance.destroy();
+        if(chartDetalleInstance) chartDetalleInstance.destroy();
+        if(chartPerfilInstance) chartPerfilInstance.destroy();
+        return;
+    }
+
     let sumGlobal = 0;
-    let sumNotifica = 0;
-    const perfilesCount = {};
-    let sumBloque1 = 0, sumBloque2 = 0, sumBloque3 = 0;
+    const perfilCount = {};
+    
+    // Acumuladores para los 4 Bloques
+    let sumB1=0, sumB2=0, sumB3=0, sumB4=0;
+    
+    // Acumuladores para las 8 preguntas
+    const sumQ = new Array(8).fill(0);
 
     data.forEach(d => {
-        // KPIs
         sumGlobal += parseFloat(d.promedio || 0);
-        sumNotifica += parseFloat(d.bloque_notifica_avg || 0);
+        
+        // Perfil (Simplificar nombres para gráfico)
+        const cat = d.perfil.categoria;
+        const mapCat = {'medico':'Facul', 'enfermeria':'Enfer', 'tcae':'TCAE', 'celador':'Celad', 'admin':'Admin'};
+        let label = mapCat[cat] || 'Otro';
+        perfilCount[label] = (perfilCount[label] || 0) + 1;
 
-        // Perfiles
-        const cat = d.perfil.categoria || 'ns';
-        const labels = { 'medico': 'Facultativo', 'enfermeria': 'Enfermería', 'tcae': 'TCAE', 'celador': 'Celador', 'admin': 'Admin', 'ns': 'NS/NC', 'otro': 'Otro' };
-        const label = labels[cat] || cat;
-        perfilesCount[label] = (perfilesCount[label] || 0) + 1;
-
-        // Bloques
         const r = d.respuestas;
-        sumBloque1 += ((r.q0||0)+(r.q1||0)+(r.q2||0)+(r.q3||0))/4;
-        sumBloque2 += ((r.q4||0)+(r.q5||0)+(r.q6||0))/3;
-        sumBloque3 += ((r.q7||0)+(r.q8||0)+(r.q9||0))/3;
+
+        // Bloque 1 (3 items)
+        sumB1 += ((r.q0||0) + (r.q1||0) + (r.q2||0)) / 3;
+        // Bloque 2 (2 items)
+        sumB2 += ((r.q3||0) + (r.q4||0)) / 2;
+        // Bloque 3 (2 items)
+        sumB3 += ((r.q5||0) + (r.q6||0)) / 2;
+        // Bloque 4 (1 item)
+        sumB4 += (r.q7||0);
+
+        for(let i=0; i<8; i++) sumQ[i] += (r[`q${i}`] || 0);
     });
 
     const avgGlobal = (sumGlobal / total).toFixed(2);
-    const avgNotifica = (sumNotifica / total).toFixed(2);
+    const avgB1 = (sumB1 / total).toFixed(2);
+    const avgB2 = (sumB2 / total).toFixed(2);
+    const avgB3 = (sumB3 / total).toFixed(2);
+    const avgB4 = (sumB4 / total).toFixed(2);
     
-    const avgB1 = (sumBloque1 / total).toFixed(2);
-    const avgB2 = (sumBloque2 / total).toFixed(2);
-    const avgB3 = (sumBloque3 / total).toFixed(2);
+    currentAvgQ = sumQ.map(s => (s / total).toFixed(2));
 
-    // PINTAR KPIs
-    document.getElementById('total-responses').textContent = total;
-    document.getElementById('global-score').textContent = avgGlobal;
-    document.getElementById('notifica-score').textContent = avgNotifica;
-    
-    document.getElementById('global-score').style.color = avgGlobal >= 4 ? '#16a34a' : (avgGlobal >= 3 ? '#ea580c' : '#dc2626');
-    document.getElementById('notifica-score').style.color = avgNotifica >= 3 ? '#16a34a' : '#dc2626';
-
-    // PINTAR GRÁFICOS
-    renderChartPerfil(perfilesCount);
-    renderChartDimensiones(avgB1, avgB2, avgB3);
+    updateKPIs(total, avgGlobal);
+    renderPieChart(perfilCount);
+    renderBloquesChart(avgB1, avgB2, avgB3, avgB4);
+    renderDetalleChart();
 }
 
-function renderChartPerfil(counts) {
+function updateKPIs(total, avg) {
+    document.getElementById('total-responses').textContent = total;
+    const s = document.getElementById('global-score');
+    s.textContent = avg;
+    s.style.color = avg >= 4 ? '#10b981' : (avg >= 3 ? '#f59e0b' : '#ef4444');
+}
+
+function renderPieChart(counts) {
     const ctx = document.getElementById('chart-perfil');
     if(!ctx) return;
+    if(chartPerfilInstance) chartPerfilInstance.destroy();
 
-    new Chart(ctx.getContext('2d'), {
+    chartPerfilInstance = new Chart(ctx.getContext('2d'), {
         type: 'doughnut',
         data: {
             labels: Object.keys(counts),
@@ -101,38 +177,66 @@ function renderChartPerfil(counts) {
                 borderWidth: 1
             }]
         },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: { legend: { position: 'right' } }
-        }
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'right' } } }
     });
 }
 
-function renderChartDimensiones(b1, b2, b3) {
-    const ctx = document.getElementById('chart-dimensiones');
-    if(!ctx) return;
+function renderBloquesChart(v1, v2, v3, v4) {
+    const ctx = document.getElementById('chart-bloques');
+    if (!ctx) return;
+    if (chartBloquesInstance) chartBloquesInstance.destroy();
 
-    new Chart(ctx.getContext('2d'), {
+    chartBloquesInstance = new Chart(ctx.getContext('2d'), {
         type: 'bar',
         data: {
-            labels: ['Conocimiento NotificaSP', 'Aprendizaje', 'Clima Equipo'],
+            labels: ['Equipo', 'Gerencia', 'Aprendizaje', 'Dotación'],
             datasets: [{
-                label: 'Puntuación Media (1-5)',
-                data: [b1, b2, b3],
+                label: 'Puntuación (1-5)',
+                data: [v1, v2, v3, v4],
                 backgroundColor: [
-                    b1 >= 3 ? '#3b82f6' : '#ef4444',
-                    b2 >= 3 ? '#3b82f6' : '#ef4444',
-                    b3 >= 3 ? '#3b82f6' : '#ef4444'
+                    v1>=3?'#3b82f6':'#ef4444', 
+                    v2>=3?'#3b82f6':'#ef4444', 
+                    v3>=3?'#3b82f6':'#ef4444',
+                    v4>=3?'#3b82f6':'#ef4444'
                 ],
                 borderRadius: 5
             }]
         },
         options: {
-            responsive: true,
-            maintainAspectRatio: false,
+            responsive: true, maintainAspectRatio: false,
             scales: { y: { beginAtZero: true, max: 5 } },
             plugins: { legend: { display: false } }
+        }
+    });
+}
+
+function renderDetalleChart() {
+    const ctx = document.getElementById('chart-detalle');
+    if (!ctx) return;
+    if (chartDetalleInstance) chartDetalleInstance.destroy();
+
+    const config = BLOQUES_INFO[activeBlockIndex];
+    const blockData = config.indices.map(idx => currentAvgQ[idx]);
+    const colors = blockData.map(v => v >= 4 ? '#10b981' : (v >= 3 ? '#f59e0b' : '#ef4444'));
+
+    chartDetalleInstance = new Chart(ctx.getContext('2d'), {
+        type: 'bar',
+        data: {
+            labels: config.labels,
+            datasets: [{
+                label: 'Media',
+                data: blockData,
+                backgroundColor: colors,
+                borderRadius: 5,
+                barPercentage: 0.6
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            responsive: true, maintainAspectRatio: false,
+            scales: { x: { beginAtZero: true, max: 5 }, y: { grid: { display: false } } },
+            plugins: { legend: { display: false } },
+            animation: { duration: 500 }
         }
     });
 }
