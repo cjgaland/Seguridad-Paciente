@@ -1,5 +1,5 @@
-// CONFIGURACIÓN GEMINI
-const API_KEY = "AIzaSyApo-xDBt03bb7cHgBWavJEoluHrGYjR80";
+// IMPORTAMOS LA CLAVE DESDE EL ARCHIVO DE CONFIGURACIÓN CENTRAL
+import { GEMINI_API_KEY } from "../../../js/config.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('btnTraducir');
@@ -52,7 +52,8 @@ document.addEventListener('DOMContentLoaded', () => {
 async function consultarGemini(textoUsuario) {
     // MODELO 2.0 FLASH
     const MODEL_NAME = "gemini-2.0-flash";
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${API_KEY}`;
+    // USAMOS LA VARIABLE IMPORTADA GEMINI_API_KEY
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
 
     // PROMPT DE "ENFERMERO AMABLE"
     const promptSistema = `
@@ -84,6 +85,7 @@ async function consultarGemini(textoUsuario) {
     });
 
     if (!response.ok) {
+        // Captura de errores mejorada
         const errorData = await response.json().catch(() => ({}));
         const mensajeError = errorData.error?.message || response.statusText;
         throw new Error(`API Error ${response.status}: ${mensajeError}`);
