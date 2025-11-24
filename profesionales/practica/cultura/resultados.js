@@ -123,7 +123,7 @@ function processMetrics(data) {
         
         // Perfil (Simplificar nombres para gráfico)
         const cat = d.perfil.categoria;
-        const mapCat = {'medico':'Facul', 'enfermeria':'Enfer', 'tcae':'TCAE', 'celador':'Celad', 'admin':'Admin'};
+        const mapCat = {'medico':'Faculativo', 'enfermeria':'Enfermería', 'tcae':'TCAE', 'celador':'Celador', 'admin':'Administrativo'};
         let label = mapCat[cat] || 'Otro';
         perfilCount[label] = (perfilCount[label] || 0) + 1;
 
