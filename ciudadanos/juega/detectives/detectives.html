@@ -6,8 +6,8 @@
 
     <title>Juego · Detectives del Hogar</title>
 
-    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
-    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
     
     <link rel="stylesheet" href="../../../css/style.css">
     <link rel="stylesheet" href="detectives.css">
@@ -18,9 +18,9 @@
 <body>
 
     <header class="sp-header">
-        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" alt="Logo Estrategia" class="sp-logo">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" alt="Logo Estrategia" class="sp-logo">
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
-        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" alt="Logo Consejería" class="sp-logo-right">
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" alt="Logo Consejería" class="sp-logo-right">
     </header>
 
     <main class="sp-main">
@@ -43,7 +43,8 @@
 
     <script type="module">
         import { initGame } from "./detectives.js";
-        import { saveScore } from "../../../../js/core/scores.js";
+        // CORREGIDO: Ruta a scores.js (3 niveles)
+        import { saveScore } from "../../../js/core/scores.js";
 
         // Configuración de guardado para Ciudadanos
         function saveScoreFirebase(escenario, puntos, tiempo) {
