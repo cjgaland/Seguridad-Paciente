@@ -1,5 +1,4 @@
 import { OBJETOS } from './mochila_data.js';
-// CORREGIDO: 3 niveles (../../../)
 import { saveScore } from '../../../js/core/scores.js';
 
 document.addEventListener('DOMContentLoaded', () => {
