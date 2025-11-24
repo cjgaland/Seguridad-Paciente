@@ -1,5 +1,5 @@
-import { CASOS } from 'data.js';
-import { saveScore } from '../../../../js/core/scores.js';
+import { CASOS } from './data.js';
+import { saveScore } from '../../../js/core/scores.js';
 
 // Variables globales
 window.checkAnswer = checkAnswer;
