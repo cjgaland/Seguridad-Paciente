@@ -1,5 +1,5 @@
 import { OBJETOS } from './mochila_data.js';
-import { saveScore } from '../../../../js/core/scores.js';
+import { saveScore } from '../../../js/core/scores.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const shelf = document.getElementById('shelf');
