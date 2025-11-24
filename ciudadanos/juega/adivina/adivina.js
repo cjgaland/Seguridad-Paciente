@@ -1,5 +1,5 @@
 import { PREGUNTAS } from './adivina_data.js';
-import { saveScore } from '../../../../js/core/scores.js';
+import { saveScore } from '../../../js/core/scores.js';
 
 let currentRound = 0;
 let score = 0;
