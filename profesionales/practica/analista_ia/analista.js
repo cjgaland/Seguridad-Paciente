@@ -1,7 +1,5 @@
-// ==========================================
-//   CONFIGURACIÓN GEMINI (PROFESIONALES)
-// ==========================================
-const API_KEY = "AIzaSyApo-xDBt03bb7cHgBWavJEoluHrGYjR80";
+// --- CAMBIO CLAVE: Importamos desde config.js ---
+import { GEMINI_API_KEY } from "../../../js/config.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('btnAnalizar');
@@ -43,23 +41,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
         } catch (error) {
             console.error("Error completo:", error);
-            // Mostramos el error técnico exacto para depurar si hiciera falta
-            alert(`Error de conexión: ${error.message}`);
+            alert(`Error de conexión con IA: ${error.message}`);
         } finally {
             btn.disabled = false;
-            btn.innerHTML = '<i class="fa-solid fa-wand-magic-sparkles"></i> Analizar con IA';
+            btn.innerHTML = '<i class="fa-solid fa-wand-magic-sparkles"></i> Analizar Incidente con IA';
         }
     });
 });
 
 async function consultarGemini(descripcionIncidente) {
-    // USAMOS EL MODELO EXACTO QUE TE HA DADO GOOGLE AI STUDIO
     const MODEL_NAME = "gemini-2.0-flash";
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${API_KEY}`;
+    // --- CAMBIO CLAVE: Usamos la variable importada ---
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
 
     const promptSistema = `
         Actúa como un Experto en Calidad Asistencial y Seguridad del Paciente.
         Analiza la siguiente notificación de incidente sanitario.
+        Por favor responde en español de España.
         
         Devuelve un análisis técnico estructurado en formato Markdown con estos 3 apartados:
         1. **Clasificación del Incidente:** (Incidente sin daño, Evento Adverso o Centinela) y justificación.

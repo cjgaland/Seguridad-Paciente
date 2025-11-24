@@ -1,7 +1,5 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
 import { getFirestore, collection, getDocs } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
-// IMPORTAMOS LA CLAVE DESDE EL ARCHIVO DE CONFIGURACIÓN
-import { GEMINI_API_KEY } from "../../../js/config.js";
 
 const firebaseConfig = {
     apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
@@ -16,6 +14,7 @@ const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
 // CONFIGURACIÓN DE BLOQUES (Profesionales)
+// Mapeo exacto de las 8 preguntas del autotest.js de profesionales
 const BLOQUES_INFO = [
     {
         labels: ["1. Apoyo mutuo", "2. Hablar sin miedo", "3. Respeto profesional"],
@@ -57,16 +56,11 @@ document.addEventListener('DOMContentLoaded', () => {
             renderDetalleChart();
         });
     });
-
-    // LISTENER PARA EL ANÁLISIS IA
-    const btnIA = document.getElementById('btn-analizar-ia');
-    if(btnIA) {
-        btnIA.addEventListener('click', generarAnalisisIA);
-    }
 });
 
 async function loadData() {
     try {
+        // IMPORTANTE: Colección 'encuestas_cultura' (Profesionales)
         const querySnapshot = await getDocs(collection(db, "encuestas_cultura"));
         
         if (querySnapshot.empty) { updateKPIs(0, 0); return; }
@@ -118,21 +112,30 @@ function processMetrics(data) {
     let sumGlobal = 0;
     const perfilCount = {};
     
+    // Acumuladores para los 4 Bloques
     let sumB1=0, sumB2=0, sumB3=0, sumB4=0;
+    
+    // Acumuladores para las 8 preguntas
     const sumQ = new Array(8).fill(0);
 
     data.forEach(d => {
         sumGlobal += parseFloat(d.promedio || 0);
         
+        // Perfil (Simplificar nombres para gráfico)
         const cat = d.perfil.categoria;
-        const mapCat = {'medico':'Facul', 'enfermeria':'Enfer', 'tcae':'TCAE', 'celador':'Celad', 'admin':'Admin'};
+        const mapCat = {'medico':'Faculativo', 'enfermeria':'Enfermería', 'tcae':'TCAE', 'celador':'Celador', 'admin':'Administrativo'};
         let label = mapCat[cat] || 'Otro';
         perfilCount[label] = (perfilCount[label] || 0) + 1;
 
         const r = d.respuestas;
+
+        // Bloque 1 (3 items)
         sumB1 += ((r.q0||0) + (r.q1||0) + (r.q2||0)) / 3;
+        // Bloque 2 (2 items)
         sumB2 += ((r.q3||0) + (r.q4||0)) / 2;
+        // Bloque 3 (2 items)
         sumB3 += ((r.q5||0) + (r.q6||0)) / 2;
+        // Bloque 4 (1 item)
         sumB4 += (r.q7||0);
 
         for(let i=0; i<8; i++) sumQ[i] += (r[`q${i}`] || 0);
@@ -236,136 +239,4 @@ function renderDetalleChart() {
             animation: { duration: 500 }
         }
     });
-}
-
-// ==========================================
-//  MÓDULO DE INTELIGENCIA ARTIFICIAL
-// ==========================================
-
-async function generarAnalisisIA() {
-    const totalEncuestas = document.getElementById('total-responses').textContent;
-    const notaGlobal = document.getElementById('global-score').textContent;
-    const filtroRol = document.getElementById('filter-role').selectedOptions[0].text;
-    const filtroAmbito = document.getElementById('filter-scope').selectedOptions[0].text;
-    
-    const datosContexto = `
-        DATOS DE LA ENCUESTA MOSPS:
-        - Total encuestas: ${totalEncuestas}
-        - Filtro: ${filtroRol} en ${filtroAmbito}
-        - Nota Global: ${notaGlobal}/5.0
-    `;
-
-    // PROMPT MODIFICADO PARA SOLICITAR HTML ESTRICTO
-    const prompt = `
-        Actúa como un Experto en Calidad Asistencial.
-        Analiza estos datos: ${datosContexto}
-        
-        IMPORTANTE: NO RESPONDAS EN MARKDOWN. RESPONDE SOLO CON CÓDIGO HTML.
-        Usa EXACTAMENTE esta estructura HTML para que el diseño CSS funcione:
-
-        <div class="dafo-grid">
-            <div class="dafo-box fortalezas">
-                <h3>FORTALEZAS</h3>
-                <ul>
-                    <li>(Punto fuerte detectado 1)</li>
-                    <li>(Punto fuerte detectado 2)</li>
-                </ul>
-            </div>
-
-            <div class="dafo-box debilidades">
-                <h3>DEBILIDADES</h3>
-                <ul>
-                    <li>(Área débil detectada 1)</li>
-                    <li>(Área débil detectada 2)</li>
-                </ul>
-            </div>
-
-            <div class="dafo-box oportunidades">
-                <h3>OPORTUNIDADES</h3>
-                <ul>
-                    <li>(Oportunidad de mejora 1)</li>
-                    <li>(Oportunidad de mejora 2)</li>
-                </ul>
-            </div>
-
-            <div class="dafo-box amenazas">
-                <h3>AMENAZAS</h3>
-                <ul>
-                    <li>(Riesgo externo o latente 1)</li>
-                    <li>(Riesgo externo o latente 2)</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="mejora-box">
-            <h3>ACCIONES DE MEJORA INMEDIATA</h3>
-            <ul>
-                <li><strong>Acción 1:</strong> Descripción breve.</li>
-                <li><strong>Acción 2:</strong> Descripción breve.</li>
-                <li><strong>Acción 3:</strong> Descripción breve.</li>
-            </ul>
-        </div>
-
-        <div class="conclusion-box">
-            (Escribe aquí tu recomendación final en una sola frase centrada e impactante).
-        </div>
-
-        Rellena el contenido analizando los datos reales aportados. Sé profesional y directo.
-    `;
-
-    // UI Loading
-    document.getElementById('ia-loading').style.display = 'block';
-    document.getElementById('ia-result').style.display = 'none';
-    document.getElementById('ia-disclaimer').style.display = 'none';
-    const btn = document.getElementById('btn-analizar-ia');
-    btn.disabled = true;
-
-    try {
-        const respuestaHTML = await consultarGeminiAPI(prompt);
-        
-        const resultDiv = document.getElementById('ia-result');
-        
-        // --- CAMBIO: INYECTAMOS HTML DIRECTAMENTE (SIN MARKED) ---
-        // Limpiamos posibles bloques de código ```html que a veces pone la IA
-        const htmlLimpio = respuestaHTML.replace(/```html/g, '').replace(/```/g, '');
-        resultDiv.innerHTML = htmlLimpio;
-        
-        document.getElementById('ia-loading').style.display = 'none';
-        resultDiv.style.display = 'block';
-        document.getElementById('ia-disclaimer').style.display = 'block';
-        
-    } catch (error) {
-        console.error("Detalles del error:", error);
-        alert(`No se pudo generar el informe.\n\nMotivo: ${error.message}`);
-        document.getElementById('ia-loading').style.display = 'none';
-    } finally {
-        btn.disabled = false;
-    }
-}
-
-async function consultarGeminiAPI(promptTexto) {
-    const MODEL_NAME = "gemini-2.0-flash";
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
-
-    const response = await fetch(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-            contents: [{ parts: [{ text: promptTexto }] }]
-        })
-    });
-
-    if (!response.ok) {
-        const errorData = await response.json().catch(() => null);
-        const errorMessage = errorData?.error?.message || response.statusText;
-        throw new Error(`Error ${response.status}: ${errorMessage}`);
-    }
-
-    const json = await response.json();
-    
-    if (!json.candidates || json.candidates.length === 0) {
-        throw new Error("La IA no devolvió contenido (Respuesta vacía).");
-    }
-
-    return json.candidates[0].content.parts[0].text;
 }
