@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aprende · Seguridad del Paciente</title>
 
-    <!-- Favicons -->
     <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
     <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
     <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
@@ -56,9 +55,11 @@
             font-size: 3rem;
             color: #9ca3af;
         }
+        /* Colores de las tarjetas */
         .card-header.blue { background: #e0f2fe; color: #3b82f6; }
         .card-header.green { background: #dcfce7; color: #16a34a; }
         .card-header.purple { background: #f3e8ff; color: #9333ea; }
+        .card-header.orange { background: #ffedd5; color: #ea580c; } /* Nuevo color para el Chatbot */
 
         .card-body {
             padding: 20px;
@@ -106,7 +107,6 @@
 
     <div class="sp-layout">
         
-        <!-- SIDEBAR -->
         <aside class="sidebar">
             <div class="sidebar-header">
                 <i class="fa-solid fa-graduation-cap"></i>
@@ -120,19 +120,20 @@
                         Disponibles
                     </div>
                     
-                    <!-- Aprende 1: Lavado de manos -->
                     <a href="manos/manos.html" class="sidebar-btn" style="text-decoration:none;">
                         <i class="fa-solid fa-hands-bubbles"></i> Lavado de manos
                     </a>
 
-                    <!-- Aprende 2: Uso correcto del EPI -->
                     <a href="epis/epis.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
                         <i class="fa-solid fa-head-side-mask"></i> Uso correcto del EPI
                     </a>
 
-                    <!-- Aprende 3: Casos Clínicos -->
                     <a href="casos/casos.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
                         <i class="fa-solid fa-user-injured"></i> Casos Clínicos Interactivos
+                    </a>
+                    
+                    <a href="../aprende/chtatbot/chatbot.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-robot"></i> Asistente de Seguridad
                     </a>
 
                 </div>
@@ -150,7 +151,7 @@
             </nav>
         </aside>
 
-                <main class="main-content">
+        <main class="main-content">
             <div class="top-bar">
                 <h2>Recursos Formativos Interactivos</h2>
             </div>
@@ -161,7 +162,6 @@
 
             <div class="learn-grid">
                 
-                <!-- RECURSO 1: MANOS (ACTIVO) -->
                 <article class="learn-card">
                     <div class="card-header blue">
                         <i class="fa-solid fa-hands-bubbles"></i>
@@ -173,7 +173,6 @@
                     </div>
                 </article>
 
-                <!-- RECURSO 2: EPIS (activos) -->
                 <article class="learn-card">
                     <div class="card-header green">
                         <i class="fa-solid fa-head-side-mask"></i>
@@ -185,7 +184,6 @@
                     </div>
                 </article>
 
-                <!-- RECURSO 3: CASOS (activo) -->
                 <article class="learn-card">
                     <div class="card-header purple">
                         <i class="fa-solid fa-user-injured"></i>
@@ -194,6 +192,17 @@
                         <h3>Casos Clínicos Interactivos</h3>
                         <p>Toma decisiones en escenarios reales y aprende de las consecuencias en un entorno seguro.</p>
                         <a href="casos/casos.html" class="btn-learn">Entrar <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="learn-card">
+                    <div class="card-header orange">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <div class="card-body">
+                        <h3>Asistente de Seguridad IA</h3>
+                        <p>¿Dudas sobre un procedimiento? Consulta nuestra base de conocimiento oficial y obtén respuestas inmediatas.</p>
+                        <a href="../aprende/chtatbot/chatbot.html" class="btn-learn">Consultar <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </article>
 

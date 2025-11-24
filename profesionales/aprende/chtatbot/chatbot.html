@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente Virtual · Seguridad del Paciente</title>
+    
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="chatbot.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-robot" style="color:#3b82f6;"></i> Asistente de Protocolos (IA)</h2>
+            <a href="../practica.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Salir</a>
+        </div>
+
+        <div class="chat-container">
+            <div id="chat-history" class="chat-history">
+                <div class="message bot-message">
+                    <div class="msg-icon"><i class="fa-solid fa-robot"></i></div>
+                    <div class="msg-content">
+                        Hola, compañero. Soy tu asistente virtual especializado en Seguridad del Paciente.<br><br>
+                        Tengo acceso a la documentación oficial de la Estrategia y la OMS. <strong>¿Qué duda sobre protocolos o procedimientos tienes?</strong>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <textarea id="user-input" placeholder="Pregunta algo (ej: ¿Cuáles son los 5 momentos de higiene de manos?)..."></textarea>
+                <button id="btn-send" class="btn-send"><i class="fa-solid fa-paper-plane"></i></button>
+            </div>
+            
+            <div class="disclaimer">
+                * Las respuestas se basan estrictamente en la documentación cargada. Verifica siempre con la guía oficial en caso de duda clínica crítica.
+            </div>
+        </div>
+
+    </main>
+
+    <script type="module" src="chatbot.js"></script>
+</body>
+</html>
