@@ -1,4 +1,5 @@
 import { CASOS } from './data.js';
+// CORRECCIÓN: Solo 3 niveles de subida para llegar a la raíz (juega -> ciudadanos -> raiz)
 import { saveScore } from '../../../js/core/scores.js';
 
 // Variables globales
