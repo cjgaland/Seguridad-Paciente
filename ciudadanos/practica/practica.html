@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Participa · Ciudadanía</title>
 
-    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
-    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
-    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
-    <link rel="icon" type="image/png" sizes="64x64"  href="../../../../assets/images/icons/favicons/favicon_64.png">
-    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
-    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/icons/favicons/favicon_512.png">
     
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../../css/sidebar.css">
@@ -49,12 +49,16 @@
                         Herramientas
                     </div>
                     
-                    <a href="buzon/buzon.html" class="sidebar-btn" style="text-decoration:none;">
+                    <a href="traductor/traductor.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-language"></i> Traductor de Salud
+                    </a>
+
+                    <a href="buzon/buzon.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
                         <i class="fa-solid fa-envelope-open-text"></i> Buzón de Seguridad
                     </a>
 
                     <a href="consulta/consulta.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
-                        <i class="fa-solid fa-clipboard-question"></i> Prepara tu Consulta
+                        <i class="fa-solid fa-clipboard-check"></i> Prepara tu Consulta
                     </a>
 
                     <a href="dudas/dudas.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
@@ -70,8 +74,6 @@
                             <li><a href="cultura/resultados.html"><strong>Ver Estadísticas</strong></a></li>
                         </ul>
                     </div>
-                    
-                    
                 </div>
 
                 <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
@@ -96,6 +98,16 @@
             </p>
 
             <div class="tools-grid">
+
+                <article class="tool-card sim" onclick="location.href='traductor/traductor.html'">
+                    <div class="tool-icon" style="background:#f0fdf4; color:#10b981;">
+                        <i class="fa-solid fa-language"></i>
+                    </div>
+                    <div class="tool-badge">IA Beta</div>
+                    <h3>Traductor de Salud</h3>
+                    <p>¿No entiendes tu informe médico? Nuestra IA te lo explica con palabras sencillas.</p>
+                    <span class="btn-tool" style="color:#10b981;">Traducir <i class="fa-solid fa-wand-magic-sparkles"></i></span>
+                </article>
                 
                 <article class="tool-card sim" onclick="location.href='buzon/buzon.html'">
                     <div class="tool-icon" style="background:#ecfdf5; color:#10b981;"><i class="fa-solid fa-envelope-open-text"></i></div>
