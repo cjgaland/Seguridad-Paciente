@@ -1,0 +1,9 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias
+node_modules/
+
+# --- SEGURIDAD ---
+# js/config.js
