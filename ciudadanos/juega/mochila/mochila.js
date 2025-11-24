@@ -1,4 +1,5 @@
 import { OBJETOS } from './mochila_data.js';
+// CORREGIDO: 3 niveles (../../../)
 import { saveScore } from '../../../js/core/scores.js';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -8,29 +9,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const scoreEl = document.getElementById('score');
     const remainingEl = document.getElementById('remaining');
     
-    // Modal Feedback (Durante el juego)
     const modal = document.getElementById('feedback-modal');
     const modalIcon = document.getElementById('feedback-icon');
     const modalTitle = document.getElementById('feedback-title');
     const modalMsg = document.getElementById('feedback-msg');
 
-    // Final Screen
     const finalScreen = document.getElementById('final-screen');
     const finalScoreEl = document.getElementById('final-score');
 
     let score = 0;
     let itemsNeeded = OBJETOS.filter(o => o.tipo === 'necesario').length;
     
-    // Registro de errores para el informe final
+    // Registro de errores
     let mistakesSet = new Set(); 
-    
     let draggedItemData = null;
 
     // 1. INICIALIZAR
     initGame();
 
     function initGame() {
-        // Barajar
         const shuffled = [...OBJETOS].sort(() => 0.5 - Math.random());
         
         shuffled.forEach(obj => {
@@ -43,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>${obj.nombre}</span>
             `;
 
-            // Eventos Drag (Desktop)
+            // Drag Desktop
             card.addEventListener('dragstart', (e) => {
                 draggedItemData = obj;
                 card.classList.add('dragging');
@@ -54,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 draggedItemData = null;
             });
 
-            // Evento Click (Móvil)
+            // Click Móvil
             card.addEventListener('click', () => checkItem(obj, card));
 
             shelf.appendChild(card);
@@ -63,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateUI();
     }
 
-    // 2. ZONA DROP
+    // 2. DROP ZONE
     backpackZone.addEventListener('dragover', (e) => {
         e.preventDefault();
         backpackZone.classList.add('drag-over');
@@ -97,7 +94,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 backpackContents.appendChild(cardElement);
                 cardElement.draggable = false;
                 cardElement.style.cursor = "default";
-                // Animación entrada
                 cardElement.animate([
                     { transform: 'scale(0.5)', opacity: 0 },
                     { transform: 'scale(1)', opacity: 1 }
@@ -107,11 +103,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // ERROR
             score -= 20;
             if (score < 0) score = 0;
-            
-            // Guardar error para el informe final
             mistakesSet.add(obj.id);
 
-            // Animación rebote
             if(cardElement) {
                 cardElement.animate([
                     { transform: 'translateX(0)' },
@@ -120,7 +113,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     { transform: 'translateX(0)', backgroundColor: 'white' }
                 ], 400);
             }
-
             showFeedback(false, "Mejor déjalo en casa", obj.msg);
         }
 
@@ -151,33 +143,28 @@ document.addEventListener('DOMContentLoaded', () => {
         remainingEl.textContent = itemsNeeded;
     }
 
-    // 4. FIN DEL JUEGO (INFORME)
+    // 4. FIN DEL JUEGO
     function endGame() {
         saveScore("mochila", "ciudadanos", "Usuario", score);
         
-        // Generar HTML del informe
         let summaryHTML = '<div class="summary-container">';
         
-        // Recorremos todos los objetos originales para ver qué pasó con cada uno
         OBJETOS.forEach(obj => {
             let statusClass = '';
             let icon = '';
             let textPrefix = '';
 
             if (obj.tipo === 'necesario') {
-                // Si es necesario, seguro que lo metió (porque el juego no acaba hasta que están todos)
                 statusClass = 'packed';
                 icon = '<i class="fa-solid fa-check"></i>';
                 textPrefix = 'Guardado:';
             } else {
-                // Si es innecesario, vemos si falló intentando meterlo
                 if (mistakesSet.has(obj.id)) {
                     statusClass = 'mistake';
                     icon = '<i class="fa-solid fa-xmark"></i>';
                     textPrefix = 'Intentaste llevar (Error):';
                 } else {
-                    // O si lo ignoró correctamente (Opcional mostrarlo, pero es educativo)
-                    return; // Saltamos los que ignoró bien para no llenar la lista, o quita esta línea para mostrarlos
+                    return; // Ignorados correctamente no se muestran
                 }
             }
 
@@ -193,7 +180,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         summaryHTML += '</div>';
 
-        // Inyectar en pantalla final (Reemplazamos contenido)
         const contentDiv = finalScreen.querySelector('.final-content');
         contentDiv.innerHTML = `
             <i class="fa-solid fa-trophy trophy-icon"></i>
