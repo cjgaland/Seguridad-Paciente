@@ -47,7 +47,7 @@ export async function saveScore(juego, nivel, jugador, puntuacion, tiempo = null
             tiempo
         });
 
-        console.log("Puntuación guardada correctamente");
+        // console.log("Puntuación guardada correctamente");
         return true;
 
     } catch (error) {
@@ -131,3 +131,4 @@ export async function getPlayerStats(jugador) {
         return [];
     }
 }
+
