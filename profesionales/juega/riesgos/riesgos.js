@@ -8,10 +8,10 @@ export async function initGame({ root, saveScoreFirebase }) {
 
     // --- CONFIGURACIÓN DE IMÁGENES Y ESCENARIOS ---
     const IMGS = {
-        escenario1: "img/escenario1.png",
-        escenario2: "img/escenario2.png",
-        escenario3: "img/escenario3.png",
-        escenario4: "img/escenario4.png"
+        escenario1: "img/escenario1.jpg",
+        escenario2: "img/escenario2.jpg",
+        escenario3: "img/escenario3.jpg",
+        escenario4: "img/escenario4.jpg"
     };
 
     const ESCENARIOS = {
@@ -371,4 +371,5 @@ export async function initGame({ root, saveScoreFirebase }) {
     }
 
     renderUI();
+
 }
