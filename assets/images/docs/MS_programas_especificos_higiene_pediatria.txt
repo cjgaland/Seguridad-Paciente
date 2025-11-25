@@ -1,0 +1,35 @@
+PROGRAMAS ESPECÍFICOS DE SEGURIDAD DEL PACIENTE (MS)
+
+1. SEGURIDAD EN PEDIATRÍA Y NEONATOLOGÍA (LEMA 2025)
+- Enfoque: "¡La seguridad del paciente desde el comienzo!".
+- Riesgos Específicos:
+  - Medicación: Dosis dependientes del peso (alto riesgo de error de cálculo). Diluciones complejas.
+  - Identificación: Recién nacidos sin nombre (uso de pulseras madre-hijo).
+  - Comunicación: Pacientes que no pueden hablar/expresarse.
+- Recomendaciones:
+  - Prescripción electrónica con calculadora de dosis.
+  - Estandarización de diluciones de alto riesgo en Neonatología.
+  - Participación activa de padres/cuidadores como barrera de seguridad.
+
+2. PROGRAMA DE HIGIENE DE MANOS DEL SNS
+- Objetivo: Prevenir Infecciones Relacionadas con la Asistencia Sanitaria (IRAS).
+- Indicador Clave: Consumo de Preparados de Base Alcohólica (PBA). El estándar es aumentar el consumo (litros/1000 estancias).
+- Infraestructura: Dispensadores de PBA disponibles en el "Punto de Atención" (donde ocurren los cuidados).
+
+3. PROGRAMA PRINCESS (RESIDENCIAS DE MAYORES)
+- Objetivo: Adaptar la higiene de manos al ámbito sociosanitario.
+- Adaptación de los 5 Momentos OMS a 4 Momentos en Residencias:
+  1. Antes del contacto con el residente.
+  2. Antes de realizar una tarea aséptica (limpia).
+  3. Después del riesgo de exposición a fluidos corporales.
+  4. Después del contacto con el residente o su entorno.
+- Puntos Clave en Residencias:
+  - Dispensadores de bolsillo para trabajadores.
+  - Dispensadores fijos en zonas de cuidados y carros.
+  - Uso de guantes: NO sustituye la higiene de manos. Lavar manos antes y después de usar guantes.
+  - Formación a cuidadores y familiares.
+
+4. USO ADECUADO DE GUANTES
+- Indicaciones: Solo ante riesgo de exposición a fluidos, sangre, piel no intacta o mucosas.
+- Errores frecuentes: Usar guantes para todo (tocar teléfono, escribir, pasillo) aumenta la transmisión cruzada.
+- Retirada: Técnica segura para no contaminarse las manos.

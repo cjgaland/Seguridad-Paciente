@@ -1,0 +1,28 @@
+RECOMENDACIONES LEGALES Y METODOLÓGICAS PARA EL ANÁLISIS DE INCIDENTES (EVENTOS ADVERSOS) CON DAÑO - ESPAÑA
+
+1. MARCO JURÍDICO Y PROTECCIÓN
+- Ley 16/2003 (Cohesión y Calidad): Ampara el registro de eventos adversos para mejora de la calidad.
+- Ley 41/2002 (Autonomía del Paciente): Derecho del paciente a conocer lo ocurrido (información veraz).
+- Ley de Enjuiciamiento Criminal (Art. 262): Obligación de denunciar delitos, pero conflicto con la cultura de seguridad (no punitiva).
+- RECOMENDACIÓN CLAVE: Separar el análisis técnico de seguridad (aprendizaje) del expediente disciplinario o judicial. Los informes de seguridad (APEA) deben ser CONFIDENCIALES y ANONIMIZADOS.
+
+2. ANÁLISIS EN PROFUNDIDAD DE EVENTOS ADVERSOS (APEA)
+- ¿Cuándo hacerlo?: Obligatorio en Eventos Centinela (muerte inesperada, daño grave permanente, pérdida de órgano/función no relacionada con curso natural de la enfermedad). Recomendado en incidentes de alto riesgo.
+- Plazo: Iniciar antes de 48h. Finalizar informe en máximo 30 días.
+- Equipo (UFGR): Comisión de Seguridad, Unidad de Calidad, expertos implicados y Dirección Médica/Enfermería.
+
+3. METODOLOGÍA DE ANÁLISIS
+- Análisis Causa Raíz (ACR): Herramienta estándar. Busca causas profundas (latentes) y no culpables individuales.
+- Protocolo de Londres: Análisis de factores contribuyentes (paciente, tarea, equipo, ambiente, organización).
+- Objetivo: Identificar FALLOS DEL SISTEMA, no errores de personas.
+
+4. GESTIÓN DEL INFORME
+- El informe final del APEA debe contener: Descripción de hechos (cronología), análisis de causas y PLAN DE MEJORA (acciones concretas para evitar recurrencia).
+- Custodia: Archivo de la Comisión de Calidad/Seguridad.
+- Anonimización: Se deben eliminar nombres de profesionales y pacientes en el informe final de aprendizaje.
+- Difusión: Las lecciones aprendidas y mejoras deben compartirse con toda la organización (feedback), pero protegiendo la identidad de los implicados.
+
+5. INFORMACIÓN AL PACIENTE (OPEN DISCLOSURE)
+- Es un deber ético y legal informar al paciente del evento adverso.
+- Se debe explicar: Qué ocurrió, por qué (si se sabe), qué consecuencias tiene y qué se va a hacer para solucionarlo y para que no le pase a otros.
+- No especular ni culpar. Mostrar empatía y pesar (disculpa).

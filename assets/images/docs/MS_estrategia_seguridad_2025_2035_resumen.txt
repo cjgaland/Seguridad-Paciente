@@ -1,0 +1,59 @@
+ESTRATEGIA DE SEGURIDAD DEL PACIENTE DEL SISTEMA NACIONAL DE SALUD (2025-2035) - RESUMEN EJECUTIVO
+
+MISIÓN:
+Reducir al máximo los daños evitables en la atención sanitaria, priorizando la seguridad como dimensión transversal de la calidad en todos los niveles asistenciales.
+
+LÍNEA ESTRATÉGICA 1: CULTURA DE SEGURIDAD Y FACTORES HUMANOS
+- Plan de Seguridad: Todos los centros deben tener un plan activo con responsables definidos.
+- Clima de Seguridad: Evaluar periódicamente (encuestas) el clima no punitivo.
+- Formación: Incluir seguridad del paciente en el grado y formación especializada.
+- Liderazgo: Identificar referentes de seguridad en unidades y equipos directivos.
+
+LÍNEA ESTRATÉGICA 2: PRÁCTICAS CLÍNICAS SEGURAS
+1. Uso Seguro del Medicamento:
+   - Prevenir errores en medicación de alto riesgo (MAR).
+   - Conciliación de la medicación en transiciones asistenciales.
+   - Abordaje de la polifarmacia y deprescripción.
+2. Infecciones (IRAS) y Resistencias (RAM):
+   - Programas "Zero" en UCI (Bacteriemia, Neumonía, ITU, Resistencia).
+   - Higiene de Manos (Estrategia multimodal OMS).
+   - Infección Quirúrgica Zero (IQZ).
+3. Cirugía Segura:
+   - Uso universal del Listado de Verificación Quirúrgica (Checklist).
+   - Profilaxis del tromboembolismo.
+4. Cuidados:
+   - Prevención de caídas y úlceras por presión (UPP).
+   - Prevención de desnutrición y disfagia.
+   - "Centros libres de sujeciones": Reducción de contenciones mecánicas/farmacológicas.
+5. Identificación Inequívoca:
+   - Pacientes, muestras biológicas y documentación.
+6. Comunicación:
+   - Técnicas estructuradas (SBAR) en el traspaso de pacientes.
+7. Eventos Adversos Graves:
+   - Protocolos de apoyo a segundas víctimas (profesionales).
+   - Comunicación transparente a pacientes (Open Disclosure).
+8. Radiaciones Ionizantes:
+   - Justificación y optimización de dosis (especialmente en pediatría).
+   - Mapas de riesgo en radioterapia y medicina nuclear.
+9. Recomendaciones "No Hacer":
+   - Eliminar prácticas clínicas de escaso valor (catálogo GuíaSalud).
+
+LÍNEA ESTRATÉGICA 3: GESTIÓN DEL RIESGO Y NOTIFICACIÓN
+- Gestión Proactiva: Mapas de riesgos y AMFE.
+- Gestión Reactiva: Sistemas de notificación y aprendizaje (SiNASP o autonómicos).
+- Objetivo: Aprendizaje, no culpa.
+
+LÍNEA ESTRATÉGICA 4: PARTICIPACIÓN DE PACIENTES
+- Formación a pacientes (Escuelas de Salud).
+- Incorporación de pacientes en comisiones de seguridad.
+- Medición de experiencia del paciente (PREMs y PROMs).
+
+LÍNEA ESTRATÉGICA 5: INVESTIGACIÓN E INNOVACIÓN
+- Fomentar investigación en seguridad (prevención de daños, costes).
+- Evaluar impacto de nuevas tecnologías (IA, telemedicina).
+
+LÍNEA ESTRATÉGICA 6: PARTICIPACIÓN INTERNACIONAL
+- Colaboración con OMS, UE y OCDE.
+
+LÍNEA ESTRATÉGICA 7: TODOS LOS ÁMBITOS
+- Extender la seguridad a Atención Primaria, Salud Mental y centros Sociosanitarios.

@@ -1,0 +1,67 @@
+RESUMEN EJECUTIVO: ESTRATEGIA PARA LA SEGURIDAD DEL PACIENTE DEL SSPA (2019-2024)
+
+MISIÓN Y VALORES:
+La seguridad del paciente es un derecho de la ciudadanía (Decreto 51/2017). Se basa en no hacer daño, la transparencia, la equidad y la participación activa del paciente.
+
+ÁREA CLAVE 1: SEGURIDAD EN LA ORGANIZACIÓN
+- Liderazgo: Existencia de Referentes de Seguridad, Comisiones de Calidad y Equipos de Seguridad en todos los centros.
+- Cultura: Entorno no punitivo, transparente y de aprendizaje.
+- Entorno: Mantenimiento preventivo de instalaciones y equipamiento electromédico.
+
+ÁREA CLAVE 2: GESTIÓN DE RIESGOS
+- Enfoque Proactivo: Mapas de riesgos y AMFE antes de nuevos procedimientos.
+- Enfoque Reactivo: Notificación de incidentes (NotificASP).
+- Atención a Víctimas:
+  1. Primera víctima (Paciente): Información veraz, disculpa y reparación del daño.
+  2. Segunda víctima (Profesional): Apoyo emocional y legal, evitando la culpa.
+  3. Tercera víctima (Institución): Gestión de la reputación.
+
+ÁREA CLAVE 3: ATENCIÓN INTEGRAL SEGURA (PRÁCTICAS SEGURAS)
+1. Identificación Inequívoca:
+   - Uso obligatorio de pulsera identificativa.
+   - Verificación verbal y documental antes de cualquier procedimiento de riesgo (medicación, pruebas, cirugía).
+   - Identificación activa por parte del paciente.
+
+2. Transferencia Segura (Hand-off):
+   - Uso de herramientas estandarizadas (tipo SBAR) en cambios de turno y traslados.
+   - Informe de alta con: diagnóstico, plan terapéutico y cuidados claros.
+
+3. Prevención de Infecciones (IRAS):
+   - Higiene de Manos: Estrategia multimodal OMS (5 momentos). Disponibilidad de soluciones alcohólicas en el punto de atención.
+   - Tolerancia cero a la bacteriemia (Catéteres) y neumonía (Ventilación mecánica).
+   - Uso prudente de antimicrobianos (Programa PIRASOA).
+   - Limpieza y desinfección estricta de superficies y material.
+
+4. Uso Seguro del Medicamento:
+   - Conciliación de la medicación en transiciones (ingreso, alta, traslados).
+   - Paciente Polimedicado: Revisión sistemática de tratamientos.
+   - Medicamentos de Alto Riesgo: Protocolos específicos de almacenamiento, prescripción, preparación, transporte y administración (ej: potasio, insulina, anticoagulantes).
+
+5. Cirugía Segura:
+   - Listado de Verificación de Seguridad Quirúrgica (Checklist) obligatorio en todas las fases (entrada, pausa, salida).
+   - Marcaje del sitio quirúrgico.
+   - Control de la vía aérea y anestesia segura (Declaración de Helsinki).
+
+6. Radiaciones Ionizantes:
+   - Justificación estricta de pruebas (evitar duplicidades).
+   - Optimización de dosis (criterio ALARA), especialmente en niños.
+
+7. Pruebas Diagnósticas (Laboratorio):
+   - Trazabilidad de la muestra (etiquetado correcto).
+   - Comunicación inmediata de "Valores Críticos" que comprometan la vida.
+
+8. Cuidados y Escenarios Específicos:
+   - Prevención de Caídas: Evaluación del riesgo y medidas ambientales.
+   - Úlceras por Presión (UPP): Prevención y cuidados de la piel.
+   - Dolor: Abordaje como constante vital.
+   - Contenciones: Tendencia a "Centros libres de sujeciones". Uso solo como último recurso y registrado.
+   - Urgencias y Paciente Crítico: Áreas de alto riesgo que requieren vigilancia intensiva.
+
+ÁREA CLAVE 4: TECNOLOGÍAS (TIS)
+- Seguridad en la Historia Clínica Digital (Diraya).
+- Sistemas de ayuda a la prescripción electrónica (alertas de alergias, dosis máximas).
+
+ÁREA CLAVE 5: IMPLICACIÓN DE LA CIUDADANÍA
+- Fomento de la notificación de incidentes por pacientes.
+- Formación del paciente en su propia seguridad (Escuela de Pacientes).
+- Participación en comisiones de seguridad.
