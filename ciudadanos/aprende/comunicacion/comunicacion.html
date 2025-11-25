@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comunicación Efectiva · Aprende</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="comunicacion.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-comments" style="color:#9333ea;"></i> Comunicación Efectiva</h2>
+            <a href="../aprende.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Volver
+            </a>
+        </div>
+
+        <p class="main-intro">
+            Los médicos y enfermeras necesitan información precisa para ayudarte. Haz clic en las frases de la izquierda para ver cómo convertirlas en <strong>información útil y segura</strong>.
+        </p>
+
+        <div class="comm-container">
+            
+            <div class="comm-card" onclick="transformCard(this)">
+                <div class="card-content">
+                    <div class="bubble vague">
+                        <div class="bubble-icon"><i class="fa-solid fa-circle-xmark"></i></div>
+                        <div class="bubble-text">
+                            <strong>Comunicación poco eficaz:</strong><br>
+                            "Creo que una vez me sentó mal un antibiótico..."
+                        </div>
+                    </div>
+                    
+                    <div class="arrow-transform"><i class="fa-solid fa-arrow-right"></i></div>
+
+                    <div class="bubble effective hidden">
+                        <div class="bubble-icon"><i class="fa-solid fa-circle-check"></i></div>
+                        <div class="bubble-text">
+                            <strong>Comunicación eficaz:</strong><br>
+                            "Soy alérgico a la Penicilina. Me salieron ronchas en 2015."
+                        </div>
+                    </div>
+                    
+                    <div class="instruction-hint">Toca para mejorar <i class="fa-regular fa-hand-pointer"></i></div>
+                </div>
+            </div>
+
+            <div class="comm-card" onclick="transformCard(this)">
+                <div class="card-content">
+                    <div class="bubble vague">
+                        <div class="bubble-icon"><i class="fa-solid fa-circle-xmark"></i></div>
+                        <div class="bubble-text">
+                            <strong>Comunicación poco eficaz:</strong><br>
+                            "Me duele mucho la barriga desde hace tiempo."
+                        </div>
+                    </div>
+                    
+                    <div class="arrow-transform"><i class="fa-solid fa-arrow-right"></i></div>
+
+                    <div class="bubble effective hidden">
+                        <div class="bubble-icon"><i class="fa-solid fa-circle-check"></i></div>
+                        <div class="bubble-text">
+                            <strong>Comunicación eficaz:</strong><br>
+                            "Tengo un dolor punzante aquí (señalar) desde hace 2 días, sobre todo al comer."
+                        </div>
+                    </div>
+                    <div class="instruction-hint">Toca para mejorar <i class="fa-regular fa-hand-pointer"></i></div>
+                </div>
+            </div>
+
+            <div class="comm-card" onclick="transformCard(this)">
+                <div class="card-content">
+                    <div class="bubble vague">
+                        <div class="bubble-icon"><i class="fa-solid fa-circle-xmark"></i></div>
+                        <div class="bubble-text">
+                            <strong>Comunicación poco eficaz:</strong><br>
+                            "Me tomo la pastilla blanca pequeña para el azúcar."
+                        </div>
+                    </div>
+                    
+                    <div class="arrow-transform"><i class="fa-solid fa-arrow-right"></i></div>
+
+                    <div class="bubble effective hidden">
+                        <div class="bubble-icon"><i class="fa-solid fa-circle-check"></i></div>
+                        <div class="bubble-text">
+                            <strong>Comunicación eficaz:</strong><br>
+                            "Tomo Metformina de 850mg en el desayuno y la cena."
+                        </div>
+                    </div>
+                    <div class="instruction-hint">Toca para mejorar <i class="fa-regular fa-hand-pointer"></i></div>
+                </div>
+            </div>
+
+            <div class="final-tip">
+                <i class="fa-solid fa-lightbulb"></i>
+                <div>
+                    <h4>La Regla de Oro</h4>
+                    <p>Si no entiendes algo, di: <em>"¿Me lo puede repetir con otras palabras? Quiero asegurarme de hacerlo bien en casa".</em></p>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script src="comunicacion.js"></script>
+</body>
+</html>

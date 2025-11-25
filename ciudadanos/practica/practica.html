@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Participa · Ciudadanía</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/icons/favicons/favicon_512.png">
+    
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/sidebar.css">
+    <link rel="stylesheet" href="../../profesionales/practica/practica.css"> 
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+        <div class="sp-header-left">
+            <img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        </div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right">
+            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        </div>
+    </header>
+
+    <div class="sp-layout">
+        
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-hand-holding-heart"></i>
+                <span>Participa</span>
+            </div>
+            <nav class="sidebar-nav">
+                <div class="sidebar-group">
+                    <div style="padding: 0 10px 5px; font-size:0.85rem; color:#8A5B00; font-weight:bold; text-transform:uppercase;">
+                        Herramientas
+                    </div>
+                    
+                    <a href="traductor/traductor.html" class="sidebar-btn" style="text-decoration:none;">
+                        <i class="fa-solid fa-language"></i> Traductor de Salud
+                    </a>
+
+                    <a href="buzon/buzon.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-envelope-open-text"></i> Buzón de Seguridad
+                    </a>
+
+                    <a href="consulta/consulta.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-clipboard-check"></i> Prepara tu Consulta
+                    </a>
+
+                    <a href="dudas/dudas.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-list-ul"></i> Mi Lista de Dudas
+                    </a>
+                    
+                    <div style="margin-top:5px;">
+                        <button class="sidebar-btn" data-toggle="submenu-cultura">
+                            <i class="fa-solid fa-heart-pulse"></i> Cultura Seguridad
+                        </button>
+                        <ul id="submenu-cultura" class="sidebar-submenu">
+                            <li><a href="cultura/autotest.html">Realizar Encuesta</a></li>
+                            <li><a href="cultura/resultados.html"><strong>Ver Estadísticas</strong></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="sidebar-group" style="margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px;">
+                    <a href="../../ciudadanos.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3;">
+                        <i class="fa-solid fa-users"></i> Volver a Ciudadanía
+                    </a>
+                    <a href="../../index.html" class="sidebar-btn" style="text-decoration:none; background-color: #FFE4B3; margin-top:10px;">
+                        <i class="fa-solid fa-house"></i> Volver al Inicio
+                    </a>
+                </div>
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            
+            <div class="top-bar">
+                <h2>Tu Voz Importa</h2>
+            </div>
+            
+            <p class="main-intro">
+                Herramientas prácticas para ayudarte a preparar tus visitas médicas y colaborar en tu seguridad.
+            </p>
+
+            <div class="tools-grid">
+
+                <article class="tool-card sim" onclick="location.href='traductor/traductor.html'">
+                    <div class="tool-icon" style="background:#f0fdf4; color:#10b981;">
+                        <i class="fa-solid fa-language"></i>
+                    </div>
+                    <div class="tool-badge">IA Beta</div>
+                    <h3>Traductor de Salud</h3>
+                    <p>¿No entiendes tu informe médico? Nuestra IA te lo explica con palabras sencillas.</p>
+                    <span class="btn-tool" style="color:#10b981;">Traducir <i class="fa-solid fa-wand-magic-sparkles"></i></span>
+                </article>
+                
+                <article class="tool-card sim" onclick="location.href='buzon/buzon.html'">
+                    <div class="tool-icon" style="background:#ecfdf5; color:#10b981;"><i class="fa-solid fa-envelope-open-text"></i></div>
+                    <div class="tool-badge">Simulador</div>
+                    <h3>Buzón de Seguridad</h3>
+                    <p>Si ves algo inseguro, ¡avisa! Practica cómo reportar incidentes para mejorar el sistema.</p>
+                    <span class="btn-tool" style="color:#10b981;">Entrar <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+                <article class="tool-card check" onclick="location.href='consulta/consulta.html'">
+                    <div class="tool-icon" style="background:#eff6ff; color:#3b82f6;"><i class="fa-solid fa-clipboard-check"></i></div>
+                    <div class="tool-badge">Checklist</div>
+                    <h3>Prepara tu Consulta</h3>
+                    <p>Lista de verificación rápida: Documentación, medicación y acompañante. ¡No olvides nada!</p>
+                    <span class="btn-tool" style="color:#3b82f6;">Preparar <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+                <article class="tool-card calc" onclick="location.href='dudas/dudas.html'">
+                    <div class="tool-icon" style="background:#fff7ed; color:#f97316;"><i class="fa-solid fa-list-ul"></i></div>
+                    <div class="tool-badge">Generador</div>
+                    <h3>Mi Lista de Dudas</h3>
+                    <p>Selecciona tus preocupaciones y genera una lista de preguntas para tu médico.</p>
+                    <span class="btn-tool" style="color:#f97316;">Crear Lista <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+                
+                <article class="tool-card test" onclick="location.href='cultura/autotest.html'">
+                    <div class="tool-icon" style="background:#ffedf2; color:#f7113c;"><i class="fa-solid fa-heart-pulse"></i></div>
+                    <div class="tool-badge">Reflexión</div>
+                    <h3>Termómetro de Seguridad</h3>
+                    <p>Participa en nuestra encuesta anónima sobre tu experiencia de seguridad.</p>
+                    <span class="btn-tool" style="color:#f7113c;">Encuesta <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
+            </div>
+            
+            <footer class="sp-footer">
+                Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+            </footer>
+            
+        </main>
+    </div>
+
+    <script src="../../js/sidebar.js"></script>
+</body>
+</html>

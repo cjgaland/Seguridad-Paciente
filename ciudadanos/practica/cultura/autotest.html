@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termómetro de Seguridad · Ciudadanía</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../../assets/images/icons/favicons/favicon_512.png">
+    
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="autotest.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-heart-pulse" style="color:#10b981;"></i> Termómetro de Seguridad (Pacientes)</h2>
+            <a href="../practica.html" class="btn-home">
+                <i class="fa-solid fa-arrow-left"></i> Salir
+            </a>
+        </div>
+
+        <div class="survey-container">
+            
+            <div class="survey-intro" id="intro-screen">
+                <div class="intro-card">
+                    <i class="fa-solid fa-hands-holding-circle big-icon"></i>
+                    <h3>Tu opinión mejora nuestra seguridad</h3>
+                    <p>
+                        Queremos saber cómo te has sentido de seguro/a durante tu atención sanitaria. Esta encuesta es <strong>anónima</strong> y nos ayuda a mejorar.
+                    </p>
+                    <ul class="info-list">
+                        <li><i class="fa-solid fa-check"></i> Totalmente anónimo.</li>
+                        <li><i class="fa-solid fa-check"></i> Solo 2 minutos.</li>
+                        <li><i class="fa-solid fa-check"></i> Ayuda a otros pacientes.</li>
+                    </ul>
+                    
+                    <div class="unit-selector">
+                        <label>Datos básicos (Para estadística):</label>
+                        <div class="selector-row">
+                            <select id="categoria">
+                                <option value="ns">-- Soy... --</option>
+                                <option value="paciente">Paciente</option>
+                                <option value="familiar">Familiar / Cuidador</option>
+                            </select>
+                            <select id="ambito">
+                                <option value="ns">-- Lugar de atención --</option>
+                                <option value="hospital">Hospital (Ingreso)</option>
+                                <option value="consultas">Consultas Externas</option>
+                                <option value="urgencias">Urgencias</option>
+                                <option value="centro_salud">Centro de Salud</option>
+                            </select>
+                        </div>
+                        
+                        <div id="intro-feedback" class="error-text hidden"></div>
+                    </div>
+
+                    <button id="btn-start" class="btn-start">
+                        Comenzar Encuesta <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+
+            <form id="survey-form" class="survey-form hidden">
+                <div id="questions-container"></div>
+                <button type="submit" class="btn-submit">
+                    <i class="fa-regular fa-paper-plane"></i> Enviar Opinión
+                </button>
+            </form>
+
+            <div id="final-screen" class="final-screen hidden">
+                <div class="final-content">
+                    <i class="fa-solid fa-face-smile-beam success-icon"></i>
+                    <h3>¡Muchas gracias!</h3>
+                    <p>Tu valoración ha sido registrada correctamente en nuestro sistema de Calidad.</p>
+                    
+                    <div class="local-feedback">
+                        <span>Tu percepción de seguridad:</span>
+                        <div id="score-bar-container">
+                            <div id="score-bar-fill"></div>
+                        </div>
+                        <strong id="score-text">--</strong>
+                    </div>
+
+                    <div class="final-actions">
+                        <button onclick="location.href='../practica.html'" class="btn-restart" style="background:#64748b;">
+                            <i class="fa-solid fa-bars"></i> Menú
+                        </button>
+
+                        <button onclick="location.href='resultados.html'" class="btn-restart" style="background:#3b82f6;">
+                            Ver Estadísticas <i class="fa-solid fa-chart-pie"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script type="module" src="autotest.js"></script>
+</body>
+</html>

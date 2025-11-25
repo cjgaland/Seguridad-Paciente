@@ -1,0 +1,102 @@
+/* Estilos locales para tarjetas de aprendizaje (CIUDADANOS) */
+
+.learn-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.learn-card {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    border: 1px solid #e5e7eb;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+}
+
+.learn-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    border-color: #0ea5e9; /* Azul ciudadano */
+}
+
+.card-header {
+    height: 110px;
+    background: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.8rem;
+    color: #9ca3af;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Colores temáticos de las tarjetas existentes */
+.card-header.red { background: #fee2e2; color: #ef4444; }
+.card-header.blue { background: #e0f2fe; color: #3b82f6; }
+.card-header.green { background: #dcfce7; color: #16a34a; }
+.card-header.purple { background: #f3e8ff; color: #9333ea; }
+.card-header.orange { background: #ffedd5; color: #f97316; }
+
+/* NUEVO: Color específico para el Chatbot (Verde Esperanza/Esmeralda) */
+.card-header.ai-citizen { 
+    background: #ecfdf5; 
+    color: #10b981; 
+}
+
+/* Efecto Hover en cabeceras */
+.learn-card:hover .card-header.red { background: #ef4444; color: white; }
+.learn-card:hover .card-header.blue { background: #3b82f6; color: white; }
+.learn-card:hover .card-header.green { background: #16a34a; color: white; }
+.learn-card:hover .card-header.purple { background: #9333ea; color: white; }
+.learn-card:hover .card-header.orange { background: #f97316; color: white; }
+.learn-card:hover .card-header.ai-citizen { background: #10b981; color: white; }
+
+
+.card-body {
+    padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body h3 { 
+    margin: 0 0 10px 0; 
+    font-size: 1.15rem; 
+    color: #333; 
+    font-weight: 700;
+}
+
+.card-body p { 
+    margin: 0 0 20px 0; 
+    font-size: 0.95rem; 
+    color: #666; 
+    flex: 1; 
+    line-height: 1.5;
+}
+
+.btn-learn {
+    align-self: flex-start;
+    padding: 8px 16px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: #555;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.learn-card:hover .btn-learn {
+    background: #0ea5e9;
+    border-color: #0ea5e9;
+    color: white;
+}

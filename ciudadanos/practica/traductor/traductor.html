@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traductor Médico · Ciudadanía</title>
+
+    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
+    
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="traductor.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+    <header class="sp-header">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+    </header>
+
+    <main class="sp-main">
+        
+        <div class="top-bar">
+            <h2><i class="fa-solid fa-language" style="color:#10b981;"></i> Traductor de Salud</h2>
+            <a href="../practica.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Salir</a>
+        </div>
+
+        <div class="ia-container">
+            
+            <div class="input-section">
+                <div class="info-box">
+                    <i class="fa-solid fa-circle-question"></i>
+                    <div>
+                        <strong>¿No entiendes tu informe?</strong>
+                        <p>Escribe aquí esa palabra rara (ej: "disnea", "posología") o copia una frase del informe. Nuestra IA te lo explicará con palabras sencillas.</p>
+                    </div>
+                </div>
+                
+                <textarea id="medicalInput" placeholder="Ejemplo: El doctor ha puesto 'tomar en ayunas y evitar AINES'. No sé qué son los AINES..."></textarea>
+                
+                <button id="btnTraducir" class="btn-magic">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> Traducir a Lenguaje Sencillo
+                </button>
+            </div>
+
+            <div id="resultSection" class="result-section hidden">
+                <div class="ia-header">
+                    <i class="fa-solid fa-robot"></i> Explicación Clara
+                </div>
+                <div id="iaOutput" class="ia-content"></div>
+                <div class="disclaimer">
+                    <i class="fa-solid fa-triangle-exclamation"></i> <strong>Importante:</strong> Esta es una ayuda informativa generada por IA. <strong>NO sustituye a tu médico</strong>. Ante la duda, consulta siempre a un profesional sanitario.
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="sp-footer">
+        Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias
+    </footer>
+
+    <script type="module" src="traductor.js"></script>
+</body>
+</html>
