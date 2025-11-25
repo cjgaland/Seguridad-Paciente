@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             // CAMBIO CLAVE: Colección "encuestas_ciudadanos"
             await addDoc(collection(db, "encuestas_ciudadanos"), surveyData);
-            console.log("Encuesta ciudadana enviada");
+            // console.log("Encuesta ciudadana enviada");
             
             form.classList.add('hidden');
             finalScreen.classList.remove('hidden');
