@@ -1,0 +1,331 @@
+/* =========================================================
+   PALETA INSTITUCIONAL (Seguridad del Paciente Andalucía)
+   ========================================================= */
+
+:root {
+    --ssp-amarillo: #FFC341;
+    --ssp-amarillo-claro: #FFEFC7;
+    --ssp-amarillo-oscuro: #F5A623;
+    --ssp-naranja: #FFA94D;
+    --ssp-gris-suave: #fff6df;
+    --ssp-texto: #333;
+    --ssp-blanco: #FFF;
+}
+
+/* =========================================================
+   AJUSTES GENERALES
+   ========================================================= */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    background: var(--ssp-gris-suave);
+    color: var(--ssp-texto);
+}
+
+/* =========================================================
+   CABECERA INSTITUCIONAL
+   ========================================================= */
+
+.sp-header {
+    background: var(--ssp-amarillo-claro);
+    border-bottom: 4px solid var(--ssp-amarillo-oscuro);
+    padding: 12px 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Contenedores laterales para alinear logos */
+.sp-header-left,
+.sp-header-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;   /* Óptimo para centrar título */
+}
+
+/* Logos en cabecera */
+.sp-logo {
+    height: 55px;
+    width: auto;
+}
+
+.sp-logo-right {
+    height: 50px;
+    width: auto;
+}
+
+/* Título centrado */
+.sp-title {
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 0;
+    flex: 1;
+    color: #5A4A00;
+}
+
+/* =========================================================
+   CONTENIDO PRINCIPAL
+   ========================================================= */
+
+.sp-main {
+    max-width: 1100px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.sp-subtitle {
+    font-size: 1.3rem;
+    margin-bottom: 35px;
+    font-weight: 500;
+}
+
+/* =========================================================
+   TARJETAS PRINCIPALES
+   ========================================================= */
+
+.sp-cards {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.sp-card {
+    background: var(--ssp-blanco);
+    width: 260px;
+    padding: 25px;
+    border-radius: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.25s, box-shadow 0.25s;
+    text-align: center;
+}
+
+.sp-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 22px rgba(0,0,0,0.15);
+}
+
+/* Iconos Font Awesome en tarjetas */
+.sp-icon-awesome {
+    font-size: 3.2rem;
+    color: var(--ssp-amarillo-oscuro);
+    margin-bottom: 12px;
+}
+
+.sp-card h3 {
+    margin: 12px 0 10px 0;
+    font-size: 1.25rem;
+}
+
+.sp-card p {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+/* =========================================================
+   TEXTO INTRODUCTORIO INSTITUCIONAL
+   ========================================================= */
+
+.sp-intro {
+    max-width: 900px;
+    margin: 40px auto 0;
+    padding: 20px 25px;
+    background: var(--ssp-blanco);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: #444;
+}
+
+/* =========================================================
+   PIE DE PÁGINA
+   ========================================================= */
+
+.sp-footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: #555;
+    background: var(--ssp-gris-suave);
+    margin-top: 40px;
+}
+.back-top {
+    display: inline-block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: #444;
+    font-weight: 600;
+}
+
+.back-top i {
+    margin-right: 6px;
+    color: var(--ssp-amarillo-oscuro);
+}
+
+.back-top:hover {
+    text-decoration: underline;
+}
+/* =========================================================
+   BOTÓN VOLVER A INICIO (estilo institucional)
+   ========================================================= */
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.top-bar h2 {
+    margin: 0;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.btn-home {
+    background: var(--ssp-amarillo-oscuro);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: background 0.25s ease, transform 0.15s ease;
+}
+
+.btn-home i {
+    font-size: 1rem;
+}
+
+.btn-home:hover {
+    background: #d68b1a;
+    transform: translateY(-2px);
+}
+
+/* =========================================================
+   RESPONSIVE GLOBAL (móvil y tablet)
+   ========================================================= */
+
+/* TABLET / PANTALLAS MEDIAS (hasta 1100px) */
+@media (max-width: 1100px) {
+
+    .sp-main {
+        padding: 0 20px;
+    }
+
+    .module-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+    }
+
+    .module-card {
+        padding: 20px;
+    }
+}
+
+/* MÓVIL GRANDE (hasta 900px) */
+@media (max-width: 900px) {
+
+    /* Títulos más compactos */
+    .top-bar h2 {
+        font-size: 1.4rem;
+    }
+
+    /* Botón Inicio más cómodo */
+    .btn-home {
+        padding: 10px 18px;
+        font-size: 1rem;
+        border-radius: 10px;
+    }
+
+    /* Tarjetas internas en 1 columna */
+    .module-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .module-card {
+        padding: 22px;
+        border-radius: 14px;
+    }
+
+    /* Iconos más grandes */
+    .module-card h3 i {
+        font-size: 1.4rem;
+    }
+
+    /* Texto con más legibilidad */
+    .module-card p {
+        font-size: 1.05rem;
+        line-height: 1.55;
+    }
+}
+
+/* MÓVIL PEQUEÑO (hasta 600px) */
+@media (max-width: 600px) {
+
+    /* Cabecera */
+    .sp-title {
+        font-size: 1.2rem;
+        padding: 0 5px;
+    }
+
+    .sp-logo,
+    .sp-logo-right {
+        height: 42px;
+    }
+
+    /* Tarjetas de index en 1 columna */
+    .sp-cards {
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .sp-card {
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .sp-icon-awesome {
+        font-size: 2.5rem;
+    }
+
+    /* Texto introductorio */
+    .sp-intro {
+        padding: 18px;
+        font-size: 1.05rem;
+    }
+
+    /* Sidebar (ya ajustado antes) */
+}
+
+/* ULTRA MÓVIL (< 400px) */
+@media (max-width: 400px) {
+
+    .btn-home {
+        padding: 8px 14px;
+        font-size: 0.85rem;
+    }
+
+    .module-card h3 {
+        font-size: 1rem;
+    }
+
+    .sidebar {
+        width: 240px;
+    }
+
+    .menu-toggle {
+        left: 10px;
+    }
+}
