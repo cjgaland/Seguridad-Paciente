@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     
     <style>
-        /* Estilos específicos para diferenciar sutilmente el área ciudadana */
+        /* Ajustes específicos para Ciudadanos (Color base: #0ea5e9 - Azul Cielo / Verde para IA) */
         .module-card {
             cursor: pointer;
             transition: all 0.3s ease;
@@ -30,15 +30,14 @@
         .module-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            border-color: #0ea5e9; /* Azul cielo para ciudadanos */
+            border-color: #0ea5e9;
         }
         .module-card h3 { font-size: 1.4rem; }
         .module-card i { font-size: 3rem; margin-bottom: 15px; display: block; }
         
-        /* Colores temáticos amigables */
-        .card-aprende:hover i { color: #0ea5e9; } /* Azul claro */
-        .card-juega:hover i { color: #f59e0b; } /* Naranja */
-        .card-practica:hover i { color: #10b981; } /* Verde */
+        .card-aprende:hover i { color: #0ea5e9; }
+        .card-juega:hover i { color: #F5A623; }
+        .card-practica:hover i { color: #10b981; }
     </style>
 </head>
 <body>
@@ -59,7 +58,7 @@
     <div class="sp-layout">
         
         <aside class="sidebar">
-            <div class="sidebar-header">
+            <div class="sidebar-header" style="color: #0ea5e9;">
                 <i class="fa-solid fa-users"></i>
                 <span>Ciudadanía</span>
             </div>
@@ -67,46 +66,44 @@
             <nav class="sidebar-nav">
 
                 <div class="sidebar-group">
-                    <button class="sidebar-btn" data-toggle="aprende-c">
-                        <i class="fa-solid fa-book-medical"></i>
-                        Aprende
+                    <button class="sidebar-btn" data-toggle="aprende">
+                        <i class="fa-solid fa-book-medical"></i> Aprende
                     </button>
-                    <ul id="aprende-c" class="sidebar-submenu">
-                        <li><a href="ciudadanos/aprende/aprende.html"><strong>Panel de Guías</strong></a></li>
+                    <ul id="aprende" class="sidebar-submenu">
+                        <li><a href="ciudadanos/aprende/aprende.html"><strong>Ver panel de guías</strong></a></li>
                         <li><a href="ciudadanos/aprende/paciente-activo/paciente-activo.html">Ser Paciente Activo</a></li>
                         <li><a href="ciudadanos/aprende/manos/manos.html">Higiene de Manos</a></li>
                         <li><a href="ciudadanos/aprende/medicacion/medicacion.html">Medicación Segura</a></li>
-                        <li><a href="ciudadanos/aprende/proceso/proceso.html">El Proceso (Antes/Durante/Después)</a></li>
-                        <li><a href="ciudadanos/aprende/comunicacion/comunicacion.html">Comunicación Efectiva</a></li>
+                        <li><a href="ciudadanos/aprende/proceso/proceso.html">El Proceso de Atención</a></li>
+                        <li><a href="ciudadanos/aprende/comunicacion/comunicacion.html">Comunicación</a></li>
+                        <li><a href="ciudadanos/aprende/chatbot/chatbot.html" style="color:#10b981;"><i class="fa-solid fa-robot"></i> Tu Asistente Virtual</a></li>
                     </ul>
                 </div>
 
                 <div class="sidebar-group">
-                    <button class="sidebar-btn" data-toggle="juega-c">
-                        <i class="fa-solid fa-puzzle-piece"></i>
-                        Juega
+                    <button class="sidebar-btn" data-toggle="juega">
+                        <i class="fa-solid fa-gamepad"></i> Juega
                     </button>
-                    <ul id="juega-c" class="sidebar-submenu">
-                        <li><a href="ciudadanos/juega/juega.html"><strong>Zona de Juegos</strong></a></li>
-                        <li><a href="ciudadanos/juega/detectives/detectives.html">Detectives del Hogar</a></li>
-                        <li><a href="ciudadanos/juega/semaforo/semaforo.html">Semáforo de Urgencias</a></li>
+                    <ul id="juega" class="sidebar-submenu">
+                        <li><a href="ciudadanos/juega/juega.html"><strong>Ver panel de juegos</strong></a></li>
                         <li><a href="ciudadanos/juega/mochila/mochila.html">La Mochila Segura</a></li>
                         <li><a href="ciudadanos/juega/adivina/adivina.html">Adivina la Medicina</a></li>
+                        <li><a href="ciudadanos/juega/detectives/detectives.html">Detectives del Hogar</a></li>
+                        <li><a href="ciudadanos/juega/semaforo/semaforo.html">Semáforo de Urgencias</a></li>
                     </ul>
                 </div>
 
                 <div class="sidebar-group">
-                    <button class="sidebar-btn" data-toggle="practica-c">
-                        <i class="fa-solid fa-hand-holding-heart"></i>
-                        Participa
+                    <button class="sidebar-btn" data-toggle="practica">
+                        <i class="fa-solid fa-clipboard-check"></i> Practica
                     </button>
-                    <ul id="practica-c" class="sidebar-submenu">
-                        <li><a href="ciudadanos/practica/practica.html"><strong>Panel de Herramientas</strong></a></li>
+                    <ul id="practica" class="sidebar-submenu">
+                        <li><a href="ciudadanos/practica/practica.html"><strong>Ver panel de herramientas</strong></a></li>
                         <li><a href="ciudadanos/practica/buzon/buzon.html">Buzón de Seguridad</a></li>
+                        <li><a href="ciudadanos/practica/traductor/traductor.html">Traductor Médico (IA)</a></li>
                         <li><a href="ciudadanos/practica/consulta/consulta.html">Prepara tu Consulta</a></li>
                         <li><a href="ciudadanos/practica/dudas/dudas.html">Mi Lista de Dudas</a></li>
                         <li><a href="ciudadanos/practica/cultura/autotest.html">Termómetro Seguridad</a></li>
-                        <li><a href="ciudadanos/practica/traductor/traductor.html">Traductor Informes Médicos</a></li>
                     </ul>
                 </div>
 
@@ -116,31 +113,31 @@
         <main class="main-content">
             
             <div class="top-bar">
-                <h2>Área de Ciudadanía y Familias</h2>
+                <h2>Área de Ciudadanía</h2>
                 <a href="index.html" class="btn-home">
                     <i class="fa-solid fa-house"></i> Inicio
                 </a>
             </div>
 
             <p class="main-intro">
-                Tu participación es clave. Aquí encontrarás recursos sencillos para ayudarte a ser un paciente activo y colaborar en tu propia seguridad.
+                Bienvenido/a. Aquí encontrarás recursos para cuidar tu salud y participar activamente en tu seguridad.
             </p>
 
             <section class="module-grid">
                 
                 <article class="module-card card-aprende" onclick="location.href='ciudadanos/aprende/aprende.html'">
                     <h3><i class="fa-solid fa-book-medical" style="color:#0ea5e9;"></i> Aprende</h3>
-                    <p>Guías visuales y consejos prácticos sobre higiene, medicación y prevención de infecciones.</p>
+                    <p>Guías sencillas sobre higiene de manos, medicación y cómo prepararte para ir al médico.</p>
                 </article>
 
                 <article class="module-card card-juega" onclick="location.href='ciudadanos/juega/juega.html'">
-                    <h3><i class="fa-solid fa-puzzle-piece" style="color:#f59e0b;"></i> Juega</h3>
-                    <p>Actividades lúdicas para toda la familia. Aprende a identificar riesgos en casa mientras te diviertes.</p>
+                    <h3><i class="fa-solid fa-gamepad" style="color:#F5A623;"></i> Juega</h3>
+                    <p>Aprende divirtiéndote. Descubre riesgos en el hogar y demuestra cuánto sabes sobre salud.</p>
                 </article>
 
                 <article class="module-card card-practica" onclick="location.href='ciudadanos/practica/practica.html'">
-                    <h3><i class="fa-solid fa-hand-holding-heart" style="color:#10b981;"></i> Participa</h3>
-                    <p>Herramientas para preparar tu visita al médico y un buzón para contarnos tus preocupaciones.</p>
+                    <h3><i class="fa-solid fa-clipboard-check" style="color:#10b981;"></i> Practica</h3>
+                    <p>Herramientas útiles: prepara tus dudas para la consulta, traduce términos médicos y notifica incidencias.</p>
                 </article>
 
             </section>
