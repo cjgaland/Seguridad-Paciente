@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             await addDoc(collection(db, "encuestas_cultura"), surveyData);
-            console.log("Encuesta enviada");
+            // console.log("Encuesta enviada");
             
             form.classList.add('hidden');
             finalScreen.classList.remove('hidden');
