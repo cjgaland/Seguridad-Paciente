@@ -63,7 +63,7 @@ async function loadKnowledgeBase() {
         }
 
         documentContext = combinedText;
-        console.log(`Cerebro Ciudadano cargado: ${loadedCount} documentos.`);
+        // console.log(`Cerebro Ciudadano cargado: ${loadedCount} documentos.`);
 
     } catch (error) {
         console.error("Error cargando contexto:", error);
@@ -231,4 +231,5 @@ async function askGeminiRAG(preguntaUsuario) {
     if (!response.ok) throw new Error("Error API Gemini");
     const json = await response.json();
     return json.candidates[0].content.parts[0].text;
+
 }
