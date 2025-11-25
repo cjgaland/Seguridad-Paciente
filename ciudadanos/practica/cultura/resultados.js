@@ -1,6 +1,6 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
 import { getFirestore, collection, getDocs } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
-import { GEMINI_API_KEY } from "../../../../js/config.js";
+import { GEMINI_API_KEY } from "../../../js/config.js";
 
 const firebaseConfig = {
     apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
