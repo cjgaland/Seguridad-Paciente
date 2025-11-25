@@ -1,5 +1,5 @@
 /* ==========================================
-   ESTILOS: CHATBOT CORPORATIVO
+   ESTILOS: CHATBOT CORPORATIVO (PROFESIONALES)
    ========================================== */
 
 .chat-container {
@@ -12,7 +12,7 @@
     border: 1px solid #e5e7eb;
     display: flex;
     flex-direction: column;
-    height: 70vh; /* Altura fija para scroll */
+    height: 70vh;
     min-height: 500px;
 }
 
@@ -32,6 +32,7 @@
     gap: 15px;
     max-width: 85%;
     animation: fadeIn 0.3s ease;
+    position: relative; /* Para posicionar el botón de copiar */
 }
 
 .message.bot-message { align-self: flex-start; }
@@ -49,9 +50,11 @@
     color: white;
 }
 
+/* Colores Profesionales */
 .bot-message .msg-icon { background: linear-gradient(135deg, #3b82f6, #2563eb); }
 .user-message .msg-icon { background: #64748b; }
 
+/* --- CONTENIDO DEL MENSAJE --- */
 .msg-content {
     background: white;
     padding: 15px 20px;
@@ -62,9 +65,12 @@
     color: #333;
     font-size: 0.95rem;
     border: 1px solid #e2e8f0;
+    
+    /* CORRECCIÓN DE ALINEACIÓN */
+    text-align: left !important; 
 }
 
-/* Burbuja del usuario diferente */
+/* Burbuja del usuario */
 .user-message .msg-content {
     background: #eff6ff;
     border-color: #bfdbfe;
@@ -73,11 +79,66 @@
     color: #1e3a8a;
 }
 
-/* Markdown Styles dentro del chat */
-.msg-content p { margin: 0 0 10px 0; }
+/* --- ESTILOS MARKDOWN (ELEGANCIA) --- */
+.msg-content h3, .msg-content h4 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #1e40af;
+    font-weight: 700;
+}
+
+.msg-content p { 
+    margin: 0 0 10px 0; 
+}
 .msg-content p:last-child { margin: 0; }
-.msg-content ul { padding-left: 20px; margin: 10px 0; }
-.msg-content strong { color: #1e40af; }
+
+.msg-content strong { 
+    color: #0f172a; 
+    font-weight: 700; 
+}
+
+/* Listas limpias y alineadas a la izquierda */
+.msg-content ul, .msg-content ol {
+    margin: 10px 0;
+    padding-left: 25px; /* Espacio para viñetas */
+    text-align: left;
+}
+
+.msg-content li {
+    margin-bottom: 5px;
+}
+
+/* --- BOTÓN DE COPIAR --- */
+.copy-btn-container {
+    position: absolute;
+    top: -10px;
+    right: 0;
+    opacity: 0; /* Oculto hasta hover */
+    transition: opacity 0.2s;
+}
+
+.message:hover .copy-btn-container {
+    opacity: 1; /* Visible al pasar el ratón */
+}
+
+.btn-copy {
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    padding: 4px 8px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: #64748b;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.btn-copy:hover {
+    color: #3b82f6;
+    border-color: #3b82f6;
+}
 
 /* --- ÁREA DE INPUT --- */
 .chat-input-area {
