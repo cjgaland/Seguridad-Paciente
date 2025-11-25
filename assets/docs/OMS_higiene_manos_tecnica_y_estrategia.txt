@@ -1,0 +1,40 @@
+MANUAL TÉCNICO Y ESTRATEGIA DE HIGIENE DE MANOS (OMS)
+
+1. LOS 5 MOMENTOS PARA LA HIGIENE DE MANOS (EL ESTÁNDAR DE ORO)
+El objetivo es interrumpir la cadena de transmisión de gérmenes. La higiene debe realizarse:
+1. ANTES del contacto con el paciente: Para proteger al paciente de los gérmenes que llevamos en las manos (ej: al estrechar la mano, ayudar a moverse).
+2. ANTES de realizar una tarea limpia/aséptica: Para proteger al paciente de que sus propios gérmenes o los del entorno entren en su cuerpo (ej: curas, inserción de catéteres, preparación de medicación).
+3. DESPUÉS del riesgo de exposición a fluidos corporales: Para protegerse a uno mismo y al entorno de los gérmenes del paciente (ej: tras manipular orina, sangre, secreciones, o retirar guantes).
+4. DESPUÉS del contacto con el paciente: Para protegerse a uno mismo y al entorno (ej: tras tocar al paciente, tomar el pulso).
+5. DESPUÉS del contacto con el entorno del paciente: Para protegerse a uno mismo y al entorno tras tocar objetos inanimados (ej: cambiar sábanas, ajustar la velocidad del monitor o tocar la mesilla).
+
+2. TÉCNICAS DE HIGIENE: FRICCIÓN VS LAVADO
+A) Fricción con Preparados de Base Alcohólica (PBA):
+   - Es el método de elección (GOLD STANDARD) salvo que haya suciedad visible.
+   - Ventajas: Más rápido (20-30 segundos), mayor disponibilidad en el punto de atención, mejor tolerancia cutánea y mayor eficacia antimicrobiana.
+   - Técnica: Aplicar producto en la palma, frotar palmas, dorsos, entrelazando dedos, dorso de los dedos, pulgares y puntas de los dedos hasta que estén secas.
+B) Lavado con Agua y Jabón:
+   - Cuándo usarlo: Cuando las manos estén visiblemente sucias, manchadas de sangre/fluidos, tras usar el baño, o ante sospecha/evidencia de patógenos formadores de esporas (ej: Clostridium difficile).
+   - Duración: 40-60 segundos.
+   - Técnica: Mojar, enjabonar, frotar todas las superficies (igual que la fricción), enjuagar y secar con toalla desechable (usando la toalla para cerrar el grifo).
+
+3. USO DE GUANTES
+- NO sustituye la higiene de manos.
+- Se debe realizar higiene de manos ANTES de ponerse los guantes y INMEDIATAMENTE DESPUÉS de quitárselos.
+- Uso indicado: Riesgo de exposición a sangre, fluidos corporales, secreciones, excreciones, objetos contaminados o mucosas/piel no intacta.
+- Uso NO indicado (Abuso): Tocar material limpio, tomar constantes (salvo aislamiento), tareas administrativas (teléfono, ordenador). El uso indiscriminado aumenta la transmisión cruzada.
+
+4. ESTRATEGIA MULTIMODAL DE LA OMS (CÓMO IMPLEMENTARLO)
+Para tener éxito, no basta con dar cursos. Se deben aplicar 5 componentes simultáneos:
+1. Cambio del sistema (Infraestructura): Asegurar acceso a PBA en el punto de atención (donde ocurren los cuidados) y agua/jabón/toallas.
+2. Formación y aprendizaje: Educar a todos los trabajadores sanitarios regularmente.
+3. Evaluación y retroalimentación (Feedback): Monitorizar el cumplimiento (observación directa) e informar a los equipos de sus resultados.
+4. Recordatorios en el lugar de trabajo: Carteles, folletos y señales visuales de los 5 Momentos.
+5. Clima institucional de seguridad: Crear una cultura donde la higiene de manos sea una prioridad visible de la dirección y los equipos.
+
+5. CUIDADO DE LAS MANOS
+- La piel intacta es la primera línea de defensa.
+- Usar cremas hidratantes compatibles con los PBA para prevenir dermatitis.
+- Las uñas deben estar cortas y naturales (menos de 0.5 cm).
+- Evitar uñas artificiales o extensiones (aumentan la carga bacteriana y dificultan la higiene).
+- Retirar joyas (anillos, pulseras, relojes) antes de la higiene de manos clínica.

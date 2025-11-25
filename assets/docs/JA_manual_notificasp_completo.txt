@@ -1,0 +1,55 @@
+MANUAL INTEGRAL DEL SISTEMA DE NOTIFICACIÓN (NotificASP) - JUNTA DE ANDALUCÍA
+
+1. ¿QUÉ ES NOTIFICASP?
+Es el sistema oficial del SSPA para notificar incidentes de seguridad. Su objetivo es aprender del error para evitar que se repita. Es VOLUNTARIO, CONFIDENCIAL y NO PUNITIVO.
+Los datos personales se anonimizan automáticamente (se borran) a los 15 días (notificación) o 45 días (gestión).
+
+2. CATEGORÍAS DE INCIDENTES (Clasificación OMS)
+- Accidente del paciente / Caídas (tropiezos, resbalones).
+- Medicación (prescripción, dispensación, administración, omisión).
+- Documentación / Identificación (paciente o prueba errónea).
+- Infección asociada a la asistencia (flebitis, heridas, sepsis).
+- Procedimiento quirúrgico / Cuidados.
+- Equipamiento médico / Infraestructuras.
+- Pruebas diagnósticas (Laboratorio/Radiología).
+
+3. TIPOS DE INCIDENTES (DEFINICIONES)
+- Riesgo: Situación con capacidad de causar daño pero que aún no ha ocurrido (ej: fármacos parecidos juntos).
+- Cuasi-incidente (Near Miss): El error ocurrió pero NO llegó al paciente (se detectó a tiempo).
+- Incidente sin daño: Llegó al paciente pero no causó lesiones.
+- Evento Adverso (Incidente con daño): Llegó al paciente y causó daño (leve, grave o muerte).
+
+4. MATRIZ DE RIESGO (CÁLCULO DE GRAVEDAD)
+El riesgo se calcula cruzando FRECUENCIA x DAÑO:
+- Frecuencia: Muy infrecuente (años) <---> Casi seguro (semanal).
+- Daño: Ninguno <---> Catastrófico (muerte/daño permanente).
+
+NIVELES DE RIESGO Y ACTUACIÓN DEL GESTOR:
+- RIESGO MUY ALTO: Actuación INMEDIATA (48-72h). Requiere Análisis Causa Raíz (ACR). Informar a Dirección.
+- RIESGO ALTO/MODERADO: Actuación en 7-14 días. Análisis simplificado.
+- RIESGO BAJO: Análisis agregado (mensual/trimestral) antes de 30 días.
+
+5. GUÍA PARA PROFESIONALES (CÓMO NOTIFICAR)
+- Acceso: WebESSPA o DMSAS.
+- Pasos:
+  1. Elegir categoría.
+  2. Describir qué pasó (sin poner nombres reales en el texto).
+  3. Indicar localización (Unidad/Centro).
+  4. Gravedad del daño (si lo hubo).
+  5. Factores contribuyentes (¿Cansancio? ¿Fallo de protocolo? ¿Falta de personal?).
+  6. Propuesta de mejora (Opcional).
+- Al finalizar, se obtiene un LOCALIZADOR para seguimiento.
+
+6. GUÍA PARA CIUDADANOS
+- Los pacientes pueden notificar riesgos o incidentes vividos.
+- El lenguaje es adaptado. Se pregunta: "¿Qué pasó?", "¿Dónde?", "¿Hubo daño?".
+- Es anónimo, pero pueden dejar email para recibir feedback de las mejoras implantadas.
+
+7. GUÍA PARA GESTORES (PROCESAMIENTO)
+- Roles: Gestor Micro (Unidad), Gestor Macro (Centro/Hospital), Referente SP (Auditoría).
+- Estados del incidente:
+  1. Nuevo: Recibido.
+  2. En estudio: Analizando causas.
+  3. Implementación de Mejoras: Se han creado Acciones de Mejora (AM).
+  4. Resuelto: AM evaluadas y cerradas.
+- Acciones de Mejora (AM): Deben ser concretas, tener responsable y fecha de evaluación. Se pueden compartir en el "Banco de AM".
