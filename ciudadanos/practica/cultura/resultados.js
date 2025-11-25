@@ -1,5 +1,6 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
 import { getFirestore, collection, getDocs } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
+import { GEMINI_API_KEY } from "../../../../js/config.js";
 
 const firebaseConfig = {
     apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
@@ -13,25 +14,17 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-// CONFIGURACIÓN DE BLOQUES
+// CONFIGURACIÓN DE BLOQUES (CIUDADANOS)
+// Asumiendo 8 preguntas en bloques: Info(3), Trato(2), Medicacion(2), Entorno(1)
 const BLOQUES_INFO = [
-    {
-        labels: ["1. Se presentaron", "2. Explicación clara", "3. Escucha activa"],
-        indices: [0, 1, 2]
-    },
-    {
-        labels: ["4. Higiene manos", "5. Limpieza entorno", "6. Identificación"],
-        indices: [3, 4, 5]
-    },
-    {
-        labels: ["7. Animar preguntas", "8. Signos alarma", "9. Participación"],
-        indices: [6, 7, 8]
-    }
+    { labels: ["1. Info Clara", "2. Entendí riesgos", "3. Pude preguntar"], indices: [0, 1, 2] },
+    { labels: ["4. Amabilidad", "5. Escucha activa"], indices: [3, 4] },
+    { labels: ["6. Info Medicación", "7. Cambios Tratamiento"], indices: [5, 6] },
+    { labels: ["8. Limpieza/Entorno"], indices: [7] }
 ];
 
-// VARIABLES GLOBALES
 let allData = [];
-let currentAvgQ = [0,0,0,0,0,0,0,0,0]; // Inicializado a ceros
+let currentAvgQ = new Array(8).fill(0); 
 let chartDetalleInstance = null;
 let chartBloquesInstance = null;
 let chartPerfilInstance = null;
@@ -40,65 +33,59 @@ let activeBlockIndex = 0;
 document.addEventListener('DOMContentLoaded', () => {
     loadData();
 
-    // Eventos de Filtros
-    document.getElementById('filter-role').addEventListener('change', applyFilters);
-    document.getElementById('filter-scope').addEventListener('change', applyFilters);
+    document.getElementById('filter-gender').addEventListener('change', applyFilters);
+    document.getElementById('filter-age').addEventListener('change', applyFilters);
     document.getElementById('btn-reset-filters').addEventListener('click', resetFilters);
 
-    // Eventos de Pestañas (Gráfico Detalle)
     document.querySelectorAll('.chart-tab').forEach(btn => {
         btn.addEventListener('click', (e) => {
-            // 1. Visual
             document.querySelectorAll('.chart-tab').forEach(b => b.classList.remove('active'));
             e.target.classList.add('active');
-            
-            // 2. Lógica
             activeBlockIndex = parseInt(e.target.dataset.block);
-            renderDetalleChart(); 
+            renderDetalleChart();
         });
     });
+
+    // LISTENER IA
+    const btnIA = document.getElementById('btn-analizar-ia');
+    if(btnIA) btnIA.addEventListener('click', generarAnalisisIA);
 });
 
 async function loadData() {
     try {
+        // COLECCIÓN CIUDADANOS
         const querySnapshot = await getDocs(collection(db, "encuestas_ciudadanos"));
         
-        if (querySnapshot.empty) {
-            updateKPIs(0, 0);
-            return;
-        }
+        if (querySnapshot.empty) { updateKPIs(0, 0); return; }
 
         allData = [];
         querySnapshot.forEach(doc => {
             const d = doc.data();
-            // Validación básica de datos
-            if (d.respuestas && d.perfil) {
-                allData.push(d);
-            }
+            if (d.respuestas && d.perfil) allData.push(d);
         });
         
-        applyFilters(); // Cargar gráficos con todos los datos
+        applyFilters();
 
     } catch (error) {
         console.error("Error:", error);
-        alert("Error al cargar datos. Revisa tu conexión.");
+        alert("Error cargando datos.");
     }
 }
 
 function resetFilters() {
-    document.getElementById('filter-role').value = "all";
-    document.getElementById('filter-scope').value = "all";
+    document.getElementById('filter-gender').value = "all";
+    document.getElementById('filter-age').value = "all";
     applyFilters();
 }
 
 function applyFilters() {
-    const roleFilter = document.getElementById('filter-role').value;
-    const scopeFilter = document.getElementById('filter-scope').value;
+    const genderFilter = document.getElementById('filter-gender').value;
+    const ageFilter = document.getElementById('filter-age').value;
 
     const filteredData = allData.filter(d => {
-        const roleMatch = (roleFilter === 'all') || (d.perfil.categoria === roleFilter);
-        const scopeMatch = (scopeFilter === 'all') || (d.perfil.ambito === scopeFilter);
-        return roleMatch && scopeMatch;
+        const genderMatch = (genderFilter === 'all') || (d.perfil.genero === genderFilter);
+        const ageMatch = (ageFilter === 'all') || (d.perfil.edad === ageFilter);
+        return genderMatch && ageMatch;
     });
 
     processMetrics(filteredData);
@@ -107,7 +94,6 @@ function applyFilters() {
 function processMetrics(data) {
     const total = data.length;
     
-    // Si no hay datos tras filtrar, limpiamos y salimos
     if (total === 0) {
         updateKPIs(0, 0);
         if(chartBloquesInstance) chartBloquesInstance.destroy();
@@ -119,63 +105,49 @@ function processMetrics(data) {
     let sumGlobal = 0;
     const perfilCount = {};
     
-    // Acumuladores Bloques
-    let sumB1 = 0, sumB2 = 0, sumB3 = 0;
-    
-    // Acumuladores Preguntas Individuales (q0-q8)
-    const sumQ = new Array(9).fill(0);
+    let sumB1=0, sumB2=0, sumB3=0, sumB4=0;
+    const sumQ = new Array(8).fill(0);
 
     data.forEach(d => {
         sumGlobal += parseFloat(d.promedio || 0);
         
-        // Perfil
-        let label = d.perfil.categoria === 'paciente' ? 'Pacientes' : 'Familiares';
-        perfilCount[label] = (perfilCount[label] || 0) + 1;
+        // Gráfico de Perfil (Edad)
+        const edad = d.perfil.edad || 'NS/NC';
+        perfilCount[edad] = (perfilCount[edad] || 0) + 1;
 
         const r = d.respuestas;
-        
-        // Sumas Bloques (Aseguramos que sean números)
         sumB1 += ((r.q0||0) + (r.q1||0) + (r.q2||0)) / 3;
-        sumB2 += ((r.q3||0) + (r.q4||0) + (r.q5||0)) / 3;
-        sumB3 += ((r.q6||0) + (r.q7||0) + (r.q8||0)) / 3;
+        sumB2 += ((r.q3||0) + (r.q4||0)) / 2;
+        sumB3 += ((r.q5||0) + (r.q6||0)) / 2;
+        sumB4 += (r.q7||0);
 
-        // Sumas Preguntas
-        for(let i=0; i<9; i++) {
-            sumQ[i] += parseFloat(r[`q${i}`] || 0);
-        }
+        for(let i=0; i<8; i++) sumQ[i] += (r[`q${i}`] || 0);
     });
 
-    // Medias Finales
     const avgGlobal = (sumGlobal / total).toFixed(2);
     const avgB1 = (sumB1 / total).toFixed(2);
     const avgB2 = (sumB2 / total).toFixed(2);
     const avgB3 = (sumB3 / total).toFixed(2);
+    const avgB4 = (sumB4 / total).toFixed(2);
     
-    // --- CORRECCIÓN CRÍTICA: Actualizar la variable GLOBAL ---
     currentAvgQ = sumQ.map(s => (s / total).toFixed(2));
 
-    // Renderizar todo
     updateKPIs(total, avgGlobal);
     renderPieChart(perfilCount);
-    renderBloquesChart(avgB1, avgB2, avgB3);
-    renderDetalleChart(); // Ahora sí tiene datos en currentAvgQ
+    renderBloquesChart(avgB1, avgB2, avgB3, avgB4);
+    renderDetalleChart();
 }
 
 function updateKPIs(total, avg) {
     document.getElementById('total-responses').textContent = total;
     const s = document.getElementById('global-score');
     s.textContent = avg;
-    
-    if(avg >= 4) s.style.color = "#10b981";
-    else if(avg >= 3) s.style.color = "#f59e0b";
-    else s.style.color = "#ef4444";
+    s.style.color = avg >= 4 ? '#10b981' : (avg >= 3 ? '#f59e0b' : '#ef4444');
 }
 
-// --- GRÁFICO 1: PERFIL (PIE) ---
 function renderPieChart(counts) {
     const ctx = document.getElementById('chart-perfil');
     if(!ctx) return;
-    
     if(chartPerfilInstance) chartPerfilInstance.destroy();
 
     chartPerfilInstance = new Chart(ctx.getContext('2d'), {
@@ -184,91 +156,190 @@ function renderPieChart(counts) {
             labels: Object.keys(counts),
             datasets: [{
                 data: Object.values(counts),
-                backgroundColor: ['#3b82f6', '#10b981', '#f59e0b'],
+                backgroundColor: ['#0ea5e9', '#10b981', '#f59e0b', '#ef4444'],
                 borderWidth: 1
             }]
         },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: { legend: { position: 'right' } }
-        }
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'right' } } }
     });
 }
 
-// --- GRÁFICO 2: BLOQUES ---
-function renderBloquesChart(v1, v2, v3) {
+function renderBloquesChart(v1, v2, v3, v4) {
     const ctx = document.getElementById('chart-bloques');
     if (!ctx) return;
-
     if (chartBloquesInstance) chartBloquesInstance.destroy();
 
     chartBloquesInstance = new Chart(ctx.getContext('2d'), {
         type: 'bar',
         data: {
-            labels: ['Comunicación', 'Higiene', 'Participación'],
+            labels: ['Información', 'Trato', 'Medicación', 'Entorno'],
             datasets: [{
                 label: 'Satisfacción (1-5)',
-                data: [v1, v2, v3],
+                data: [v1, v2, v3, v4],
                 backgroundColor: [
-                    v1>=3 ? '#3b82f6':'#ef4444',
-                    v2>=3 ? '#3b82f6':'#ef4444',
-                    v3>=3 ? '#3b82f6':'#ef4444'
+                    v1>=3?'#0ea5e9':'#ef4444', 
+                    v2>=3?'#0ea5e9':'#ef4444', 
+                    v3>=3?'#0ea5e9':'#ef4444',
+                    v4>=3?'#0ea5e9':'#ef4444'
                 ],
                 borderRadius: 5
             }]
         },
         options: {
-            responsive: true,
-            maintainAspectRatio: false,
+            responsive: true, maintainAspectRatio: false,
             scales: { y: { beginAtZero: true, max: 5 } },
             plugins: { legend: { display: false } }
         }
     });
 }
 
-// --- GRÁFICO 3: DETALLE DINÁMICO ---
 function renderDetalleChart() {
     const ctx = document.getElementById('chart-detalle');
     if (!ctx) return;
-    
     if (chartDetalleInstance) chartDetalleInstance.destroy();
 
-    // 1. Coger configuración del bloque actual
     const config = BLOQUES_INFO[activeBlockIndex];
-    
-    // 2. Coger datos (CORREGIDO: ahora currentAvgQ ya tiene datos)
-    const dataValues = config.indices.map(idx => currentAvgQ[idx]);
-    
-    // 3. Colores dinámicos
-    const colors = dataValues.map(v => v >= 4 ? '#10b981' : (v >= 3 ? '#f59e0b' : '#ef4444'));
+    const blockData = config.indices.map(idx => currentAvgQ[idx]);
+    const colors = blockData.map(v => v >= 4 ? '#10b981' : (v >= 3 ? '#f59e0b' : '#ef4444'));
 
     chartDetalleInstance = new Chart(ctx.getContext('2d'), {
         type: 'bar',
         data: {
             labels: config.labels,
             datasets: [{
-                data: dataValues,
+                label: 'Media',
+                data: blockData,
                 backgroundColor: colors,
                 borderRadius: 5,
                 barPercentage: 0.6
             }]
         },
         options: {
-            indexAxis: 'y', // Horizontal
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                x: { beginAtZero: true, max: 5, grid: { color: '#f3f4f6' } },
-                y: { grid: { display: false } }
-            },
-            plugins: {
-                legend: { display: false },
-                tooltip: {
-                    callbacks: { label: (ctx) => `Media: ${ctx.raw}/5` }
-                }
-            },
+            indexAxis: 'y',
+            responsive: true, maintainAspectRatio: false,
+            scales: { x: { beginAtZero: true, max: 5 }, y: { grid: { display: false } } },
+            plugins: { legend: { display: false } },
             animation: { duration: 500 }
         }
     });
+}
+
+// ==========================================
+//  IA ANALISTA DE EXPERIENCIA (CIUDADANOS)
+// ==========================================
+
+async function generarAnalisisIA() {
+    const totalEncuestas = document.getElementById('total-responses').textContent;
+    const notaGlobal = document.getElementById('global-score').textContent;
+    const filtroGen = document.getElementById('filter-gender').selectedOptions[0].text;
+    const filtroEdad = document.getElementById('filter-age').selectedOptions[0].text;
+    
+    const datosContexto = `
+        DATOS DE LA ENCUESTA PREMS (Experiencia Paciente):
+        - Total participantes: ${totalEncuestas}
+        - Filtro: Género [${filtroGen}] - Edad [${filtroEdad}]
+        - Satisfacción Global: ${notaGlobal}/5.0
+        - Dimensiones: Información, Trato, Medicación, Entorno.
+    `;
+
+    // PROMPT CIUDADANO (HTML VISUAL)
+    const prompt = `
+        Actúa como un Experto en Experiencia del Paciente (Patient Experience).
+        Analiza estos datos: ${datosContexto}
+        
+        IMPORTANTE: NO RESPONDAS EN MARKDOWN. RESPONDE SOLO CON CÓDIGO HTML.
+        Usa esta estructura para el informe DAFO visual:
+
+        <div class="dafo-grid">
+            <div class="dafo-box fortalezas">
+                <h3>LO MEJOR VALORADO</h3>
+                <ul>
+                    <li>(Aspecto positivo destacado 1)</li>
+                    <li>(Aspecto positivo destacado 2)</li>
+                </ul>
+            </div>
+
+            <div class="dafo-box debilidades">
+                <h3>A MEJORAR</h3>
+                <ul>
+                    <li>(Punto de dolor detectado 1)</li>
+                    <li>(Punto de dolor detectado 2)</li>
+                </ul>
+            </div>
+
+            <div class="dafo-box oportunidades">
+                <h3>OPORTUNIDADES</h3>
+                <ul>
+                    <li>(Idea para mejorar la experiencia 1)</li>
+                    <li>(Idea para mejorar la experiencia 2)</li>
+                </ul>
+            </div>
+
+            <div class="dafo-box amenazas">
+                <h3>RIESGOS PERCIBIDOS</h3>
+                <ul>
+                    <li>(Posible riesgo de seguridad 1)</li>
+                    <li>(Posible riesgo de seguridad 2)</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mejora-box">
+            <h3>ACCIONES PARA MEJORAR LA EXPERIENCIA</h3>
+            <ul>
+                <li><strong>Acción 1:</strong> Propuesta concreta.</li>
+                <li><strong>Acción 2:</strong> Propuesta concreta.</li>
+                <li><strong>Acción 3:</strong> Propuesta concreta.</li>
+            </ul>
+        </div>
+
+        <div class="conclusion-box">
+            (Frase final empática resumiendo el sentir de la ciudadanía).
+        </div>
+    `;
+
+    // UI Loading
+    document.getElementById('ia-loading').style.display = 'block';
+    document.getElementById('ia-result').style.display = 'none';
+    document.getElementById('ia-disclaimer').style.display = 'none';
+    const btn = document.getElementById('btn-analizar-ia');
+    btn.disabled = true;
+
+    try {
+        const respuestaHTML = await consultarGeminiAPI(prompt);
+        
+        const resultDiv = document.getElementById('ia-result');
+        const htmlLimpio = respuestaHTML.replace(/```html/g, '').replace(/```/g, '');
+        resultDiv.innerHTML = htmlLimpio;
+        
+        document.getElementById('ia-loading').style.display = 'none';
+        resultDiv.style.display = 'block';
+        document.getElementById('ia-disclaimer').style.display = 'block';
+        
+    } catch (error) {
+        console.error(error);
+        alert(`Error: ${error.message}`);
+        document.getElementById('ia-loading').style.display = 'none';
+    } finally {
+        btn.disabled = false;
+    }
+}
+
+async function consultarGeminiAPI(promptTexto) {
+    const MODEL_NAME = "gemini-2.0-flash";
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
+
+    const response = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ contents: [{ parts: [{ text: promptTexto }] }] })
+    });
+
+    if (!response.ok) {
+        const errorData = await response.json().catch(() => null);
+        throw new Error(errorData?.error?.message || response.statusText);
+    }
+
+    const json = await response.json();
+    return json.candidates[0].content.parts[0].text;
 }
