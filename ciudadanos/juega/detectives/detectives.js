@@ -8,10 +8,10 @@ export async function initGame({ root, saveScoreFirebase }) {
     // --- IMÁGENES ---
     // Asegúrate de que los archivos existen en esta ruta
     const IMGS = {
-        salon: "img/escenario1.png",      // Salón
-        bano: "img/escenario2.png",       // Baño
-        cocina: "img/escenario3.png",     // Cocina
-        dormitorio: "img/escenario4.png"  // Dormitorio
+        salon: "img/escenario1.jpg",      // Salón
+        bano: "img/escenario2.jpg",       // Baño
+        cocina: "img/escenario3.jpg",     // Cocina
+        dormitorio: "img/escenario4.jpg"  // Dormitorio
     };
 
     // --- DEFINICIÓN DE RIESGOS (COORDENADAS PENDIENTES DE AJUSTAR) ---
