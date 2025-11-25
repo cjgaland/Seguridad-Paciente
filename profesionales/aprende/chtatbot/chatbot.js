@@ -59,7 +59,7 @@ async function loadKnowledgeBase() {
         }
 
         documentContext = combinedText;
-        console.log(`Cerebro Profesional cargado: ${loadedCount} documentos.`);
+        // console.log(`Cerebro Profesional cargado: ${loadedCount} documentos.`);
 
         if (loadedCount === 0) {
             appendMessage("bot", "⚠️ Error: No se ha podido cargar ninguna documentación.");
@@ -245,4 +245,5 @@ async function askGeminiRAG(preguntaUsuario) {
     if (!response.ok) throw new Error("Error API Gemini");
     const json = await response.json();
     return json.candidates[0].content.parts[0].text;
+
 }
