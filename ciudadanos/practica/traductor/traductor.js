@@ -55,9 +55,9 @@ async function consultarGemini(textoUsuario) {
     // USAMOS LA VARIABLE IMPORTADA GEMINI_API_KEY
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
 
-    // PROMPT DE "ENFERMERO AMABLE"
+    // PROMPT DE "PROFESIONAL SANITARIO AMABLE"
     const promptSistema = `
-        Actúa como un enfermero experto, paciente y muy amable.
+        Actúa como un profesional sanitario, paciente y muy amable.
         Tu misión es "traducir" el siguiente texto médico para que un paciente (sin conocimientos sanitarios) lo entienda perfectamente.
         
         Texto del paciente: "${textoUsuario}"
@@ -98,4 +98,5 @@ async function consultarGemini(textoUsuario) {
     }
 
     return json.candidates[0].content.parts[0].text;
+
 }
