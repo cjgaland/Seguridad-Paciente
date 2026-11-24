@@ -1,18 +1,5 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
-import { getFirestore, collection, addDoc } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
+import { guardar } from "../../../js/core/almacen.js";
 
-// CONFIGURACIÓN
-const firebaseConfig = {
-    apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
-    authDomain: "seguridadpaciente-f0860.firebaseapp.com",
-    projectId: "seguridadpaciente-f0860",
-    storageBucket: "seguridadpaciente-f0860.firebasestorage.app",
-    messagingSenderId: "394227294182",
-    appId: "1:394227294182:web:5bd4cc318ea4d9cf9ac027"
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
 
 const QUESTIONS = [
     {
@@ -139,15 +126,15 @@ document.addEventListener('DOMContentLoaded', () => {
         };
 
         try {
-            await addDoc(collection(db, "encuestas_cultura"), surveyData);
-            // console.log("Encuesta enviada");
+            await guardar("encuestas_cultura", surveyData);
+            console.log("Encuesta enviada");
             
             form.classList.add('hidden');
             finalScreen.classList.remove('hidden');
             showResultsLocal(avg, notificaAvg); // Solo muestra el resultado de ESTA encuesta
         } catch (error) {
             console.error("Error:", error);
-            alert("Error de conexión.");
+            alert("No se ha podido guardar la encuesta en este dispositivo.");
             btn.disabled = false;
             btn.innerHTML = "Reintentar";
         }

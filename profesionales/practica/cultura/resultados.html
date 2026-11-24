@@ -19,15 +19,16 @@
 <body>
 
     <header class="sp-header">
-        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" alt="Estrategia para la Seguridad del Paciente" class="sp-logo">
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
-        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right">
     </header>
 
     <main class="sp-main">
         
         <div class="top-bar">
             <h2><i class="fa-solid fa-chart-line" style="color:#3b82f6;"></i> Clima de Seguridad (Profesionales)</h2>
+            <p id="avisoAlmacen" class="aviso-almacen" role="note"></p>
             <div class="actions">
                 <a href="autotest.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Volver al Test</a>
             </div>
@@ -115,30 +116,6 @@
 
         </div>
 
-        <div class="chart-card" style="margin-top: 30px; border-left: 5px solid #8b5cf6;">
-            <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px;">
-                <h3 style="margin:0; border:none; color: #4c1d95;">
-                    <i class="fa-solid fa-brain" style="color:#8b5cf6; margin-right:10px;"></i> 
-                    Analista Estratégico IA
-                </h3>
-                <button id="btn-analizar-ia" class="btn-refresh" style="background:#8b5cf6; color:white; border:none;">
-                    <i class="fa-solid fa-wand-magic-sparkles"></i> Generar Informe DAFO
-                </button>
-            </div>
-
-            <div id="ia-loading" style="display:none; text-align:center; padding: 40px; color:#666;">
-                <i class="fa-solid fa-circle-notch fa-spin" style="font-size: 2rem; color:#8b5cf6; margin-bottom:15px;"></i>
-                <p>Analizando patrones en las encuestas y detectando áreas de mejora...</p>
-            </div>
-
-            <div id="ia-result" class="ia-content" style="display:none; padding: 10px; line-height: 1.6; color: #333;">
-                </div>
-            
-            <div id="ia-disclaimer" style="display:none; margin-top: 20px; font-size: 0.8rem; color: #999; text-align: center; border-top: 1px solid #eee; padding-top: 10px;">
-                * Este informe es generado por IA basado en los datos filtrados actuales. Úsalo como herramienta de apoyo a la decisión.
-            </div>
-        </div>
-
     </main>
 
     <footer class="sp-footer">
@@ -146,5 +123,6 @@
     </footer>
 
     <script type="module" src="resultados.js"></script>
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
 </body>
 </html>

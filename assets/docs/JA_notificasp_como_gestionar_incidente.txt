@@ -1,0 +1,293 @@
+Autoría  
+Paloma Trillo López. Asesora técnica de la Estrategia para la Seguridad del Paciente del SSPA. Consejería de Salud y 
+Consumo.  
+Elena Corpas Nogales. Escuela Andaluza de Salud Pública. Consejería de Salud y Consumo.   
+ 
+Gestores  notificASP  
+Cómo gestionar un incidente  
+Actualización notificASP  2023 _v1 
+ 
+Índice  
+CÓMO GESTIONAR UN INCIDENTE  ................................ ................................ ................................  2 
+1er paso: INFORMACIÓN Y ANÁLISIS DE LA NOTIFICACIÓN  ................................ .......................  2 
+2o paso: CREAR ACCIONES DE MEJORAS PARA EL INCIDENTE  ................................ ..................  5 
+3er paso: RESOLVER EL INCIDENTE  ................................ ................................ ............................  9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  2 | 11 
+ 
+ 
+CÓMO GESTIONAR UN INCIDENTE  
+En el listado de incidentes de la unidad, podemos seleccionar una notificación en concreto  
+para gestionarla . Para el lo, clicamos en la opción “Gestionar incidente”  
+ 
+En este momento la notificación se encontrará  en estado “Nuevo” : 
+ 
+ 
+ 
+1er paso: INFORMACIÓN Y ANÁLISIS DE LA NOTIFICACIÓN  
+El primer paso , es analizar la información de la notificación.  En la pantalla se muestra la 
+información más destacada de la notificación, pero podemos acceder a la información 
+completa de la notificación clicando en el icono        . 
+ 
+Puntos clave de esta pantalla:  
+1. Podemos reevaluar el Riesgo  asignado al incidente en base a la frecuencia de ocurrencia 
+del incidente y el grado del daño que le ha ocasionado al paciente . 
+1 2 
+3 4 
+5 
+6  
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  3 | 11 
+ 
+ 
+ 
+Nota: El valor del riesgo solo viene autocalculado  en las notificaciones que se reciben del formulario de 
+notificación de profesionales, y si el incidente “SI” ha llegado al paciente. En el resto de notificaciones no aparece 
+un riesgo asignado , el gestor deberá  asignar un valor antes de guardar el análisi s. 
+El grado del daño  si no viene designado en la notificación, se valora según la descripción 
+del incidente . Las opciones para seleccionar en la matriz son: 
+• Ninguno , no le ha causado daño  
+• Leve.  El paciente requiere observación o tratamiento menor o un míni mo daño a uno o más 
+pacientes: primeros auxilios, terapia o medicación adicional.  
+• Moderado . El paciente requiere un aumento moderado en el tratamiento o un daño a uno 
+o más pacientes, pero no permanente a consecuencia del incidente: hospitalización, 
+interv ención quirúrgica, reintervención, reingreso no planeada, incremento de tiempo de 
+cuidados, tiempo extra de hospitalización o como paciente externo, cancelación del 
+tratamiento, transferencia a otra área como la de cuidados intensivos, etc.  
+• Grave . Ha provo cado un daño permanente a uno o más pacientes o ha comprometido la 
+vida del paciente: pérdida de alguna función corporal, sensorial, motora, psicológica o 
+intelectual, incluida la extirpación del órgano o extremidad afectados, o daño cerebral.  
+• Catastrófico . Contribuyó o causó la muerte del paciente. La muerte ha de estar directamente 
+relacionada con el incidente y no con la enfermedad o estado general del paciente.  
+El otro valor a seleccionar en la matriz es la frecuencia  con que  se considera que  pueden 
+ocurrir incidentes similare s al descrito . Las opciones a seleccionar en la matriz son:   
+• Muy infrecuente:  es poco probable que vuelva a ocurrir, ocurriría sólo bajo circunstancias 
+excepcionales, (quizás en un plazo de entre 5 y 30 años) . 
+• Poco frecue nte: podría ocurrir en algún momento (quizás en un plazo de entre dos y cinco 
+años) . 
+• Ocasional:  es posible que vuelva a ocurrir en algún momento (podría ocurrir una o dos 
+veces al año) . 
+• Frecuente:  es esperable que ocurra en muchas circunstancias (probablem ente ocurra varias 
+veces al año) . 
+• Casi seguro:  es lógico esperar que el incidente ocurra casi seguro otra vez,  inmediatamente 
+o en un periodo de tiempo breve (probablemente ocurra la mayoría de las semanas o 
+meses) . 
+Al señalar en la matriz los dos valores, nos aparece  el nivel de riesgo . Éste puede ser: bajo, 
+moderado, alto o muy alto.  El nivel de riesgo determina  la inmediatez y la profundidad del 
+análisis a desarrollar  por el gestor.  
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  4 | 11 
+ 
+ 
+• Muy alto . Requiere un análisis  causa raíz y actuaciones inmediatas. La dirección de la 
+unidad y del centro debe conocer la situación y deben implementarse acciones correctivas 
+urgentes . 48-72 horas. 
+• Alto-Moderado . Requiere una investigación mediante una versión simplificada de un 
+análisis causa raíz o similar (BACRA) y acciones de mejora implantadas lo antes posible. La 
+dirección de la unidad y del centro deben conocer la situación. 7-14 días . 
+• Bajo. Estudio de casos individual o agregados  por categoría del incidente . Implementación 
+de acciones de mejora según proceso. Antes de 30 días . 
+2. Se puede editar las categorías del incidente  si consideramos que está mal asignado o 
+afecta a alguna categoría más (máximo 3) . 
+3. Añadir información adicional : en este apartado pode mos poner el resultado de nuestro 
+análisis del caso, mostrará el evolutivo de los gestores que van añadiendo información, y 
+deja registro del gestor que introduce información.  
+4. Es posible  solicitar información adicional al notificante  si consideramos que  necesitamos 
+ampliar información de lo sucedido . Si el notificante nos responde añadiendo información, 
+nos llegará un correo y nos aparecerá en esta pantalla resumen .  
+ 
+5. Podemos indicar  los factores contribuyentes  que consideramos que ha contribuido a que 
+suceda el incidente.  
+El listado de factores contribuyentes es el mismo que aparece en el formulario de 
+notificación de profesionales . Puede que el notificante nos haya señalado los  factores  que 
+considere oportuno. Esta información puede ser modificada  por el gestor.  
+6. Una vez realizado el “análisis del incidente”, debemos de  seleccionar 
+“Guardar análisis” . Este paso es imprescindible para poder continuar con la inclusión  de las 
+acciones de  mejora.  
+Una vez que hemos guardado el análisis, el estado de notificación pasa automáticamente 
+a “En estudio” : 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  5 | 11 
+ 
+ 
+ 
+2o paso: CREAR ACCIONES DE MEJORAS PARA EL INCIDENTE  
+Esta pantalla nos ofrece varias funcionalidades:  
+ 
+ 
+ 
+Nueva AM Podemos crear una acción de mejora para nuestro 
+incidente, clicando en la opción “Nueva AM” . Nos aparecerá la si guiente 
+pantalla:  
+ 
+Puntos clave para cumplimentar una nueva acción de mejora:  
+1. Palabras clave : por defecto, aparecerán como palabras clave  la/s categorías del incidente 
+seleccionadas en la notificación. Estas palabras pueden ser modificadas en base a la 
+orientación de la acción de mejora  que hayamos diseñado,  hasta un máximo de 5 palabras 
+clave  (desplegable multiselección) .  
+1 
+2 
+3 
+4 
+ 5  
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  6 | 11 
+ 
+ 
+Nota: Seleccionar las palabras clave nos ayudar á posteriormente a la búsqueda de acciones de mejora en “Mis 
+AM” y en el banco de acciones de mejoras compartido de notificASP “Banco AM” . 
+2. Podemos añadir un título  a nuestra acción de mejora, describir la acción de mejora  y 
+como la vamos a poner en marcha  y asociar documentación que evidencie o respalde la 
+acción de mejora.  Las acciones de mejora deben ser concretas y evaluables.  
+Nota: Se puede indicar quien va a ser el responsable de la puesta en marcha si es dif erente al gestor de la 
+unidad  
+3. Indicador de evaluación : Debemos incluir como vamos a evaluar que la acción de mejora 
+ha sido efectiva e indicar una fecha  para evaluarla. Esta fecha aparecerá  en la tabla resumen 
+de los incidente s.  
+Cuando llegue la fecha de evaluación , se enviará un correo electrónico recordándonos que  
+tenemos pendiente la evaluación.  
+4. Podemos incorporar esta acción de mejora en “Mis AM ” y que nos sirva de plantilla para 
+futuras gestiones de incidentes que puedan tener una acción de mej ora similar.  
+5. Una vez cumplimentada la acción de mejora, clicamos en 
+“Guardar AM” .  
+Cuando guardamos la  acción de mejora, en la pantalla resumen , nos aparecerá  un listado 
+con las acciones de mejora  que se van incorporando : 
+ 
+Al crear la primera acción de mejora, el estado de la notificación pasará automáticamente 
+a “implentación de acciones de mejora”  
+ 
+Podemos añadir cuantas acciones de mejora veamos conveniente.  
+ 
+ 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  7 | 11 
+ 
+ 
+Mis AM Podemos rescatar una acción de mejora creada previamente 
+por nosotros para otro incidente, clicando en la opción “Mis AM” . 
+ 
+Aquí sólo aparecerán aquellas acciones de mejora que , al crearlas, hemos indicado que 
+queremos guardarlas en “Mis AM” como plantillas.  
+El sistema  permitirá visualizar los datos de cada acción de mejora haciendo clic en el botón 
+con el icono          y crear una nueva acción de mejora a partir de otra guardada, haciendo 
+clic en el icono        . 
+Haciendo clic en el botón de “volver”, el sistema rediri ge al usuario a la vista de gestión del 
+incidente.  
+Cuando tengamos más plantillas en nuestro repositorio personal de “Mis AM” , podemos 
+elegir filtro para ayudarnos a buscar las acciones de mejora  según los criterios 
+seleccionados , mostrando la búsqueda en una tabla.  
+ 
+También  permite realizar filtrado de las acciones de mejora escribiendo en la barra de 
+búsqueda y haciendo clic en el botón de buscar . Se pueden  eliminar los filtros clicando en 
+el botón “R estaurar ”. 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  8 | 11 
+ 
+ 
+Una vez encontrada la acción de mejora que queremos reutilizar, podemos clicar en “Usar” 
+la acción de mejora y, automáticamente , nos carga toda la información de la acción de 
+mejora en una “nueva acción de mejora” para el incidente que estamos gestionando.  Toda 
+la información de la plantilla es editable. La única información que aparece sin 
+cumplimentar, es la “Fecha prevista de evaluación” que deberemos establecer antes de  
+guardar esta acción de mejora.  
+ 
+En el listado nos irán apareciendo las acciones de mejora que v amos  incluyendo, estas se 
+pueden editar o eliminar en cualquier momento , si lo consideramos oportuno.  
+ 
+Banco AM Podemos rescatar una acción de mejora, creada 
+previamente por cualquier gestor del sistema  que haya querido 
+compartir su acción de mejora con el resto de los gestores  de notificASP.  
+En seguridad del paciente es muy importante compartir, ya que las estrategias que 
+individualmente ponemos en marcha para mejorar nuestras unidades pueden ayudar a 
+otros gestores en la misma situación.  
+En la tabla podemos ver la información básica de las acciones de mejora compartidas:  
+ 
+Tenemos la opción de filtrar y restaurar la información que muestra la tabla , podemos 
+buscar por palabras clave, por unidades o centros, etc. : 
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  9 | 11 
+ 
+ 
+ 
+Si decidimos “Usar” una acción compartida del “Banco AM”, funciona exactamente igual 
+que en el apartado anterior, nos precargaría la información de esa acción de mejora, 
+editable para que la adecuemos a la gestión de nuestro incidente.  
+ 
+ 
+3er paso: RESOLVER EL INCIDENTE  
+Para resolver nuestra notificación, debemos acceder a la/s fichas de la/s acciones de mejora 
+que hemos asociado al incidente para evaluarla/s : 
+ 
+Seleccionamos  la acción de m ejora que vamos a evaluar , y nos aparecerá en la pantalla la 
+información de la acción de mejora .  
+ 
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  10 | 11 
+ 
+ 
+En este momento, p odremos indicar que la acción está conseguida, poner los resultados 
+de la evaluación y compartir la AM con otros centros y unidades del SSPA . 
+ 
+En nuestro listado irán apareciendo las acciones de mejora indicando  si están conseguidas 
+y/o si están compartidas conforme vayamos evaluándolas . 
+ 
+Una vez estén todas las acciones de mejoras conseguidas, el estado de la gestión del 
+incidente parará  a “resuelto” : 
+ 
+ 
+Resolver sin AM  Existe la posibilidad de resolver un incidente sin AM . Esto 
+puede ocurrir e n el caso de que no se trate de un incidente de seguridad 
+del paciente o que el incidente esté duplicado.  
+El estado de la notificación pasa directamente a resuelt o. 
+Existe la posibilidad de incluir AM, aún resuelto el incidente, en caso de que posteriormente 
+lo consideremos oportuno.  
+ 
+ 
+ 
+n o t i f i c A S P _cóm o  g e s t i o n a r  u n a  n o t i f i c a c i ó n  g e s t o r e s  11 | 11 
+ 
+ 
+ 
+ 
+Opción Generar informe  
+Durante todo el trayecto de gestión podemos generar un informe clicando en botón 
+“informe” en la esquina inferior derecha . Nos generará un resumen de la gestión del 
+incidente  en pd f, que puede ser útil para la presentación de casos y feedback al resto de 
+profesionales de la unidad.  
+ 
+ 
+ 
+ 
+ 
+ 
+  

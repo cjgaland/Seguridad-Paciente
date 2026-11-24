@@ -3,7 +3,7 @@
 //   Adaptación de Riesgos.js para Ciudadanía
 // ======================================================
 
-export async function initGame({ root, saveScoreFirebase }) {
+export async function initGame({ root, guardarPuntuacion }) {
 
     // --- IMÁGENES ---
     // Asegúrate de que los archivos existen en esta ruta
@@ -308,8 +308,8 @@ export async function initGame({ root, saveScoreFirebase }) {
         if(win) st.puntos += Math.ceil(st.t*10); // Bonus tiempo
 
         // Guardar Score
-        if(typeof saveScoreFirebase === "function"){
-            try{ await saveScoreFirebase(st.escenario, st.puntos, Math.round(st.t)); }
+        if(typeof guardarPuntuacion === "function"){
+            try{ await guardarPuntuacion(st.escenario, st.puntos, Math.round(st.t)); }
             catch(e){ console.error(e); }
         }
 

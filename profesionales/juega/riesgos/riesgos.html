@@ -31,12 +31,12 @@
     <!-- CABECERA INSTITUCIONAL, IGUAL QUE EN PROFESIONALES.HTML -->
     <header class="sp-header">
         <img src="../../../assets/images/icons/logos/logo_Estrategia.png"
-             alt="Logo Estrategia" class="sp-logo">
+             alt="Estrategia para la Seguridad del Paciente" class="sp-logo">
 
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
 
         <img src="../../../assets/images/icons/logos/logo_CSPyE.svg"
-             alt="Logo Consejería" class="sp-logo-right">
+             alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right">
     </header>
 
     <!-- CONTENIDO PRINCIPAL, USANDO LA MISMA MAQUETA QUE EL RESTO -->
@@ -66,8 +66,8 @@
         import { initGame } from "./riesgos.js";
         import { saveScore } from "../../../js/core/scores.js";
 
-        // Guardado en Firebase
-        function saveScoreFirebase(escenario, puntos, tiempo) {
+        // Guardado de puntuación
+        function guardarPuntuacion(escenario, puntos, tiempo) {
             const jugador = localStorage.getItem("jugador-sp") || "Anónimo";
             return saveScore("riesgos", escenario, jugador, puntos, tiempo);
         }
@@ -75,9 +75,10 @@
         // Inicializar juego
         initGame({
             root: document.getElementById("game-root"),
-            saveScoreFirebase
+            guardarPuntuacion
         });
     </script>
 
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
 </body>
 </html>

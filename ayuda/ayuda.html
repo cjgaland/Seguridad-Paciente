@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayuda · Seguridad del Paciente</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/icons/favicons/favicon_32.png">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="ayuda.css">
+</head>
+<body class="pagina-ayuda">
+
+    <header class="sp-header">
+        <div class="sp-header-left">
+            <img src="../assets/images/icons/logos/logo_Estrategia.png" alt="Logo de la Estrategia para la Seguridad del Paciente" class="sp-logo">
+        </div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right">
+            <img src="../assets/images/icons/logos/logo_CSPyE.svg" alt="Logo de la Consejería de Sanidad" class="sp-logo-right">
+        </div>
+    </header>
+
+    <div class="ayuda-barra">
+        <h2><i class="fa-solid fa-circle-question" aria-hidden="true"></i> Ayuda</h2>
+        <span class="ayuda-version">Versión <strong id="versionActual"></strong></span>
+        <a href="../index.html" class="btn-home"><i class="fa-solid fa-house" aria-hidden="true"></i> Inicio</a>
+    </div>
+
+    <main class="ayuda-rejilla">
+
+        <!-- COLUMNA 1: MANUAL -->
+        <section class="ayuda-col" aria-labelledby="t-manual">
+            <h3 id="t-manual"><i class="fa-solid fa-book-open" aria-hidden="true"></i> Manual de uso</h3>
+            <p class="ayuda-descarga"><a class="ayuda-boton" href="manual/Manual_Usuario_Seguridad_Paciente.docx" download><i class="fa-solid fa-file-arrow-down" aria-hidden="true"></i> Descargar el manual completo (Word)</a></p>
+            <div class="ayuda-pestanas" role="tablist" aria-label="Manual por perfil">
+                <button type="button" role="tab" id="tab-ciu" aria-controls="man-ciu" aria-selected="true">Ciudadanía</button>
+                <button type="button" role="tab" id="tab-pro" aria-controls="man-pro" aria-selected="false" tabindex="-1">Profesionales</button>
+            </div>
+            <div class="ayuda-desplazable">
+                <div id="man-gen">
+                    <h4>Cómo funciona</h4>
+                    <p>En la página de inicio elija su perfil: <strong>Ciudadanía</strong> o <strong>Profesionales</strong>. Cada perfil tiene tres itinerarios:</p>
+                    <ul>
+                        <li><strong>Aprende</strong>: contenidos breves e interactivos.</li>
+                        <li><strong>Practica</strong>: herramientas y simuladores para el día a día.</li>
+                        <li><strong>Juega</strong>: juegos para reforzar lo aprendido y ver su puntuación.</li>
+                    </ul>
+                    <p>El menú de la izquierda (en el móvil, el botón <i class="fa-solid fa-bars" aria-hidden="true"></i>) lleva a cualquier sección. El botón <strong>Inicio</strong> vuelve a la portada.</p>
+                </div>
+
+                <div id="man-ciu" role="tabpanel" aria-labelledby="tab-ciu">
+                    <h4>Aprende</h4>
+                    <ul>
+                        <li><strong>Higiene de manos</strong>: los 5 momentos y la técnica correcta con agua y jabón o con gel.</li>
+                        <li><strong>Paciente activo</strong>, <strong>Comunicación</strong>, <strong>Medicación segura</strong> y <strong>Mi proceso asistencial</strong>: qué puede hacer usted para que su atención sea más segura.</li>
+                    </ul>
+                    <h4>Practica</h4>
+                    <ul>
+                        <li><strong>Buzón de situaciones</strong>: casos cotidianos para decidir qué haría.</li>
+                        <li><strong>Prepara tu consulta</strong> y <strong>Dudas frecuentes</strong>.</li>
+                        <li><strong>Diccionario de términos médicos</strong>: escriba una palabra de su informe o prospecto y verá qué significa en lenguaje sencillo.</li>
+                        <li><strong>Encuesta de percepción</strong>: unas preguntas sobre su experiencia y sus resultados.</li>
+                    </ul>
+                    <h4>Juega</h4>
+                    <ul>
+                        <li><strong>Semáforo</strong>, <strong>La mochila</strong>, <strong>Adivina la medicina</strong> y <strong>Detectives de la seguridad</strong>.</li>
+                        <li>Al terminar se guarda su puntuación y puede verla en <strong>Clasificación</strong>.</li>
+                    </ul>
+                </div>
+
+                <div id="man-pro" role="tabpanel" aria-labelledby="tab-pro" hidden>
+                    <h4>Aprende</h4>
+                    <ul>
+                        <li><strong>Higiene de manos</strong> y <strong>Uso correcto de EPI</strong>.</li>
+                        <li><strong>Casos clínicos interactivos</strong>: decisiones paso a paso con su retroalimentación.</li>
+                        <li><strong>Buscador de protocolos y documentos</strong>: busca en los documentos oficiales (Junta de Andalucía, Ministerio de Sanidad, OMS) y en las preguntas frecuentes.</li>
+                    </ul>
+                    <h4>Practica</h4>
+                    <ul>
+                        <li><strong>Simulador NotificASP</strong>: aprenda a notificar incidentes con casos de ejemplo.</li>
+                        <li><strong>Guía de análisis de incidentes</strong>: análisis paso a paso (Protocolo de Londres) con resumen imprimible. <em>No introduzca datos que identifiquen a pacientes ni profesionales.</em></li>
+                        <li><strong>Checklist quirúrgico</strong> y <strong>Escalas clínicas</strong> (Braden y Downton).</li>
+                        <li><strong>Termómetro de seguridad</strong>: autotest de cultura de seguridad y sus estadísticas.</li>
+                    </ul>
+                    <h4>Juega</h4>
+                    <ul>
+                        <li><strong>Identificación de riesgos</strong>, <strong>Test de conocimientos</strong>, <strong>Anagramas</strong> y <strong>Sopa de letras</strong>, con varios niveles.</li>
+                        <li>Las mejores puntuaciones se ven en <strong>Clasificación</strong>.</li>
+                    </ul>
+                </div>
+
+                <div class="ayuda-truco">
+                    <strong>Truco:</strong> si aparece abajo el aviso <em>«Nueva versión disponible · Actualizar»</em>, púlselo para cargar la última versión.
+                </div>
+            </div>
+        </section>
+
+        <!-- COLUMNA 2: VERSIONES -->
+        <section class="ayuda-col" aria-labelledby="t-versiones">
+            <h3 id="t-versiones"><i class="fa-solid fa-code-branch" aria-hidden="true"></i> Historial de versiones</h3>
+            <div class="ayuda-acciones">
+                <button type="button" id="btnBuscar" class="ayuda-boton"><i class="fa-solid fa-rotate" aria-hidden="true"></i> Buscar actualizaciones</button>
+                <span id="estadoBusqueda" role="status"></span>
+            </div>
+            <div class="ayuda-desplazable" id="listaVersiones"></div>
+        </section>
+
+        <!-- COLUMNA 3: INFORMACIÓN -->
+        <section class="ayuda-col" aria-labelledby="t-info">
+            <h3 id="t-info"><i class="fa-solid fa-circle-info" aria-hidden="true"></i> Información</h3>
+            <div class="ayuda-desplazable">
+                <h4>Qué es</h4>
+                <p>Plataforma de formación y concienciación de la <strong>Estrategia para la Seguridad del Paciente del Sistema Sanitario Público de Andalucía</strong>, para profesionales y ciudadanía, basada en el aprendizaje mediante el juego.</p>
+
+                <h4>Privacidad</h4>
+                <ul>
+                    <li>La plataforma <strong>no pide datos personales</strong>. El nombre de jugador es opcional y puede ser un alias.</li>
+                    <li>Las puntuaciones y las respuestas a las encuestas se guardan <strong>solo en este dispositivo</strong> (almacenamiento del navegador). No se envían a ningún servidor.</li>
+                    <li>No utiliza Inteligencia Artificial ni servicios externos de análisis.</li>
+                    <li>Para borrar sus datos: botón de abajo, o borrar los datos del sitio en su navegador.</li>
+                </ul>
+                <button type="button" id="btnBorrar" class="ayuda-boton ayuda-boton--secundario"><i class="fa-solid fa-eraser" aria-hidden="true"></i> Borrar mis datos de este dispositivo</button>
+                <span id="estadoBorrar" role="status"></span>
+
+                <h4>Aviso</h4>
+                <p>Los contenidos son de carácter formativo y no sustituyen el consejo de su profesional sanitario ni los protocolos de su centro.</p>
+
+                <h4>Fuentes</h4>
+                <p>Junta de Andalucía (Estrategia para la Seguridad del Paciente, NotificASP), Ministerio de Sanidad (Estrategia de Seguridad del Paciente 2025-2035, SiNASP) y Organización Mundial de la Salud. Más información en <a href="https://www.seguridadpaciente.es" target="_blank" rel="noopener">seguridadpaciente.es</a>.</p>
+
+                <h4>Información legal</h4>
+                <p class="ayuda-enlaces-legales"><a href="legal.html#t-aviso">Aviso legal</a><a href="legal.html#t-priv">Privacidad</a><a href="legal.html#t-acc">Accesibilidad</a></p>
+
+                <h4>Autoría</h4>
+                <p>Carlos J. Galán Doval · Área de Gestión Sanitaria Sur de Córdoba.</p>
+            </div>
+        </section>
+    </main>
+
+    <script type="module" src="ayuda.js"></script>
+    <script type="module" src="../js/core/actualizaciones.js"></script>
+</body>
+</html>

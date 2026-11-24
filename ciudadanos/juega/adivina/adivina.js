@@ -102,7 +102,7 @@ function nextQuestion() {
 }
 
 function endGame() {
-    // Guardar Firebase
+    // Guardar puntuación
     saveScore("adivina", "nivel1", "Usuario", score);
 
     const finalScreen = document.getElementById('final-screen');

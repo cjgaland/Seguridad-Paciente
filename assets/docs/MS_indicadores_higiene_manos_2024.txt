@@ -1,0 +1,1093 @@
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+   
+  
+  
+ 
+PROGRAMA DE HIGIENE  
+DE MANOS DEL SISTEMA  
+NACIONAL DE SALUD  
+INDICADORES DE  
+HIGIENE DE MANOS  
+2 0 2 4  
+2 
+ Ministerio de Sanidad  
+Dirección General de Salud Pública y Equidad en Salud 
+Maria Rosario Fernández García  (coordinación)  
+Nuria Prieto Santos (coordinación)  
+Rebeca Padilla Peinado (coordinación ) 
+M. Rocío Montiel Villalonga  (coordinación ) 
+ 
+Comunidades Autónomas  
+Elvira Eva Moreno Campo y (Andalucía)  
+Paloma Trillo López  (Andaluc ía) 
+Mara Til Aliaga  (Aragón)  
+Belén Suarez Mier (Asturias)  
+Sandra Diaz Rodríguez (Asturias)  
+Layla Aoukhiyad Lebrahimi (Baleares)  
+Mª Dolores Alonso Llobregat (Baleares)  
+Nuria Bañón Morón (Canarias)  
+Paloma García  de Carlos (Canarias)  
+María Oro Fernández  (Cantabria)  
+Jose Luis Teja (Cantabria)  
+Tomás Maté Enríquez (Castilla y León)  
+Soledad Montero Alonso (Castilla y León)  
+Sonia Cercenado Sorando ( Castilla -La Mancha)  
+Dolors Segura Bisbal (Cataluña)  
+Laura Navarro Vila (Cataluña)  
+Vicente José Belda Torrent (C. Valenciana)  
+Mari Carmen Bonet Costa (C. Valenciana)  
+María José Merino Plaza  (C. Valenciana)  
+Patricia Vargas Diaz  (INGESA ) 
+Julián  Domínguez Fernández (Ceuta)  
+Francisco Javier de la Vega Olías (Melilla)  
+Manuel García Toro ( Extremadura ) 
+Maria Dolores Formoso Lavandeira (Galicia)  
+Isabel Losada Castillo (Galicia)  
+Mª Isabel Ursúa Díaz (Galicia)  
+Pilar Sáenz Ortiz  (La Rioja)  
+Ana Isabel Izaguirre Martín (La Rioja)  
+Francisca García Lizana (Madrid)  
+Elena Jiménez García ( Madrid)  
+Alberto Pardo Hern ández (Madrid)  
+José Eduardo Calle Urra  (Murcia) 
+Joaquín Almela Bernal  (Murcia) 
+Amaya Jimeno Almazán (Murcia)  
+Amaya Bacaicoa Hualde (Navarra)  
+Aránzazu Elizondo Sotro (Navarra)  
+Enrique Peiró Callizo (País Vasco)  
+María Luisa Iruretagoyena Sánchez (País Vasco)  
+  3 
+ Contenido  
+1.  
+Contenido  ........................................................................................................................... 3 
+1.Lista de abreviaturas  ......................................................................................................... 4 
+2. Int roducción y método ..................................................................................................... 5 
+3. Resultados  ....................................................................................................................... 8 
+3.1. Indicador L2O2.2.1. Camas de UCI con preparado de base alcohólica en el punto 
+de atención.  ............................................................................................................ 8 
+3.2. Indicador L2O2.2.2. Camas de hospitalización con preparado de base alcohólica 
+en el punto de atención ......................................................................................... 10 
+3.3. Indicadores L2O2.2.3., L2O2.2.4. y L2O2.2.5. Consumo de preparado de base 
+alcohólica en hospitalización, UCI y consultas.  ........................................................ 12 
+3.4. Indicadores L2O2.2.6. y L2O2.2.7. Observación del cumplimiento de la higiene de 
+manos y del uso de preparados de base alcohólica.  ................................................ 18 
+3.5. Cuestionario de Autoevaluación de la Higiene de manos  .................................. 21 
+3.6. Cuestionario Programa PRINCESS  .................................................................... 24 
+4. Comentarios y conclusiones  ........................................................................................... 25 
+5. Referencias  .................................................................................................................... 27 
+ANEXO I. Descripción de los indicadores estudiados  ........................................................... 29 
+ANEXO II. Tabla Resumen. Indicadores CC.AA. 2024  ........................................................... 37 
+ 
+ 
+ 
+ 
+  4 
+ 1. Lista de abreviaturas 
+ 
+AP: Atención Primaria  
+C.A.: Comunidad Autónoma  
+CC.AA.: Comunidades  Autónoma s  
+CAP: Centro de Atención Primaria  
+EA: Evento Adverso  
+EE.MM.: Estados Miembro s 
+HM: Higiene de manos  
+IAAS: Infecciones Asociadas a la Asistencia Sanitaria  
+IRAS: Infecciones Relacionadas con la Asistencia Sanitaria 
+L: Litros  
+OMS: Organización Mundial de la Salud  
+PBA: Preparados de Base Alcohólica  
+Programa PRINCESS: programa para la prevención de infecciones en centros residenciales 
+dirigidos a personas mayores de servicios soc iales 
+SIAE: Sistema de Información de Atención Especializada  
+SIAP: Sistema de Información de Atención Primaria  
+SNS: Sistema Nacional de Salud  
+UCI: Unidad de Cuidados Intensivos  
+ 
+  5 
+ 2. Introducción y método   
+La prevención y el control de las infecciones,  así como  la resistencia a los antimicrobianos,  
+son una prioridad a nivel mundial . Así se contempla en el objetivo estratégico 3.3 del Plan 
+de Acción Mundial de la OMS para la Seguridad del Paciente  (1). Este organismo 
+internacional ha enfatizado la necesidad de disponer de programas dirigidos a alcanzar 
+esta meta .  
+Así, en la 75ª Asamblea Mundial de la Salud, se adoptó la resolución que ha dado lugar 
+a la Estrategia Global para la Prevención y Control de Infecciones  (2), que incluye un plan 
+de acción global con un marco de seguimiento y consulta con los Estados Miembros (  
+EE.MM.) Esta Estrategia Global, también proporciona a los EE .MM. orientaciones para 
+reducir las infecciones asociadas  con la asistencia sanitaria (IAAS).  
+A nivel mundial, el impacto que tienen las IAAS  y la resistencia a los antimicrobianos en la 
+vida de las personas es incalculable. Más del 24% de los pacientes afectados de 
+septicemia de origen nosocomial y el 52,3% de esos pacientes tratados en una unidad de 
+cuidados intensivo s (UCI) mueren cada año. Estas muertes se duplican o triplican cuando 
+las infecciones son resistentes a los antimicrobianos, según  datos de la OMS  (3). Además, 
+las IAAS provocan un aumento de las estancias hospitalarias, discapacidad a largo plazo, 
+mayor resistencia de los microorganismos a los antimicrobianos  y costes adicionales tanto 
+para pacientes como para el sistema sanitario  (4).  
+De ac uerdo con la encuesta anual EPINE (Estudio de Prevalencia de las Infecciones 
+Nosocomiales en España)  (5) desde  el año  2015, se observ ó un descenso de la prevalencia 
+de las IAAS, tendencia que se modificó, con un in cremento significativo en los años 2021 
+y 2022, c omo consecuencia de la  pandemia  por Covid -19. Los últimos datos de la 
+encuesta EPINE  relativos a  2024 , muestran  un valor muy similar al de 2023, siendo de un 
+8,18% el total de pacientes con Infección nosocomial,  lo que , si se mejora en los siguientes 
+años podría significar  el inicio de la disminución de esta prevalencia . 
+Las IAAS  son una de las causas más prevenibl es de eventos a dversos ( EA) graves . Estas se 
+pueden adqui rir en cualquier momento de la asistencia sanitaria y  se transmi ten de 
+múltiples maneras, siendo  la vía más frecuente por contacto directo a través de las manos 
+de los profesionales sanitarios (6). 
+La higiene de manos ha demostrado ser una medida altamente efectiva y eficiente, 
+esencial para reducir la transmisión de m icroorganismos e infecciones en entornos de 
+atención médica , bien sea implementada como  una intervención independiente o 
+integrada en intervenciones multifacéticas (7 -9). 
+De acuerdo con los datos aportados  en el Documento Marco del Sistema Nacional de 
+Salud (SNS) de Vigilancia de las Infecciones Relacionadas con la Asistencia Sanitaria (IRAS),  elaborado  por el Grupo de Trabajo de Vigilancia de las IRAS de la Comisión de 
+Salud Pública en 2015 y  revisado en 2019 (5)
+, el 20- 30% son prevenibles mediante 
+programas de higiene y control de la infección, como el Programa de Higiene de Manos 
+del SNS  (10). Por tanto, la prevención de estas infecciones es un objetivo prioritario en la 
+mejora de la calidad asistencial y debe recogerse en las líneas estratégicas dirigidas a 
+promover la seguridad del paciente .  
+El Ministerio de Sanidad, en el marco de la Estrategia de Seguridad del Paciente del 
+SNS, promueve y fomenta la expansión de dicho programa . L a recientemente publicada 6 
+ Estrategia de Seguridad del Paciente 2025- 2035, mantenido una línea continuista con el 
+anterior texto, así lo establece en la línea estratégica 2 de prácticas seguras, en su 
+segundo objetivo general “ promover las prácticas seguras para prevenir y controlar las 
+IAAS” (11).  
+Es importante diseñar  herramientas que permitan evaluar, identificar las áreas de mejora 
+y aumentar el grado de implementación de estas prácticas y procedimientos. Con este propósito se diseñaron, en consenso con todas las Comunidades Autónomas ( CC.AA.), 
+diversos indicadores, algunos desde  2009 y otros de inclusión más reciente, que permi ten 
+evaluar la adherencia de las CC .AA. al Programa de Higiene de Manos del SNS y, cuyos 
+resultados se someten a revisiones anuales.  
+Hasta el momento los datos de indicadores aportados por las CC.AA., se han publicado de manera anonimizada. Con el objetivo de dar un paso más en la mejora de este 
+programa, este año por primera vez los resultados se publican sin anonimizar, lo que 
+añade valor a la comparabilidad del dato.  
+Los indicadores que actualmente se someten a evaluación son:  
+L2O2.2.1. Porcentaje de camas de UCI con preparado de base alcohólica (PBA) en el punto de atención.   
+ L2O2.2.2. Porcentaje de camas de hospitalización con PBA en el punto de 
+atención.  
+L2O2.2.3. Consumo de PBA en hospitalización.  
+L2O2.2.4. Consumo PBA en UCI  (registro de datos desde 2021).  
+L2O2.2.5. Consumo de PBA en Atención Primaria (AP) (Registro de datos desde 
+2015).  
+L2O2.2.6. Observación de la higiene de manos.  
+L2O2.2.7. Observación del uso de PBA.  
+Además, para ampl iar la info rmación, desde 2021, se añaden preguntas para conocer 
+la situación sobre la autoevaluación de los centros sanitarios , que de manera general se 
+basa en el cuestionario publicado por la OMS en 2009 (12)
+. En el informe de 2024, se 
+introduce también una modificación relevante: la inclusión de nuevas preguntas en el 
+cuestionario, con el fin de obtener datos más detallados : 
+1. ¿Se realiza en su CC .AA. el cuestionario de autoevaluación de la Higiene de 
+Manos de la Organización Mundial de la Salud, o una adaptación del mismo?  
+2. ¿Cuántos de los centros de su CC .AA. realizan el cuestionario de autoevaluación 
+de la Higiene de Manos en el año 2024? 
+3. De los centros que tienen instaurada la Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación básica en el año 2024?  
+4. De los centros que tienen instaurada la Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación intermedia en el año 2024?  
+5. De los centros que tienen instaurada la Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación avanzada en el año  2024?  7 
+ 6.¿Cuántos centros obtuvieron una puntuación inferior a la última evaluación 
+realizada?  
+7.¿Cuántos centros obtuvieron una puntuación superior a la última evaluación 
+realizada?  
+Los datos para la evaluación de estos indicadores se solicitan a las 17 C C.AA. y las 2 
+Ciudades Autónomas del SNS. Los datos de estas últimas se reportan de forma conjunta,  
+por lo que los cálculos se realizan sobre un total de 18 territorios –en adelante y hasta el 
+final del texto, el término Comunidad Autónoma (C .A) podrá des ignar a cualquiera de los 
+18.  
+Cada Comunidad Autónoma cuenta con un responsable que coordina el análisis de datos 
+de su Comunidad y facilita los numeradores y denominadores de estos indicadores a las 
+personas referentes de la Seguridad del Paciente designados en su C .A. (Comité 
+Institucional de la Estrategia de Seguridad del Paciente). Son estos últimos los que remiten al Ministerio de Sanidad la información, donde se lleva a cabo un análisis global de los 
+datos. Por tanto, esta evaluación c uenta con una doble verificación y validación de la 
+información.  
+Desde el año 2018, los resultados se recogen mediante la plataforma LimeSurvey.  
+A continuación, se describen los resultados obtenidos para cada uno de estos indicadores 
+durante el año 2024 , así como la evolución temporal desde el seguimiento anual que se 
+dispone para cada uno de ellos en función de su inclusión en la E strategia.  
+  8 
+ 3. Resultados 
+3.1. Indicador L2O2.2.1. Camas de UCI con preparado de base 
+alcohólica en el punto de atención. 
+ 
+Según los datos aportados por las 17 CC.AA. y 2 ciudades autónomas , este indicador se 
+ha evaluado en 5 .707camas de UCI del SNS, lo que supone una disminución de  205 camas 
+respecto al año anterior  y 405 camas menos que en el año 2023.  
+Acorde con  los datos de 2023 del portal Estadístico del Sistema de Información de 
+Atención Especializada (SIAE)  (13) del Ministerio de Sanidad, el resultado es que  se han 
+evaluado el 89% de las camas UCI en funcionamiento.  Globalmente el número de camas 
+evaluadas disminuye un 2 ,4%, debiéndose tener en cuenta que hay una diferencia de un 
+año entre una fuente y otra.   
+En 2024 , según los datos aportados , el 97, 72% de las camas evaluadas disponen de 
+preparado de base alcohólica (PBA) en el punto de atención, dato  ligeramente inferior 
+al de 2023 ( 97,95 %). 
+Los resultados globales muestran  que todas las CC.AA. declararon disponer de PBA en al 
+menos el 81,7% de sus camas de UCI, 6 CC.AA en más del 85% y 10 CC.AA. en el 100%.  
+(Figura 1) . 
+Figura 1 . Camas de UCI con PBA en el punto de atención 2024. “Fuente propia:  datos obtenidos en  
+LimeS urvey  y validados por las CC.AA. y el Ministerio de Sanidad” 
+ 
+ 
+Respecto a los datos del año anterior, se mantiene el número de CC .AA. que declaran 
+tener PBA en el punto de acceso de todas sus camas de UCI. Además, se recupera la 
+tendencia de  2022, en el que todas las comunidades autónomas declaran porcentajes por 
+encima del 80%  (Figura s 2 y 3). 
+ 
+ 
+N=10
+(56% )N=6
+(33% )N=2
+(11% )
+CC.AA (en %) con resultados del
+indicador del 100%
+CCAA (en %) con resultados delindicador mayores al 85%
+CCAA (en %) con resultados delindicador  <85% y >81%9 
+ Figura 2 . Dispersión de los  resultados  L2O2.2.1 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+Figura 3. Gráfica  de los  resultados  L2O2.2.1 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos en 
+LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+Comparando con años anteriores, desde 2009 hasta 2014 se aprecia una tendencia 
+ascendente en este indicador. A partir de 2014, los valores se han mantenido elevados, 
+presentando solo ligeras variaciones. Durante 2020- 2021 se registró un aumento notable 
+en la serie, coincidiendo con la pandemia de Covid- 19, periodo en el cual la higiene de 
+manos adquirió una relevancia especial y que debe considerarse al interpretar los resultados.  Desde 2022, los valores  se mantienen estables  (Figura 4).  
+ 
+ 0%20%40%60%80%100%
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultado indicador L.202.2.1
+CC.AA.
+0%20%40%60%80%100%Resultado indicador L.202.2.1
+CC.AA.10 
+ Figura 4. Evolución temporal del indicador L2O2.2.1 de 2009 -2024. “Fuente propia:  datos obtenidos en 
+LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+3.2. Indicador L2O2.2.2. Camas de hospitalización con preparado 
+de base alcohólica en el punto de atención 
+ 
+Según los  datos aportados por las 17 CC.AA. y 2 ciudades autónomas , este indicador se 
+ha evaluado en 92. 972 camas de hospitalización del SNS , lo que representa un 80, 5% 
+del número de camas en hospitales de agudos, de acuerdo con el último dato disponible 
+(2023 ) en el Portal Estadístico del SIAE  (13) del Ministerio de Sanidad, debiéndose tener 
+en cuenta que hay una diferencia de un año entre una fuente y otra.  
+Este año  9 CC.AA. alcanzan  resultados de  entre el 90 -100%,  3 presentan cifras entre 80 -
+90%, otras  4 entre el 50 -80% y  2 registran datos inferiores al 50% ( Figura 5). 
+Figura 5. Camas de hospitalización con PBA en el punto de atención 202 4. “Fuente propia:  datos 
+obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 8190,490,595,397,297,9
+96,196,9 96,9
+94,697,2 97,598,14 97,89 97,95 97,72
+80828486889092949698100
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Resultados indicador L2O2.2.1 (%)
+AñoIndicador L2O2.2.1 desde 2009 a 2024
+N= 9 (50%)
+N=3 (17%)N=4 (22%)N=2 (11%)
+ CC.AA: (en%) con resultados del
+indicador del 90-100%
+CC.AA: (en%) con resultados delindicador del 80-90%
+CC.AA: (en%) con resultados delindicador del 50-80%
+CC.AA: (en%) con resultados delindicador menores a 50%11 
+  
+Es probable , que la variabilidad de resultados de este indicador entre CC.AA.,  se deba 
+en parte a la diferente  valoración que hacen los  centros sanitarios a la hora de considerar 
+el punto  de atención en relación con el acceso al PBA . Esta variabilidad, se observa en el 
+gráfico de dispersión, siendo el valor mínimo del 25 ,10% y el máximo del 100%  (Figura s 
+6 y 7). 
+Figura 6. Dispersión de los resultados  L2O2.2.2 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey y validados por las CC.AA. y el Ministerio de Sanidad” 
+ 
+Figura 7. Gráfica  de los resultados  L2O2.2.2 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos en 
+LimeSurvey  y validados por las CC.AA. y el Ministerio de Sanidad” 
+ 
+ 
+En relación con la evolución temporal  (Figura 8), desde la implantación del Programa de 
+Higiene de Manos en 2009, este indicador ha mejorado de manera constante,  y en 2024 
+ha vuelto a alcanzar máxi mos históricos. El porcentaje acumulado de mejora en los últimos 
+dos años es del 1, 82 %. 0%20%40%60%80%100%
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultado indicador L202.2.2
+CC.AA.
+0%20%40%60%80%100%Resultado indicador L202.2.2
+CC.AA12 
+ Figura 8. Evolución temporal del indicador L2O2.2.2 de 2009 -2024. “Fuente propia:  datos obtenidos en 
+LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+3.3. Indicadores L2O2.2.3.,  L2O2.2.4.  y L2O 2.2.5 . Consumo de 
+preparado de base alcohólica en hospitalización, UCI  y consultas.  
+ 
+Las 17 CC.AA. y 2 ciudades autónomas,  han presentado datos para los indicadores 
+L202.2.3 y L202.2.4. Sin embargo, a diferencia del año 2023 en el que todas las 
+comunidades autónomas aportaron datos para todos los indicadores, en 2024, una 
+comunidad autónoma  no aporta datos para el indicador L202.2.5.  
+En el año 2024 el promedio de consumo de PBA en hospitalización es de 27,55 litros por 
+cada 1. 000 días de estancia y se han evaluado 23.927.708 estancias totales en 
+hospitalización. El consumo promedio sigue la tendencia descendente iniciada en 2022 no 
+encontrándose en niveles tan bajos desde 2017.  
+Este año, 9 CC.AA. han consumido entre 20 y 40 L,  6 CC.AA. obtienen un resultado inferior 
+a 20, y  3 obtienen un dato de 40 a 6 0 L, siendo el consumo más alto 59,5 litros por cada 
+1.000 días de estancia.  (Figuras 9, 10 y 11).   
+ 
+ 
+ 
+    27,852,6
+47,266,2 66,771,5 70,977,1 76,384,5 84,3 85,1 85,6 85,4 86,32 87,22
+2030405060708090100
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Resultado indicador L2O2.2.2 (%)
+AñoIndicador L2O2.2.2 desde 2009 a 202413 
+ Figura 9. PBA consumido por cada 1 .000 d ías de estancia hospitalaria 202 4. Indicador L2O2.2.3  “Fuente 
+propia:  datos obtenidos en LimeSurvey  y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+Figura 10. Dispersión de los resultados  L2O2.2.3 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+        
+N=3 
+(17%)
+N=9 (50%)N=6 (33%)
+CC.AA (en%) con resultados del indicador
+de 40 a 60 L
+CC.AA (en%) con resultados del indicadorde 20 a 40 L
+CC.AA (en%) con resultados del indicadormenores de 20L
+010203040506070
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultado indicador L202.2.3 (L) 
+CC.AA14 
+ Figura 11. Gráfica  de los resultados  L2O2.2.3 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos en 
+LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+En relación con el consumo de PBA en UCI , el promedio en  2024 por cada 1. 000 días de 
+estancia es de 94,4L , y se han evaluado  1.125. 784 estancias totales de UCI. Este 
+parámetro se empezó a medir durante la pandemia, momento en el que se  realizó el 
+mayor consumo y había mantenido una tendencia descendente desde entonces; Sin 
+embargo, este año se observa una mejora del 2%.  
+En el año 2024 , 5 CC.AA. declaran un consumo superior a 100 L y 13 CC.AA. entre 50 y 
+100 L. Ninguna  C.A. registra un consumo menor a 50 L por cada 1000 días de estancia  
+(Figuras 12, 13 y 14).  
+Figura 12. PBA consumido por cada 1 .000 días de estancia UCI 2023 .Indicador L2O2.2.4 . “Fuente propia:  
+datos obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad”. 
+ 
+ 
+ 
+ 010203040506070Resultado Indicador L202.2.3 (L)
+CC.AA.
+N=5
+(28%)
+N=13 (72%)
+CC.AA. ( en %) con resultados del
+indicador de más de 100L
+CC.AA. ( en %) con resultados delindicador de 50 a 100L15 
+ Figura 1 3. Dispersión de los resultados  L2O2.2.4 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+Figura 14 . Gráfica  de los resultados  L2O2.2.4 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos en 
+LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+En relación a las consultas de AP  en 2024 , el consumo ha sido 3,8 litros por cada 10.000 
+consultas . Siendo la disminución de un 2 4% con respecto al año encontrándose por debajo 
+de valores pre -pandémicos (3,92 en 2019).  
+Como se muestra en la figura 1 6, existe una enorme variabilidad entre CC .AA., con una 
+amplia dispersión del indicador , que se  ha evaluado sobre un total de  311.799.563 
+consultas . El número  de consultas evaluadas  corresponde a un 71% del número total de 
+consultas de atención primaria, según los datos del Portal Estadístico del SIAP (1 4). Este 
+valor contin úa en tendencia descendente, suponiendo en 2024 casi un 4% menos que en 
+2023, y una disminución de un 9% menos de consultas evaluadas  que en el año 2022.  020406080100120140
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultado indicador L202.2.4 (L)
+CC.AA.
+020406080100120140Resultado indicador L202.2.4 (L)
+CC.AA.16 
+ El número de litros de PBA entregado en las consultas fue de 366.308 L en el año 2022, 
+159.566 L en 2023 y 1 18.743 en 2024. Es decir, en el año 2024 , se han entregado 
+40.823 L de PBA menos que el año anterior  y 246.565 L menos que en 2022.  Sólo 1 
+CC.AA. han superado los 10 L, 1 C.A. registra  consumos entre 5 y 10 L y 16 CC.AA. 
+refieren valores de consumo menores a 5  L (Figuras 15, 16 y 1 7).   
+Figura 1 5. PBA consumido por cada 10000 consultas AP 202 4. Indicador L2O2.2.5. “Fuente propia:  datos 
+obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+Figura  16. Dispersión de los resultados  L2O2.2.5 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+    
+N=1(5,5%)
+N=16(89%)N=1 (5,5%)
+CC. AA. ( en %) con resultados del
+indicador de mas de 10 L
+CC. AA. ( en %) con resultados delindicador entre 5 y 10 L
+CC. AA. ( en %) con resultados delindicador de menos de 5L
+024681012
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultados L202.2.5 (L)
+CC.AA.17 
+ Figura 1 7. Gráfica de los resultados  L2O2.2.5 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos en 
+LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+En relación con la gráfica de la evolución temporal del consumo promedio de PBA, se 
+incluyen los indicadores L2O2.2.3  desde 2009, L2O2.2.5 desde 2015,  y el indicador 
+L2O2.2. 4 de creación más reciente con datos registrados desde el 2021 ( Figura 18) .  
+Para facilitar la construcción e interpretación del gráfico, los litros de PBA consumidos en 
+AP se presentan por 10 .000 consultas, mientras que los litros correspondientes a 
+hospitalización y consumo en UCI  se mantienen por 1.000 días de estancia. En todos los 
+indicadores se observa un pico de consumo que coincide con los años 2020 y 2021. 
+Figura 18 . Evolución temporal indicadores L2O2.2.3, L2O2.2.5 y L2O2.2.4 2009/2015/2021- 2024. 
+“Fuente propia:  datos obtenidos en LimeSurvey  y validados por las CC.AA. y el Ministerio de Sanidad ” 
+ 024681012Resultados L.202.2.5 (L)
+CC.AA.
+15,214,9 13,519,8 20 22,3 20,624,327,43134,1107,9
+60,9
+36,2
+28,45 27,55
+2,08 1,65 2,33 3,27 3,9230,93
+22,78
+10,935,04 3,8158,18
+103,94
+92,7294,47
+121416181101121141
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Litros
+AñoIndicador L2O2.2.3 desde 2009 a 2023, Indicador L2O2.2.5 desde 2015 a 
+2023 e indicador L2O2.2.4 desde 2021 a 2024.
+L2O2.2.3 L2O2.2.5 L202.2.418 
+ 3.4. Indicadores L2O2.2.6. y L2O2.2.7. Observación del 
+cumplimiento de la higiene de manos y del uso de preparados de 
+base alcohólica . 
+ 
+De acuerdo con la definición de estos indicadores (ANEXO  I), la observación  del 
+cumplimiento  debe realizarse, como mínimo, antes del contacto con el paciente y antes de 
+la realización de un procedimiento limpio o as éptico, que corresponden al momento uno 
+y dos de los “5 Momentos de Higiene de manos de la OMS”  (15).  
+El indicador L2O2.2.6 sintetiza el porcentaje de las oportunidades en las que se realizó 
+higiene de manos de las oportunidades observadas y por tanto incluye información de los 
+momentos 1 y 2, pero también, en algunos casos, de otros de los 5 momentos.   
+Al igual que en 2023, todas las CC. AA. aportan  datos para este indicador . Ninguna  de 
+estas CC .AA. confirma el cumplimiento de las acciones de higiene de manos en el 100% 
+de las oportunidades observadas, sien do el cumplimiento global del 61.2 %, un 1,21 % 
+menos que el año anterior  y dato más bajo de la serie desde 2019.  No obstante,  el 
+número de CC.AA. que han registrado un cumplimiento  igual o  mayor al 50%  es de 15;  
+2 CC.AA. más que en 2023 y 5 más que en 2022. (Figuras 1 9, 20 y 21).   
+Figura 19. Porcentaje  de cumplimiento higiene de manos CC .AA. 2024 . Indicador L2O2.2.6. “Fuente 
+propia:  datos obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+      
+N=3 (14%)
+N=13 (83%)N=2 (6%)
+CC.AA. (en%) con resultados del
+indicador menores de 50%
+CC.AA. (en%) con resultados delindicador de 50-70%
+CC.AA. (en%) con resultados delindicador mayores de 70%19 
+ Figura 20. Dispersión de los resultados  L2O2.2.6 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey  y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+El indicador L2O 2.2.7 cuantifica  el porcentaje de acciones de higiene de manos 
+realizadas con PBA sobre el total de oportunidades de higiene de manos observadas. Por 
+tanto, el denominador es el mismo que en el indicador anterior. El cumplimiento global del 
+uso de PBA, de acuerdo con los d atos de las CC .AA. es del 55.98% , evidenciando una 
+leve mejora con respecto a 2023, pero sin llegar a alcanzar los valores de 2022.  
+De nuevo este año todas  las CC.AA. han aportado datos para este indicador y, aumentan 
+hasta 12 las CC. AA. que declaran un cumplimiento mayor al 50% (Figuras 2 1y 22). 
+Figura 21.  Porcentaje de cumplimiento higiene de manos con PBA CC .AA. 2024 . Indicador L2O2.2.7 
+“Fuente propia:  datos obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad ” 
+ 
+ 
+ 0%10%20%30%40%50%60%70%80%90%
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultado Indicador L202.2.6 
+CC.AA.
+N=6 (33%)
+N=8 (44%)N=4 (22%)
+CC.AA. ( en %) con resultados
+del indicador menores del 50%
+CC.AA. ( en %) con resultadosdel indicador del 50-70%
+CC.AA. ( en %) con resultadosdel indicador mayores del 70%20 
+ Figura 22. Dispersión de los resultados  L2O2.2.7 de las CC .AA. en 2024 . “Fuente propia:  datos obtenidos 
+en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+ 
+Aunque en 2024, el indicador L202.2.7 ha mejorado discretamente  , el cumplimiento de 
+ambos indicadores no mejora como resultado global  (Figura 23) y en algunas CC .AA. 
+preocupa la baja adherencia (Figura s 20y 22 ). 
+Figura 23. Evolución temporal indicadores L 2O2.2.6 y L2O2.2.7 2016 - 2024 . “Fuente propia:  datos 
+obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad”
+ 
+Los resultados de los indicadores de cumplimiento,  deben interpretarse con reservas, dado 
+que existe una variabilidad significativa en el número de centros participantes por CC.AA. 
+Esta heterogeneidad en la recogida de datos puede influir en la representatividad y comparabilidad de los resultados entre territorios.  
+ 
+ 0%10%20%30%40%50%60%70%80%90%100%
+0 1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18Resultado Indicador L202.2.7  
+CC.AA.
+67,4
+57,260,660,369,1 68,8
+63,13 62,4 61,19
+48,946,352,4
+51,759,762,3
+57,1554,69
+55,98
+1112131415161718191
+2016 2017 2018 2019 2020 2021 2022 2023 2024%
+AñoIndicador L2O2.2.6 e Indicador L2O2.2.7 desde 2016 a 2024
+L2O2.2.6
+L2O2.2.721 
+ 3.5. Cuestionario de Autoevaluación de la Higiene de manos  
+El cuestionario de Autoevaluación de la Higiene de Manos (ANEXO I ), se incorporó por 
+primera vez en 2021 y este año incluye algunas modificaciones.  
+Este c uestionario está compuesto por las  siguientes preguntas:  
+1. ¿Se realiza en su CC .AA, el cuestionario de autoevaluación de la Higiene de 
+Manos de la Organización Mundial de la Salud, o una adaptación del mismo?  
+2. ¿Cuántos de los centros de su CC .AA. realizan el cuestionario de autoevaluación 
+de la Higiene de Manos en el año 2024? 
+3. De lo s centros que tienen instaurada la Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación básica en el año 2024?  
+4. De los centros que tienen instaurada la Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación intermedia en el año 2024?  
+5. De los centros que tienen instaurada la Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación avanzada en el año 2024?  
+6.¿Cuántos centros obtuvieron una puntuación inferior a la última evaluación 
+realiza da? 
+7.¿Cuántos centros obtuvieron una puntuación superior a la última evaluación 
+realizada?  
+En el año 2024 , 14 CC.AA. y 1 ciudad autónoma,  reportan que en algunos de sus centros 
+se realiza el cuestionario de Higiene de Manos, y 3 CC .AA y 1 ciudad autónoma no.  
+A continuación, se muestra una tabla (Tabla 1) en la que se detallan los datos registrados relativos a esta acción.  
+ 
+ 
+    
+ 
+     
+ 22 
+ Tabla 1. Resultados autoevaluación Higiene de Manos 202 4. “Fuente propia:  datos obtenidos en 
+LimeSurvey  y validados por las CC.AA. y el Ministerio de Sanidad” 
+CC.AA  1.Realización de cuestionario de 
+autoevaluación de la Higiene de Manos 
+OMS, o adaptación  del mismo en la C .A. 2.Nº Centros que realizan cuestionario de 
+autoevaluación lavado de manos e n 2024 
+Andalucía                                    Si 17  
+Aragón  Si 4  
+C. de Madrid  Si 291   
+C. Foral de Navarra  Si 1  
+C. Valenciana  Si 30  
+Canarias  Si 9  
+Cantabria  No - 
+Castilla -La Mancha  Si 1  
+Castilla y León  Si 25  
+Cataluña  Si 51  
+Extremadura  No - 
+Galicia  No - 
+Islas Baleares  Si 1  
+La Rioja  Si 2  
+P. de Asturias  Si 4  
+P. Vasco  Si 5  
+R. de Murcia  Si 5  
+Ceuta  Si 1   
+Melilla  No - 
+ 
+Con respecto al nivel de calificación, en 2024 de los 447centros que declaran haber 
+realiza do el Cuestionario de Autoevaluación, el 69% (309 centros) obtuvieron calificación 
+intermedia, el 27% (121 centros) calificación avanzada y un 3.6% ( 16 centros), 
+calificación básica (Figura 24 ). Un centro realizó el cuestionario por primera vez, pero no 
+alcanzó la calificación básica.  
+En comparativa con la clasificación del año anterior, en 2024 el 18% ( 79) de los centros 
+han obtenido una calificación superior, el 71% (3 20) han mantenido la misma y el 11% 
+(48) han obtenido una calificación inferior (Figura 25 ). 
+ 
+ 
+    
+ 
+  23 
+ Figura 2 4. Gráfica % de Centros que realizan el cuestionario de autoevaluación de Higiene de Manos en 
+2024 por clasificación avanzada, intermedia y básica.  “Fuente propia:  datos obtenidos en LimeSurvey y 
+validados por las CC .AA. y el Ministerio de Sanidad”  
+ 
+Figura 2 5. Gráfica % de centros que realizan el cuestionario de autoevaluación de Higiene de Manos en 
+2024 clasificados por cambio de calificación.  “Fuente propia:  datos obtenidos en LimeSurvey y validados 
+por las CC.AA. y el Ministerio de Sanidad ” 
+ N=16
+(3.6%)
+N=309
+(69%)N=121
+(27%)
+N=447
+Nº de centros que obtuvieron calificacion básica
+Nº de centros que obtuvieron calificacion intermedia
+Nº de centros  que obtuvieron calificacion avanzada
+N=48
+(11%)
+N=79 
+(18%)
+N=320
+(71%)N=447
+Nº de centros ca que obtuvieron calificacion inferior a la ultima evaluacion realizada
+Nº de centros que obtuvieron calificacion superior a la ultima evaluacion realizada
+Nº de centros que obtuvieron la msima calificación a la ultima evaluacion realizada24 
+  
+3.6. Cuestionario Programa PRINCESS  
+El programa PRINCESS (programa para la prevención de infecciones en centros 
+residenciales dirigidos a personas mayores de servicios sociales), tiene entre sus  objetivos, 
+mejorar la higiene de manos en centros residenciales,  reforzando la prevención de 
+infecciones entre los residentes.  
+Este año es el primero  en el que el cuestionario incluye una pregunta relacionada con este 
+programa con el fin de conocer su grado de implementación en las CC:AA.:  
+• ¿Se ha iniciado alguna acción relacionada con la primera fase de implementación 
+del programa PRINCESS (adaptación del programa multimodal de la OMS de 
+higiene de manos al contexto de los centros residenciales de personas mayores en España)?  
+De las 17 CC.AA y 2 Ciudades autónomas, 8 declaran haber iniciado acciones del programa PR INCESS. 
+Figura 2 8. CC.AA . que declaran haber iniciado acciones del programa PRINCESS  “Fuente propia:  datos 
+obtenidos en LimeSurvey y validados por las CC .AA. y el Ministerio de Sanidad” 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+CC.AA CON 
+PROGRAMA 
+PRINCESS  
+25 
+ 4. Comentarios y conclusiones  
+• Se mantiene la buena implementación del programa de Higiene de Manos en lo 
+que respecta a la infraestructura.  
+o Aunque la disponibilidad de PBA en los puntos de atención de las camas de 
+UCI disminuye un 0,23 % , este año ninguno  CC.AA. dispone de menos del 
+81,7 % de sus camas con PBA en el punto de atención, recuperándose la 
+tendencia de 2022, en el que todas las comunidades autónomas  declaraban 
+porcentajes por encima del 80%.  
+o La disponibilidad de PBA en los puntos de atención de camas de 
+hospitalización  sigue mejorando de manera constante , y en 2024 ha vuelto 
+a alcanzar máximos históricos.  El porcentaje acumulado de mejora en los 
+últimos dos años es del 1,8% . 
+ 
+• Entre los indicadores de consumo, destacamos los siguientes resultados:  
+o El consumo de PBA en UC I aumenta un 2% en 2024.   
+o El consumo de PBA en hospitalización sigue la tendencia iniciada en 2022 
+encontrándose en niveles similares a  2017.   
+o El dato de  consumo de PBA en AP , continua en tendencia descendente, 
+suponiendo en 2024 casi un 4% menos que en 2023, alcanzan do niveles 
+inferiores a los de 2019.  
+ 
+• Disminuye el grado de cumplimiento de la higiene de manos sin PBA  en un 1,21% 
+con respecto a 2023, encontrándose el dato más bajo de la serie histórica desde 
+2019.  No obstante, el número de CC.AA . que han registrado un cumplimiento mayor 
+al 50% es de 15.  
+ 
+• El grado de cumplimiento de higiene de manos con PBA  evidencia una leve 
+mejor ía, un 1,30% con respecto a 2023,sin llegar a alcanzar los valores de 2022.  
+Al igual que en el caso anterior, aumenta el número de  CC.AA.  que declaran un 
+cumplimiento mayor del 50% . 
+ 
+Es preciso destacar que, aun contando con la definición de los indicadores 
+correspondientes, la observación no se realiza de manera uniforme en las CC .AA. ni 
+en todos los centros sanitarios. La observación de la higiene de manos se ve enormemente influida por el grado de implementación de la práctica, el conocimiento 
+de la misma, la pericia en la evaluación de su adherencia y la infraestructura y cultura 
+en seguridad de los centros en los que se lleva a cabo.  
+ 
+• En la mayor parte de las CC.AA . se realiza el cuestionario de autoevaluación de 
+Higiene de Manos . Aunque no se dispone del seguimiento desa gregado de cada 
+centro, en 2024 gran parte de los centros obtienen  una calificación intermedia ( 69%) 
+. El 18% de los centros han mejorado su calific ación y un 11% la ha empeorado.  
+ 
+Una de las principales fortalezas del informe de HM, es la apuesta decidida por parte del Ministerio de Sanidad, CC.AA., centros y profesionales sanitarios lo largo de los años 
+por la mejora continua de la Seguridad del Pac iente. El esfuerzo conjunto en la recogida 26 
+ y análisis de datos, ha permitido disponer de una serie temporal de información muy 
+sólida desde la perspectiva del SNS.  
+ 
+Sin embargo, la heterogeneidad en los métodos de recogida de información debilita los 
+resultados  para ofrecer una información detallada y, especialmente limita la 
+comparabilidad entre CC.AA..  
+Por otro lado,  los cambios en la gestión de los programas de HM referidos a 
+disponibilidad y consumo de productos para la HM, así como la aparición de nuev as 
+tecnologías para la observación, invitan a plantear la necesidad de revisar y actualizar los indicadores, de modo que sigan siendo útiles y representativos de la realidad actual.  
+Es imprescindible insistir en que los programas de HM, deben ser  un pilar fundamental en 
+los centros sanitarios para prevenir las IAAS. Aunque llevamos años transmitiendo este 
+mensaje, su relevancia continúa plenamente vigente. Vivimos momentos en los que la 
+sostenibilidad del SNS constituye una preocupación constante. Por  ello,  apostar por la 
+implementación de programas eficientes como la HM, debe ser una prioridad en toda organización  sanitaria que ponga el foco en  la calidad y la seguridad del paciente , 
+implicando a los responsables directivos y a todos los trabajadores  de los centros.  
+Este informe como el de años anteriores invita a la reflexión y a plantear de raíz qué  
+estamos haciendo para evitar la contaminación cruzada en los centros sanitarios .  
+Debemos  encontrar un equilibrio entre inversiones de vanguardia e inversiones en 
+programas “de siempre” pero trasversales como la HM .  
+Somos conscientes de que la HM,  no es una tecnología, es un hábito  de conducta en la 
+práctica clínica diaria basada en la cultura de seguridad, por eso su implantación requiere 
+desarrollar habilidades basadas en la implementación de ésta. Es en este campo donde 
+necesitamos aprender unos de otros y estudiar cómo podemos mejorar lo que estamos 
+haciendo a luz de los datos que año tras año vamos encontrando . 
+ 
+     
+ 
+    
+ 27 
+ 5. Referencias 
+1. Plan de acción mundial para la seguridad del paciente 2021- 2030: hacia la  
+eliminación de los daños evitables en la atención de salud. 
+https://www.who.int/es/publications/i/item/9789240032705  
+2. Global strategy on infection prevention and control. Geneva: World Health 
+Organization; 2023. https://www.who.int/publications/i/item/9789240080515  
+3. Organización Mundial de la Salud. (2022). Global report on infection prevention 
+and control . Organización Mundial de la Salud.  
+https://www.who.int/publications/i/item/9789240051164  
+4. Organizaci ón Mundial de la Salud. Informe del Directo r General. Medidas 
+mundiales en materia de seguridad del paciente. Ginebra: OMS; 2019  
+5. Ministerio de Sanidad. Documento Marco del Sistema Nacional de Vigilancia de 
+las Infecciones Relacionadas con la Asistencia Sanitaria. Madrid: Grupo de Trabajo CCAES, CNE, ISCIII. Ministerio de Sanidad; 2019  
+6. Organización Mundial de la Salud. Research agenda for hand hygiene in health care 2023- 2030.Genova: OMS; 2023.  
+https://www.who.int/publications/i/item/9789240073715
+ 
+7. Luangasanatip N, Hongsuwan M, Limmathurotsakul D, Lubell Y, Lee AS, Harbarth S et al. Comparative efficacy of interventions to promote hand hygiene in hospitals: systematic review an d network meta -analysis. BMJ Glob Health. 2015; 351: 
+h3278.  
+https://doi.org/10.1136/bmj.h3728  
+8. Organization for Economic Co -operation and Development. Stemming the 
+superbug tide: just a few dollars more. Paris: OECD Publishing; 2018. 
+https://doi.org/10.1787/9789264307599- en 
+9. Lotfinejad N, Peters A, Tartari E, Fankhauser -Rodriguez C, Pires D, Pittet D. Hand 
+hygiene in health care: 20 years of ongoing a dvances and perspectives. Lancet 
+Infect Dis. 2021; 21: e209- e21. 
+https://doi.org/10.1016/S1473 -3099(21)00383 -2 
+10. Ministerio de Sani dad. Seguridad del paciente. Programa de higiene de Manos: 
+https://seguridaddelpaciente.sanidad.gob.es/practicasSeguras/higieneDeMano
+s/programa.htm  
+11. Ministerio de Sanidad. Estrategia de Seguridad del Paciente del Sistema Nacional 
+de Salud. Período 20 25-2035. Madrid: Ministerio de Sanidad; 2025. 28 
+ https://seguridaddelpaciente.sanidad.gob.es/docs/estrategia_seguridad_paciente_T2
+5_35.pdf  
+12. Organización mundial de la Salud. Hand Hygene Technical Reference Manual. 
+Ginebra: OMS; 2009. 
+https://seguridaddelpaciente.sanidad.gob.es/practicasSeguras/higieneDeMano
+s/docs/manual_tecnico.pdf  
+13. Ministerio de Sanidad. (2025). Actividad en hospitalización. Sistema de Información de 
+Atención Especializada (SIAE). 
+https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/C/siae/siae/hos
+pitales/actividad -asistencial/actividad -en-hospitalizacion  
+14. Ministerio de Sanidad. (s.f.). Actividad. Sistema de Información de Atención Primaria (SIAP). 
+https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/N/sistema -de-
+informacion -de-atencion -primaria- siap/actividad  
+15. Organización Mundial de la Salud. (2025). Todos los momentos: Higiene de las manos 
+en la atención sanitaria  (versión A2 en español). 
+https://cdn.who.int/media/docs/def ault-source/integrated -health -services -
+(ihs)/infection -prevention -and-control/hand -hygiene/d_allmoments_a2_spanish.pdf  
+  29 
+ ANEXO I. Descripción de los indicadores estudiados  
+ 
+ 
+ L2O2.2.1  Camas de UCI con preparados de base alcohólica en el punto de 
+atención  
+Fórmula de cálculo:  N.º de camas de UCI, incluidas UCI pediátrica y neonatales con  
+preparados de base alcohólica en el punto de atención x 100 / N.º de camas de UCI, 
+incluidas UCI pediátrica y neonatales de la C.A. 
+Aclaraciones:  
+Preparado de Base Alcohólica (PBA) en el punto de atención:  La disponibilidad del 
+producto ha de estar lo más cerca posible del lugar donde se va a desarrollar la 
+actividad (estando visible y accesible) sin estar fuera de las inmediaciones de la zona 
+de atención al paciente. No se considera punto de atención si está colocado a la 
+entrada de la habitación o en un punto que requiera que el profesional se desplace, 
+ni los PBA que no están fijos en el área de  atención (carros, bateas, etc.).  
+Punto de atención: Confluencia de los tres elementos: el paciente, el personal 
+sanitario y la atención o tratamiento que implica el contacto con el paciente o su 
+entorno (dentro de la zona del paciente). 
+Zona del paciente:  Lugar donde está el paciente y su entorno inmediato, esto incluye: 
+la piel intacta del paciente y todas las superficies y objetos inanimados en contacto con el paciente (por ejemplo, barandillas de la cama, ropa de cama, tubos de infusión, timbre, etc.) . 
+Numerador:  N.º de camas de UCI (incluidas UCI pediátricas y neonatales) con 
+preparados de base alcohólica en el punto de atención 
+Denominador:  N.º total de camas de UCI (incluidas UCI pediátricas y neonatales), 
+solo de los Centros que aportan datos. 
+Se consideran hospitales de la C .A. aquellos que, con independencia de su titularidad, 
+tengan vinculación funcional al Servicio de Salud correspondiente. Según criterio de 
+la Consejería.  
+Tipo de indicador: Indicador de estructura  
+Persona/Grupo/Servicio encargado recogida datos: A establecer por la C .A. 
+Frecuencia de entrega de resultados:  Anual  
+Referencias bibliográficas:  
+- Guía de aplicación de la estrategia multimodal de la OMS para la mejora de la 
+higiene de las manos. Ginebra: Organización Mundial de la Salud; 2009.  
+ 
+  30 
+  
+ L2O2.2.2.  Camas de hospitalización con preparados de base alcohólica en el 
+punto de atención  
+Fórmula de cálculo: N.º de camas de hospitalización  de la C.A. con preparados de 
+base alcohólica en el punto de atención x 100 / N.º  total de camas de hospitalización 
+de la C .A. 
+Aclaraciones:  
+Preparado de Base Alcohólica en el punto de atención:  La disponibilidad del producto 
+ha de estar lo más cerca posible del lugar donde se va a desarrollar la actividad sin 
+estar fuera de las inmediaciones de la zona de atención al paciente. No se considera punto de atención si está colocado a la entrada de la habitación o en un punto que 
+requiera que el profesional se desplace, ni los PBA que no están fijos en el área de 
+atención (carros, bateas, etc.).  
+Punto de atención: Es el lugar donde coinciden tres elementos: el paciente, el 
+profesional sanitario y el cuidado o tratamiento que implica contacto con el paciente.  
+ Zona del  paciente : Lugar donde está el paciente y su entorno inmediato, esto incluye: 
+la piel intacta del paciente y  todas las superficies y objetos inanimados que el paciente 
+puede tocar (por ejemplo, barandillas de la cama, mesita de noche, ropa de cama, 
+sillas, tubos de infusión, monitores, timbre y botones, mando TV, etc.). 
+Numerador:  N.º de camas de hospitalización (incluyendo camillas e incubadoras) con 
+preparados de base alcohólica en el punto de atención (incluido urgencias).  
+Denominador:  N.º de camas de hospitalización (incluyendo camillas e incubadoras) 
+de todos los servicios del hospital (incluido urgencias).  
+Se excluyen:  camas de Psiquiatría y camas de UCI   
+Se consideran hospitales de la C .A. aquellos que, con independencia de su titularidad, 
+tengan vinculación funcional al Servicio de Salud correspondiente . Según criterio de 
+la Consejería.  
+Tipo de indicador: Indicador de estructura  
+Persona/Grupo/Servicio encargado recogida datos: A establecer por la CC.AA.   
+Frecuencia de entrega de resultados:  Anual  
+Referencias bibliográficas:  
+- Guía de aplicación de la estrategia multimodal de la OMS para la mejora de la 
+higiene de las manos. Ginebra: Organización Mundial de la Salud; 2009.  
+ 
+    
+ 31 
+  
+ L2O2.2.3.  Consumo preparados  de base alcohólica en hospitalización  
+Fórmula de cálculo: N.º  litros entregados x 1000 / N.º  total de estancias en el periodo 
+evaluado 
+Aclaraciones:  
+N.º total de estancias en el periodo evaluado: 
+Se refiere a las estancias de los pacientes hospitalizados, siendo estancia= Fecha de 
+alta – Fecha de ingreso, durante el periodo de cálculo del indicador. Fecha de ingreso: 
+fecha en la que el paciente es admitido en el hospital y ocupa una cama definida como 
+de hospitalización. Fecha de alta:  Fecha  en la que el paciente es dado de alta (por 
+curación o mejoría, traslado a otro centro, alta voluntaria, fuga o fallecimiento) en el hospital y abandona una cama definida como de hospitalización.  
+Cuando un paciente es ingresado y dado de alta en el mismo día debe contabilizarse como un día de estancia.  
+Numerador:  N.º total de litros entregados de preparado de base alcohólica (PBA) en 
+los distintos servicios del hospital (solo unidades o plantas de hospitalización). Se excluyen los entregados en consultas externas, psiquiatría, urgencias, hospital de día, 
+zona de quirófanos u otros servicios donde el paciente no permanezca ingresado. 
+No 
+se excluye UCI.  
+Denominador:  N.º de estancias en todos los servicios. Se excluyen los atendidos en 
+consultas externas, psiquiatría, urgencias, hospitales de día, zona de quirófanos u 
+otros servicios donde el paciente no permanezca ingresado.  
+Observaciones:  especificar el tipo de producto utilizado (líquido, gel o espuma)  
+Tipo de indicador: indicador de resultado  
+Persona/Grupo/Servicio encargado recogida datos: A establecer por la CC.AA.   
+Frecuencia de entrega de resultados: Anual  
+Referencias bibliográficas :  
+- Guía de aplicación de la estrategia multimodal de la OMS para la mejora de la 
+higiene de las manos. Ginebra: Organización Mundial de la Salud; 2009.  
+- Measuring hand hygiene adherence. Overcoming the challenges. Oakbrook Terrace, 
+Illinois: Joint Commiss ion; 2009.  
+- Indicadores y ejes de análisis del CMBD de hospitalización del sistema nacional de 
+salud. Madrid: Ministerio de Sanidad, Servicios Sociales e Igualdad; 2013.  
+ 
+   32 
+  
+ L2O2.2.4.  Consumo preparados de base alcohólica en Unidades de Cuidados 
+Intensivos  
+Fórmula de cálculo: N.º  litros entregados en UCI x 1000 / N.º  total de estancias en 
+el periodo evaluado en UCI  
+Aclaraciones:  
+N.º total de estancias en el periodo evaluado: 
+Se refiere a las estancias de los pacientes ingresados en Unidades de Cuidados 
+Intensivos (UCI), siendo estancia= Fecha de alta – Fecha de ingreso, durante el 
+periodo de cálculo del indicador. Fecha de ingreso: fecha en la que el paciente es 
+admitido en la unidad y ocupa una cama definida  como de UCI. Fecha de alta:  Fecha 
+en la que el paciente es dado de alta (por curación o mejoría, traslado a otro centro, alta voluntaria, fuga o fallecimiento, traslado a hospitalización de agudos) de la Unidad y abandona una cama definida como de UCI.  
+Cuando un paciente es ingresado y dado de alta en el mismo día debe contabilizarse como un día de estancia.  
+Numerador:  N.º total de litros entregados de preparado de base alcohólica (PBA) en 
+las UCI  (incluidas UCI pediátricas y neonatales).  
+Denominador:  N.º de estancias en la UCI.  
+Observaciones:  especificar el tipo de producto utilizado (líquido, gel o espuma)  
+Tipo de indicador: indicador de resultado  
+Persona/Grupo/Servicio encargado recogida datos: A establecer por la CC.AA.   
+Frecuencia de entrega de resultados: Anual  
+Referencias bibliográficas :  
+- Guía de aplicación de la estrategia multimodal de la OMS para la mejora de la 
+higiene de las manos. Ginebra: Organización Mundial de la Salud; 2009.  
+- Indicadores y ejes de análisis del CMBD de hospitalización del sistema nacional de 
+salud. Madrid: Ministerio de Sanidad, Servicios Sociales e Igualdad; 2013.  
+- Measuring hand hygiene adherence. Overcoming the challenges. Oakbrook Terrace, 
+Illinois: Joint Commission; 2009.  
+ 
+ 
+     33 
+  
+ L2O2.2.5. C onsumo de preparados de base alcohólica en centros de atención 
+primaria  
+Fórmula de cálculo: N.º  litros PBA entregados x 10.000 / Nº total de consultas en el 
+período evaluado.  
+Aclaraciones: N.º total de consultas en el periodo evaluado: Se refiere a la suma de 
+consultas realizadas diariamente, programadas y a demanda, de todas las atenciones 
+relacionadas a los pacientes, como lo es medicina de familia, pediatría, enfermería, 
+fisioterapeutas, etc. tanto en el centro de salud como en el domicilio, durante el 
+periodo evaluado.  
+Numerador:  N.º total de litros entregados de preparado de base alcohólica (PBA) en 
+el centro de salud.  
+ Denominador:  Nº de consultas de medicina de familia, pediatría y  enfermería, 
+matronas, fisioterapeutas tanto en el centro de salud como en el domicilio.  
+Observaciones:  espec ificar el tipo de producto utilizado (líquido, gel o espuma)  
+Tipo de indicador: Indicador de resultado  
+Persona/Grupo/Servicio encargado recogida datos: A establecer por la CC.AA.   
+Frecuencia de entrega de resultados: Anual  
+Referencias bibliográficas: La higiene de las manos en la asistencia ambulatoria y 
+domiciliaria y en los cuidados de larga duración. Guía de aplicación de la estrategia 
+multimodal de la OMS para la mejora de la higiene de las manos y del modelo “Los 
+cinco momentos para la higiene de las manos”. Ginebra: Organización Mundial de la 
+Salud; 2013.  
+- Measuring hand hygiene adherence. Overcoming the challenges. Oakbrook Terrace, 
+Illinois: Joint Commission; 2009.  
+ 
+ 34 
+  
+ 
+ 
+ 
+ L2O2.2.6.  Observación del cumplimiento de higiene de manos  
+Fórmula de cálculo: N.º de acciones de higiene de las manos x 100/ N.º de 
+oportunidades de higiene de manos observadas  
+Aclaraciones: Acciones de higiene de manos  que se realizan con preparado de base 
+alcohólica (PBA) o con agua y jabón según la metodología de los 5 momentos de la 
+OMS. Oportunidad para la higiene de las manos : Momento durante la actividad 
+asistencial en el que es necesario realizar una higiene de manos para interrumpir la 
+transmisión manual de microorganismos. 
+Observación:  
+Se seguirá la metodología de observación de la OMS. Se realizará la observación al 
+menos de los momentos 1 (antes del contacto con el paciente) y 2 (antes de un 
+procedimiento limpio/aséptico).  
+Hospital: Se observará un mínimo de 30 oportunidades de higiene de manos por 
+periodo y servicio evaluado. Aunque se recomienda aumentar este mínimo. Y sería recomendable evaluar, al menos, el 50% de servicios del hospital.  
+El resultado del indicador se daría por hospital. Las CC. AA. que lo deseen pueden 
+aumentar el número de observaciones para dar resultados por servicios.  
+ 
+Atención Primaria: Se observará un  mínimo de 30 oportunidades de higiene de manos 
+por período y consulta ( de medicina de familia, pediatría, enfermería o fisioterapia… ) 
+evaluada. Seria recomendable evaluar, al menos, el 50% de las consultas del centro de salud.  
+ 
+El resultado del indicador se daría por centro de salud. Las CC.AA. que lo deseen 
+pueden aumentar el número de observaciones para dar resultados por consulta.  
+Tipo de indicador: Indicador de resultado   
+Frecuencia de entrega de resultados: Anual  
+Referencias bibliográficas:  
+- Manual Técnico de Referencia para la Higiene de las manos. Dirigido a los 
+profesionales sanitarios, a los formadores y a los observadores de las prácticas de higiene de las manos. Ginebra: Organización Mundial de la salud; 2009.  
+- Measuring hand hygiene adherence. Overcoming the challenges. Oakbrook Terrace, 
+Illinois: Joint Commission; 2009.  35 
+  
+ L2O2.2.7.  Observación del uso  de PBA  
+Fórmula de cálculo: N.º  de acciones de higiene de manos con preparado de base 
+alcohólica x 100/ nº de oportunidades de higiene de manos observadas  
+Aclaraciones:  
+Acciones de higiene de manos  sólo con preparado de base alcohólica (PBA) según 
+la metodología de los 5 momentos de la OMS 
+Oportunidad para la higiene de las manos:  Momento durante la actividad asistencial 
+en el que es necesario realizar una higiene de manos para interrumpir la transm isión 
+manual de microorganismos  
+Observación:  
+Se seguirá la metodología de observación de la OMS. Se realizará la observación al 
+menos de los momentos 1 (antes del contacto con el paciente) y 2 (antes de un 
+procedimiento limpio/aséptico).  
+ 
+Hospital: Se obse rvará un mínimo de 30 oportunidades de higiene de manos por 
+periodo y servicio del hospital evaluado. Se recomienda aumentar este mínimo. Sería 
+recomendable evaluar, al menos, el 50% de servicios del hospital.  
+ 
+Atención Primaria: Se observará un mínimo de 30 oportunidades de higiene de manos por período y consulta (de medicina de familia, pediatría, enfermería o fisioterapia) 
+evaluada. Sería recomendable evaluar, al menos, el 50% de las consultas  
+Tipo de indicador: Indicador de resultado  
+Frecuencia de entrega de resultados: Anual  
+Referencias bibliográficas:  
+- Manual Técnico de Referencia para la Higiene de las manos. Dirigido a los 
+profesionales sanitarios, a los formadores y a los observadores de las prácticas de 
+higiene de las manos. Ginebra: Organización Mundial de la salud; 2009.  
+- Measuring hand hygiene adherence. Overcoming the challenges. Oakbrook Terrace, 
+Illinois: Joint Commission; 2009.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+  
+Cuestionario de Autoevaluación de la Higiene de Manos  
+1- ¿Se realiza en su C .A. el cuestionario de 
+autoevaluación de la Higiene de Manos 
+de la Organización Mundial de la Salud, o una adaptación del mismo?   
+Sí     ____            No ____ 
+2- ¿Cuántos de los centros de su C .A. 
+realizan el cuestionario de 
+autoevaluación de la Higiene de Manos 
+en el año 2024 ?   
+Nº de centros que lo 
+realizan_____  
+ 
+Nº total de centros de su 
+C.A._____  
+3- De los centros que tienen instaurada la 
+Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación 
+básica en el año 2024?   
+Nº _____  
+ 
+4- De los centros que tienen instaurada la 
+Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación 
+intermedia  en el año 202 4?  
+Nº _____  
+ 
+5- De los centros que tienen instaurada la 
+Autoevaluación de Higiene de Manos, 
+¿cuántos centros tienen una calificación 
+avanzada en el año 202 4?  Nº _____  
+6- ¿Cuántos centros obtuvieron una 
+puntuación inferior  a la última evaluación 
+realizada?  
+Nº _____  
+7- ¿Cuántos centros obtuvieron una 
+puntuación superior a la última 
+evaluación realizada?   
+Nº _____  
+ 
+Cuestionario Implementación PRINCESS  
+Se ha iniciado alguna acción relacionada 
+con la primera fase de implementación 
+del programa PRINCESS (adaptación del 
+programa multimodal de la Organización 
+Mundial de la Salud (OMS) de higiene de 
+manos al contexto de l os centros 
+residenciales de personas mayores en 
+España.   
+ 
+Sí     ____            No ____  37 
+ ANEXO II. Tabla Resumen. Indicadores CC.AA . 2024  
+38 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

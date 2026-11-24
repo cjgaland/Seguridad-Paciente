@@ -1,5 +1,4 @@
 import { CASOS } from './data.js';
-// CORRECCIÓN: Solo 3 niveles de subida para llegar a la raíz (juega -> ciudadanos -> raiz)
 import { saveScore } from '../../../js/core/scores.js';
 
 // Variables globales
@@ -94,7 +93,7 @@ function nextRound() {
 function endGame() {
     const container = document.querySelector('.game-container');
     
-    // Guardar en Firebase (Nivel "ciudadanos")
+    // Guardar puntuación (Nivel "ciudadanos")
     saveScore("semaforo", "ciudadanos", "Usuario", score);
 
     // Generar HTML del Resumen

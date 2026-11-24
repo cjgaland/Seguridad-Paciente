@@ -1,0 +1,1737 @@
+ 
+  
+ 
+ 
+  
+  Sistema de  
+Notificación y 
+Aprendizaje para la Seguridad del Paciente (SiNASP)  
+ 
+Incidentes de seguridad 
+notificados en 2024 
+ 
+                                                                                     pág. 2 
+ 
+Documento pendiente de NIPO  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+                                                                                      pág. 3 
+ 
+ 
+Este documento ha sido encargado a la Fundación Avedis Donabedian en el marco del 
+contrato nº expediente 202307PAS002  
+Redacción  
+Fundación Avedis Donabedian  
+María del Mar Fernández Maíllo  
+Yuri Fabiola Villán  Villán  
+ 
+Revisión  
+Ministerio de Sanidad  
+Nuria Prieto Santos  
+Rebeca Padilla Peinado  
+Rocío Montiel Villalonga  
+ Comunidades Autónomas  
+Andalucía: Elvira Eva Moreno Campoy, Paloma Trillo López y Elena Corpas Nogales  
+Aragón:  Mara Til Aliaga  
+Asturias: María Belén Suárez Mier  
+Canarias : María Paloma García de Carlos y Nuria Bañón Morón  
+Cantabria: Jose Luis Teja Barbero y Maria Oro Fernández  
+Castilla y León : Tomás Maté Enriquez y Monserrat Alcalde Martín  
+Castilla -La Mancha: Sonia Cercenado Sorando  
+Cataluña: Maria Dolors Segura Bisbal y Laura Navarro Vila  
+Comunidad Valenciana: Mª José Merino Plaza  
+Extremadura: Manuel García Toro  
+Galicia: Isabel Losada Castillo y María Dolores Formoso Lavandeira  
+INGESA : Patricia Vargas Diaz  
+Ceuta: María Domínguez Padilla y Julián Manuel Domínguez Fernández  
+Melilla:
+ Francisco Javier de la Vega Olías  
+Islas Baleares : Layla Aoukhiyad Lebrahimi y María Dolores Alonso Llobregat  
+Madrid: Alberto Pardo Hernandez, Francisca García Lizana, Natalia de Priso Sañudo.  
+Murcia: José Eduardo Calle Urra, Teresa Ramón Esparza y Joaquín Almela Bernal  
+Navarra: Aránzazu Elizondo Sotro  
+La Rioja : Pilar Saenz Ortiz y Ana Isabel Izaguirre Martin   
+País Vasco : María Luisa Iruretagoyena Sánchez  y Enrique Peiró Callizo  
+ 
+ 
+MINISTERIO DE SANIDAD  
+Paseo del Prado, 18 -20, 20014 Madrid.  
+ 
+Pendiente de NIPO 
+  
+                                                                                     pág. 4 
+ 
+Contenido 
+ 
+RESUMEN  INFO GRÁFIC 0 5 
+ALCANCE  7 
+INCIDENTES NOTIFICADOS  EN ATENCIÓN HOSPITALARIA  8 
+Análisis global de los incidentes notificados  8 
+Tipo de incidente  8 
+Lugar en que ocurrió el incidente  12 
+Profesión del notificante  14 
+Consecuencia de los incidentes en los pacientes  19 
+Riesgo asociado a los incidentes  21 
+Factores contribuyentes a la aparición del incidente  24 
+Incidentes clasificados como SAC 1  29 
+Comentarios y recomendaciones  34 
+INCIDENTES NOTIFICADOS EN ATENCIÓN PRIMARIA  36 
+Análisis global de los incidentes notificados  36 
+Tipo de incidente  36 
+Lugar en que ocurrió el incidente  39 
+Profesión del notificante  40 
+Consecuencia de los incidentes en los pacientes  41 
+Riesgo asociado a los incidentes  44 
+Factores contribuyentes a la aparición del incidente  46 
+Incidentes clasificados como SAC 1  50 
+ACCIONES DE GESTIÓN DE LOS INCIDENTES NOTIFICADOS  51 
+INDICADORES DE GESTIÓN DE LOS INCIDENTES NOTIFICADOS  55 
+NOTIFICACIONES REALI ZADAS EN EL SISTEMA NACIONAL DE SALUD DURANTE 2024  60 
+ 
+ 
+ 
+ 
+ 
+En este informe se ha adoptado la utilización de un lenguaje inclusivo y no sexista, aplicado de forma 
+parcial. A tal efecto, se ha empleado la barra oblicua (/) para visibilizar el género en las profesiones u 
+ocupaciones. Se establece que los sustantivos y adjetivos en género masculino utilizados como genéricos 
+a lo largo del texto se apl ican indistintamente a mujeres y hombres.                                                                                        pág. 5 
+ 
+RESUMEN INFO GRÁFICO   
+                                                                                     pág. 6 
+ 
+                                                                                       pág. 7 
+ 
+ALCANCE  
+Este informe incluye los incidentes notificados al SiNASP durante el año 2024 tanto en atención 
+hospitalaria como en centros de atención primaria. En la Tabla 1, " Centros dados de alta en 
+SiNASP a 31 de diciembre de 2024 ”, figura el número de centros de  atención hospitalaria y áreas 
+sanitarias que estaban dados de alta a 31 de diciembre de 2024.  
+Tabla 1 . Centros dados de alta en SiNASP a 31 de diciembre de 2024  
+Comunidad Autónoma  Áreas Sanitarias * Atención hospitalaria ** 
+Aragón  8 14 
+Canarias  8 10 
+Cantabria  4 4 
+Castilla – La Mancha  15 16 
+Extremadura  9 19 
+Galicia  13 17 
+INGESA  2 3 
+La Rioja  2 6 
+Murcia  10 11 
+Navarra  8 6 
+Principado de Asturias  12 15 
+TOTAL  89 121 
+*En SiNASP el término “área sanitaria” se refiere a la estructura de gestión que puede recibir y gestionar las 
+notificaciones de varios centros sanitarios. Generalmente agrupa centros de atención primaria, pero también 
+pueden agrupar hospitales o incluso centros de atención sociosanitaria . 
+**Incluye también los servicios de emergencias extrahospitalarias y centros ambulatorios de especialidades. 
+Además, también están dados de alta en SiNASP dos hospitales de otra comunidad autónoma.  
+ 
+Los incidentes notificados al SiNASP son analizados en primer lugar por los gestores del sistema 
+en el propio centro sanitario en el que se notifican, con el fin de implementar las medidas de reducción de riesgos necesarias a nivel local. Como parte de este análisis, el gestor del SiNASP puede solicitar información adicional sobre el incidente al notificante -siempre que este se haya 
+identificado - para cumplimentar o modificar la documentación del caso. Cuando ha terminado 
+este proceso de análisis, el gestor cambia el estado de la notificación a “cerrado”. En este informe se incluyen las notificaciones que ya han sido analizadas por los centros y que se consideran cerradas, por lo que su información es ya definitiva.  
+En este informe se han incluido las notificaciones realizadas en 2024 que estaban cerradas a 30 de junio de 2025:  
+● Atención hospitalaria: 5.630 notificaciones (de 6.482 recibidas. En 2023 se recibieron 
+6.429)  
+● Atención Primaria: 473 notificaciones (de 584 recibidas. En 2023 se recibieron 504)  
+En 2024 han aumentado ligeramente las notificaciones con respecto al año anterior tanto en atención hospitalaria como en atención primaria. El 13% de las notificaciones de atención 
+hospitalaria y el 19% de las de atención primaria permanecían sin cerrar a 30 de junio de 2025. En ambos ámbitos han aumentado estos porcentajes, es decir, han quedado más notificaciones sin cerrar. Los incidentes se han analizado por separado según el ámbito sanitario en el que han 
+sido notificados.                                                                                       pág. 8 
+ 
+INCIDENTES NOTIFICADOS EN AT ENCIÓN HOSPITALARIA  
+Se incluyen los incidentes notificados en 96 hospitales de 10 Comunidades Autónomas  (CC.AA.)  
+más INGESA, 4 menos que en 2023. Según puede verse en la Tabla 2, "Hospitales que han 
+utilizado SiNASP en 2024” , aunque en el periodo de estudi o había 121 hospitales dados de alta, 
+no todos ellos utilizaron el sistema. En 2024 se mantuvo el número de hospitales que notificaron 
+al SiNASP en Aragón  (única  comunidad autónoma  en la que notifican el 100% de hospitales 
+dados de alta en SINASP), Asturia s, Cantabria, Galicia, INGESA y Navarra; aumentó en Castilla- La 
+Mancha, mientras que disminuyó en cuatro comunidades (Canarias, Extremadura, La Rioja y Murcia).  
+En total, el 79,3% de hospitales que están dados de alta en SINASP notificaron  en 2024, 
+dismin uyendo un 4% respecto a 2023 (notificaron 4 hospitales menos).  
+Tabla 2 . Hospitales que han utilizado SiNASP en 2024  
+CC.AA. Comienzo de la 
+implantación  Hospitales que 
+usaron SiNASP* en 
+2024  Hospitales que 
+usaron SiNASP en 
+2023  
+Castilla -La 
+Mancha  Enero 2010  11 (68,8%)  10  
+Galicia  Octubre 2010  16 (94%)  16  
+Murcia  Febrero 2011  10 (90,9%)  11 
+Cantabria  Marzo 2012  3 (75%)  3  
+Canarias  Febrero 2013  8 (80%)  9  
+Aragón  Octubre 2013  14 (100%)  14  
+Navarra  Octubre 2013  4 (66,7%)  4  
+Extremadura  Septiembre 2014  13 (68,4%)  15  
+INGESA  Septiembre 2014  2 (66,7%)  2  
+Asturias  Noviembre 2014  12 (80%)  12  
+La Rioja  Diciembre 2016  3 (50%)  4  
+TOTAL   96 100  
+*Se considera que utilizan el SiNASP si han notificado algún incidente en el periodo cubierto por este informe. Además 
+de los hospitales de las CC .AA. adheridas a SiNASP, en 2024 ha utilizado SiNASP un hospital de otra comunidad 
+autónoma ( C.A.) . 
+Análisis global de los incidentes notificados 
+Tipo de incidente  
+En la Gráfica 1 se muestran los incidentes notificados según la clasificación por tipo de incidente. 
+Hay que tener en cuenta que un mismo incidente puede categorizarse en más de un tipo (hasta un máximo de 5), porque puede afectar a varios de ellos. Además, se trata de un campo voluntario, por lo que no todos los incidentes necesariamente se categorizan.  
+Se han notificado un total de 1090 incidentes relacionados con la gestión organizativa – 
+recursos , lo que supone el tipo más frecuente de incidente (19,4%, en 2023 fue 21,4%) . En 
+segundo lugar,  se encuentran los incidentes relacionados con la medicación (1029 incidentes: 
+18,3%, pequeño incremento en el porcentaje con respecto a 2023). Las siguientes categorías de 
+incidentes más notificados han sido los ligados a los equipos/di spositivos (777 incidentes: 
+13,8%), los incidentes relacionados con la identificación (619 incidentes: 11%) y los incidentes 
+relacionados con la comunicación (527 incidentes: 9,4%).                                                                                       pág. 9 
+ 
+Gráfica 1 . Tipo de incidentes notificados al SiNASP en 2024 
+ 
+En comparación con los años anteriores  (Gráfica 2 ), se mantiene la tendencia creciente de la 
+notificación de incidentes relacionados con la medicación y equipos/dispositivos  mientras que 
+los incidentes relacionados con la gestión organizativa- recursos  disminuye n respecto a 2023.  
+Los incidentes relacionados con identificación y accidente del paciente  se mantienen  estables.  
+Los grupos  en los que ha habido un mayor porcentaje de incremento en el número de 
+notificaciones respecto a 2023 han sido radioterapia/radiaci ones ionizantes (incremento del 
+número de notificaciones de l 108% ) pruebas diagnósticas  e infección asociada a la asistencia 
+sanitaria (incremento en el 50%) y procedimientos quirúrgicos (incrementa un 40% ).465252677012512814218820120621623327532334937940741842443852761977710291090
+Oxígeno - Gas - VaporAtención telemáticaRadioterapia/Radiaciones ionizantesComportamiento autoagresivo del pacienteFugaDieta - AlimentaciónInfección asociada a la asistencia sanitariaDocumentaciónLaboratorio - Anatomía patológicaSangre y productos sanguíneosComportamiento alterado / agresivoIncidente relacionado con el diagnósticoTransporte / trasladosOtrosInfraestructura / edificio / enseresCaídasProcedimientos quirúrgicosPruebas diagnósticasAccidente del pacienteRetrasos o tiempos inadecuadosProcedimientos terapéuticosComunicaciónIdentificaciónEquipos / dispositivosMedicaciónGestión organizativa - Recursos                                                                                     pág. 10 
+ 
+Gráfica 2 . Comparativa de tipos de incidentes notificados al SiNASP desde 2021 (porcentaje del total anual)  
+0% 2% 4% 6% 8% 10% 12% 14% 16% 18% 20% 22%Gestión organizativa-Recursos
+Medicación
+Equipos/ dispositivos
+Identificación
+Comunicación
+Procedimientos terapéuticos
+Retrasos o tiempos inadecuados
+Accidente del paciente
+Pruebas diagnósticas
+Procedimientos quirúrgicos
+Caídas
+Infraestructura-edificio-enseres
+Otros
+Transporte-traslados
+Incidente relacionado con el diagnóstico
+Comportamiento alterado/agresivo
+Sangre y productos sanguíneos
+Laboratorio-Anatomía patológica
+Otros procesos administrativos
+Documentación (incluye confidencialidad)
+Infección asociada a la asistencia sanitaria
+Dieta-alimentación
+Comportamiento autoagresivo del paciente
+Fuga
+Radioterapia/Radiaciones ionizantes
+Atención telemática
+Oxígeno-Gas-Vapor2021 2022 2023 2024                                                                                     pág. 11 
+ 
+Los grupos de incidentes cuyo número de notificaciones  ha disminuido de forma más importante  
+respecto a 2023 han sido : Laboratorio - Anatomía patológica (descenso del  23% en el número de 
+notificaciones ), caídas  (descenso del  15,3 %) y dieta -alimentación (descenso del 14,9%).  
+En la Gráfica 3 se comparan las seis categorías de incidentes más notificados en función de su nivel de 
+riesgo SAC1. Se observa que las notificaciones relacionadas con procedimientos terapéuticos son las 
+que presentan un mayor porcentaje de incidentes de riesgo extremo y alto (por encima del 12%), así 
+como un mayor porcentaje de incidentes de riesgo intermedio (24,9%), por lo que globalmente en esta 
+categoría se notifican incidentes de mayor riesgo que en el resto. En el otro extremo , se encuentran 
+los incidentes relacionados con la identificación, de los que la mayor parte son de bajo riesgo (91%), seguidos por los incidentes relacionados con la medicación (bajo riesgo cerca del 80%). Estos dos últimos  tipos de incidentes se corresponde n con dos áreas en las que durante los últimos años se han 
+desarrollado muchas acciones y se han implantado  para que no se produzca da ño, por lo que se podría 
+hipotetizar que e ste comportamiento en la notificación podría estar relacionado con una mayor 
+sensibilización del personal sanitario . 
+Gráfica 3 . Tipos de incidentes más notificados al SiNASP en 2024 comparados según nivel de riesgo 
+(porcentajes dentro de cada categoría)  
+ 
+ 
+1 Las categorías de riesgo SAC se explican en profundidad en el apartado “Riesgo asociado a los incidentes” de este informe.  
+ 
+ 
+  1,4%0,6%1,3%0,2%2,1%2,5%
+6,6%3,9%8,1%0,6%5,1%9,8%
+20,4%16,0%21,3%8,1%18,0%24,9%
+13,2%30,0%17,7%26,6%22,6%21,5%
+58,4%49,6%51,6%64,5%52,2%41,2%
+Gestión organizativa-RecursosMedicaciónEquipos/ dispositivosIdentificaciónComunicaciónProcedimientos terapéuticos
+SAC 1-Riesgo extremo SAC 2-Riesgo algo  SAC 3-Riesgo medio SAC 4-Riesgo bajo Sin SAC 
+                                                                                     pág. 12 
+ 
+Los tipos de incidentes más notificados varían según la comunidad autónoma. En la Figura 1 se 
+ilustran estas diferencias.  
+Igual que en 2023, en Aragón y Canarias los incidentes más notificados han sido los relacionados con la medicación. Este año también los incidentes de medicación han sido los más notificados 
+en Extremadura.  Los incidentes relacionados con la gestión organizativa- recursos  han sido los 
+más notificados en Cantabria, Castilla- La Mancha, Galicia y Murcia  -igual que en 2023 -, en 
+INGESA ( en 20 23 fueron los  procedimientos quirúrgicos) , así como en  La Rioja ( que el año 
+anterior notific ó más incidentes relacionados con identificación) . Las caídas  siguen siendo la 
+categoría más notificada en Navarra, como  en 2023. Asturias ha sido la única c omunidad 
+autónoma en la que se han notificado un  número similar  de incidentes de medicación y gestión 
+organizativa.   
+ 
+Figura 1 . Tipos de incidentes más notificados al SiNASP en cada comunidad autónoma  
+ 
+ 
+ 
+ 
+Lugar en que ocurrió el incidente  
+Aunque un mismo incidente puede implicar una cadena de sucesos que incluyan más de una 
+localización del hospital, este se clasifica en función del lugar principal en que ocurrió. Es importante señalar que el mayor volumen de notificaciones en determinadas áreas del hospital no necesariamente está relacionado con una mayor incidencia, pues puede reflejar también una mayor sensibilización de los profesionales que trabajan en  las mismas (Tabla 3).  
+ 
+ 
+                                                                                     pág. 13 
+ 
+Tabla 3 . Incidentes notificados por área del hospital  
+INCIDENTES  2024  2023  2022  2021  
+Área  N % N % N % N % 
+Unidades de 
+hospitalización  2128  37,8%  2433  42,8%  1927  41,02%  1636  46,02%  
+Urgencias  846 15,0%  751 13,2%  692 14,73%  478 13,45%  
+Bloque quirúrgico 792 14,1%  701 12,3%  585 12,45%  343 9,65%  
+UCI 540 9,6%  550 9,7%  558 11,88%  372 10,46%  
+Servicios centrales  340 6,0%  373 6,6%  303 6,45%  240 6,75%  
+Hospital de día 310 5,5%  202 3,6%  200 4,26%  158 4,44%  
+Consultas externas  266 4,7%  251 4,4%  150 3,19%  114 3,21%  
+Servicios de apoyo/ 
+Otros  254 4,5%  276 4,9%  171 3,64%  91 2,56%  
+Sala de partos  112 2,0%  107 1,9%  97 2,06%  94 2,64%  
+SEE/ Transporte 
+sanitario  42 0,7%  34 0,6%  15 0,32%  29 0,82%  
+TOTAL  5630   5678   4698   3555   
+UCI: Unidades de Cuidados Intensivos; SEE: Servicio de Emergencias Extrahospitalarias  
+ 
+En cuanto a los porcentajes de notificaciones respecto al total de notificaciones recibidas 
+durante 2024, el 37,8% de los incidentes notificados al SiNASP sucedieron en unidades de hospitalización, seguidos por las urgencias (15%) y el bloque quirúrgico (14%), una distribución muy similar a 2023. El porcentaje de notificaciones de incidentes sucedidos en el bloque quirúrgico, que descendió notablemente en 2021 y recuperó el ni vel de años previos en 2022, 
+sigue mostrando una tendencia al alza en 2024. Entre las áreas en las que se comunican menos incidentes podemos destacar el incremento de notificaciones de incidentes ocurridos en hospital de día y consultas externas. En 2024 la notificación de incidentes se ha mantenido estable  en UCI, sala de partos y SEE/Transporte sanitario. En servicios centrales  y el área de 
+servicios de apoyo/ otros el porcentaje de notificaciones  ha disminuido levemente . 
+Respecto al número absoluto de not ificaciones por área, cabe resaltar el aumento de 
+notificaciones de los servicios de urgencias, bloque quirúrgico y hospital de día, las tres áreas con un aumento cercano a las 100 notificaciones en comparación con 2023.  
+Al revisar las tres áreas donde se concentran el mayor número de incidentes notificados, se aprecia que en las unidades de hospitalización se notifica un mayor porcentaje de incidentes que llegan al paciente, siendo alrededor del 28% de bajo riesgo (SAC 4). En urgencias se notifica 
+el mayor  porcentaje  de incidentes de riesgo extremo, mientras que e n el bloque quirúrgico se 
+notifica un mayor porcentaje de situaciones con capacidad de  causar un incidente  en 
+comparación con las otras dos áreas  (Tabla 4).  
+ 
+  
+                                                                                     pág. 14 
+ 
+Tabla 4 . Incidentes notificados en 2024 según su localización, nivel de riesgo y gravedad para el 
+paciente  
+ U. Hospitalización  Urgencias  Bloque 
+quirúrgico  
+Nivel de riesgo  N % N % N % 
+SAC 1  23 1,1%  18 2,1%  11 1,4%  
+SAC 2  146 6,9%  54 6,4%  45 5,7%  
+SAC 3  366 17,2%  157 18,6%  144 18,2%  
+SAC 4  584 27,5%  178 21%  111 14,0%  
+Sin SAC  1006  47,3%  439 51,9%  480 60,7%  
+Gravedad para el paciente  N % N % N % 
+Situación con capacidad de 
+causar un incidente  738 34,7%  316 37,4%  367 46,4%  
+Incidente que no llegó al 
+paciente  268 12,6%  123 14,5%  113 14,3%  
+Incidente que llegó al paciente  1.119  52,7%  407 48,1%  311 39,3%  
+Los porcentajes se refieren al total de incidentes notificados en cada localización. 
+En cuanto al tipo de incidentes más notificados: en las unidades de hospitalización  son los 
+relacionados con la medicación (24,8%, levemente superior a 2023), la gestión organizativa/ 
+recursos (13,6%, menor porcentaje que en 2023) y las caídas (12,8%, cont inúan en descenso); 
+en urgencias  el 23% se relaciona con la gestión organizativa/recursos (porcentaje similar a 2022 
+y 2023), en segundo lugar los incidentes relacionados con la comunicación (16%, en 202 3 fueron  
+los errores relacionados con la identificación) y en tercer lugar permanecen los errores de medicación (15% , similar a 2023). Respecto a la distribución de los incidentes en el bloque 
+quirúrgico  aparece n en primer lugar los procedimientos quirúrgicos ( 38,1%, han aumentado un 
+10% comparado con 2023), después  siguen  los equipos/dispositivos (29,7%, en 2023 estaban en 
+tercer lugar) y la gestión organizativa/recursos (23,8%) , que en 2023 ocupaba el primer lugar . 
+Profesión del notificante  
+El cuestionario de l SiNASP recoge información sobre la profesión del notificante como campo 
+de cumplimentación obligatoria. En la Tabla 5 se muestran las variaciones en los porcentajes de 
+notificación realizados por los profesionales desde el año 2021. 
+Los profesionales de enfermería siguen siendo el grupo que más utiliza el sistema (59,6% de 
+todos los incidentes notificados), duplicando las notificaciones realizadas por los profesionales de medicina (23,5%, porcentaje superior al de 2023). El grupo de farmacéuticos/as ha aumentado el porcentaje de notificaciones (4,5% vs 3,1% en 2023) y el grupo de técnicos/as 
+auxiliares de enfermería (TCAE) ha notificado un porcentaje similar de incidentes a 2023 (3,1%). 
+El grupo profesional de matronas ha notificado el 1,6% vs 1,9% de in cidentes de 2023.  
+La notificación del resto de colectivos sanitarios supone un porcentaje poco representativo, 
+aunque hay variaciones en el grupo de fisioterapeutas cuyas notificaciones han aumentado en 
+2024 (40 notificaciones vs 22 en 2023), y los técnico s en imagen para el diagnóstico se 
+mantienen similares. Los demás colectivos han disminuido el número de notificaciones, excepto los técnicos en radioterapia.   
+Respecto a las notificaciones de los profesionales según el lugar donde ha ocurrido el incident e, 
+en el bloque quirúrgico  las enfermeras/os  han notificado el 49,6% de las notificaciones (393 de 
+las 791 notificaciones de esta área) y los médicos/as el 43,1%.  Es aquí, en el bloque quirúrgico, 
+donde los profesionales de medicina notifican en mayor porcentaje respecto a las otras áreas  
+                                                                                     pág. 15 
+ 
+(25,4% del total de las notificaciones realizadas por medicina). En las unidades de hospitalización 
+las enfermeras/os han notificado el 73, 5% de los incidentes  (1561 de los 2128 incidentes 
+notificados en esta área) y los médicos/as el 15%; en el área de urgencias el 50,8% de los incidentes han sido notificados por enfermeras/os (430 de las 846 notificaciones en esta área) y el 33,6% han sido realizadas por los médicos/as.  
+ 
+Tabla 5 . Incidentes notificados según profesión del notificante  
+  2024  2023  2022  2021  
+Profesión del notificante  N % N % N % N % 
+Enfermero /a 3356  59,6%  3584  63,1%  3055  65,0%  2305  64,9%  
+Médico /a 1324  23,5%  1116  19,7%  901 19,2%  701 19,7%  
+Farmacéutico /a 251 4,5%  175 3,1%  156 3,3%  146 4,1%  
+Otros  187 3,3%  198 3,5%  153 3,3%  102 2,9%  
+Técnico /a auxiliar de 
+enfermería  176 3,1%  182 3,2%  163 3,5%  121 3,4%  
+Matrona  88 1,6%  107 1,9%     
+   
+Residente (MIR, EIR, FIR, 
+PIR…)  60 1,1%  97 1,7%  36 0,8%  40 1,1%  
+Técnico /a en imagen para el 
+diagnóstico  57 1,0%  55 1,0%  58 1,2%  52 1,5%  
+Fisioterapeuta  40 0,7%  22 0,4%  15 0,3%  13 0,4%  
+Técnico /a en laboratorio de 
+diagnóstico clínico  36 0,6%  49 0,9%  75 1,6%  11 0,3%  
+Otros profesionales 
+sanitarios  27 0,5%  32 0,6%  24 0,5%  28 0,8%  
+Otros técnicos de grado 
+superior y medio  9 0,2%  37 0,7%  19 0,4%  10 0,3%  
+Otros licenciados/grados 
+sanitarios  9 0,2%  16 0,3%  25 0,5%  12 0,3%  
+Técnico /a en radioterapia  5 0,1%  1 0,0%  12 0,3%  10 0,3%  
+Técnico /a en farmacia  4 0,1%  6 0,1%  3 0,1%  1 0,0%  
+Estudiantes/ Personal en 
+prácticas  1 0,0%  1 0,0%  3 0,1%  2 0,1%  
+TOTAL  5630   5678   
+4698   3551    
+*La categoría Matr ona se incluyó por primera vez en 2023  
+En la Gráfica 4 se presenta el nivel de riesgo de los incidentes notificados por aquellos  colectivos 
+profesionales que han comunicado un mayor número de incidentes.   
+                                                                                     pág. 16 
+ 
+Gráfica 4 . Porcentaje de incidentes  según su nivel de riesgo  notificados  en 2024 por los  colectivos profesionales que más han notificado   
+ 1,1%0,4%0,6%3,9%0,5%
+6,7%2,4%1,7%10,9%5,6%
+2,9%26,8%22,5%16,7%18,4%13,5%13,6%24,8%15,4%
+8,8%14,6%15,0%31,7%13,8%29,9%12,5%19,5%23,9%
+88,2%58,5%62,5%45,0%66,7%53,8%71,6%41,0%54,6%
+Técnico/a en laboratorio de diagnóstico clínicoTécnico/a en imagen para el diagnósticoFisioterapeutaResidenteMatronaFarmacéutico/aTécnico/a auxiliar de enfermeríaMedico/aEnfermero/a
+SAC 1 SAC 2 SAC 3 SAC 4 NO SAC 
+                                                                                     pág. 17 
+ 
+Los colectivos que han notificado incidentes SAC1 han sido los /as profesionales de medicina 
+(3,9%), matronas (1,1%), TCAE y profesionales de enfermería (0,6%  y 0,5% respectivamente ) y 
+farmacéuticos /as (0,4%).  El colectivo de profesionales de medicina también es el que notifica 
+más incidentes tipo SAC2 (10,9%), seguido de residentes (6,7%), y enfermeras/os (5,5%). En 
+cuanto a los SAC3, nuevamente es el colectivo médico el que más n otifica (24, 8%), seguido del 
+colectivo de matronas (18,4%) y residentes (16,7%). En definitiva, se aprecia que el colectivo 
+médico  tiene tendencia a notificar sobre todo los incidentes más graves. Los/as profesionales 
+de enfermería y farmacia  reparten de m anera equilibrada sus notificaciones ( algo más del 50% 
+sin SAC y de los incidentes que llegan al paciente  menos porcentaje cuanto mayor riesgo) . Los 
+residentes, al igual que los médicos, notifican en mayor medida incidentes que llegan al paciente.  Quienes  notificaron el mayor porcentaje de incidentes sin SAC fueron el  grupo de 
+técnicos /as en laboratorio de diagnóstico clínico ( 88,2 %) y auxiliares de enfermería (71,6%). 
+Los/as técnicos /as en imagen para el diagnóstico y fisio terapeutas notifican  fund amentalmente  
+incidentes de menor riesgo.  
+En la Gráfica 5 se detallan las áreas en las que los profesionales han realizado un mayor número 
+de notificaciones. Los profesionales de enfermería, farmacéuticos y TCAE mayoritariamente 
+notifican incidentes generados en las unidades de hospitalización (46%, 35, 8% y 34,8% 
+respectivamente).  Los profesionales de enfermería realizaron un 12,7% de notificaciones en urgencias y el 11% en cuidados intensivos y bloque quirúrgico.  Los profesionales de medicina, como ya se señaló anteriormente, concentran casi una cuart a parte de sus notificaciones en el 
+bloque quirúrgico (25,4%), aunque también tienen un peso notable en las realizadas en las 
+unidades de hospitalización (23,8%) y las urgencias (21,2%), estas últimas aumentaron con 
+respecto a 2023. Los /as profesionales de  farmacia también notifican un elevado porcentaje  de 
+incidentes  en el hospital de día (27,6%) y en servicios centrales (15,7%). En lo referente a las 
+matronas, como es lógico, la mayoría de los incidentes notificados se localizan en la sala de 
+partos (77,5 %), seguido de las unidades de hospitalización (10,8%) y urgencias (7,2%).  
+   
+                                                                                     pág. 18 
+ 
+Gráfica 5 . Porcentaje de incidentes que ha notificado en 2024 cada colectivo profesional según 
+el área en que ocurrió el incidente  
+ 
+ 
+*La categoría “Otros” incluye: fisioterapeutas, técnico /a de laboratorio, t écnico/a en farmacia, t écnico/a en 
+radioterapia, técnico/ a en imagen para el diagnóstico, o tros/as licenciados/grados sanitarios, o tros/as profesionales 
+sanitarios, e studiantes/personal en prácticas.  0% 10% 20% 30% 40% 50% 60% 70% 80% 90%SEE/ TransporteSala de partosApoyo/ OtrosConsultas externasHospital de díaServicios centralesUCIBloque quirúrgicoUrgencias HospitalizaciónEnfermero/a Medico/a Técnico/a auxiliar de enfermería Farmacéutico/a Matrona Otros 
+                                                                                     pág. 19 
+ 
+Consecuencia de los incidentes en los pacientes  
+SiNASP recoge información sobre todo tipo de incidentes relacionados con la seguridad del 
+paciente, entendiendo como tales los eventos o circunstancias que han ocasionado o podrían haber ocasionado un daño innecesario a un paciente. Esto incluye circunstancias con capacidad de causar un incidente, incidentes que no llegan al paciente (porque algún profesional los detecta antes o simplemente por casualidad) e incidentes que sí alcanzan al paciente, en cuyo caso pueden causar distintos tipos de daño: desde daño inexistente o inapreciable hasta contribuir o provocar la muerte del paciente. En la Tabla 6 se muestra la categorización de las consecuencias del incidente en el paciente desde 202 1. 
+ 
+Tabla 6 . Consecuencias de los incidentes en los pacientes  
+INCIDENTES  2024  2023  2022  2021  
+Categoría  N % N % N % N % 
+Situación con 
+capacidad de causar 
+un incidente  2152  38,2%  2108  37,1%  1744  37,1%  1339  37,7%  
+Incidente que no 
+llegó al paciente  800 14,2%  833 14,7%  681 14,5%  454 12,8%  
+Incidente que llegó 
+al paciente  2678  47,6%  2737  48,2%  2273  48,4%  1762  49,6%  
+El incidente llegó al 
+paciente, pero no le 
+causó daños  1433  25,5%  1475  26%  1182  25,2%  950 26,7%  
+No causó daño, precisó 
+monitorización y/o intervención  483 8,6%  528 9,3%  485 10,3%  363 10,2%  
+Causó daño temporal y 
+precisó intervención  415 7,4%  464 8,2%  366 7,8%  278 7,8%  
+Causó daño temporal y 
+precisó o prolongó la 
+hospitalización  171 3% 130 2,3%  125 2,7%  91 2,6%  
+Causó daño 
+permanente  46 0,8%  29 0,5%  13 0,3%  8 0,2%  
+Comprometió la vida 
+del paciente y precisó 
+intervención para 
+mantener su vida  91 1,6%  76 1,3%  71 1,5%  46 1,3%  
+Contribuyó o causó la 
+muerte del paciente  39 0,7%  35 0,6%  29 0,6%  25 0,7%  
+TOTAL  5630   
+5678   
+4698   
+3555   
+ 
+   
+                                                                                     pág. 20 
+ 
+Gráfica 6 . Porcentaje de incidentes notificados al SiNASP desde 2015 según si llegaron o no al 
+paciente  
+ 
+ 
+ 
+En 2024 el 47,6% de los incidentes notificados llegaron al paciente, disminuyendo levemente 
+respecto a 2023. Se aprecia que se mantiene la tendencia descenden te desde el año 202 1 
+(Gráfica 6) .  
+ 
+El 13,5 % de los incidentes que llegaron al paciente provocaron daño. Es un porcentaje 
+levemente superior al de 2023, manteniéndose una tendencia al alza desde 2020, es decir que 
+se notifican un mayor número de este tipo de incidentes. Esto significa que hay una tendencia positiva a realizar la notificación de los incidentes más graves (Gráfica 7).  
+ 46,5%45,9%44,7%46,5%47,4%53,7%
+50,4%51,6%51,8%
+52,4%53,5%54,1%55,3%
+53,5%52,6%
+46,3%49,6%48,4% 48,2%47,6%
+0%10%20%30%40%50%60%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024No llegaron Llegaron 
+                                                                                     pág. 21 
+ 
+Gráfica 7 . Porcentaje de incidentes notificados al SiNASP desde 2015 que llegaron al paciente, 
+según provocaran o no daño  
+ 
+ 
+Riesgo asociado a los incidentes  
+Para la clasificación de los incidentes notificados, se utiliza una versión modificada de la matriz 
+del “ Severity Assessment Code ” (SAC). Esta matriz facilita la cuantificación del nivel de riesgo 
+asociado a un determinado  incidente en función de dos variables: la gravedad de las 
+consecuencias del incidente en el paciente y su probabilidad de ocurrencia (con cinco 
+alternativas de respuesta que van desde muy infrecuente a frecuente). El sistema de 
+clasificación de estas variables queda reflejado en la Tabla 7.  
+ 
+Tabla 7 . Cálculo del riesgo asociado a un incidente (SAC)  
+ Frecuente  Probable  Ocasional  Poco  
+frecuente  Muy  
+infrecuente  
+El incidente contribuyó o causó la muerte del paciente  Extremo  Extremo  Extremo  Extremo  Alto 
+El incidente comprometió la vida del paciente y se 
+precisó intervención para mantener su vida  Extremo  Extremo  Alto Alto Moderado 
+El incidente contribuyó o causó daño permanente al 
+paciente  
+ Extremo  Extremo  Alto Alto Moderado 
+El incidente contribuyó o causó daño temporal al 
+paciente y precisó o prolongó la hospitalización  Alto Alto Alto Moderado  Moderado 
+El incidente contribuyó o causó daño temporal al 
+paciente y precisó intervención  Alto Alto Alto Moderado  Moderado 70,2%68,4%71,8%72,7% 72,9%75,5%74,6%73,4% 73,2%71,5%
+29,8%31,6%
+28,2%27,3% 27,1%
+24,5%25,4%26,6% 26,8%28,5%
+0%10%20%30%40%50%60%70%80%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Sin daño Con  algún daño 
+                                                                                     pág. 22 
+ 
+ Frecuente  Probable  Ocasional  Poco  
+frecuente  Muy  
+infrecuente  
+El incidente alcanzó al paciente y no le causó daño, 
+pero precisó monitorización y/o intervención para 
+comprobar que no había sufrido daño  Moderado  Moderado  Moderado  Bajo  Bajo  
+El incidente llegó al paciente, pero no le causó daño  Moderado  Bajo  Bajo  Bajo  Bajo  
+SAC 1: Riesgo extremo; SAC 2: Riesgo alto; SAC 3: Riesgo moderado; SAC 4: Riesgo bajo.  
+Hay dos tipos de incidentes que no son susceptibles de una clasificación mediante el SAC: las 
+situaciones con capacidad de causar incidentes y los incidentes relacionados con la seguridad que no llegaron al paciente. Teniendo en cuenta que una de las variables que se utilizan para el cálculo del SAC es el grado de daño y estas dos categorías, por definición, no pueden causar daño a un paciente, ambas categorías  se clasifican como “Sin SAC”.  
+Como se refleja en la Gráfica 8, más de la mitad (52,5%) de los incidentes notificados no tienen SAC porque no alcanzaron al paciente. A partir de ahí, el porcentaje de notificaciones va disminuyendo a medida que aumenta la gravedad según el SAC, hasta llegar al SAC 1 (riesgo extremo) que supone el 1,3 %  de los incidentes.  
+ 
+Gráfica 8 . Incidentes notificados en SiNASP en 2024 según nivel de riesgo  
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+  
+En la Figura 2 se presentan las categorías de incidentes más frecuentes para cada nivel de riesgo 
+SAC. Entre los incidentes sin SAC las categorías más frecuente s están relacionadas  con la gestión 
+organizativa/recursos  y con medicamentos . En el caso de SAC4  los mayores  porcentaje s de 
+incidentes notificados son por medicamentos  e identificación, mientras que en SAC3 los más 
+notificados  son los relacionados  con la gestión organizativa/recursos , medicamentos y 
+equipos/dispositivos . En los niveles de riesgo SAC2  y SAC1 predominan los incidentes 
+relacionados con la gestión organizativa/recursos  y accidentes del paciente, además de los que 
+tienen que ver con equipos/dispositivos (SAC2) y pruebas diagnósticas (SAC 1) . 
+1,3%
+6,2%
+18,0%
+22,1%52,5%
+SAC 1 - Riesgo extremo SAC 2 - Riesgo alto SAC 3 - Riesgo medio
+SAC 4 - Riesgo bajo Sin SAC 
+                                                                                     pág. 23 
+ 
+ 
+Figura 2 . Tipos de incidentes más notificados al SiNASP en 2024 según SAC  
+ 
+   
+  
+      
+      
+    
+ 
+En general la distribución de niveles de riesgo en los incidentes notificados se mantiene muy 
+similar a la de 2023 (Gráfica 9). El porcentaje de incidentes notificados de riesgo extremo ha 
+aumentado ligeramente y disminuido el porcentaje de incidentes de ries go alto y medio. Los 
+porcentajes de incidentes de riesgo bajo y Sin SAC han aumentado levemente.  
+Gestión organizativa - Recursos    Medicación  
+Identificación  Accidente del paciente  
+Pruebas diagnósticas  Equipos/dispositivos   
+                                                                                     pág. 24 
+ 
+Gráfica 9 . Incidentes notificados al SiNASP desde 2015 según riesgo  
+ 
+ 
+Factores contribuyentes a la aparición del incidente  
+La categorización de los factores que contribuyeron a la ocurrencia de los incidentes, según la 
+opinión de los profesionales que los notifican, se incluye en la Tabla 8. Un mismo incidente puede estar ocasionado por múltiples factores causales, por lo que el número de factores contribuyentes es mayor que el número de incidentes analizados.  
+  1,0%1,5%1,2%1,2%0,9%0,5%1,0%0,9%0,8%1,3%
+7,6%8,7%8,1%7,3%7,4%6,1%6,4%7,3%6,9%6,2%
+20,6%22,4%24,1%21,4%21,7%17,6%18,3%17,7%19,2%18,0%
+24,3%21,5%22,0%23,5%22,6%22,0%23,9%22,5%21,3%22,1%
+46,5%45,9%44,7%46,5%47,5%53,8%50,5%51,7%51,8%52,5%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%2015201620172018201920202021202220232024
+SAC 1 - Riesgo extremo SAC 2 - Riesgo alto SAC 3 - Riesgo medio SAC 4 - Riesgo bajo Sin SAC 
+                                                                                     pág. 25 
+ 
+ 
+Tabla 8 . Incidentes notificados al SiNASP en 2024 según los factores contribuyentes  
+ 2024  
+ N % 
+Factores profesionales  2257  40,1%  
+Formación / conocimiento / competencia de los profesionales  1311  23,3%  
+Comportamiento / conducta de los profesionales  823 14,6%  
+Problemas de comunicación 729 12,9%  
+Factores estresantes / emocionales / fatiga  624 11,1%  
+Otros factores de los profesionales  204 3,6%  
+Factores de la organización 2138  38%  
+Normas/procedimientos/protocolos de trabajo (falta o 
+inadecuación)  1298  23,1%  
+Recursos humanos insuficientes/ carga de trabajo  768 13,6%  
+Cultura de la organización 682 12,1%  
+Problemas en el trabajo en equipo  430 7,6%  
+Entorno de trabajo/instalaciones/equipamiento  1772  31,5%  
+Factores relacionados con el paciente  683 12,1%  
+Otros factores relacionados con el paciente  320 5,7%  
+Condición/gravedad del paciente/problemas clínicos complejos  232 4,1%  
+Limitaciones para la comunicación con el paciente (extranjero, 
+deterioro cognitivo, etc.)  131 2,3%  
+Factores externos  279 5% 
+Otros  274 4,9%  
+ 
+En 2024, tal como sucedió en 2022 y 2023, los factores profesionales vuelven a ser  el grupo 
+principal de factores contribuyentes a los incidentes de seguridad (Tabla 8 y Gráfica 10). Los 
+factores de la organización ocupan el segundo lugar y el entorno de trabajo/ instalaciones/ 
+equipamiento el tercer lugar, manteniendo una tendencia ascendente. Los factores relacionados 
+con el paciente no experimentan variación.  
+A nivel de categoría individual (Gráfica 11) los factores relacionados con el entorno de trabajo/instalaciones/equipamiento  siguen siendo señalados como el mayor fac tor 
+contribuyente, continuando con una tendencia al alza.  En segundo nivel de importancia se 
+encuentra un factor de profesionales formación/conocimiento/competencia de los profesionales  
+y en tercer lugar un factor de la organización: la falta o inadecuació n de las 
+normas/procedimientos/protocolos de trabajo, los tres factores han aumentado con respecto al año anterior.   
+                                                                                     pág. 26 
+ 
+Gráfica 10 . Porcentaje de incidentes notificados al SiNASP desde 2015, según los grandes grupos 
+de factores contribuyentes  
+ 
+ 
+Varios  factores de los profesionales han experimentado incrementos en la atribución, 
+especialmente f ormación/conocimiento/competencia de los profesionales  (incremento de dos 
+puntos) y Comportamiento/ conducta de los profesionales (1 punto). Asimismo, dos de los 
+factores organizativos experimentan incremento en la atribución: 
+Normas/procedimientos/protocolos de trabajo  (2 puntos)  y cultura de la organización.  3,2% 3,2% 3,3% 3,2%3,6% 3,5% 3,7% 3,8%5,3%5,0%10,8%11,1%12,2% 12,3%
+11,2%15,9%14,0%
+12,3% 12,3% 12,1%27,4%27,8%
+24,9%27,5%29,0%
+25,6%26,9% 27,2%30,5%31,5%42,7%
+40,4%
+39,1%
+37,0%35,2%
+35,9%
+33,6%38,2%39,8%40,1%
+34,3%37,2%
+33,5%32,8%34,4%38,2%
+35,6%
+35,5%38,9%
+38,0%
+0%5%10%15%20%25%30%35%40%45%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Factores externos Factores relacionados con el paciente
+Entorno de trabajo/ Instalaciones/ Equipamiento Factores profesionales
+Factores de la organización 
+                                                                                     pág. 27 
+ 
+0% 5% 10% 15% 20% 25% 30% 35%Entorno de trabajo/instalaciones/equipamiento
+Formación/conocimiento/competencia de los profesionales
+Normas/procedimientos/protocolos de trabajo (falta o inadecuación)
+Comportamiento/ conducta de los profesionales
+Recursos humanos insuficientes/ carga de trabajo
+Problemas de comunicación
+Cultura de la organización
+Factores estresantes/emocionales/fatiga
+Problemas en el trabajo en equipo
+Otros factores relacionados con el paciente
+Factores externos
+Condición/gravedad del paciente/problemas clínicos complejos
+Otros factores de los profesionales
+Otros
+Limitaciones para la comunicación con el paciente (extranjero, deterioro…2021 2022 2023 2024Gráfica 11 . Incidentes notificados al SiNASP desde 202 1, según los factores contribuyentes  
+ 
+  
+                                                                                     pág. 28 
+ 
+Entre los factores relacionados con el paciente, destaca el descenso especialmente de la 
+Condición/gravedad del paciente/problemas clínicos complejos y las Limitaciones para la comunicación con el paciente . El factor Otros factores relacionados con el paci ente,  aumenta 
+ligeramente con respecto el año anterior.  
+En Gráfica 12 se presentan los grupos de factores que han contribuido a los incidentes según el nivel de riesgo SAC de estos.  
+ 
+Gráfica 12 . Porcentaje de incidentes a los que contribuyeron los distint os grupos de factores 
+agrupados por nivel de riesgo  
+ 
+ 
+En los incidentes de nivel SAC1 destacan los factores de los profesionales (en  el 62,5% de los 
+incidentes) muy por encima del resto y  también tienen un peso importante los factores de la 
+organización (en el 43,06 % de los incidentes ). En los incidentes de riesgo SAC2  es donde más 
+contribuyen los factores relacionados con el paciente  (25% de las notificaciones) , aunque  por 
+debajo de  los factores profesionales, el entorno de trabajo/instalaciones/equipamiento , y los 
+factores de la organización ( entre el 32 y el 38%  de las notificaciones) .  
+Exceptuando el caso de las not ificaciones sin SAC, los factores profesionales son los que, según 
+los notificantes, contribuyen a un mayor porcentaje de incidentes.  
+En el caso de las notificaciones sin SAC, que son aquellos casos que no llegan al paciente y que 
+mayoritariamente se trata de situaciones con capacidad de causar un incidente, lógicamente los 
+factores del paciente tien en poca  importancia (7,8%) , mientras que el  41,1% de los incidentes 
+se atribuy en a factores de la organización, seguidos por los factores profesionales  (37,6%)  y en 
+menor medida los del entorno de trabajo/instalaciones/equipamiento  (32,2%) .  0%10%20%30%40%50%60%70%
+SAC 1 SAC 2 SAC 3 SAC 4 Sin SACOtros Factores externos
+Factores relacionados con el paciente Entorno de trabajo/ Instalaciones/ Equipamiento
+Factores profesionales Factores de la organización 
+                                                                                     pág. 29 
+ 
+Incidentes clasificados como SAC 1  
+Se han revisado todos los incidentes notificados en 2024 y clasificados como SAC 1, cuya fecha 
+de cierre fue anterior a julio de 2025, re sultando un total de 72 incidentes (en 2023 fueron 45).  
+De ellos, según la clasificación de los notificantes, 23 causaron daño permanente al paciente, 26 comprometieron la vida del paciente y precisaron intervención para mantener su vida, y 23 contribuyero n o causaron la muerte del paciente.  
+Según se describe en la tabla 9, más del 70% de los incidentes clasificados como SAC 1 fueron notificados por médicos/as, que habitualmente notifican incidentes más graves. Un 25% fue notificado por enfermeros/as. Además, hubo tres incidentes SAC 1 notificados por otro tipo de profesionales: colectivo de matronas, personal farmacéutico y personal técnico auxiliar de enfermería.  
+ 
+Tabla 9 . Incidentes clasificados como SAC 1 según la profesión del notificante  
+Profesión del notificante  Nº de incidentes  % 
+Médico/a  51 70,8  
+Enfermero/a  18 25 
+Matrona  1 1,4 
+Farmacéutico/a  1 1,4 
+Técnico/a auxiliar 
+enfermería  1 1,4 
+Total  72 100 
+ 
+En lo relativo a las áreas donde se produjeron los incidentes notificados y comparando con 2023 
+(Tabla 10), el mayor porcentaje de incidentes notificados no ha sido en urgencias, sino en las 
+unidades de hospitalización. En cambio, ha aumentado notablemente la notificación del bloque 
+quirúrgico, un entorno en el que suelen producirse incidentes graves, por lo que cabe pensar 
+que el descenso en 2023 fue una anomalía. La notificación de incidentes SAC 1 en las unidades de cuidados intensivos sigue siendo baja y en un porcentaje similar a 2023.  En consultas externas se mantiene la tendencia ascenden te. También destaca la notificación de incidentes 
+SAC 1 en los servicios centrales : 
+ 
+Tabla 10 . Áreas en las que tuvieron lugar los incidentes clasificados como SAC 1. Comparativa 
+2024 y 2023  
+ 2024  2023  
+Área  N incidentes  (%) N (%) 
+Unidades de hospitalización  23 31,9  15 33,3  
+Urgencias  18 25 18 40 
+Bloque quirúrgico  11 15,3  1 2,2 
+Consultas externas  8 11,1  4 8,9 
+Unidades de cuidados intensivos  4 5,6 3 6,7 
+Servicios centrales  4 5,6 0 0 
+Sala de partos  2 2,8 2 4,4 
+SEE/ Transporte sanitario  2 2,8 1 2,2 
+Servicios de apoyo/otros  0 0 1 2,2 
+  
+                                                                                     pág. 30 
+ 
+Durante el análisis se han descartado tres notificaciones en las que los incidentes 
+aparentemente estaban más relacionados con conductas individuales que con problemas sistémicos y, por tanto, no eran susceptibles de analizarse vía SiNASP. Otras dos notificaciones reportaban el mismo incidente.  
+También se han analizado otros dieciséis  incidentes clasificados como SAC 2 que contribuyeron 
+o causaron la muerte del paciente. Al categorizarse como muy infrecuentes, el sistema no los clasifica como SAC 1. Once incidentes fueron notificados por médicos/as, cuatro por enfermeros/as y un incidente por un profesional no identificado. Cinco tuvieron lugar en unidades de hospitalización, otros cinco e n urgencias, dos en sala de partos, dos en emergencias 
+extrahospitalarias, uno en UCI y uno en servicios de apoyo. Durante el análisis se ha excluido una notificación de complicaciones obstétricas.  
+Los 83 incidentes finalmente analizados  se han intentado a grupar de acuerdo con una tipología 
+o con posibles factores contribuyentes. A partir de la descripción del incidente que aparece en el sistema, no en todos los casos queda claro cuál ha sido el problema de seguridad o si se trata de una complicación del pr oceso que sufre el paciente. Este análisis se realiza a nivel local y la 
+información no se traslada a los niveles superiores del sistema. Se describen a continuación los incidentes incluidos en cada grupo.
+ 
+1. Incidentes relacionados con el diagnóstico, valoración y tratamiento del paciente: 14  
+− Paciente con traumatismo craneoencefálico grave que fallece en planta de 
+hospitalización.  
+− Posible efecto adverso de medicación sedante endovenosa por falta de monitorización 
+en paciente con cuadro conf usional con patología mental de base.  
+− Pérdida de bienestar fetal y traslado urgente del neonato al hospital de referencia. 
+Posible monitorización inadecuada de gestante con factores de riesgo en planta por  el 
+colectivo de enfermería que no incluye el de matronas . 
+− Inhibición terapéutica tras detección por radiología de nódulo pulmonar que evoluciona a neoplasia avanzada a los 2 años.  
+− Varios incidentes (4) relacionados con código ictus (presumiblemente del mismo centro 
+y del mismo notificante) que señalan que la valoración y abordaje realizados no son los 
+adecuados y derivan en un peor pronóstico para los pacientes. Entre los posibles factores contribuyentes se señala que los neurólogos no actúan de manera presencial, 
+sino por teleasistencia y que los protocolos oficiales están desactualizados.  
+− Paciente cardiópata en hemodiálisis crónica que ingresa a cargo de un servicio 
+quirúrgico y s e le pauta sueroterapia convencional, lo que supone una sobrecarga 
+inadecuada que da lugar a una sesión extra de hemodiálisis.  
+− Tras casi dos años en espera de colonoscopia, paciente ingresa y se diagnostica una 
+neoplasia de colon con metástasis hepáticas.  
+− Error de interpretación de pruebas diagnósticas en urgencias que evoluciona en un 
+posterior reingreso e intervención quirúrgica urgente por peritonitis . 
+− Paciente con antecedentes psiquiátricos sin seguimiento ingresa en urgencias por intento autolítico y se le da el alta sin previa valoración psiquiátrica a pesar de solicitarlo 
+la familia (paciente violento e incontrolable) .  
+                                                                                     pág. 31 
+ 
+− Paciente que acude a Urgencias por accidente bajo los efectos del alcohol. Para realizar 
+TAC se le administra sedación y después sufre parada cardiorrespiratoria.  
+− Parada cardiorrespiratoria durante un TAC con contraste en paciente con traumatismo 
+torácico.  
+2. Incidentes relacionados con la formación del personal: 14  
+− Traslado de recién nacido por transporte sanitario urgente des de otro centro sanitario 
+con manejo respiratorio no adecuado.  
+− Serie de notificaciones (11) presumiblemente del mismo centro y del mismo notificante sobre incidentes en la ejecución de las radiografías que da lugar a su repetición y a la 
+subsiguiente exposi ción de los pacientes a mayor radiación.  
+− Reacción transfusional de paciente en planta de hospitalización . 
+− Retraso en la actuación pautada y ausencia de monitorización en paciente con 
+traumatismo craneoencefálico en urgencias . 
+3. Incidentes relacionados con ge stión organizativa, infraestructura y recursos: 12  
+- Demora importante en prueba urgente por deficiente puesta en marcha del sistema de 
+petición y gestión informática.  
+- Hemorragia masiva e imposibilidad de contactar con banco de sangre . 
+- Retraso en la atención y éxitus en urgencias (no se siguen los tiempos determinados por 
+el nivel asignado en triaje).  
+- Demora importante de varias horas en la realización de prueba diagnóstica urgente solicitada de madrugada con repercusiones graves para paciente.  
+- Pacien te que fallece tras realización de cateterismo programado de alto riesgo y 
+posterior ingreso en unidad de hospitalización de reciente apertura y carente de equipos de monitorización continua.  
+- Retraso de más de un año en las pruebas diagnósticas y el seguim iento en consulta de 
+un paciente de oncología.  
+- Problemas de cobertura de los buscas en el bloque quirúrgico que impiden atender llamadas de emergencia (2 incidentes)  
+- Ante una complicación en un parto de bajo riesgo, en la sala de dilatación no se cuenta con una cuna de reanimación neonatal.  
+- Demora en la salida de la ambulancia para traslado de paciente por ictus estando el personal responsable ya disponible.  
+- Falta de priorización en las citas y retraso continuado en el tratamiento crónico intraocular.  
+- Parada cardiorrespiratoria y fallecimiento de paciente que llevaba 5 -6 horas esperando 
+a ser atendido en urgencias tras triaje con prioridad III.  
+4. Incidentes relacionados con los equipos/dispositivos: 8  
+− Fuga de anastomosis de intestino delgado con important es complicaciones y exitus. Se 
+atribuye a un fallo del material (hay más casos previos pero las consecuencias fueron 
+menores).   
+                                                                                     pág. 32 
+ 
+− Salida cánula ECMO tras traslado a quirófano y parada cardiorrespiratoria, 
+probablemente por una insuficiente sujeción de la cánu la. 
+− Parada cardiorrespiratoria sucesiva asociada al mal funcionamiento de una válvula del 
+respirador portátil (malfuncionamiento observado en más ocasiones, pero sin 
+consecuencias clínicas graves) . 
+− Bacteriemia asociada a PICC y artritis séptica, probablemente relacionada con una vigilancia deficiente de los catéteres.  
+− Pieza estéril de prótesis cae al suelo durante intervención avanzada y se carece de un 
+sistema de esterilización rápida, por lo que hay que utilizar una pieza más grande con 
+un proce dimiento más peligroso que puede generar más complicaciones.  
+− Durante una cirugía cardiaca, se necesita utilizar las palas internas del desfibrilador y 
+estas no funcionaron adecuadamente, por lo que hubo que buscar una alternativa en 
+una situación de emerge ncia.  
+− Fallo de dos desfibriladores en quirófano de urgencias.  
+− Exitus de paciente por hipovolemia tras extracción accidental de PICC.  
+5. Incidentes relacionados con la comunicación y el trabajo en equipo: 6  
+− Fallo de comunicación y de interpretación del objetivo de TAM en paciente crítico 
+posquirúrgico.  
+− Omisión de administración de antibiótico por desabastecimiento en paciente con sepsis.  
+− Falta de comunicación efectiva entre radiología y urgencias en caso de TVP masiva en 
+persona depend iente, que se marcha en la ambulancia sin ser valorada.  
+− Falta de colaboración entre servicios para asumir la responsabilidad de la atención de 
+un paciente vulnerable.  
+− Discrepancia de criterio en urgencias entre médico, enfermera y resto del equipo 
+durante una parada cardiorrespiratoria.  
+− Problemas para comunicarse con el médico responsable de un paciente ingresado en 
+una ubicación inusual por falta de camas con telemetría en el servicio correspondiente.  
+6. Incidentes relacionados con deficiente comunicación- transferencia/traslados -
+monitorización: 6  
+- Paciente que fallece en sala de espera de Urgencias trasladado por 061 desde atención 
+primaria sin acompañamiento sanitario ni familiar.  
+- Paciente con hematuria que sube a hospitalización desde Urgencia s con una situación 
+de elevada inestabilidad y tiene que ser ingresado en la UCI.  
+- Retraso en la detección de shock séptico de origen urinario por traslado desde otro hospital sin comunicación previa y triaje incorrecto.  
+- Comunicación y traslado inadecuados de paciente pediátrico crítico realizado por 
+equipo de AP y no por UVI móvil.   
+                                                                                     pág. 33 
+ 
+- Error de identificación en paciente procedente de residencia (se remite con información 
+clínica de otro paciente) que deriva en una reacción anafiláctica y exitus por una alergia  
+conocida que no se introduce en el sistema.  
+- Empeoramiento durante el traslado en helicóptero de paciente pediátrica en estado crítico e insuficiente comunicación entre médico emisor y médico receptor que podría haber facilitado su estabilización previa.  
+7. Autolisis de paciente: 6  
+− Paciente en seguimiento por salud mental que ingresa en Urgencias por intoxicación y 
+tras la valoración psiquiátrica es derivada a su centro de salud mental y se suicida al día 
+siguiente.  
+− Paciente ingresado en medicina interna que aprovecha la salida puntual de su 
+acompañante para forzar la apertura de la ventana y precipitarse (incidente notificado 
+dos veces).  
+− Paciente de cáncer de mama que se suicida al salir del hospital tras suspenderse una 
+reintervención quirúrgica programada.  
+− Autolisis de paciente psiquiátrico durante un permiso a domicilio por fallecimiento 
+familiar.  
+− Precipitación de paciente por la ventana del baño de su habitación.  
+− Paciente con contención mecánica utiliza mechero para quemarla y termina abrasándo se en el baño.  
+ 
+8. Incidentes relacionados con parada cardiorrespiratoria y RCP: 5  
+− Parada cardiorrespiratoria en servicio de radiología y no se cuenta con carro de parada 
+ni se conoce el emplazamiento del material necesario; tampoco hay timbre de llamada.  
+− Retraso en RCP en planta de hospitalización por falta de una parte importante del 
+equipo en el carro de paradas.  
+− Error en la valoración de una parada cardiorrespiratoria y escasa capacidad de actuación 
+de los profesionales de una planta de hospitalización . 
+− Traslado desde atención primaria en ambulancia de paciente con parada cardiorrespiratoria y el equipo sanitario no está instaurando medidas de RCP a su llegada 
+al hospital.  
+− Retraso en la atención a una parada cardiorrespiratoria durante el traslado en una 
+unidad de soporte vital avanzado porque el equipo sanitario solo cuenta con un técnico, 
+que debe detener la ambulancia en un lugar seguro antes de poder pasar a la cabina 
+asistencial para ayudar a colocar el cardio compresor.  
+9. Incidentes relacionados con ca ídas o accidentes del paciente: 3  
+- Caída de paciente que tenía las barandillas de la cama subidas, mientras su 
+acompañante no estaba y no había avisado al personal de su ausencia.   
+                                                                                     pág. 34 
+ 
+- Caída paciente en UCI cardiológica al resbalarse en su propia orina por diuresis 
+espontánea tras levantarse de la cama. Posteriormente sufre parada 
+cardiorrespiratoria.  
+- Encuentran al paciente caído en el baño de la habitación con herida en la cabeza y ausencia de signos de vida.  
+10. Incidentes relacionados con medicación: 3  
+- No rev isión tras embarazo de la prescripción crónica de un medicamento teratogénico 
+en los controles sucesivos (tanto en primaria como en atención hospitalaria): malformaciones y muerte neonatal.  
+- Retraso de siete horas en la dispensación y administración de un m edicamento prescrito 
+como urgente.  
+- Trombosis tras suspensión de medicación anticoagulante crónica al ingreso.  
+11. Incidencias con pacientes al final de la vida: 2  
+− Desatención de las instrucciones previas y obstinación terapéutica en un paciente en situación terminal.  
+− Paciente del programa paliativo que ingresa en urgencias y desde allí es trasladado de 
+madrugada a otro hospital y fallece a los pocos minutos del ingreso.  
+12. Incidentes relacionados con los cuidados de pacientes críticos, complejos o vulnerables: 2  
+− Arranque de dispositivo por paciente crítico, presumiblemente por deficiente vigilancia continua . 
+− Deficiente planificación y ejecución de la intubación de paciente crítico con vía aérea 
+difícil.  
+13. Otros eventos centinela: 2  
+− Retención de cuerpo ext raño no notificada por los cirujanos que genera una 
+reintervención urgente (2ª cirugía en el mismo día y 3ª en quince días) . 
+− Exitus perinatal en paritorio . 
+Comentarios y recomendaciones  
+La gestión proactiva del riesgo  es esencial para la calidad y seguridad de la atención, el 
+tratamiento y los servicios a los pacientes en un hospital. La nueva Estrategia de seguridad del 
+paciente del SNS (2025 -2035)
+2 incluye el objetivo de Impulsar la gestión proactiva de los riesgos 
+a través del uso de metodologías que permitan identificar problemas, analizar sus causas y 
+desarrollar acciones que prevengan o disminuyan la repetición de incidentes .  
+Un buen número de los incidentes graves notificados apuntan a la necesidad de impulsar la 
+cultura de la ges tión proactiva del riesgo, por ejemplo:  ante la implantación de nuevos sistemas 
+informáticos (petición de pruebas); evaluaciones del funcionamiento de circuitos de emergencia 
+(código hemorragia masiva); acceso a carros de parada y aviso PCR desde cualquie r ubicación 
+de pacientes; notificación precoz de problemas de funcionamiento o mala calidad de equipos o fungibles aunque no tengan consecuencias clínicas importantes; evaluación de circuitos de 
+ 
+2 Estrategia de Seguridad del Paciente del Sistema Nacional de Salud. Periodo 2025- 2035. Ministerio de 
+Sanidad: Madrid, 2025.   
+                                                                                     pág. 35 
+ 
+triaje; planes de reposición de equipos obsoletos; planificac ión de la atención a pacientes 
+ingresados en ubicaciones inusuales, entre otros.  
+Las transiciones asistenciales  o traslados de pacientes  entre diferentes ámbitos asistenciales o 
+servicios constituyen puntos críticos con un elevado riesgo de que se produzca n errores por 
+fallos o discrepancias en la información sobre los tratamientos que reciben los pacientes. En 
+2024, varios incidentes SAC 1 han tenido lugar en el contexto del traslado de pacientes críticos 
+o vulnerables.  
+En el caso de traslados de pacientes  entre organizaciones se requiere un proceso consistente 
+para garantizar que la transferencia del paciente se haga de forma segura3.  Es importante que 
+exista un mecanismo de seguimiento que proporcione información sobre la condición del 
+paciente antes de l traslado, durante el mismo y a la llegada a la organización receptora, y que 
+asegure la responsabilidad continuada de la atención. La organización receptora debe conocer todos los cuidados prestados al paciente antes y durante el traslado y debe recibir al menos un resumen clínico incluyendo: el estado o condición del paciente, los procedimientos y otras intervenciones realizadas; las necesidades en curso del paciente y el motivo del traslado.  
+Los incidentes graves relacionados con la reanimación cardiorr espiratoria  siguen siendo 
+preocupantes, ya que parecen relacionados sobre todo con la organización interna y la 
+formación de los profesionales.  
+Los servicios de reanimación deben poder prestarse a todos los pacientes las 24 horas del día, 
+todos los días y en todas las áreas del hospital. El equipo de reanimación y los medicamentos para el soporte vital básico y avanzado deben estar estandarizados y disponibles para su uso en función de las poblaciones atendidas, ya sean de adultos o pediátricas. En t odas las áreas del 
+hospital el soporte vital básico debe iniciarse inmediatamente tras el reconocimiento de una 
+parada, y el soporte vital avanzado debe iniciarse como máximo en 5 minutos
+3. El hospital debe 
+incluir la RCP en su plan de formación y asegurarse de que todo el personal clínico que presta 
+atención, tratamiento y servicios a los pacientes está capacitado al menos en soporte vital básico 
+y dicha capacitación debe actualizarse periódicamente.  
+Es importante realizar un seguimiento de todas las actuaciones ante PCR que se realicen para, en su caso, implantar acciones de mejora.  
+Deberían utilizarse los incidentes como fuente de información para la elaboración de los planes 
+de formación del personal. En el análisis de los incidentes graves han surgido t emas como el 
+cuidado de los catéteres, el respeto de las instrucciones previas, la revisión y conciliación de la medicación de manera sistemática o la importancia de la revisión periódica de los carros de 
+parada. La necesidad de capacitación de los profesionales de los servicios de emergencias extrahospitalarias en el manejo de pacientes pediátricos críticos durante los traslados se refleja también en algunas notificaciones.  
+Algunos incidentes ponen de relieve la especial vulnerabilidad de determinados pac ientes  que 
+requerirían una revisión de los procesos de atención: pacientes al final de la vida, pacientes con deterioro cognitivo no acompañados, pacientes con trastornos de conducta por problemas de 
+adicción  y pacientes oncológicos . 
+La prevención del suic idio requiere un abordaje integral, que incluya tanto la evaluación del 
+riesgo individual con instrumentos validados como la evaluación de los riesgos ambientales y las 
+medidas necesarias para minimizarlos.  
+ 
+3 Joint Commission International Accreditation Standards for Hospitals, 8th edition, in Spanish.   
+                                                                                     pág. 36 
+ 
+INCIDENTES NOTIFICADOS EN ATENCIÓN PRIMARIA  
+Se incluyen los incidentes notificados en centros de atención primaria (y asimilados, como las 
+residencias sociosanitarias) de 11 comunidades autónomas . Según puede verse en la Tabla 11, 
+la implantación del SiNASP en atención primaria sigue sin consolidarse. A  finales de 202 4 había 
+600 centros de atención primaria dados de alta como activos en el sistema y se han recibido 
+notificaciones de 1 67 de ellos, que son 31 más que el año anterior, pero supone solo un 2 8% del 
+total. Sin embargo, hay que destacar  que Asturias ha duplicado el número de centros de salud o 
+centros sociosanitarios  que notifican , y Castilla-La Mancha  cerca del doble. Galicia también ha 
+incrementado el número de centros  que han notificado incidentes . 
+Tabla 11 . Centros de atención primaria dados de alta en el SiNASP a 31 de diciembre de 2024 y 
+los que han usado SiNASP en 2024  
+CC.AA. Comienzo de la 
+implantación  Centros de 
+AP* Centros AP que 
+usan SiNASP** 
+en 2024  Centros AP que 
+usan SiNASP en 
+2023  
+Aragón  Octubre 2014  8 (áreas) + 1R  5 3 
+Asturias  Noviembre 2014  68 (30R)  26 12 
+Canarias  Noviembre 2014  7 (áreas)  2 2 
+Cantabria  Septiembre 2014  42 18 21 
+Castilla -La Mancha  Diciembre 2013  134 13 7 
+Extremadura  Octubre 2016  124 (8R)  12 13 
+Galicia  Diciembre 2013  118 57 39 
+INGESA  Diciembre 2019  7 1 0 
+La Rioja  Diciembre 2016  4 3 4 
+Murcia  Diciembre 2013  10 (áreas)  5 4 
+Navarra  Octubre 2014  76 (8R)  25 31 
+TOTAL   600 167 136 
+*Incluye centros sociosanitarios (R). El número de centros de AP no es comparable entre o dentro de las CC .AA., ya que 
+puede darse de alta como un centro cualquier tipo de unidad o agrupación de unidades de atención primaria, incluso un 
+área completa.  
+**Se considera que utilizan el SiNASP si han notificado algún incidente en el periodo cubierto por este informe.  
+ 
+Análisis global de los incidentes notificados 
+Tipo de incidente  
+En la Gráfica 13 se muestran los incidentes notificados según la clasificación por tipo de 
+incidente. Un mismo incidente puede categorizarse en más de un tipo, porque puede afectar a 
+varios temas. Además, se trata de un campo voluntario, por lo que no todos los incidentes necesariamente se categorizan.  
+La categoría mayoritaria de incidentes notificados en atención primaria es medicación (148 
+incidentes, 22%), seguida de gestión organizativa – recursos (52 incidentes, 8%) y coordinación 
+entre niveles asistenciales (43 incidentes, 7%). La categor ía cuidados ha descendido al quinto 
+lugar ( 39 incidentes, 6%).  
+  
+                                                                                     pág. 37 
+ 
+Gráfica 13 . Tipos de incidentes notificados en SiNASP  
+ 
+ 
+Al comparar con los años anteriores (Gráfica 14) la  distribución de los incidentes relacionados 
+con medicación ha permanecido estable  y la relacionada con gestión organizativa – recursos 
+sigue disminuyendo . Por el contrario, aumenta  ligeramente  el porcentaje de  notificaciones 
+referentes a  coordinación entre niveles asistenciales  e identificación. Disminuye notablemente 
+(más de 5 puntos)  la proporción de  notificaciones relacionadas con los  cuidados  y también  algo 
+las de equipos/dispositivos  (2,5 puntos) . 
+No obstante, teniendo en cuenta que el número de notificaciones de cada categoría es bastante 
+bajo, hay que relativizar las posibles comparaciones y tendencias en los datos.55891012141520202026323236363639434352148
+DiagnósticoCirugía menorComportamiento alterado / agresivoInfección asociada a la asistencia sanitariaAtención telemáticaTransporte / trasladosTratamiento (excluyendo medicación)Infraestructura / edificio / enseresOtros procesos administrativosDocumentación (incluyendo confidencialidad)CaídasDerivaciónPruebas diagnósticasAccidente del pacienteRetrasos o tiempos inadecuadosIdentificaciónEquipos / dispositivosCuidadosOtrosCoordinación entre niveles asistencialesGestión organizativa - RecursosMedicación 
+                                                                                     pág. 38 
+ 
+Gráfica 14 . Comparativa de incidentes notificados al SiNASP desde 202 1 hasta 202 4 
+ 0,0% 5,0% 10,0% 15,0% 20,0% 25,0% 30,0% 35,0%Oxígeno - Gas - VaporLaboratorio - Anatomía patológicaDieta - AlimentaciónComportamiento autoagresivo del pacienteCaídasCirugía menorComportamiento alterado / agresivoInfección asociada a la asistencia sanitariaTransporte / trasladosTratamiento (excluyendo medicación)Infraestructura / edificio / enseresDiagnósticoOtros procesos administrativosDocumentación (incluyendo confidencialidad)DerivaciónAccidente del pacientePruebas diagnósticasIdentificaciónRetrasos o tiempos inadecuadosEquipos / dispositivosCuidadosOtrosCoordinación entre niveles asistencialesGestión organizativa - RecursosMedicación
+2021 2022 2023 2024 
+                                                                                     pág. 39 
+ 
+Lugar en que ocurrió el incidente  
+En la Tabla 12 se muestran los incidentes notificados según el área en que se produjo el 
+incidente. El 57% de los incidentes notificados tuvo lugar en la consulta (Tabla 12), un porcentaje similar al de 2023; un 15,6% de los incidentes notificados se produjeron en una organización distinta del centro de atención primaria, y en tercer lugar se notificaron incidentes ocurridos en las urgencias de atención primaria (8,5%).  
+Tabla 12 . Incidentes notificados según el área en que se produjo el incidente desde 2021 
+INCIDENTES  2024  2023  2022  2021  
+Área  N % N % N % N % 
+Consultas / 
+consultorio  270 57,1%  249 58,6%  119 52,2%  73 48,3%  
+En una 
+organización/lugar 
+distinto al centro de 
+Atención Primaria  74 15,6%  53 12,5%  45 19,7%  39 25,8%  
+Área de atención 
+continuada / 
+urgencias / SUAP  40 8,5%  46 10,8%  32 14,0%  13 8,6%  
+Laboratorio  27 5,7%  24 5,6%  9 3,9%  5 3,3%  
+Atención  telemática  18 3,8%  6 1,4%  9 3,9%  6 4,0%  
+Área de 
+administración / 
+información  14 3,0%  14 3,3%  6 2,6%  1 0,7%  
+Otras áreas del 
+centro de Atención 
+Primaria (escaleras, 
+entrada...)  11 2,3%  13 3,1%  1 0,4%  3 2,0%  
+Sala de espera  10 2,1%  10 2,4%  2 0,9%  5 3,3%  
+Lugar desconocido  5 1,1%  4 0,9%  1 0,4%  2 1,3%  
+Servicios de apoyo  3 0,6%  4 0,9%  3 1,3%  2 1,3%  
+Radiología  1 0,2%  2 0,5%  1 0,4%  2 1,3%  
+TOTAL  473 100,0%  425 100,0%  228 100,0%  151 100,0%  
+ 
+Los incidentes notificados que han ocurrido fuera del centro de atenci ón primaria (Gráfica 15) , 
+en su mayoría han ocurrido en hospitales (44%) disminuyendo su proporción con respecto a 
+2023 (55%) , por el  significativo  aumento del porcentaje de incidentes ocurridos en residencias 
+sociosanitarias (30%  frente al 7% en 2023) y en tercer lugar los incidentes ocurridos en “otros” , 
+como en vacunación escolar. Llama la atención  que la proporción de  incidentes notificados 
+ocurridos en domicilio disminuye  notablemente  (9%) en relación con  2023  (23%) . 
+  
+                                                                                     pág. 40 
+ 
+Gráfica 15 . Ubicación de los incidentes notificados en 202 4 que tuvieron lugar fuera del centro 
+de atención primaria  
+ 
+Profesión del notificante  
+En 202 4 el colectivo de enfermería ha sido  el que más notific ó incidentes de seguridad del 
+paciente  (46,9%), seguido de medicina (35,5%) y de farmacéuticas/os ( 9,7%) (Tabla 13). La 
+notificación de TCAEs ha aumentado con respecto a los años anteriores, y parece que  otros 
+profesionales  sanitarios empiezan a notificar en atención primaria.  
+ 
+Tabla 13 . Incidentes notificados según la profesión del notificante desde 202 1 
+  2024  2023  2022  2021  
+Profesión del notificante  N % N % N % N % 
+Enfermero /a 222 46,9%  148 34,9%  101 44,3%  40 26,5%  
+Médico /a 168 35,5%  190 44,8%  83 36,4%  84 55,6%  
+Farmacéutico /a 46 9,7%  55 13,0%  25 11,0%  18 11,9%  
+Técnico /a auxiliar de 
+enfermería  12 2,5%  1 0,2%  0 0,0%  1 0,7%  
+Otros  6 1,3%  8 1,9%  8 3,5%  2 1,3%  
+Residente (MIR, EIR, FIR, 
+PIR…)  5 1,1%  9 2,1%  8 3,5%  6 4,0%  
+Matr ona 5 1,1%  8 1,9%          
+Otros licenciados/grados 
+sanitarios  4 0,8%  1 0,2%  2 0,9%  0 0,0%  
+Fisioterapeuta  3 0,6%  2 0,5%  1 0,4%  0 0,0%  
+Otros /as profesionales 
+sanitarios  1 0,2%  2 0,5%    0,0%  0 0,0%  
+Otros /as técnicos /as de 
+grado superior y medio  1 0,2%   0 0,0%    0,0%   0 0,0%  
+TOTAL  473  
+424  
+228   151   
+44%
+30%11%9%3%3%
+Hospital
+Residencia
+Otros
+Domicilio paciente
+Calle
+Farmacia comunitaria 
+                                                                                     pág. 41 
+ 
+Al comparar los niveles  de riesgo de los incidentes notificados por los principales colectivos 
+profesionales (Gráfica 16) vemos que los colectivos de enfermería (2,3%) y medicina  (1,2%) son 
+los que notifican incidentes de alto riesgo.   
+ 
+Gráfica 16 . Porcentaje de incidentes que han notificado en 202 4 los principales colectivos 
+profesionales, según su nivel de riesgo 
+ 
+ 
+ 
+ 
+Consecuencia de los incidentes en los pacientes  
+ 
+En 2024 aumenta ligeramente con respecto a 2023  la notificación de incidentes que llegaron al 
+paciente (58 %), pero  la proporción sigue siendo bastante  inferior a los años anteriores. No 
+obstante , los incidentes que alcanzan al paciente todavía siguen siendo los que más se notifican  
+(Tabla 14 y Gráfica 17). Los incidentes que no llegaron  al paciente y las situaciones con capacidad 
+de causar un incidente se mantienen en porcentajes similares a 2023.  
+ 2,3%1,2%
+4,3%5,0%4,8%
+50,0%40,0%21,7%19,4%29,8%
+16,7%60,0%32,6%28,8%22,6%
+33,3%41,3%44,6%41,7%
+MatronaResidenteFarmacéutico/aEnfermero/aMédico/aSAC 1 SAC 2 SAC 3 SAC 4 NO SAC 
+                                                                                     pág. 42 
+ 
+Tabla 14 . Incidentes notificados según las consecuencias en los pacientes desde 2021 
+INCIDENTES  
+ 2024  2023  2022  2021  
+Categoría  N % N % N % N % 
+Situación con 
+capacidad de 
+causar un 
+incidente  147 31%  144 33,9%  57 25,0% 18 11,9%  
+Incidente que no 
+llegó al paciente  54 11%  44 10,4%  25 11,0% 21 13,9%  
+Incidente que llegó 
+al paciente  271 57% 237 55,8%  146 64,0% 112 74,2% 
+El incidente llegó 
+al paciente , pero no 
+le causó daño  117 25%  86 20,2%  83 36,4% 56 37,1% 
+Retraso en el 
+tratamiento / 
+tratamiento adicional 
+al necesario / 
+irritación  106 22%  103 24,2%  46 20,2% 37 24,5%  
+Daño moderado: 
+daño temporal 
+menor y/o necesidad 
+de tratamiento 
+adicional sin 
+hospitalización o 
+conflicto con el 
+paciente  33 7% 27 6,4%  11 4,8% 13 8,6%  
+Daño importante: 
+daño temporal 
+importante o daño menor permanente 
+y/o que necesita 
+ingreso hospitalario  11 2% 12 2,8%  4 1,8% 2 1,3%  
+Catastrófico: 
+muerte, situación de 
+amenaza para la vida 
+o daño serio 
+permanente  4 1% 9 2,1%  2 0,9% 4 2,6%  
+   
+                                                                                     pág. 43 
+ 
+Gráfica 17 . Incidentes notificados según si llegaron o no al paciente desde 2015 
+ 
+De los incidentes que llegaron al paciente  únicamente  el 10% produjeron daño (Gráfica 18). Esta 
+proporción mantiene una tendencia des cendente desde el año 2020. 
+ 
+Gráfica 18 . Incidentes notificados según si produjeron o no daño al paciente desde 2015 
+ 42,5% 44,2%
+36,0%
+25,8%38,9%46,2% 45,3%40,9% 38,7%
+29,8%57,5% 55,8%
+64,0%
+74,2%61,1%53,8% 54,7%59,1% 61,3%
+70,2%
+2024 2023 2022 2021 2020 2019 2018 2017 2016 2015
+No llegaron Llegaron
+89,8% 88,7% 88,4%83,0% 81,5% 82,6% 80,8% 80,6%85,0%80,1%10,2% 11,3% 11,6%17,0% 18,5% 17,4% 19,2% 19,4%15,0%19,9%
+2024 2023 2022 2021 2020 2019 2018 2017 2016 2015
+Sin daño Con  daño 
+                                                                                     pág. 44 
+ 
+Riesgo asociado a los incidentes  
+Para la clasificación de los incidentes notificados se utiliza una versión modificada de la matriz 
+del “ Severity Assessment Code ” (SAC) con algunas variaciones respecto a la que se utiliza en 
+atención hospitalaria.  El sistema de clasificación de estas variables queda reflejado en la Tabla 15. 
+ 
+Tabla 15 . Cálculo del riesgo asociado a un incidente en atención primaria (SAC)  
+ Frecuente  Probable  Ocas ional  Poco  
+frecuente  Muy  
+infrecuente  
+Muerte, situación de amenaza para la vida o daño 
+serio permanente   
+Extremo   
+Extremo   
+Extremo   
+Extremo   
+Alto 
+Daño temporal importante o daño menor 
+permanente y/o que necesita ingreso hospitalario   
+Extremo   
+Extremo   
+Alto  
+Alto  
+Moderado 
+Daño temporal menor y/o necesidad de 
+tratamiento adicional sin hospitalización o 
+conflicto con el paciente   
+Alto  
+Alto  
+Alto  
+Moderado   
+Moderado 
+Retraso en el tratamiento / tratamiento adicional 
+al necesario / irritación   
+Moderado   
+Moderado   
+Moderado   
+Bajo   
+Bajo  
+El incidente llegó al paciente, pero no le causó 
+daño   
+Moderado   
+Bajo   
+Bajo   
+Bajo   
+Bajo  
+SAC 1: Riesgo extremo; SAC 2: riesgo alto; SAC 3: riesgo moderado; SAC 4: riesgo bajo   
+ 
+Hay dos tipos de incidentes que no son susceptibles de una clasificación mediante el SAC: las 
+situaciones con capacidad de causar incidentes y los incidentes relacionados con la seguridad que no llegaron al paciente. Teniendo en cuenta que una de las varia bles que se utilizan para el 
+cálculo del SAC es el grado de daño y estas dos categorías, por definición, no pueden causar daño a un paciente, ambas categorías se clasifican como “Sin SAC”.  
+El riesgo asociado a los incidentes notificados al SiNASP en atención primaria queda reflejado en la Gráfica 19. Las notificaciones de incidentes “sin SAC ” han sido las más numerosas (4 2,71 %). 
+ 
+Gráfica 19 . Incidentes notificados en SiNASP en 202 4 según niv el de riesgo  
+ 
+1,48%
+4,6% 
+25.1% 
+26% 42,7% SAC 1
+SAC 2
+SAC 3
+SAC 4
+Sin SAC 
+                                                                                     pág. 45 
+ 
+En 202 4 ha disminuido  el porcentaje de incidentes notificados que han supuesto un riesgo 
+extremo para el paciente ( 1,48 % en 2024 vs 3,1% de 202 3) (Gráfica 20). Se mantienen estables 
+las notificaciones SAC  2, con un aumento en las notificacio nes SAC 4  (26% en 2024 vs 20% de 
+2023).  
+ 
+Gráfica 20 . Incidentes notificados en SiNASP según riesgo desde 2015  
+ 
+ 
+ 
+ 1,5%3,1%0,9%0,7%0,0%0,9%0,7%1,7%0,6%1,9%
+4,7%4,5%3,5%6,0%7,1%6,1%5,4%5,3%5,5%7,9%
+25,2%27,8%20,6%34,4%31,8%24,1%26,1%32,6%27,8%31,5%
+26,0%20,0%39,0%33,1%22,2%22,7%22,3%19,4%27,4%29,0%
+42,7%44,7%36,0%25,8%38,9%46,2%45,6%41,0%38,7%29,8%
+2024202320222021202020192018201720162015
+SAC 1 SAC 2 SAC 3 SAC 4 Sin SAC 
+                                                                                     pág. 46 
+ 
+En la Figura 3 se presentan las categorías de incidentes más frecuentes para cada nivel de riesgo 
+SAC. En el SAC 1 la categoría más frecuente ha sido caídas, en el SAC 2 la categoría de cuidados,  
+y en l os restantes niveles de riesgo (SAC 3, 4 y sin SAC) ha n sido la categoría de medicación. 
+ 
+Figura 3 . Tipos de incidentes más notificados al SiNASP en 2024 según SAC  
+ 
+ 
+     
+    
+    
+ 
+Factores contribuyentes a la aparición del incidente  
+La categorización de los factores que contribuyeron a la ocurrencia de los incidentes, según la 
+opinión de los profesionales que los notifican, se incluye en la T abla 16.  
+Continúa la tendencia iniciada en 2022 de que los factores profesionales  son los que  
+contribuyeron con más frecuencia a la ocurrencia de incidentes , superando  a los factores de la 
+organización, estos últimos descendiendo de manera importante respecto a los años anteriores a expensas de un aumento en los factores externos y los factores del paciente (Tabla 16 y Gráfica 
+Caídas  
+Medicación  
+Cuidados   
+                                                                                     pág. 47 
+ 
+21). La contribución de los factores relacionados con el entorno de 
+trabajo /instalaciones/equipamiento se mantiene estable en los últimos años.  
+ 
+Tabla 16 . Incidentes notificados al SiNASP en 202 4 según los factores contribuyentes  
+  2024  2023  2022  2021  
+Factores contribuyentes  N % N % N % N % 
+Factores profesionales  205 47,4%  205 48,2%  132 57,9% 56 37,1% 
+Formación/conocimiento/competencia 
+de los profesionales  120 25,4%  96 22,6%  67 29,4% 23 15,2% 
+Problemas de comunicación  62 13,1%  60 14,1%  43 18,9% 18 11,9% 
+Factores 
+estresantes/emocionales/fatiga  60 12,7%  54 12,7%  33 14,5% 22 14,6% 
+Comportamiento/ conducta de los 
+profesionales  57 12,1%  66 15,6%  30 13,2% 15 9,9% 
+Otros factores de los profesionales  40 8,5%  28 6,6%  26 11,4% 13 8,6% 
+Factores de la organización  185 39,1%  202 47,5%  126 55,3% 77 51,0% 
+Normas/procedimientos/protocolos 
+de trabajo (falta o inadecuación)  121 25,6  110 25,9  84 36,8% 56 37,1% 
+Recursos humanos insuficientes/ carga 
+de trabajo  70 14,8  77 18,1  41 18,0% 32 21,2% 
+Cultura de la organización  62 13,1  76 17,9  40 17,5% 35 23,2% 
+Problemas en el trabajo en equipo  28 5,9 34 8 28 12,3% 18 11,9% 
+Entorno de 
+trabajo/instalaciones/equipamiento  126 26,6%  124 29,2%  60 26,3% 44 29,1% 
+Factores relacionados con el paciente  57 12,1%  39 9,2%  33 14,5% 13 8,6% 
+Otros factores relacionados con el 
+paciente  20 4,2 11 2,6 21 9,2% 7 4,6% 
+Paciente con comorbilidades  10 2,1 14 3,3 11 4,8% 5 3,3% 
+Paciente con enfermedad crónica  13 2,7 16 3,8 8 3,5% 5 3,3% 
+Condición/gravedad del 
+paciente/problemas clínicos complejos  18 3,8 12 2,8 5 2,2% 4 2,6% 
+Paciente desconocido por el 
+profesional  8 1,7 7 1,6 5 2,2% 4 2,6% 
+Limitaciones para la comunicación con 
+el paciente (extranjero, deterioro 
+cognitivo, etc.)  16 3,4 9 2,1 3 1.3%  2 1,3% 
+Factores externos  57 12,1%  34 8,0%  13 5.7%  6 4,0% 
+Otros  33 7,0%  22 5,2%  5 2.2%  3 2,0% 
+*El total puede superar el nº de incidentes notificados, porque en un incidente pueden identificarse varios factores 
+contribuyentes.   
+                                                                                     pág. 48 
+ 
+Gráfica 21 . Porcentaje de incidentes notificados a SiNASP desde 2015, según los grandes grupos 
+de factores contribuyentes  
+ 
+ 
+ Respecto a las subcategorías de los factores contribuyentes  en 2024 (Gráfica 22) , el factor 
+entorno de trabajo/instalaciones/equipam iento se mantiene como el más frecuente mente 
+asociado a la ocurrencia de incidentes  (26,6%) , seguido del factor 
+normas/procedimientos/protocolos de trabajo (falta o inadecuación)  (25,6%)  y, en  tercer lugar, 
+formación/conocimiento/competencia de los profesionales  (25,4%) . Se observa una tendencia 
+creciente  en los factores externos  (8% en 2023 vs. 12,5% en 2024)  y decreciente en la cultura de 
+la organización (17,9% en 2023 vs 13,1% en 2024)  y en  problemas  en el trabajo en equipo  (8% 
+en 2023  vs 5,9%  en 2024 ). El factor  comportamiento/conducta de los profesionales  también ha 
+descendido con respecto al año anterior  (15,6% en 2023  y 12,1%  en 2024 ).3,5%4,2% 4,5%3,9% 2,7%2,1% 2,0%2,2%5,2%7,0%4,8%6,1%
+5,0%5,7%7,2%5,9%4,0%5,7%8,0%12,1%19,4%
+10,9%
+8,0%10,0%9,4%8,4% 8,6%14,5%
+9,2%12,1%17,7%23,2%
+21,4% 21,4%
+19,6%23,8%29,1%
+26,3%29,2%
+26,6%40,4% 42,1%45,7%
+44,2%
+42,3%42,3%
+37,1%57,9%
+48,2%
+47,4%
+32,3%36,5% 36,8%38,8%
+39,7%46,4%51,0%
+55,3%
+47,5%
+39,1%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Otros
+Factores externos
+Factores relacionados con el paciente
+Entorno de trabajo/ Instalaciones/ Equipamiento
+Factores profesionales
+Factores de la organización 
+                                                                                     pág. 49 
+ 
+0% 5% 10% 15% 20% 25% 30% 35% 40%Paciente desconocido por el profesionalPaciente con comorbilidadesPaciente con enfermedad crónicaLimitaciones para la comunicación con el paciente (extranjero, deterioro…Condición/ gravedad del paciente/ problemas clínicos complejosOtros factores relacionados con el pacienteProblemas en el trabajo en equipoOtrosOtros factores de los profesionalesComportamiento/ conducta de los profesionalesFactores externosFactores estresantes/emocionales/fatigaProblemas de comunicaciónCultura de la organizaciónRecursos humanos insuficientes/ carga de trabajoFormación/conocimiento/competencia de los profesionalesNormas/procedimientos/protocolos de trabajo (falta o inadecuación)Entorno de trabajo/instalaciones/equipamiento
+2024 2023 2022 2021Gráfica 22 . Incidentes  notificados al SiNASP desde 202 1 según los factores contribuyentes  
+ 
+  
+                                                                                     pág. 50 
+ 
+Incidentes clasificados como SAC 1  
+Entre las notificaciones cerradas a 30 de junio de 2025, figuran siete incidentes clasificados como 
+SAC1. De ellos, según los notif icantes, cuatro produjeron daño importante (daño temporal 
+importante o daño menor permanente o que necesita ingreso hospitalario) y tres dieron lugar a daño catastrófico (muerte, situación de amenaza para la vida o daño serio permanente).  
+Cinco notificaci ones fueron realizadas por enfermeros/as y dos por médicos/as. Según los 
+notificantes, dos de los incidentes se produjeron en el área de atención continuada / urgencias 
+/ SUAP, uno en consultas y los otros cuatro en el área de administración/información, e n la sala 
+de espera, en otra área del centro de atención primaria y en un lugar distinto de la atención 
+primaria, respectivamente.  
+También se ha revisado un incidente clasificado como SAC2 con consecuencia de daño 
+catastrófico, que fue notificado por un m édico/a y se produjo en un lugar distinto de la atención 
+primaria.  
+Los 8 incidentes analizados se han intentado agrupar de acuerdo con una tipología o con posibles factores contribuyentes. A partir de la descripción del incidente que aparece en el sistema, no 
+en todos los casos queda claro cuál ha sido el problema de seguridad. Este análisis se realiza a 
+nivel local y la información no se traslada a los niveles superiores del sistema. Se describen a 
+continuación los incidentes incluidos en cada grupo.  
+1. Incidentes relacionados con la gestión organizativa/recursos: 2  
+- Retraso en atención domiciliaria urgente por llegar aviso por un canal no previsto y no 
+recogerse bien la información . 
+- Retraso en atención domiciliaria urgente en ámbito rural por problemas de comunicación entre 112 y los consultorios . 
+2. Incidentes relacionados con la coordinación entre niveles asistenciales: 2  
+- Ausencia de derivación a atención primaria y falta de detalle en el informe de alta de hospital sobre el desarrollo y cuidado s de una herida por presión con necrosis seca que 
+se originó en el mismo.  
+- Descoordinación entre punto de atención continuada, 061 y hospital receptor en la 
+atención y traslado de una urgencia vital por accidente de tráfico . 
+3. Incidentes relacionados con la infraestructura: 2  
+- Caída de paciente en el acceso a las instalaciones por estar el suelo resbaladizo y las 
+escaleras carecer de pasamanos . 
+- Caída paciente anciana al engancharse con el pie del asiento en sala de espera.  
+4. Incidentes relacionados con la valora ción, diagnóstico o tratamiento: 1  
+- Diagnóstico erróneo en servicio de urgencias de AP ante una taquicardia supraventricular, quizá relacionado con la insuficiente formación del médico a cargo (médico sin especialidad).  
+5. Incidentes relacionados con la medicación: 1  
+- Reacción alérgica tras pre scripción de antibiótico del que constaban antecedentes de 
+alergia (en lugar poco visible).  
+ 
+  
+                                                                                     pág. 51 
+ 
+ACCIONES DE GESTIÓN DE LOS INCIDENTES NOTIFICADOS  
+Desde 2023 los gestores locales deben registrar, antes de dar por cerrada cada notificación, el 
+tipo de acción o  acciones que tienen previsto realizar (o han realizado) para gestionar los 
+incidentes notificados.  Pueden escoger varias acciones de gestión para una misma notificación.  
+Hay seis tipos de acciones de gestión establecidos  y una categoría adicional de “Otras” con un 
+campo de texto para incluir opciones adicionales:  
+- Investigación del evento mediante un ACR  
+- Investigación mediante versión simplificada del ACR  
+- Mecanismos para reducir su riesgo  
+- Notificar evento a dirección   
+- Seguimiento con datos agregados  
+- Otras  
+En el caso de los gestores locales de hospital, la acción de gestión más utilizada sobre el total de incidentes fue el seguimiento con datos agregados  (41,8%), seguido de notificar el evento a 
+dirección (38,1%) y en tercer lugar mecanismos para reducir su riesgo  (37,4%)  (Gráfica 2 3).  
+ 
+Gráfica 2 3. Distribución de las acciones de gestión de los incidentes por los gestores de hospital  
+ 
+Las acciones de gestión según el nivel de riesgo SAC del incidente se muestran en la Gráfica 2 4. 
+El 80,6% de los incidentes SAC1 se notifican a la dirección , y en más del 4 0% se realiza algún tipo 
+de análisis en profundidad ( ACR completo  en el 30,6% y  ACR versión simplificada en el 11 %). El 
+seguimiento con datos agregados es más frecuente  en los  incidentes  de menor riesgo, aunque 
+en todos los niveles de SAC se analiza en profundidad cierto porcentaje de incidentes , se echa 
+de menos que  el porcentaje de incidentes sin SAC analizados en profundidad sea algo mayor, ya 
+que este tipo de incidentes es particularmente útil para detectar vulnerabilidades y también 
+barreras.  La implantación de mecanismos para reducir el riesgo se  encuentra  en la franja del 35 -
+40% en todos los niveles.1,7%2,7%27,7%37,4%38,1%41,8%
+Investigación del evento mediante un ACRInvestigación mediante versión simplificada del ACROtrosMecanismos para reducir su riesgoNotificar evento a direcciónSeguimiento con datos agregados 
+                                                                                     pág. 52 
+ 
+12,5%28,2%25,8%27,3%28,8%
+80,6%48,7%38,7%29,1%39,4%
+40,3%37,8%40,7%40,7%34,9%
+25,0%35,4%40,2%44,4%42,5%
+11,1%9,8%2,8%2,7%1,6%
+30,6%6,6%2,2%1,0%0,5%
+0,0% 10,0% 20,0% 30,0% 40,0% 50,0% 60,0% 70,0% 80,0% 90,0%SAC1 Riesgo extremoSAC2 Riesgo altoSAC3 Riesgo moderadoSAC4 Riesgo bajoNo SACInvestigación del evento mediante un ACR Investigación mediante versión simplificada del ACR
+Seguimiento con datos agregados Mecanismos para reducir su riesgo
+Notificar evento a Dirección OtrosGráfica 2 4. Distribución del tipo de acción de gestión utilizada en el total de incidentes notificados en atención hospitalaria, por SAC 
+                                                                                     pág. 53 
+ 
+En el ámbito de atención primaria la principal acción de gestión con respecto al total de 
+incidentes fue notificar el evento a Dir ección /investigación mediante versión simplificada  
+(51,9%); en segundo lugar,  se utilizó mecanismos  para reducir su riesgo  (27,8%) seguido de otros  
+(25,3%) (Gráfica 2 5). 
+ 
+Gráfica 2 5. Distribución de las acciones de gestión en atención primaria  
+ 
+ 
+La distribución de las acciones de  gestión de los incidentes según SAC en atención primaria se 
+muestra en la Gráfica 2 6. 
+El 71% de los incidentes SAC1 se notificaro n a la dirección,  y en el 28 % se realiz ó un análisis en 
+profundidad ( 13% en el caso de los SAC 2 entre ACR completo y simplificado ); en el 43%  de los 
+SAC1 y en el 26, 1% de los SAC2  se pusieron en marcha mecanismos para reducir el riesgo . En 
+general llama la atenci ón el elevado porcentaje de incidentes  de todos los niveles  que se 
+notifican a la Dirección  en comparación con la realización de otro tipo de acciones de gestión . 
+Es lógico pensar que en el caso de la atención primaria la resolución de muchos temas recaiga  
+directamente en la Dirección, pero  cabría esperar que los porcentajes de incidentes en los que 
+se implementan mecanismos de reducción del riesgo o de los que se hace un seguimiento con 
+datos agregados para valorar su incidencia en el tiempo fueran mayores.0,8%3,0%20,7%25,3%27,8%51,9%
+0,0% 10,0% 20,0% 30,0% 40,0% 50,0% 60,0%Investigación del evento mediante un ACRInvestigación mediante versión simplificada del ACRSeguimiento con datos agregadosOtrosMecanismos para reducir su riesgoNotificar evento a Dirección 
+                                                                                     pág. 54 
+ 
+28,6%8,7%
+28,6%8,7%26,9%20,3%25,8%
+71,4%65,2%52,1%56,9%50,5%
+42,9%26,1%34,5%22,8%25,2%
+21,7%17,6%17,1%22,2%
+4,3%9,2%0,6%
+0,0% 10,0% 20,0% 30,0% 40,0% 50,0% 60,0% 70,0% 80,0%SAC1 Riesgo extremoSAC2 Riesgo altoSAC3 Riesgo moderadoSAC4 Riesgo bajoNo SAC
+Investigación mediante versión simplificada del ACR Seguimiento con datos agregados
+Mecanismos para reducir su riesgo Notificar evento a Dirección
+Otros Investigación del evento mediante un ACRGráfica 2 6. Distribución del tipo de acción de gestión utilizada en el total de incidentes notificados en atención primaria, por SAC  
+  
+                                                                                     pág. 55 
+ 
+INDICADORES DE GESTIÓN DE LOS INCIDENTES NOTIFICADOS  
+En este informe se incluyen por primer a vez los indicadores de gestión que fueron actualizados 
+en 2023. 
+Estos indicadores ofrecen a los gestores información a tiempo real sobre el funcionamiento del 
+sistema de notificación en cuatro ámbitos y de acuerdo con su nivel de gestión: centro, área, comunidad autónoma y global (Ministerio de Sanidad).  
+A continuación, se presentan los datos de los indicadores obtenidos a nivel global del SiNASP y desagregados por comunidades autónomas. Estos datos reflejan el funcionamiento del año 2024, es decir, corresponden a la actividad de gestión realizada desde 1 de enero al 31 de diciembre de 2024  (Tablas  17 a 19) . 
+ 
+Tabla 17. Indicadores  de gestión del SiNASP en 2024 a nivel global SiNASP  
+ Atención 
+hospitalaria  Atención 
+primaria  
+ 2024  2024  
+Volumen y tipo de incidentes    
+nº incidentes notificados  6.482  584 
+% SAC 1 y SAC 2 respecto al total  8% 6,8%  
+% notificantes identificados  70,1%  81,2%  
+Gestión de las notificaciones    
+% notificaciones no abiertas después de 7 días  16%  33,2%  
+% de notificaciones > 30 días no cerradas  38,1%  44,4%  
+Tiempo que tardan en cerrarse: mediana (mínimo, 
+máximo)  24 (0, 662)  33 (0, 685)  
+Análisis de las notificaciones    
+% notificaciones SAC 1 y SAC 2 cerradas con indicación 
+de análisis en profundidad  22,2%  14,7%  
+% notificaciones cerradas con indicación de análisis en 
+profundidad  4,6%  3,5%  
+Mecanismos de feedback    
+% notificaciones con notificante identificado cerradas 
+en las que se ha enviado al menos un correo al 
+notificante  69,4%  
+ 34,8%  
+  
+                                                                                     pág. 56 
+ 
+ 
+Tabla 18. Indicadores  de gestión del SiNASP en atención hospitalaria en 2024 desagregado por CC .AA. 
+ 
+ 
+CC.AA.:  Aragón Cantabria  Castilla -La 
+Mancha*  Extremadura*  Galicia  INGESA*  Islas 
+Canarias*  La Rioja Murcia*  Navarra Pdo. 
+Asturias*  
+Volumen y tipo de incidentes             
+1 nº notificaciones recibidas  1.127  245 402 309 1.860  20 379 121 500 763 565 
+2 % SAC 1 y SAC 2 respecto al total  5,5 11 18,7  5,8 6,8 0 9,8 12,4  3 9,6 11,2  
+3 % notificantes identificados  75,2  65,7  71,1  83,8  65,4  75 77,6  78,5  63 69,6  71,7  
+Gestión de las notificaciones             
+4 % notificaciones no abiertas después de 7 días  11,4  14,6  22,5  18,1  12,8  94,7  25,1  7,6 6,4 22,8  9,5 
+5 % de notificaciones > 30 días no cerradas  36,5  44,2  56,1  33,1  37,4  100 44,4  20,5  14,5  43,8  33 
+6 Tiempo que tardan en cerrarse: mediana (mínimo, 
+máximo)  11 (0, 
+457)  46.5 (0, 
+662)  60 (0, 
+399)  29 (0, 309)  25 (0, 
+470)  - 53.5 (0, 
+361)  11 (0, 
+388)  10 (0, 
+625)  34 (0, 
+482)  17 (0, 
+509)  
+Análisis de las notificaciones             
+7 % notificaciones SAC 1 y SAC 2 cerradas con indicación 
+de análisis en profundidad  17,1  22,7  25 18,8  6,8 - 58 21,4  75 10,3  24 
+8 % notificaciones cerradas con indicación de análisis 
+en profundidad  3,4 2,7 12 3 2,3 - 10,8  3,6 9,8 2,6 7,3 
+Mecanismos de feedback             
+9 % notificaciones identificadas cerradas con mail 
+enviado  92,5  50,7  20 96,4  64,4  - 64,4  98 82 61,3  58,5  
+*CC.AA. en las que han aumentado las notificaciones con respecto a 2023  
+ 
+ 
+   
+                                                                                     pág. 57 
+ 
+Tabla 19. Indicadores  de gestión del SiNASP en atención primaria en 2024 desagregado por CC .AA. 
+ 
+ 
+CC.AA.:  Aragón*  Cantabria  Castilla -La 
+Mancha*  Extremadura*  Galicia*  INGESA*  Islas 
+Canarias*  La Rioja Murcia  Navarra Pdo. 
+Asturias*  
+Volumen y tipo de incidentes             
+1 nº notificaciones recibidas  14 33 42 34 257 1 39 19 18 68 59 
+2 % SAC 1 y SAC 2 respecto al total  0 6,1 14,3  0 7,4 0 5,1 10,5  0 4,4 10,2  
+3 % notificantes identificados  85,7  87,9  92,9  88,2  82,1  0 82,1  78,9  88,9  83,8  54,2  
+Gestión de las notificaciones             
+4 % notificaciones no abiertas después de 7 días  78,6  3,1 9,5 2,9 43,5  0 2,6 10,5  22,2  61,2  28,8  
+5 % de notificaciones > 30 días no cerradas  100 46,3  51,2  69,4  37,7  0 48,7  11,1  25 40 58,5  
+6 Tiempo que tardan en cerrarse: mediana (mínimo, 
+máximo)  - 49 (1, 
+114)  295 (6, 
+416)  51 (0, 
+275)  24 (0, 
+460)  0 71 (0, 
+519)  3 (0, 
+69) 12 (0, 
+143)  60 (0, 
+685)  20 (0, 
+561)  
+Análisis de las notificaciones             
+7 % notificaciones SAC 1 y SAC 2 cerradas con indicación 
+de análisis en profundidad  - 0 14,3  0 5,9 - 0 0 - 100 66,7  
+8 % notificaciones cerradas con indicación de análisis 
+en profundidad  - 0 3,7 12,5  1,6 0 3 0 0 1,4 19,1  
+Mecanismos de feedback             
+9 % notificaciones identificadas cerradas con mail 
+enviado  - 88,9  71,4  91,7  18,8  - 36,4  35,7  63,6  24 61,1  
+*CC.AA. en las que han aumentado las notificaciones con respecto a 2023  
+ 
+ 
+ 
+  
+                                                                                     pág. 58 
+ 
+Como se indica al inicio de este informe, las notificaciones recibidas en 2024 han aumentado 
+ligeramente con respecto al año anterior, pero es posible que la gestión de estas  se haya 
+ralentizado, ya que a 30 de junio de 2025 permanecía sin cerrar un mayor porcentaje que en 2023, tanto en atención hospitalaria (13%) como en atención primaria (19%). A finales de 
+diciembre de 2024, fecha a la que corresponden estos indicadores de gestión, se habían cerrado 
+el 76,1% de las notificaciones de atención hospitalaria y el 69,5% de las notificaciones de atención primaria.  
+Los indicadores globales  (Tabla 17) muestran que en atención primaria el 81,2% de las 
+notificaciones no son anónimas, mientras que en la atención hospitalaria parece que el nivel de confianza de los notificantes es algo menor (70,1% de notificaciones no anónimas). Sin embargo, solo en el 34 ,8% de las notificaciones de atención  primaria se envió algún correo al notificante 
+antes de cerrarse. Es un porcentaje muy bajo, que puede explicarse en parte por la falta de 
+agilidad en la gestión que revelan otros indicadores: el 33,2% de las notificaci ones tardan más 
+de 7 días en ser leídas por un gestor (a los quince días de su envío, los datos personales del 
+notificante se eliminan del sistema) y el 44,4% permanecen abiertas más de treinta días. En el 
+caso de la atención hospitalaria, las cifras son algo mejores, pero el 30% de las notificaciones no 
+anónimas cerradas quedó sin recibir feedback directo.  
+Con respecto a los indicadores de gestión, ya se ha comentado el elevado porcentaje de 
+notificaciones que tardan en abrirse o permanecen sin cerrar en atención primaria. La mediana 
+de lo que se tardan en cerrar son 33 días: es necesaria una mayor agilidad en la gestión. Aunque haya notificaciones que permanezcan abiertas porque se necesite obtener más información o realizar un análisis en profundidad, es tos casos no deberían ser tantos, y siempre queda la 
+opción de cerrarlas con “acciones pendientes”, para que la información llegue a los niveles 
+superiores del sistema.  
+En la atención hospitalaria los datos son mejores, pero también indican algunas situaciones no satisfactorias: que el 16% de las notificaciones tarde más de 7 días en abrirse no es aceptable a nivel de sistema por lo que supone de retraso en la gestión y de mayores dificultades para recabar información y proporcionar retroalimentación a los notificantes. La mediana del tiempo 
+de cierre está en 24 días. Habría que aspirar a reducir esa cifra y, por supuesto, a que en ningún 
+caso haya notificaciones que tarden más de un año en cerrarse, como indican los rangos de 
+tiempo de cierre tanto en atenc ión hospitalaria como en atención primaria.  
+Tanto en atención primaria como en hospitalaria, más de la mitad de los incidentes que se 
+analizan en profundidad no son SAC 1 o SAC 2, lo que está indicando que los gestores también 
+buscan factores sistémicos en  otras situaciones de riesgo, aunque no hayan causado daño grave 
+a los pacientes.  
+La Tabla 18 presenta los indicadores de atención hospitalaria desagregados por CC .AA. En 2024 
+el número de notificaciones recibidas solo aumentó en cinco CC .AA., además del I NGESA. 
+Curiosamente, en tres de esas CC .AA. notificaron menos hospitales, lo que parece indicar 
+bastantes diferencias en cultura de seguridad a nivel local.  
+El porcentaje de notificación de incidentes graves oscila entre el 0% de los hospitales del INGESA  
+y el 18,7% de Castilla La Mancha. La Rioja, Asturias y Cantabria están por encima del 10%, al que prácticamente llegan Canarias y Navarra.  
+Las CC .AA. que analizan en profundidad un mayor porcentaje de notificaciones graves son 
+Murcia (75%) y Canarias (58%), seguidas de Castilla- La Mancha (25%), Asturias (24%), Cantabria 
+(22,7%) y La Rioja (21,4%).  Las CC .AA. que tienen un mayor porcentaje de notificac iones 
+cerradas con indicación de análisis en profundidad han sido Castilla- La Mancha (12 %), Canarias 
+(10,8%), y Murcia (9,8%).   
+                                                                                     pág. 59 
+ 
+Respecto a las notificaciones cerradas con mail enviado al notificante, destacan La Rioja (98%), 
+Extremadura (96,4%) y Aragón (92 ,5%).  Con más del 50% se encuentran Murcia (82%), Canarias 
+y Galicia (con 64,4% cada una), Navarra (61,3%), Asturias (58,5%) y Cantabria (50,7%).  
+La Tabla 19 presenta los indicadores de atención primaria desagregados por CC .AA. En 2024 el 
+número de notifi caciones recibidas aumentó en seis CC .AA. (Aragón, Cantabria, Castilla- La 
+Mancha, Extremadura, Galicia, Canarias y Asturias). De estas CC .AA. coincide con que también 
+han aumentado los centros de AP que usan SINASP en 2024 en 4 CC .AA. (Aragón, Castilla- La 
+Mancha, Galicia y Asturias) . Los centros de atención primaria de l INGESA  todavía están  en un 
+proceso inicial y la gestión no está activa.   
+En siete CC.AA. se han notificado  incidentes graves, siendo las de mayor porcentaje Castilla- La 
+Mancha (14,3%), La Rioja (10,5%) y Asturias (10,2%). Las CC .AA. que analizan estas notificaciones 
+en profundidad, en un mayor porcentaje, son Navarra (100%) y Asturias (66,7%).  
+En cuanto a las  notificaciones cerradas con mail enviado al notificante, hay que señalar  que los 
+mayores porcentajes los tienen Extremadura (91,7%), Cantabria (88,9%) y Castilla- La Mancha 
+(71,4%).    
+                                                                                     pág. 60 
+ 
+NOTIFICACIONES REALIZADAS EN EL SISTEMA NACIONAL DE SALUD DURAN TE 2024  
+En la Tabla 20  se incluye, además de la información del SiNASP, la información remitida por 7 Comunidades Autónomas que no utilizan el SiNAS P, pero cuyos 
+centros sanitarios utilizan algún tipo de sistema de notificación de incidentes relacionados con la seguridad.  
+Tabla 20. Incidentes notificados en el SNS durante 2024  
+CC.AA. Total  Atención hospitalaria  Atención primaria  Incidentes sin daño  Incidentes con daño  Medicamentos  Radiaciones 
+ionizantes  
+  N N % N % N % N % N % N % 
+Andalucía*  12.06 9 10.222  84,7%  1.847  15,3%  8.820  73,1%  3.188  26,4%  1.516  12,6  100 0,8%  
+Aragón  842(1141)  841(1127)  99,9%  1(14)  0,1%  744 88,4%  98 11,6%  173 20,5%  6 0,7%  
+Asturias  567(624) 527(565 ) 92,9% 40(59) 7,1% 477 84,1 % 90 15,9 % 105 18,5 % 6 1,1% 
+Baleares  1.438  1.326  92%  112 8% 1.030  72%  343 24%  311 22%  4 0,3%  
+Canarias  410 (438) 370(379) 90,2% 33(39) 8,2% 317 78,7 % 86 21,3 % 92 22,8% 1 0,2% 
+Cantabria  250(278) 217(245) 86,8% 33(33) 13,2% 194 77,6 % 56 22,4 % 41 16,4 % 0 0% 
+Castilla -La Mancha  288(444) 261(402) 90,6 % 27(42) 9,4% 198 68,8 % 90 31,3 % 54 18,8 % 4 1,4% 
+Castilla y León**  3.079  2.232  72,5%  847 27,5%  3.079  100%  - - 778 25,3%  - - 
+Cataluña  20.887  12.933  61,9%  5.757  27,6%  16.391  78,5%  3.565  17,1%  4.307  20,6%  - - 
+Com. Valenciana***  15.066  11.067  73,5%  1.128  7,5%  11.624  77,2%  3.442  22,9%  1.611  9,4%  0 0,0%  
+Extremadura  334(343) 300(309) 89,8 % 34(34) 10,2 % 300 89,8 % 34 10,2 % 71 21,3 % 10 3% 
+Galicia  1906 (2117) 1694 (1860) 88,9 % 212(257) 11,1 % 1667 87,5 % 238 12,5 % 366 19,2 % 12 0,6% 
+INGESA  2 (21)  1(20)  50,0%  1 50%  1 50%  1 50%  0 0,0%  0 0,0%  
+La Rioja  139(140)  121(121)  87,1%  18(19) 12,9%  108 77,7% 31 22,3% 20 14,4%  0 0,0% 
+Madrid**  22.794  19.457  85,4%  3.337  14,6%  22.794  100%  - - 6.308  27,7%  - - 
+Murcia  506(518 ) 493(500 ) 97,4 % 13(18 ) 2,6% 437 86,4 % 69 13,6 % 72 14,2 % 2 0,4%  
+Navarra  675(83 1) 614(76 3) 91% 61(68 ) 9% 563 83,4 % 112 46,9 % 94 13,9% 8 1,2% 
+País Vasco**  8.993  7.819  86,9%  1.174  13,1%  8.993  100%  - - 1.564  17,4%  - - 
+* En el cálculo de incidentes con y sin daño se han excluido 61 notificaciones de las que no se conoce el daño.  
+ ** Solo se recogen incidentes sin daño. *** 2.871 casos sin especificar nivel asistencial. De las notificaciones relacionadas  con medicamentos  536 son RAM.  
+Las cifras entre paréntesis corresponden al total de notificacione s recibidas en SiNASP . Los cálculos se realizan exclusivamente a partir de las notificaciones cerradas, que son las que no figuran entre paréntesis.  
+ 
+  
+                                                                                     pág. 61 
+ 
+ 

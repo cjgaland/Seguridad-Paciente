@@ -1,6 +1,6 @@
 import { bancoPalabrasSopa } from "./palabras_sopa.js";
 
-export async function initSopa({ root, saveScoreFirebase }) {
+export async function initSopa({ root, guardarPuntuacion }) {
 
     // --- ESTADO ---
     const st = {
@@ -346,9 +346,9 @@ export async function initSopa({ root, saveScoreFirebase }) {
         st.enPausa = true;
         document.onmouseup = null;
 
-        if (typeof saveScoreFirebase === "function") {
+        if (typeof guardarPuntuacion === "function") {
             try {
-                await saveScoreFirebase(st.nivel, st.puntos, (st.tiempoMax - st.tiempoTotal));
+                await guardarPuntuacion(st.nivel, st.puntos, (st.tiempoMax - st.tiempoTotal));
             } catch (e) { console.error(e); }
         }
 

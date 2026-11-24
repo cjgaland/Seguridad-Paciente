@@ -59,7 +59,7 @@
         .card-header.blue { background: #e0f2fe; color: #3b82f6; }
         .card-header.green { background: #dcfce7; color: #16a34a; }
         .card-header.purple { background: #f3e8ff; color: #9333ea; }
-        .card-header.orange { background: #ffedd5; color: #ea580c; } /* Nuevo color para el Chatbot */
+        .card-header.orange { background: #ffedd5; color: #ea580c; }
 
         .card-body {
             padding: 20px;
@@ -97,11 +97,11 @@
         <div id="sidebar-overlay" class="sidebar-overlay"></div>
 
         <div class="sp-header-left">
-            <img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+            <img src="../../assets/images/icons/logos/logo_Estrategia.png" alt="Estrategia para la Seguridad del Paciente" class="sp-logo">
         </div>
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
         <div class="sp-header-right">
-            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right">
         </div>
     </header>
 
@@ -132,8 +132,10 @@
                         <i class="fa-solid fa-user-injured"></i> Casos Clínicos Interactivos
                     </a>
                     
-                    <a href="../aprende/chtatbot/chatbot.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
-                        <i class="fa-solid fa-robot"></i> Asistente de Seguridad
+                    
+
+                    <a href="protocolos/protocolos.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-book-open-reader"></i> Buscador de Protocolos
                     </a>
 
                 </div>
@@ -196,13 +198,13 @@
                 </article>
 
                 <article class="learn-card">
-                    <div class="card-header orange">
-                        <i class="fa-solid fa-robot"></i>
+                    <div class="card-header purple">
+                        <i class="fa-solid fa-book-open-reader"></i>
                     </div>
                     <div class="card-body">
-                        <h3>Asistente de Seguridad IA</h3>
-                        <p>¿Dudas sobre un procedimiento? Consulta nuestra base de conocimiento oficial y obtén respuestas inmediatas.</p>
-                        <a href="../aprende/chtatbot/chatbot.html" class="btn-learn">Consultar <i class="fa-solid fa-arrow-right"></i></a>
+                        <h3>Buscador de Protocolos y Documentos</h3>
+                        <p>Busca en los documentos oficiales de la Junta, el Ministerio y la OMS, y consulta las preguntas frecuentes.</p>
+                        <a href="protocolos/protocolos.html" class="btn-learn">Entrar <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </article>
 
@@ -215,5 +217,6 @@
     </footer>
     
     <script src="../../js/sidebar.js"></script>
+    <script type="module" src="../../js/core/actualizaciones.js"></script>
 </body>
 </html>

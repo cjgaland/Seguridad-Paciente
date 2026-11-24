@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practica · Herramientas</title>
     
-    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
-    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
-    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
-    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
-    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
-    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/icons/favicons/favicon_512.png">
 
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../../css/sidebar.css">
@@ -25,9 +25,9 @@
     <header class="sp-header">
         <button id="menu-toggle" class="menu-toggle"><i class="fa-solid fa-bars"></i></button>
         <div id="sidebar-overlay" class="sidebar-overlay"></div>
-        <div class="sp-header-left"><img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo"></div>
+        <div class="sp-header-left"><img src="../../assets/images/icons/logos/logo_Estrategia.png" alt="Estrategia para la Seguridad del Paciente" class="sp-logo"></div>
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
-        <div class="sp-header-right"><img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right"></div>
+        <div class="sp-header-right"><img src="../../assets/images/icons/logos/logo_CSPyE.svg" alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right"></div>
     </header>
 
     <div class="sp-layout">
@@ -37,17 +37,16 @@
                 <div class="sidebar-group">
                     <div style="padding:0 10px 5px;font-size:0.85rem;color:#8A5B00;font-weight:bold;text-transform:uppercase;">Disponibles</div>
                     
-                    <a href="notificasp/notificasp.html" class="sidebar-btn" style="text-decoration:none;">
-                        <i class="fa-solid fa-bullhorn"></i> Simulador NotificaSP</a>
-                    <a href="checklist/checklist.html" class="sidebar-btn" style="text-decoration:none;margin-top:5px;">
-                        <i class="fa-solid fa-list-check"></i> Checklist Quirúrgico</a>
+                    <a href="notificasp/notificasp.html" class="sidebar-btn" style="text-decoration:none;"><i class="fa-solid fa-bullhorn"></i> Simulador NotificaSP</a>
+                    <a href="checklist/checklist.html" class="sidebar-btn" style="text-decoration:none;margin-top:5px;"><i class="fa-solid fa-list-check"></i> Checklist Quirúrgico</a>
+                    <a href="analisis_incidentes/analisis_incidentes.html" class="sidebar-btn" style="text-decoration:none;margin-top:5px;"><i class="fa-solid fa-magnifying-glass-chart"></i> Análisis de Incidentes</a>
                     
                     <div style="margin-top:5px;">
                         <button class="sidebar-btn" data-toggle="submenu-escalas">
                             <i class="fa-solid fa-calculator"></i> Calculadoras / Escalas Clínicas
                         </button>
                         <ul id="submenu-escalas" class="sidebar-submenu">
-                            <li><a href="calculadoras/braden/braden.html">Escala Branden</a></li>
+                            <li><a href="calculadoras/braden/braden.html">Escala Braden</a></li>
                             <li><a href="calculadoras/caidas/downton.html">Escala Downton</a></li>
                         </ul>
                     </div>
@@ -62,8 +61,7 @@
                         </ul>
                     </div>
                     
-                    <a href="analista_ia/analista.html" class="sidebar-btn" style="text-decoration:none;margin-top:5px;">
-                        <i class="fa-solid fa-robot"></i> Analista Incidentes IA</a>
+                    
                     
                 </div>
 
@@ -97,6 +95,14 @@
                     <span class="btn-tool">Entrar <i class="fa-solid fa-arrow-right"></i></span>
                 </article>
 
+                <article class="tool-card sim" onclick="location.href='analisis_incidentes/analisis_incidentes.html'">
+                    <div class="tool-icon"><i class="fa-solid fa-magnifying-glass-chart"></i></div>
+                    <div class="tool-badge">Guía paso a paso</div>
+                    <h3>Análisis de Incidentes</h3>
+                    <p>Analiza un incidente con el Protocolo de Londres y obtén un resumen imprimible.</p>
+                    <span class="btn-tool">Empezar <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
+
                 <article class="tool-card calc" onclick="location.href='calculadoras/calculadoras.html'">
                     <div class="tool-icon"><i class="fa-solid fa-calculator"></i></div>
                     <div class="tool-badge">Utilidad</div>
@@ -113,15 +119,7 @@
                     <span class="btn-tool">Encuesta <i class="fa-solid fa-arrow-right"></i></span>
                 </article>
                 
-                <article class="tool-card sim" onclick="location.href='analista_ia/analista.html'">
-                    <div class="tool-icon" style="background:#eff6ff; color:#3b82f6;">
-                        <i class="fa-solid fa-robot"></i>
-                    </div>
-                    <div class="tool-badge">IA Beta</div>
-                    <h3>Analista de Riesgos IA</h3>
-                    <p>Asistente inteligente para clasificar incidentes y sugerir medidas preventivas automáticamente.</p>
-                    <span class="btn-tool" style="color:#3b82f6;">Probar <i class="fa-solid fa-wand-magic-sparkles"></i></span>
-                </article>
+                
                 
             </div>
         </main>
@@ -129,5 +127,6 @@
 
     <footer class="sp-footer">Área de Gestión Sanitaria Sur de Córdoba · Consejería de Sanidad, Presidencia y Emergencias</footer>
     <script src="../../js/sidebar.js"></script>
+    <script type="module" src="../../js/core/actualizaciones.js"></script>
 </body>
 </html>

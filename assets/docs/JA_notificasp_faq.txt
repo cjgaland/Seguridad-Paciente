@@ -1,0 +1,127 @@
+ 
+Gestores  notificASP  
+Actualización notificASP  2023 _v1 
+ 
+Preguntas  frecuentes  
+PREGUNTAS FRECUENTES:  ................................ ................................ ................................ ............  2 
+¿Cómo se accede a la aplicación “Gestión de incidentes de seguridad” de notificASP ? ..........  2 
+¿Qué funcionalidades tiene el sistema de gestión de incidentes?  ................................ ...........  2 
+¿Qué requisitos debo de cumplir  para ser gestor del sistema de notificación notificASP?  ..... 3 
+¿Qué hago si recibo correo de baja por inactividad en notificASP?  ................................ .........  3 
+¿Qué mensajería voy a recibir según mi perfil?  ................................ ................................ ........  3 
+¿Cuándo tengo que acceder a gestionar los incidentes de seguridad?  ................................ .... 4 
+¿Qué son los estados de un incidente?  ................................ ................................ .....................  4 
+¿Puedo incluir acciones de mejora una vez resuelto el incidente?  ................................ ..........  4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No t i f i c A S P _ p r e g u n t a s  f r e c u e n t e s  G E S T O R E S  2 | 4 
+ 
+ 
+PREGUNTAS FRECUENTES:  
+ 
+¿Cómo se accede a la aplicación “ Gestión de incidentes de 
+seguridad ” de notificASP ? 
+El acceso para Gestores de  incidentes de seguridad de notificASP está en WebESSPA  en el 
+enlace https://notificasp.seguridadpaciente.es/login . 
+Los usuarios del SSPA podrán acceder con su usuario y contraseña DMSAS . (MAYÚSCULAS)  
+ 
+IMPORTANTE : Si no recuerda su contraseña , puedes  recuperarla  a través de AGESCON .  
+Si la primera vez que va a acceder al sistema de gestión de incidentes no lo consigue , y no 
+es un problema de la contraseña, póngase e n contacto con el Referente de Seguridad del 
+Paciente de su centro directivo, que compruebe que el DMSAS que tiene asignado en su 
+ficha de alta como gestor es el correcto.  
+¿Qué funcionalidades tiene el sistema de gestión de incidentes ? 
+Según el perfil que  tengas designado en tu centro, tendrás acceso a diferentes 
+funcionalidades , gestión de incidentes, estadísticas e informes, gestión de usuarios e 
+indicadores.  
+Gestores micro: Son los gestores  del sistema de gestión de incidentes para una o varias 
+unidades de gestión, tendrán acceso a todas las notificaciones  que se asignen a esa /s 
+unidad /es, a la gestión de las notificaciones y a al módulo de estadísticas e informes de su  
+unidad.   
+Gestores macro: Son los gestores del sistema de gestión  de incidentes para el centro 
+directivo sanitario, tendrán acceso a todas las notificaciones que se asignen a ese centro  y 
+unidades , a la gestión de las notificaciones y al módulo de estadísticas e informes con los 
+datos del centro /unidades . 
+ 
+ 
+ 
+No t i f i c A S P _ p r e g u n t a s  f r e c u e n t e s  G E S T O R E S  3 | 4 
+ 
+ 
+Referente de s eguridad : Corresponde al profesional o profesionales designados con acceso  
+a todas las notificaciones que se asignen a ese centro y unidades, a la gestión de las 
+notificaciones y al módulo de estadísticas e informes con los datos del centro/unidades.  
+Tiene  la responsabilidad de dar de alta/baja y modificar gestores de centro.  
+En el caso de las AGS, el referente puede tener varios centros asignados (distrito y hospital ). 
+¿Qué requisitos debo de cumplir  para ser gestor del sistema de 
+notificación notificASP ? 
+Para ser gestor en notificASP, debes de haber sido designado en alguno de los roles 
+anterior es para tu unidad/centro.  
+Las altas y bajas de los gestores micro (gestores de las unidades) y los gestores macro 
+(gestor de centro) las realizará el Referente de  SP del centro.  
+La designación de los Referentes de SP del centro, la realizará la Dirección gerencia del 
+centro  directivo sanitario , y será comunicado a la Estrategia para la Seguridad del Paciente 
+a través del correo estrategiadeseguridad.csc@juntadeandalucia.es . Desde la ESSPA se 
+gestionarán  directamente  las altas y bajas de estos perfiles.  
+Es responsabilidad del Referente de Seguridad del paciente del centro directivo sanitario 
+mantene r los perfiles de los gestores  micro y macro del centro  actualizados par a evitar que 
+llegue información confidencial a profesionales que ya no sean los responsables del sistema  
+en alguno de  los roles anteriormente descritos . 
+Es requisito imprescindible par a todos los usuarios, firmar la cláusula de confidencialidad 
+de la información y uso de la aplicación notificASP la primera vez que se entra en el sistema.  
+Es necesario disponer de un correo corporativo de la Junta de Andalucía para poder recibir  
+la mensajería de NotificASP.  
+¿Qué hago si recibo correo de baja por inactividad en notificASP ? 
+Si has recibido un correo dándote de baja por inactividad en notificASP, significa que has 
+estado más de 6 meses sin interaccionar con la aplicación.  
+Si sigues siendo referente para tu unidad o centro ponte en contacto con el Referente de 
+seguridad del paciente de tu centro directivo.  
+¿Qué mensajería voy a recibir según mi perfil?  
+Los referentes  de Seguridad del Paciente de unidad (gestores de unidad Mi cro), Referentes 
+de SP y gestores de centro (gestores Macro), reciben de forma inmediata un correo donde 
+se les indica los principales datos sobre el incidente notificado, así como un enlace directo 
+para comenzar la gestión. Asimismo, la ESSPA cuenta con G rupo de expertos a nivel 
+autonómico que asesorará en caso de notificaciones cuyas acciones de mejora afecten de 
+manera transversal a todos los centros. Las notificaciones que sean revisadas por grupo de  
+ 
+ 
+No t i f i c A S P _ p r e g u n t a s  f r e c u e n t e s  G E S T O R E S  4 | 4 
+ 
+ 
+expertos irán anonimizadas , sin datos de centros ni u nidades , para garantizar la 
+confidencialidad de las notificaciones.  
+ 
+¿Cuándo tengo que acceder a gestionar los incidentes de 
+seguridad ? 
+Recomendamos que cuando reciba una notificación, entre en notificASP para valorarla .  
+En base al nivel de riesgo recomendamos d e forma aproximada la siguiente inmediatez de 
+actuación , siempre evaluando individualmente:  
+• Muy alto. Requiere acción inmediata , en las  48 horas siguientes a la notificación.  
+• Alto -Moderado. Requieren estudiar el caso lo antes posible y es tablecer acciones de 
+mejora en 7-14 días. 
+• Bajo. Estudio de casos individual o agregados  por categorías de incidentes , antes de  30 
+días. 
+¿Qué son los estados de un incidente ? 
+Las notificaciones de nuestra unidad/centro aparecerán clasificadas según su estado:  
+• Nuevo : La notificación del incidente remitido ha sido recibida  en la unidad/centro.  
+• En estudio: El incidente está siendo evaluado  por la unidad/centro, para analizar sus 
+causas y posibles medidas correctoras.  
+• Implementación  de acciones  de mejora : El centro /unidad  está poniendo  en marcha  
+las medidas  correctoras  establecidas tras el análisis del incidente.  
+• Resuelto : Todas las medidas propuestas previamente han sido aplicadas 
+satisfactoriamente.  
+¿Puedo incluir acciones de mejora una vez resuelto el incidente ? 
+Si, se pueden añadir tantas acciones de mejora se precise, incluso estando resuelto el 
+incidente.  
+ 

@@ -1,0 +1,4225 @@
+SAVE LIVES
+Clean Your  Hands
+Guía de aplicación
+Guía de aplicación de la estrategia multimodal de
+la OMS para la mejora de la higiene de las manos
+Patient Safety
+A World Alliance for Safer Health CarePublicado por la Organización Mundial de la Salud (OMS) en el 2009 con el título
+Guide to Implementation. A Guide to the Implementation of the WHO Multimodal
+Hand Hygiene Improvement Strategy.
+© Organización Mundial de la Salud, 2009
+WHO/IER/PSP/2009.02
+Se reservan todos los derechos. Las publicaciones de la Organización Mundial de la Salud
+pueden solicitarse a WHO Press, World Health Organization, 20 Avenue Appia, 1211
+Geneva 27, Switzerland Tel: +41 22 791 3264; Fax: +41 22 791 4857; e-mail :
+bookorders@who.int. Las solicitudes de autorización para reproducir o traducir las
+publicaciones de la OMS –ya sea para la venta o la distribución sin fines comerciales–
+deben dirigirse a WHO Press, a la dirección mencionada.
+Las denominaciones utilizadas en esta publicación y la forma en que aparecen presentados
+los datos que contiene no implican, por parte de la OMS, juicio alguno sobre la condición
+jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto a la
+delimitación de sus fronteras. Las líneas discontinuas de los mapas representan de forma
+aproximada fronteras con respecto a las cuales puede que no haya pleno acuerdo.
+La mención de empresas específicas o de productos de determinados fabricantes no implica
+que la OMS los apruebe o recomiende con preferencia a otros de naturaleza similar que no
+son mencionados. Salvo error u omisión, los nombres de los productos patentados figuran
+en mayúsculas.
+La Organización Mundial de la Salud ha adoptado todas las precauciones razonables para
+verificar la información que figura en el presente documento. Sin embargo, el material
+publicado se distribuye sin garantía de ningún tipo, ni explícita ni implícita. El lector es
+responsable de la interpretación y el uso que haga de este material, y la Organización
+Mundial de la Salud no responderá en ningún caso de los daños que se deriven de su
+utilización.
+La OMS agradece a los Hôpitaux Universitaires de Genève  y, en particular, a los miembros
+del Programa de Control de Infecciones, su participación activa en el desarrollo de este
+material.
+El Director General de la Organización Mundial de la Salud ha concedido al
+Ministerio de Sanidad, Política Social e Igualdad los derechos de traducción para
+realizar una edición en español, de la que este Ministerio es el único responsable.
+© de la traducción, Ministerio de Sanidad, Política Social e Igualdad, 2010
+NIPO: 860-11-175-6
+           GUÍA DE APLICACIÓN
+3ÍNDICE
+DEFINICIÓN DE TÉRMINOS 5
+EXPLICACIÓN DE LOS SÍMBOLOS 6
+PARTE I
+I.1. PERSPECTIVA GENERAL 7
+I.2. SOBRE LA HIGIENE DE LAS MANOS EN LA ATENCIÓN SANITARIA 7
+I.2.1. Razón fundamental de una guía de aplicación
+I.2.2. El problema de las infecciones relacionadas con la atención sanitaria (IRAS) y la
+importancia de la higiene de las manos
+I.2.3. Una respuesta mundial al problema
+I.3. SOBRE LA GUÍA DE APLICACIÓN 8
+I.3.1. Objeto de la guía de aplicación
+I.4. ESTRATEGIA MULTIMODAL DE LA OMS PARA LA MEJORA DE LA HIGIENE DE 9
+LAS MANOS
+I.4.1. Los componentes de la estrategia
+I.4.2. El conjunto de herramientas para la aplicación
+I.4.3. El método por etapas
+PARTE II
+II.1. CAMBIO DEL SISTEMA 12
+II.1.1. Cambio del sistema –definiciones y perspectiva general
+II.1.2. Herramientas para el cambio del sistema –descripción de las herramientas
+II.1.3. Uso de las herramientas para el cambio del sistema –
+ejemplos de posibles situaciones en el ámbito sanitario
+II.2. FORMACIÓN Y APRENDIZAJE 17
+II.2.1. Formación –definiciones y perspectiva general
+II.2.2. Herramientas para la formación –descripción de las herramientas
+II.2.3. Uso de las herramientas para la formación –
+ejemplos de posibles situaciones en el ámbito sanitario
+II.3. EVALUA CIÓN Y RETROALIMENTACIÓN 23
+II.3.1. Evaluación y retroalimentación –definiciones y perspectiva general
+II.3.2. Herramientas para la evaluación y retroalimentación –descripción de las
+herramientas
+II.3.3. Uso de las herramientas para la evaluación y retroalimentación –
+ejemplos de posibles situaciones en el ámbito sanitario44GUÍA DE APLICACIÓN
+II.4. RECORDATORIOS EN EL LUGAR DE TRABAJO 28
+II.4.1. Recordatorios en el lugar de trabajo –definiciones y perspectiva general
+II.4.2. Herramientas para usar como recordatorios en el lugar de trabajo –
+descripción de las herramientas
+II.4.3. Uso de las herramientas para los recordatorios en el lugar de trabajo –
+ejemplos de posibles situaciones en el ámbito sanitario
+II.5. CLIMA INSTITUCIONAL DE SEGURIDAD 30
+II.5.1. Clima institucional de seguridad –definiciones y perspectiva general
+II.5.2. Herramientas para el clima institucional de seguridad –descripción de las
+herramientas
+II.5.3. Uso de las herramientas para el clima institucional de seguridad –
+ejemplos de posibles situaciones en el ámbito sanitario
+PARTEIII
+III.1. ELABORACIÓN DE UN PLAN DE ACTUACIÓN 34
+III.2. APLICACIÓN DEL MÉTODO POR ETAPAS 40
+III.2.1. Fase 1: preparación del centro –disponibilidad para la acción
+III.2.2. Fase 2: evaluación inicial –obtención de información sobre la situación actual
+III.2.3. Fase 3: aplicación –introducción de las actividades de mejora
+III.2.4. Fase 4: evaluación de seguimiento –evaluación del efecto de la aplicación
+III.2.5. Fase 5: ciclo continuo de planificación y revisión –desarrollo de un plan para los
+próximos 5 años
+ANEXO
+SITIOS WEB ÚTILES 48           GUÍA DE APLICACIÓN
+5DEFINICIÓN DE TÉRMINOS
+Plan de actuaciónPrograma de actividades detallado y cuidadosamente elaborado que
+se iniciará o continuará para mejorar la higiene de las manos en un
+determinado centro sanitario.
+Preparado de base
+alcohólica para manosPreparado de base alcohólica (líquido, gel o espuma) formulado para
+ser aplicado en las manos a fin de reducir la proliferación de
+microorganismos. Estos preparados pueden contener uno o más tipos
+de alcohol con excipientes, otros principios activos y humectantes.
+Eficacia / eficazEl (posible) efecto de la aplicación de una formulación para la higiene
+de manos obtenido mediante pruebas de laboratorio o in vivo .
+Efectividad / efectivoEl efecto potencial que tiene un producto de higiene de manos para
+reducir la propagación de patógenos sometido a condiciones clínicas
+(estudios sobre el terreno).
+Limpieza de manosRealización de la higiene de las manos con el fin de eliminar suciedad,
+materia orgánica y/o microorganismos mediante una acción física o
+mecánica.
+Higiene de manosTérmino genérico que se refiere a cualquier medida adoptada para la
+limpieza de manos.
+Coordinador de
+higiene de manosLa persona de un centro a la que se le asigna la coordinación de
+la preparación y la aplicación del programa de mejora de la
+higiene de las manos.
+Fricción de las manosAplicar un antiséptico para manos para reducir o inhibir la propagación
+de microorganismos sin necesidad de una fuente exógena de agua ni
+del enjugado o secado con toallas u otros artículos.
+Lavado de manos Lavado de manos con agua y jabón corriente o antimicrobiano.
+Infecciones
+relacionadas con la
+atención sanitaria
+(IRAS)Infecciones que se producen en un paciente durante el proceso de
+atención en un hospital u otro centro sanitario que no estaban
+presentes o no se estaban incubando en el momento del ingreso.
+Se incluyen las infecciones contraídas en el hospital pero que se
+manifiestan tras el alta hospitalaria y también las infecciones
+profesionales entre el personal del centro sanitario.66GUÍA DE APLICACIÓN
+EXPLICACIÓN DE LOS SÍMBOLOS
+Los siguientes símbolos se utilizan en toda la guía de aplicación como referencia
+rápida para los usuarios. Los símbolos ponen de relieve actuaciones específicas y
+conceptos clave y también hacen referencia a las herramientas y recursos disponibles
+como parte del conjunto de materiales de ayuda para la aplicación.
+Concepto clave
+Avisa al lector de una cuestión de importancia para el éxito.
+Herramientas
+Indica una sección de la guía de aplicación en la que figuran
+explicaciones sobre las herramientas incluidas en el conjunto
+de herramientas para la aplicación.
+Medida clave
+Indica una sección de la guía de aplicación en la que figuran
+medidas clave para la aplicación de la estrategia multimodal
+de la OMS para la mejora de la higiene de las manos.7PARTEI
+I.1. PERSPECTIVA GENERAL
+Las infecciones relacionadas con la atención sanitaria (IRAS) plantean
+una seria carga de enfermedad y tienen un efecto económico
+considerable en los pacientes y en los sistemas sanitarios de todo el
+mundo. Sin embargo, la higiene de las manos, la simple tarea de
+limpiarse las manos en los momentos adecuados y de la forma
+adecuada, puede salvar vidas.
+La Organización Mundial de la Salud (OMS) ha establecido unas
+Directrices de la OMS sobre la higiene de las manos en la atención
+sanitaria  basadas en datos científicos, para contribuir a mejorar la
+higiene de las manos y, por consiguiente, reducir las IRAS en los
+centros sanitarios.
+Esta guía de aplicación se ha creado para ayudar a los centros
+sanitarios a aplicar mejoras en la higiene de las manos de conformidad
+con las Directrices de la OMS sobre la higiene de las manos en la
+atención sanitaria .
+La estrategia descrita en esta guía de aplicación se ha concebido para
+ser utilizada en cualquier centro sanitario, independientemente de cuál
+sea el nivel de recursos o de si el centro ya ha aplicado iniciativas para
+la higiene de las manos. Se centra principalmente en la mejora del
+cumplimiento de la higiene de manos por parte del personal sanitario
+que trabaja con los pacientes. Mediante las actuaciones propuestas por
+la estrategia, también se pretende conseguir la mejora de las
+infraestructuras para la higiene de las manos y del conocimiento y la
+percepción sobre la higiene de las manos y las IRAS así como del
+entorno de seguridad del paciente. El objetivo final es reducir tanto la
+propagación de la infección y de los microorganismos multirresistentes
+como el número de pacientes que contraen una IRAS prevenible y, por
+consiguiente, evitar pérdidas de recursos y salvar vidas.
+En esta guía se proporciona información detallada sobre todas las
+herramientas suministradas para respaldar la aplicación satisfactoria de
+una estrategia para la mejora de la higiene de las manos en cualquier
+centro sanitario.I.2. SOBRE LA HIGIENE DE LAS
+MANOS EN LA ATENCIÓN SANITARIA
+I.2.1. Razón fundamental de una guía de aplicación
+LasDirectrices de la OMS sobre la higiene de las manos en la atención
+sanitaria presentan el fundamento científico para centrarse en la mejora
+de la higiene de las manos como parte de una estrategia integrada para
+la reducción de las IRAS. La aplicación de la estrategia es de
+fundamental importancia para conseguir un efecto en la seguridad del
+paciente y, por consiguiente, esta guía está destinada a respaldar
+activamente el uso de las directrices.
+I.2.2. El problema de las infecciones relacionadas
+con la atención sanitaria (IRAS) y la importancia de
+la higiene de las manos
+Las IRAS afectan a cientos de millones de personas en todo el mundo y
+plantean un importante problema mundial para la seguridad del paciente.
+Tanto a escala de país como de centro sanitario, la carga de las IRAS es
+considerable, aunque puede ser difícil de cuantificar en esta fase.
+En general, y por su propia naturaleza, las infecciones tienen una
+etiología multifactorial relacionada con los sistemas y procedimientos de
+la prestación de servicios sanitarios así como con las limitaciones
+económicas que afectan a los sistemas sanitarios y a los países.
+Además, reflejan el comportamiento humano condicionado por
+numerosos factores, entre los que se incluye la educación. Sin embargo,
+la adquisición de la infección y, en particular la infección cruzada de un
+paciente a otro, es prevenible en muchos casos mediante la observancia
+de prácticas sencillas.
+La higiene de las manos se considera la principal medida necesaria para
+reducir las IRAS. Aunque la higiene de manos es una acción sencilla, la
+falta de cumplimiento entre los profesionales sanitarios sigue
+constituyendo un problema a escala mundial.
+No obstante, la mejora de la higiene de las manos no es un concepto
+nuevo en la atención sanitaria. Muchos centros sanitarios de todo el
+mundo cuentan con políticas y directrices bien establecidas y llevan a
+cabo programas de formación con regularidad en esta área. Cada vez se
+están emprendiendo más medidas para introducir preparados de base
+alcohólica para manos en los puntos de atención. Sin embargo, continúa
+siendo difícil mantener mejoras de larga duración, y muchos centros
+sanitarios de todo el mundo todavía no han empezado a abordar de
+forma sistemática la mejora de la higiene de las manos. Esto se debe a
+numerosas limitaciones, especialmente las relacionadas con las propias
+infraestructuras y recursos requeridos para permitir que la atención se
+dirija a la mejora de la higiene de las manos.88GUÍA DE APLICACIÓN PARTE I
+4I.2.3. Una respuesta mundial al problema
+En el 2005, el programa de la OMS para la seguridad del paciente
+lanzó el primer reto mundial en pro de la seguridad del paciente, Clean
+Care is Safer Care  (una atención limpia es una atención más segura)
+para dirigir la atención y la acción internacionales al problema crítico de
+las IRAS para la seguridad del paciente y al papel vital que desempeña
+el cumplimiento de la higiene de manos por parte de los profesionales
+sanitarios en la reducción de dichas infecciones. En el 2009, el
+programa de la OMS para la seguridad del paciente lanzó una
+ampliación de este programa; SAVE LIVES: Clean Your Hands (Salva
+vidas: lávate las manos), una iniciativa destinada a promover la higiene
+de manos como centro de interés continuo en la atención sanitaria a
+escala mundial, regional, nacional y local. En particular, SAVE LIVES:
+Clean Your Hands hace hincapié en que el uso del modelo de “Los 5
+momentos para la higiene de las manos” es fundamental para proteger
+al paciente, al profesional sanitario y al entorno sanitario de la
+proliferación de patógenos y, por consiguiente, reducir las IRAS.
+Este modelo anima a los profesionales sanitarios a lavarse las
+manos (1) antes del contacto con el paciente, (2) antes de realizar una
+tarea aséptica, (3) después del riesgo de exposición a fluidos
+corporales, (4) después del contacto con el paciente y (5) después del
+contacto con el entorno del paciente.
+Los 5 momentos
+para la higiene de5las manos
+2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA
+4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE
+3DESPUÉS DE
+EXPOSICIÓN A
+FLUIDOS
+CORPORALES1ANTES DEL
+CONTACTO
+DIRECTO CON
+EL PACIENTE
+5DESPUÉS DEL
+CONTACTO CON
+EL ENTORNO
+DEL PACIENTE
+2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA
+4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE
+2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA
+4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE
+3DESPUÉS DE
+EXPOSICIÓN A
+FLUIDOS
+CORPORALES3DESPUÉS DE
+EXPOSICIÓN A
+FLUIDOS
+CORPORALES1ANTES DEL
+CONTACTO
+DIRECTO CON
+EL PACIENTE1ANTES DEL
+CONTACTO
+DIRECTO CON
+EL PACIENTE
+5DESPUÉS DEL
+CONTACTO CON
+EL ENTORNO
+DEL PACIENTE5DESPUÉS DEL
+CONTACTO CON
+EL ENTORNO
+DEL PACIENTE
+Como parte de su compromiso continuo de reducir las IRAS, el
+programa de la OMS para la seguridad del paciente ha desarrollado
+esta Guía de aplicación revisada y una serie de herramientas para
+ayudar a los profesionales sanitarios a establecer y mantener buenas
+prácticas de higiene de manos y reducir las IRAS en los centros
+sanitarios a escala mundial. Esto es parte de la iniciativa a largo plazo
+SAVE LIVES: Clean Your HandsI.3. SOBRE LA GUÍA DE APLICACIÓN
+Esta guía de aplicación y el correspondiente conjunto de herramientas
+contribuirán al desarrollo de los planes de actuación locales para abordar
+la mejora y sostenibilidad de la higiene de las manos a partir de este
+momento.
+I.3.1. Objeto de la guía de aplicación
+La guía de aplicación:
+•  es un manual que se ha de usar para facilitar la aplicación y evaluación
+locales de una estrategia para mejorar la higiene de las manos y, por
+tanto, reducir las IRAS en cada centro sanitario;
+•  ayuda a los centros sanitarios a elaborar un plan integral para mejorar
+la higiene de las manos, independientemente de cuál sea su punto de
+partida;
+•  refuerza los componentes de la estrategia multimodal de la OMS para
+la mejora de la higiene de las manos, presentada en las Directrices de
+la OMS sobre la higiene de las manos en la atención sanitaria, que se
+describen en la siguiente sección.
+La guía le informará de cómo:
+elaborar un plan de actuación para la mejora de la higiene de las manos;
+evaluar los elementos que existen en el centro sanitario para garantizar
+la higiene de manos eficaz;
+identificar qué cambios del sistema son necesarios a nivel del sistema
+sanitario o del centro sanitario para respaldar la aplicación de las
+Directrices de la OMS sobre la higiene de las manos en la atención
+sanitaria ;
+seleccionar y acceder a preparados de base alcohólica para manos y
+otros productos para la higiene de las manos;
+proporcionar recordatorios y formación eficaces y apropiados a los
+profesionales sanitarios, independientemente de cuál sea su punto de
+partida;
+desarrollar métodos para garantizar un clima institucional de seguridad;
+llevar a cabo actividades de evaluación y retroalimentación (por ejemplo,
+la observación del cumplimiento de la higiene de manos); y
+mantener la dinámica y la motivación para la higiene continuada de las
+manos en los centros que ya han alcanzado niveles de excelencia.
+El público al que está destinada esta guía de aplicación es
+principalmente:
+•  los profesionales encargados de aplicar una estrategia para mejorar la
+higiene de las manos en un centro sanitario.
+La guía de aplicación también puede ser de interés para:
+el personal de las oficinas de la OMS en los países;
+los funcionarios del Ministerio de Sanidad responsables de la seguridad
+de los pacientes / control de infecciones;
+los especialistas encargados de la prevención y control de infecciones;
+los directivos y cargos intermedios;
+otros individuos o equipos responsables de programas de control de
+infecciones o higiene de manos en un centro sanitario; y
+las organizaciones de pacientes.
+La aplicación de las Directrices de la OMS sobre la higiene de las
+manos en la atención sanitaria  exige actuar en una serie de áreas. Es
+importante que los profesionales con capacidad para tomar decisiones
+clave que se traduzcan en la mejora participen activamente en el
+proceso de aplicación desde el comienzo.9GUÍA DE APLICACIÓN PARTE I
+LasDirectrices de la OMS sobre la higiene de las manos en la atención
+sanitaria ponen de manifiesto que, prácticamente en todos los entornos,
+debería ser relativamente sencillo para los profesionales sanitarios
+comenzar a evaluar y mejorar la fiabilidad de las infraestructuras y las
+prácticas de la higiene de manos y continuar haciéndolo.
+Por consiguiente, esta guía de aplicación se puede utilizar:
+• en cualquier momento como esquema general de cómo podría
+aplicarse una estrategia de mejora; y
+• en cualquier momento como guía para desarrollar planes de actuación
+locales destinados a mejorar la higiene de las manos.
+I.4. ESTRATEGIA MULTIMODAL DE
+LA OMS PARA LA MEJORA DE LA
+HIGIENE DE LAS MANOS
+I.4.1. Los componentes de la estrategia
+La mejora de la higiene de las manos eficaz y sostenida se consigue
+mediante la aplicación de múltiples medidas para abordar diferentes
+obstáculos así como barreras conductuales. Partiendo de los datos y
+recomendaciones de las Directrices de la OMS sobre la higiene de las
+manos en la atención sanitaria , hay una serie de componentes que
+constituyen una estrategia multimodal eficaz para la higiene de las
+manos. Se ha propuesto que la estrategia multimodal de la OMS para la
+mejora de la higiene de las manos lleve a la práctica las
+recomendaciones de la OMS sobre la higiene de las manos, por lo que
+esta estrategia va acompañada de una amplia serie de herramientas
+prácticas (conjunto de herramientas para la aplicación) listas para ser
+usadas para su aplicación.
+Los componentes de la estrategia son:
+1.Cambio del sistema: garantizar que se cuenta con la infraestructura
+necesaria para permitir a los profesionales sanitarios practicar la higiene
+de las manos. Esto incluye dos elementos esenciales:
+el acceso a un suministro seguro y continuo de agua así como a jabón
+y toallas;
+fácil acceso al preparado de base alcohólica para manos en el punto
+de atención* .
+2.Formación: proporcionar formación con regularidad a todos los
+profesionales sanitarios sobre la importancia de la higiene de las
+manos, basada en el modelo de “Los 5 momentos para la higiene de las
+manos”, y los procedimientos adecuados para la fricción de manos y el
+lavado de manos.
+3.Evaluación y retroalimentación: hacer un seguimiento de las
+infraestructuras y prácticas de higiene de manos, junto con las
+correspondientes visiones y conocimientos por parte de los
+profesionales sanitarios, y al mismo tiempo proporcionar al personal
+información de retorno sobre los resultados.
+4.Recordatorios en el lugar de trabajo: señalar y recordar a los
+profesionales sanitarios la importancia de la higiene de las manos y las
+indicaciones y procedimientos adecuados para llevarla a cabo.
+5.Clima institucional de seguridad: crear un entorno y unas
+percepciones que propicien la sensibilización sobre las cuestiones de
+seguridad del paciente y garantizar al mismo tiempo que la mejora de la
+higiene de las manos se considere una gran prioridad a todos los
+niveles. Esto supone:
+la participación activa a escala institucional e individual;
+la toma de conciencia de la capacidad individual e institucional de
+cambiar y mejorar (autoeficacia); y
+la asociación con pacientes y organizaciones de pacientes.Cada componente merece esfuerzos específicos e integrados de
+idéntica envergadura para conseguir una aplicación y mantenimiento
+eficaces. Sin embargo, a escala mundial los centros sanitarios pueden
+haber tenido diferentes grados de evolución en lo que se refiere a la
+promoción de la higiene de las manos. Por consiguiente, mientras que en
+algunos centros determinados componentes podrían considerarse
+características fundamentales para comenzar, en otros centros pueden
+no ser inmediatamente pertinentes. En los centros con un nivel muy
+avanzado de promoción de la higiene de manos, deben considerarse, no
+obstante, algunos componentes para la mejora y la actuación con el fin
+de garantizar la sostenibilidad a largo plazo.
+Es importante tener en cuenta que las actividades de aplicación,
+evaluación y retroalimentación deben renovarse y repetirse
+periódicamente e integrarse en el programa de mejora de la calidad para
+garantizar la sostenibilidad. La mejora de la higiene de manos no es un
+proceso de duración limitada: la promoción y el seguimiento de la higiene
+de las manos no se deberán interrumpir nunca una vez que se hayan
+implantado.
+Los cinco componentes, junto con las correspondientes herramientas
+disponibles para su aplicación, se describen en secciones independientes
+de esta guía (Secciones II.1–II.5).
+*Punto de atención – El lugar en el que concurren tres elementos:
+el paciente, el profesional sanitario, y la atención o tratamiento que
+implican contacto con el paciente o su entorno (en la zona del paciente).
+El concepto abarca la necesidad de realizar la higiene de las manos en
+los momentos recomendados exactamente cuando tiene lugar la atención
+sanitaria. Esto exige que un producto de higiene de las manos, por
+ejemplo, un preparado de base alcohólica, si se dispone de él, esté
+fácilmente accesible y lo más cerca posible (por ejemplo, al alcance del
+brazo), cuando se lleva a cabo la asistencia o el tratamiento al paciente.
+Los productos del punto de atención deben estar accesibles sin tener que
+salir de la zona del paciente.
+En el punto de atención los preparados de base alcohólica suelen estar
+disponibles en frascos de bolsillo que lleva el personal, dispensadores de
+pared, recipientes fijados a la cama o mesilla del paciente o a los carros
+de curas y/o medicación que se llevan al punto de atención.
+I.4.2. El conjunto de herramientas para la aplicación
+Habida cuenta de que los niveles de concienciación así como las
+barreras existentes para aplicar las estrategias para la mejora de la
+higiene de las manos difieren en gran medida de un país a otro, e incluso
+dentro de un mismo país, se ha desarrollado un conjunto de herramientas
+para ayudar a los profesionales sanitarios a mejorar la higiene de las
+manos en sus centros, independientemente de su punto de partida. La
+guía de aplicación es el eje central del conjunto de herramientas, que
+juntamente tienen como objeto facilitar el proceso de trasladar a la acción
+los componentes recomendados de la estrategia multimodal de la OMS
+para la mejora de la higiene de las manos.
+Los estudios publicados indican que, por término medio, el cumplimiento
+de la higiene de las manos es aproximadamente del 40% (Directrices de
+la OMS sobre la higiene de las manos en la atención sanitaria). Al
+proporcionar las herramientas para apoyar a los profesionales sanitarios
+y otros responsables de la mejora de la seguridad del paciente a escala
+nacional y local, el programa de la OMS para la seguridad del paciente
+espera ver aumentar los valores de referencia actuales de cumplimiento
+en cada país del mundo.
+El objetivo es constatar un incremento de la adherencia con el paso
+del tiempo hasta por lo menos el año 2020, cuando se espera que en
+todos los centros sanitarios esté arraigada una cultura de excelencia de
+la higiene de las manos. Para alcanzar este objetivo cada centro sanitario
+del mundo deberá establecer sus propios objetivos y planes de actuación
+realistas destinados a la mejora.1010GUÍA DE APLICACIÓN PARTE I
+Directrices de la OMS sobre la higiene de las manos en la atención sanitaria
+Guía de aplicación de la estrategia multimodal de la OMS para la higiene de las manos
+Modelo de plan de actuación
+Herramientas para el
+cambio del sistema
+Encuesta sobre la
+infraestructura de las
+salas
+Herramienta de
+planificación y
+determinación de costes
+del preparado de base
+alcohólica
+Guía de producción local:
+formulaciones del
+preparado de base
+alcohólica para manos
+recomendadas por la
+OMS
+Encuesta sobre el
+consumo de jabón/
+preparado de base
+alcohólica
+Protocolo para la
+evaluación de la
+tolerabilidad y
+aceptabilidad del
+preparado de base
+alcohólica que se está
+utilizando o que está
+previsto introducir:
+Método 1
+Protocolo para la
+evaluación y comparación
+de la tolerabilidad y
+aceptabilidad de
+diferentes preparados de
+base alcohólica: Método 2Herramientas para
+formación y aprendizaje
+Diapositivas para el
+coordinador de higiene de
+manos
+Diapositivas para las
+sesiones de formación de
+formadores, observadores
+y profesionales sanitarios
+Películas de formación
+sobre la higiene de manos
+Diapositivas que
+acompañan a las películas
+de formación
+Manual técnico de
+referencia para la higiene
+de manos
+Formulario de observación
+Folleto sobre la higiene de
+manos: por qué, cómo y
+cuándo
+Folleto informativo sobre
+el uso de guantes
+Póster de los 5 momentos
+para la higiene de las
+manos
+Preguntas frecuentes
+Publicaciones científicas
+clave
+Mantenimiento de la
+mejora –actividades
+adicionales a ser
+consideradas por los
+centros sanitariosHerramientas para la
+evaluación y retro-
+alimentación
+Manual técnico de
+referencia para la higiene
+de manos
+Herramientas de
+observación: formulario de
+observación y formulario
+de cálculo del
+cumplimiento
+Encuesta sobre la
+infraestructura de las
+salas
+Informe sobre el consumo
+de jabón/ preparado de
+base alcohólica
+Encuesta de percepción
+destinada a los
+profesionales sanitarios
+Encuesta de percepción
+destinada a los directivos
+Cuestionario acerca de los
+conocimientos sobre la
+higiene de las manos
+destinado a los
+profesionales sanitarios
+Herramienta de
+introducción y análisis de
+datos
+Protocolo para la
+evaluación de la
+tolerabilidad y
+aceptabilidad del
+preparado de base
+alcohólica que se está
+utilizando o que está
+previsto introducir: Método
+1
+Protocolo para la
+evaluación y comparación
+de la tolerabilidad y
+aceptabilidad de
+diferentes preparados de
+base alcohólica: Método 2
+Instrucciones para la
+introducción y análisis de
+datos
+Plantilla del informe.
+Resumen de resultadosHerramientas para los
+recordatorios en el lugar
+de trabajo
+Póster de los 5 momentos
+para la higiene de las
+manos
+Póster sobre cómo
+realizar la fricción de las
+manos
+Póster sobre cómo
+realizar el lavado de
+manos
+Folleto sobre la higiene de
+las manos: cuándo y cómo
+Salvapantallas:
+SAVE LIVES :
+Clean Your  HandsHerramientas para el
+clima institucional de
+seguridad
+Modelo de carta para
+recomendar la higiene
+de manos a los altos
+directivos
+Modelo de carta para
+comunicar las iniciativas
+en materia de higiene de
+manos a los directivos
+Orientación sobre cómo
+involucrar a pacientes y
+organizaciones de
+pacientes en iniciativas
+relativas a la higiene de
+manos
+Mantenimiento de la
+mejora –actividades
+adicionales a ser
+consideradas por los
+centros sanitarios
+DVD de promoción:
+SAVE LIVES :
+Clean Your  Hands11PARTIGUÍA DE APLICACIÓN PARTE I
+I.4.3. El método por etapas
+En cada sección dedicada a los cinco componentes de la
+estrategia, se recomiendan diferentes métodos de aplicación en función
+de las diversas situaciones posibles de un centro sanitario. En general,
+esta guía propone un método por etapas como modelo para aplicar
+paulatinamente un amplio programa de higiene de manos en el centro
+sanitario en cuestión.
+El destinatario es principalmente un centro en el que es necesario iniciar
+un programa de mejora de la higiene de manos, pero el método
+representa un ciclo que debe ser adaptado localmente y renovado
+periódicamente por cualquier centro que pretenda mantener la mejora
+de la higiene de las manos.
+El método incluye cinco fases que deberán llevarse a cabo
+secuencialmente:
+Fase 1: preparación del centro – disponibilidad para la acción
+Fase 2: evaluación inicial – obtención de información sobre la situación
+actual
+Fase 3: aplicación – introducción de las actividades de mejora
+Fase 4: evaluación de seguimiento –evaluación del efecto de la
+aplicación
+Fase 5: ciclo continuo de planificación y revisión –desarrollo de un
+plan para los próximos 5 años (como mínimo)
+El objetivo general es implantar la higiene de las manos como parte
+integrante de la cultura del centro sanitario.Los principales objetivos que han de cumplirse en cada fase son:
+• Fase 1: garantizar la preparación de la institución. Esto incluye la
+obtención de los recursos necesarios (tanto humanos como
+financieros), el establecimiento de la infraestructura y la identificación
+de los principales responsables de dirigir el programa, incluido un
+coordinador y su adjunto. Deberá realizarse la planificación adecuada a
+fin de preparar una estrategia clara para todo el programa.
+•Fase 2: llevar a cabo la evaluación inicial de la práctica de la higiene de
+las manos así como de la visión, los conocimientos y las
+infraestructuras disponibles con respecto a la misma.
+Fase 3: aplicar el programa de mejora. Es de vital importancia
+garantizar la disponibilidad de preparado de base alcohólica para
+manos en el punto de atención, así como ofrecer formación al personal
+y poner recordatorios en el lugar de trabajo. Los eventos bien
+publicitados que impliquen la aprobación o las firmas de compromiso
+por parte de los directivos y los profesionales sanitarios generarán una
+gran participación.
+•Fase 4: llevar a cabo la evaluación de seguimiento para evaluar la
+eficacia del programa.
+•Fase 5: desarrollar un ciclo continuo de plan de actuación y revisión, y
+desarrollar al mismo tiempo la sostenibilidad a largo plazo.
+Estas fases se describen más detalladamente en la Parte III, una vez
+que se haya adquirido información sobre cada uno de los cinco
+componentes de la estrategia.
+En resumen, la figura que se expone a continuación ilustra la estrategia
+multimodal de la OMS para la mejora de la higiene de las manos, el
+modelo de “Los 5 momentos para la higiene de las manos”, que es
+clave para la aplicación de la estrategia, y el método por etapas.
+Los cinco componentes de la estrategia multimodal de la
+OMS para la mejora de la higiene de manos
+1a. Cambio del sistema –preparado de base alcohólica
+en el punto de atención
+1b. Cambio del sistema – acceso a un suministro
+seguro y continuo de agua y a jabón y toallas
+2. Formación y aprendizaje
+3. Evaluación y retro-alimentación
+4. Recordatorios en el lugar de trabajo
+5. Clima institucional de seguridadLos cinco momentos para la higiene de manos en la
+atención sanitaria
+2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA
+4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE
+3DESPUÉS DE
+EXPOSICIÓN A
+FLUIDOS
+CORPORALES1ANTES DEL
+CONTACTO
+DIRECTO CON
+EL PACIENTE
+5DESPUÉS DEL
+CONTACTO CON
+EL ENTORNO
+DEL PACIENTE
+2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA
+4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE
+2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA2ANTES DE
+REALIZAR UNA
+TAREA LIMPIA O
+ASÉPTICA
+4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE4DESPUÉS DEL
+CONTACTO CON
+EL PACIENTE
+3DESPUÉS DE
+EXPOSICIÓN A
+FLUIDOS
+CORPORALES3DESPUÉS DE
+EXPOSICIÓN A
+FLUIDOS
+CORPORALES1ANTES DEL
+CONTACTO
+DIRECTO CON
+EL PACIENTE1ANTES DEL
+CONTACTO
+DIRECTO CON
+EL PACIENTE
+5DESPUÉS DEL
+CONTACTO CON
+EL ENTORNO
+DEL PACIENTE5DESPUÉS DEL
+CONTACTO CON
+EL ENTORNO
+DEL PACIENTE
+El método por etapas
+Preparación del
+centroEvaluación
+inicialAplicación Evaluación de
+seguimientoRevisión y
+planificación1212GUÍA DE APLICACIÓ NPAR TE II
+PARTEII
+II.1. CAMBIO DEL SISTEMA
+II.1.1. Cambio de sistema – definiciones y
+perspectiva general
+El cambio del sistema es un componente vital en todos los centros
+sanitarios. En este contexto se refiere a garantizar que el centro
+sanitario cuenta con la infraestructura necesaria para permitir a los
+profesionales sanitarios realizar la higiene de las manos.
+LasDirectrices de la OMS sobre la higiene de las manos en la atención
+sanitaria establecen que el cumplimiento de la higiene de manos sólo
+es posible si el ámbito sanitario garantiza una infraestructura adecuada
+y si se cuenta con un suministro fiable y permanente de productos para
+la higiene de las manos en el momento y lugar adecuados de
+conformidad con el modelo de “Los 5 momentos para la higiene de las
+manos”.
+En las situaciones en las que el sistema es fiable y respalda totalmente
+la mejora de la higiene de las manos, los centros sanitarios contarán
+con lavabos en cada entorno clínico, provistos de agua corriente
+potable, jabón y toallas desechables, así como con preparados de
+base alcohólica, que estarán disponibles en cada punto de atención o
+que llevarán los profesionales sanitarios.
+Es posible que en muchas partes del mundo en vías de desarrollo los
+centros sanitarios no cuenten con suministro de agua corriente o que
+sólo dispongan de él de forma intermitente. La disponibilidad de jabón
+y toallas también puede verse muy limitada debido a la escasez de
+recursos. En las Directrices de la OMS sobre la higiene de las manos
+en la atención sanitaria se reconoce que, por consiguiente, es
+necesario abordar problemas importantes, incluida la disponibilidad de
+agua corriente (preferiblemente potable) para el lavado de manos.
+Cuando no se dispone de agua corriente, es preferible agua “que fluya”
+de un recipiente precargado con un grifo; cuando se dispone de agua
+corriente, se prefiere la posibilidad de acceder a ella sin necesidad de
+tocar el grifo con las manos sucias. Cuando se utiliza jabón en pastilla,
+se deberá disponer de pequeñas pastillas de jabón con jaboneras que
+faciliten el drenaje; también es importante secarse las manos con una
+toalla desechable de papel o paño.
+En los últimos años, los centros sanitarios de muchas partes del
+mundo han introducido preparados de base alcohólica para manos.
+LasDirectrices de la OMS sobre la higiene de las manos en la atención
+sanitaria recomiendan, en caso de que el preparado de base alcohólica
+se adquiera en el mercado, que el producto cumpla las normas
+establecidas de eficacia antimicrobiana (normas ASTM o EN), sea bien
+tolerado por los profesionales sanitarios y se seleccione teniendo en
+cuenta el coste, y asegurándose de que se compra en cantidades
+suficientes. En los casos en que la formulación del preparado de base
+alcohólica recomendada por la OMS se produzca localmente, deberán
+seguirse las instrucciones relativas a la adquisición de ingredientes, a
+la elaboración, al control de la calidad y al almacenamiento. Es
+necesario adquirir el mejor tipo de dispensadores, preferiblemente en
+el mercado local, y deberán seguirse las instrucciones sobre sureutilización segura. Los dispensadores deben estar disponibles en el
+punto de atención, funcionar correctamente y suministrar de forma
+fiable y permanente el preparado de base alcohólica. Además, deberán
+estar bien instalados, colocados y almacenados. Deberán tenerse en
+cuenta los frascos de bolsillo, especialmente cuando la ingestión de
+alcohol por parte de los pacientes constituye un posible riesgo.
+El cambio del sistema es especialmente prioritario para los centros
+sanitarios que inician su trayectoria en las actividades de mejora de la
+higiene de las manos, presumiendo y esperando que se cree
+puntualmente toda la infraestructura necesaria. Sin embargo, también
+es esencial que los centros sanitarios revisen la infraestructura
+necesaria con regularidad para garantizar que las instalaciones para el
+lavado y la higiene de manos reúnen las condiciones requeridas en
+todo momento.
+Es esencial que la infraestructura del centro sanitario sea
+evaluada en una fase inicial del proceso de mejora de la higiene de
+manos y para ello es crucial el apoyo y compromiso por parte de los
+principales directivos. También es prioritario elaborar e implantar un
+plan de actuación para garantizar el cambio del sistema, en el que
+participen las personas clave del centro sanitario de las que dependerá
+que se produzca el cambio del sistema.
+El conjunto de herramientas para la aplicación incluye las herramientas
+clave que ayudarán a garantizar que el cambio del sistema se aborde
+puntual y adecuadamente.
+II.1.2. Herramientas para el cambio del sistema –
+descripción de las herramientas
+Las herramientas descritas en esta sección están destinadas a dirigir y
+apoyar a los centros sanitarios en la realización de cambios del
+sistema puntuales y adecuados. Algunas de estas herramientas
+aparecerán también en otras secciones, en las que su inclusión
+reflejará su naturaleza y función (por ejemplo, la encuesta sobre la
+infraestructura de las salas figura en esta sección porque es útil para
+evaluar la necesidad y disponibilidad reales de recursos y productos
+para la higiene de las manos y, por consiguiente, permitir la
+consecución del cambio del sistema; sin embargo, por definición, es
+una herramienta de evaluación y, por tanto, se incluirá en la gama de
+herramientas de evaluación presentadas en la sección II.3.2).
+Todas estas herramientas pueden utilizarse al comienzo de la
+trayectoria de mejora de la higiene de las manos pero también se
+pueden utilizar para mejorar la infraestructura de higiene de manos ya
+existente o para llevar a cabo el seguimiento sistemático o periódico de
+la infraestructura y uso de los productos. Las infraestructuras de los
+centros sanitarios pueden cambiar con frecuencia; por ejemplo, pueden
+crearse nuevos edificios o reacondicionarse las salas y puede haber
+cambios en los productos suministrados. Por consiguiente, las
+herramientas son aplicables en diversas circunstancias13GUÍA DE APLICACIÓN PARTE II
+La gama de herramientas disponibles para respaldar la aplicación
+del cambio del sistema se representa en la siguiente figura.
+Encuesta sobre la
+infraestructura de las
+salas
+Herramienta de
+planificación y
+determinación de
+costes del preparado
+de base alcohólica
+Guía de producción
+local: formulaciones
+del preparado de
+base alcohólica
+recomendadas por la
+OMS
+Encuesta sobre el
+consumo de jabón/
+preparado de base
+alcohólica para
+manos
+Protocolo para la
+evaluación de la
+tolerabilidad y
+aceptabilidad del
+preparado de base
+alcohólica que se está
+utilizando o que está
+previsto introducir:
+Método 1
+Protocolo para la
+evaluación y
+comparación de la
+tolerabilidad y
+aceptabilidad de
+diferentes preparados
+de base alcohólica:
+Método 2Encuesta sobre la infraestructura de las salas
+QuéUna encuesta para recopilar datos sobre las
+infraestructuras y recursos existentes
+Por quéPorque es importante reunir
+información sobre las infraestructuras
+y recursos existentes en cada entorno
+clínico como referencia. Esto permitirá
+determinar los posibles cambios del
+sistema después de la aplicación;
+es probable que la falta de acceso a lavabos,
+agua corriente y preparado de base
+alcohólica para manos contribuya a índices
+más bajos de cumplimiento;
+obtener información sobre la infraestructura
+de las salas es útil para explicar los índices
+de cumplimiento actuales de la higiene de
+manos. Esto también ayudará a identificar
+prioridades para el cambio del sistema y
+ofrecer orientación en la elaboración y
+revisión continuas de los planes de
+actuación.
+DóndeEn todos los ámbitos clínicos en los que se
+deba llevar a cabo una evaluación de las
+instalaciones y recursos para el lavado y la
+fricción de manos en el contexto de la
+aplicación de la estrategia para la mejora de la
+higiene de las manos.
+CuándoDurante el periodo de tiempo asignado para la
+evaluación inicial de la infraestructura y
+equipos o recursos existentes para la higiene
+de manos;
+en los intervalos de seguimiento establecidos
+cuando se necesita una actualización de esta
+información a fin de mantener las
+infraestructuras requeridas para la higiene de
+manos. Aunque el centro ya lleve a cabo una
+auditoria del control de infecciones y prácticas
+de higiene de manos en todo el hospital, ésta
+debe considerarse en el plan de actuación
+para abordar el cambio del sistema;
+generalmente durante la fase 1 ó 2 y 4
+(Véanse las secciones III.2.1, III.2.2, III.2.4).
+QuiénLa encuesta debe ser cumplimentada por el
+coordinador del programa de higiene de manos o
+un profesional sanitario del ámbito clínico
+específicamente identificado e informado (por
+ejemplo, una supervisora, que puede cumplimentar
+la encuesta mientras hace la ronda en sus salas).
+CómoLa persona identificada deberá cumplimentar el
+formulario contestando a las preguntas para
+obtener la información pertinente mientras hace la
+ronda. Posteriormente, los formularios deberán ser
+recogidos por el coordinador identificado.1414GUÍA DE APLICACIÓN PARTE II
+ Herramienta de planificación y determinación de costes del
+preparado de base alcohólica
+QuéUna herramienta para ayudar a la gerencia en la
+planificación del suministro del preparado de
+base alcohólica en el punto de atención y decidir
+si:
+- el preparado de base alcohólica para manos se
+compra a un fabricante autorizado; o
+- se produce localmente, siguiendo las
+recomendaciones de la OMS (véase
+Guía de producción local:
+formulaciones del preparado de base
+alcohólica recomendadas por la OMS ).
+Por qué Porque una de las nueve recomendaciones
+principales que se deriva de las Directrices
+de la OMS sobre la higiene de las manos en
+la atención sanitaria es proporcionar
+preparado de base alcohólica para manos
+que sea fácilmente accesible en el punto de
+atención del paciente para su uso por parte
+de los profesionales sanitarios;
+ para determinar la viabilidad de la
+implantación del preparado de base
+alcohólica para manos;
+ para evaluar si el preparado de base
+alcohólica utilizado se ajusta a los
+criterios de calidad recomendados por
+la OMS.
+Dónde En la unidad de gestión del centro sanitario.
+Cuándo Durante la planificación y el desarrollo de un
+plan de actuación para la mejora de la higiene
+de manos;
+ cuando el centro sanitario está en el
+proceso de selección o cambio del
+preparado de base alcohólica;
+ cuando el centro sanitario está en el
+proceso de evaluación de la calidad del
+preparado de base alcohólica utilizado;
+ generalmente durante la fase 1 (véase la
+sección III.2.1).
+QuiénLa herramienta deberá ser utilizada por los altos
+directivos, farmacéuticos y el coordinador del
+programa de higiene de manos del centro sanitario.
+CómoPara prepararse para esta fase crucial es necesario
+realizar una serie de tareas:
+- Se debe reunir información sobre todos los
+fabricantes locales de preparados de base
+alcohólica para manos y sobre los
+distribuidores regionales e internacionales
+que puedan estar interesados en suministrar
+a su mercado;
+- los directivos y el coordinador del
+programa de higiene de manos deben
+utilizar la herramienta para recopilar y
+presentar toda la información pertinente.Guía de producción local:
+Formulaciones del preparado de base alcohólica recomendadas
+por la OMS
+QuéUna guía práctica para ser utilizada en la
+farmacia durante la preparación de las
+formulaciones del preparado de base
+alcohólica recomendadas por la OMS;
+Un resumen de la información preliminar
+esencial técnica y relativa tanto a la
+seguridad como a los costes.
+Por quéPorque en algunos centros sanitarios el
+preparado de base alcohólica para manos
+no está disponible, no es asequible o no
+cumple los criterios necesarios;
+La producción local del preparado de
+base alcohólica de acuerdo con la
+fórmula y la metodología recomendadas
+por la OMS puede ser una alternativa a
+los productos del mercado.
+DóndeEn instalaciones de producción adecuadas;
+en farmacias centrales, farmacias
+hospitalarias o compañías farmacéuticas
+nacionales.
+CuándoCuando lo indique y exija el centro sanitario, por
+ejemplo, basándose en los resultados de la
+Herramienta de planificación y determinación de
+costes de la solución alcohólica ; generalmente
+durante la fase 1 (véase sección III.2.1).
+QuiénLa herramienta debe ser utilizada por
+farmacéuticos competentes y los fabricantes
+locales del preparado de base alcohólica para
+manos.
+CómoSiguiendo las instrucciones del protocolo
+ de la Parte A de la herramienta.
+Encuesta sobre el consumo de jabón / preparado de base
+alcohólica para manos
+QuéUna herramienta de seguimiento que determina
+el uso de diversos productos destinados a la
+higiene de las manos.
+Por qué Para conocer el uso inicial de los productos
+para la  higiene de las manos, se necesita
+realizar una encuesta antes de la aplicación
+del programa de higiene de manos;
+ para demostrar el proceso de cambio de las
+demandas de productos para la higiene de
+manos, esta encuesta debe repetirse con
+regularidad (es decir, una vez al mes) en el
+contexto de un programa de higiene de
+manos;
+ esto también es necesario para que el
+departamento de compras prevea la cantidad
+de preparado de base alcohólica para manos
+y otros productos que hay que comprar o
+producir.
+DóndeEn el departamento central de compras del
+centro sanitario o en la farmacia.
+CuándoAl principio durante la evaluación inicial (fase 1,
+véase III.2.1), y con una frecuencia mensual o en
+intervalos de tres o cinco meses durante todo el
+programa de higiene de manos.
+QuiénLa herramienta deber ser utilizada principalmente
+por los profesionales sanitarios del departamento
+de compras del centro sanitario. Esta tarea
+requiere la colaboración de la farmacia, del
+almacén central y, posiblemente, del servicio de
+mantenimiento.
+CómoMediante una hoja o protocolo de seguimiento
+con espacios en blanco que deberá
+cumplimentar el personal pertinente.15GUÍA DE APLICACIÓN PARTE II
+Protocolo para la evaluación de la tolerabilidad y
+aceptabilidad del preparado de base alcohólica que se está
+utilizando o se prevé introducir: Método 1
+QuéUn protocolo para la evaluación de la tolerabilidad y
+aceptabilidad de un preparado de base alcohólica
+para manos. Esta herramienta incluye dos
+componentes diferentes:
+- un cuestionario para la evaluación subjetiva
+de las prácticas de higiene de manos, del
+propio producto y del estado de la piel tras
+su uso;
+- una escala para la evaluación objetiva del
+estado de la piel después de su utilización.
+Por quéLa tolerabilidad y la apreciación del preparado de
+base alcohólica para manos por parte de los
+profesionales sanitarios es un factor crucial que
+influye en la implantación satisfactoria y el uso
+prolongado.
+DóndeEn ámbitos clínicos donde el preparado
+de base alcohólica para manos se ha
+distribuido recientemente o se está
+utilizando y hay un interés por evaluar su
+tolerabilidad y aceptabilidad. Se pretende
+aplicar este protocolo en los ámbitos
+clínicos donde se genere diariamente por
+lo menos una media de 30 oportunidades
+de higiene de manos para cada
+profesional sanitario.
+CuándoAl probar un nuevo producto / tras la introducción de
+un producto. El diseño del protocolo exige por lo
+menos entre 3 y 5 días consecutivos de uso
+exclusivo del producto objeto de prueba y un mes
+de uso sistemático.
+QuiénUsuario: un observador capacitado que actúe en
+colaboración con el coordinador del programa y el
+farmacéutico.
+Población de la encuesta: para realizar esta prueba
+se seleccionará a 40 profesionales sanitarios:
+- cuestionario para la evaluación subjetiva
+– profesionales sanitarios que utilicen el
+producto y participen en la encuesta;
+- escala para la evaluación objetiva – un
+observador capacitado que evalúe a los
+profesionales sanitarios que participan en
+la encuesta.
+CómoUtilizar esta herramienta siguiendo las instrucciones
+que acompañan al protocolo. También se dispone
+de un protocolo similar que podrá usarse para
+comparar diferentes productos (Protocolo para la
+evaluación y comparación de la tolerabilidad y
+aceptabilidad de diferentes preparados de base
+alcohólica para manos: Método 2).Protocolo para la evaluación y comparación de la tolerabilidad y
+aceptabilidad de diferentes preparados de base alcohólica para
+manos: Método 2
+QuéUn protocolo para comparar la tolerabilidad y
+aceptabilidad de diferentes preparados de
+base alcohólica para manos. Esta
+herramienta incluye dos componentes
+diferentes:
+- un cuestionario para la evaluación subjetiva
+de las prácticas de higiene de manos, del
+propio producto y del estado de la piel tras
+su uso;
+- una escala para la evaluación objetiva del
+estado de la piel después de su utilización.
+Por quéLa tolerabilidad y la apreciación del preparado de
+base alcohólica para manos por parte de los
+profesionales sanitarios es un factor crucial que
+influye en la implantación satisfactoria y el uso
+prolongado.
+DóndeEn ámbitos clínicos donde hay un interés por
+comparar la tolerabilidad y aceptabilidad de
+diversos preparados de base alcohólica para
+manos (por ejemplo, en el contexto de un proceso
+de selección de productos). Se pretende aplicar
+este protocolo en los ámbitos clínicos donde se
+genere diariamente al menos una media de 30
+oportunidades de higiene de manos para cada
+profesional sanitario.
+CuándoAl probar un nuevo producto / tras la introducción de
+un producto. El diseño del protocolo exige por lo
+menos entre 3 y 5 días consecutivos de uso
+exclusivo del producto que es objeto de prueba y un
+mes de uso sistemático.
+QuiénUsuario: un observador capacitado que actúe en
+colaboración con el coordinador del programa y el
+farmacéutico
+Población de la encuesta: para realizar esta prueba
+se seleccionará a 40 profesionales sanitarios:
+- cuestionario para la evaluación subjetiva –
+profesionales sanitarios que utilicen el
+producto y participen en la encuesta;
+- escala para la evaluación objetiva – un
+observador capacitado que evalúe a los
+profesionales sanitarios que participan en
+la encuesta.
+CómoUtilizar esta herramienta siguiendo las instrucciones
+que acompañan al protocolo. También se dispone
+de un protocolo similar para comparar un único
+producto (Protocolo para la evaluación de la
+tolerabilidad y aceptabilidad del preparado de base
+alcohólica para manos que se está utilizando o se
+prevé introducir: Método 1).1616GUÍA DE APLICACIÓN PARTE II
+produce to consider when deciding whether to purchaseII.1.3. Uso de las herramientas para el cambio del
+sistema – ejemplos de posibles situaciones en el
+ámbito sanitario
+Ejemplo 1: centros sanitarios con graves deficiencias en la
+infraestructura para la higiene de manos.
+Si su centro sanitario tiene pocos lavabos o no cuenta con ninguno y
+sufre deficiencias en el suministro de agua, jabón y toallas:
+empiece por utilizar la encuesta sobre la infraestructura de las salas
+para evaluar la disponibilidad y la idoneidad de la infraestructura,
+incluidos los lavabos;
+en función de los resultados, analice con su director gerente/director/
+directivos la necesidad de cumplir las recomendaciones de la OMS de
+contar con una ratio lavabo/ paciente-cama de al menos 1:10 y el
+suministro continuo de agua potable, jabón y toallas desechables en
+todos los lavabos.
+Si no se dispone de un preparado de base alcohólica para manos:
+utilice la herramienta de planificación y determinación de costes del
+preparado de base alcohólica para los criterios de selección de dicho
+producto;
+evalúe la disponibilidad de preparados de base alcohólica para manos
+en el mercado;
+considere la posibilidad de producir una formulación de preparado de
+base alcohólica para manos localmente, ya sea en su farmacia o en
+una instalación externa, de conformidad con la Guía de producción
+local: formulaciones del preparado de base alcohólica recomendadas
+por la OMS;
+tanto con respecto a los productos adquiridos en el mercado como en
+relación con las formulaciones producidas localmente, considere
+someter a prueba su tolerabilidad y aceptabilidad por parte de los
+profesionales sanitarios utilizando el Protocolo para evaluación de la
+tolerabilidad y aceptabilidad del preparado de base alcohólica para
+manos antes de introducirlos de forma generalizada en el centro.
+Criterios para considerar cuándo decidir si se compra o se
+produce el preparado de base alcohólica para manos
+Criterios - Compra
+en el mercadoDisponibilidad
+Eficacia
+Tolerabilidad
+ Coste
+Criterios –
+producción
+local utilizando
+la formulación
+de la OMSExistencia de instalaciones adecuadas para la
+producción
+Existencia de instalaciones adecuadas para el
+almacenamiento
+Disponibilidad de pericia técnica local
+(por ejemplo, farmacéuticos)
+Disponibilidad de materia prima
+Disponibilidad y asequibilidad de los
+dispensadores
+ Costes generales previstosEjemplo 2: centros sanitarios donde ya se dispone de preparado de base
+alcohólica para manos pero donde los objetivos de cambio del sistema no
+se han cumplido totalmente con arreglo a las recomendaciones de la
+OMS.
+Actuaciones clave:
+Evaluar si el preparado de base alcohólica que se está utilizando
+cumple los criterios de calidad recomendados por la OMS en la
+Herramienta de planificación y determinación de costes del preparado
+de base alcohólica para manos.
+Considerar si el producto es bien tolerado y apreciado realmente por los
+profesionales sanitarios.
+-si es necesario, aplicar el Protocolo para la evaluación de la
+tolerabilidad y aceptabilidad del preparado de base alcohólica para
+manos que se está utilizando o se prevé introducir: Método 1.
+-si es necesario, seleccionar un nuevo producto o evaluar la
+producción local.
+Utilizar la Encuesta sobre la infraestructura de las salas ,determinar si
+los productos requeridos para la higiene de las manos (preparado de
+base alcohólica, jabón y toallas desechables) están permanentemente
+disponibles en todo el centro sanitario o únicamente en algunos ámbitos
+clínicos.
+Utilizar la Encuesta sobre la infraestructura de las salas ,determinar si
+los productos están adecuadamente ubicados en el punto de atención
+de acuerdo con la definición que se incluye en esta guía.
+Adoptar medidas en función de esta evaluación para que los productos
+estén permanentemente disponibles en cada punto de atención.
+Asegurarse de que los dispensadores de preparado de base alcohólica
+para manos están debidamente ubicados en cada punto de atención
+(por ejemplo, en cada mesilla y no en la entrada de la habitación). Si es
+necesario, aumentar el número de dispensadores y proporcionar
+también diferentes tipos de dispensadores (por ejemplo, dispensadores
+de pared, frascos de bolsillo, dispensadores fijados a los muebles). Si
+es posible, garantizar que la ratio lavabo/paciente-cama excede con
+creces de 1:10.
+Garantizar un presupuesto anual suficiente destinado a proporcionar
+plenos recursos para la higiene de manos en todas las salas y
+departamentos de forma permanente.
+Ejemplo 3: centros sanitarios donde el cambio del sistema está muy
+avanzado (el preparado de base alcohólica para manos está disponible
+en cada punto de atención de todo el centro sanitario, hay un suministro
+constante de agua potable, la ratio lavabo/paciente-radio excede con
+creces de 1:10, se dispone de jabón y toallas desechables en cada
+lavabo, los productos son bien tolerados y aceptados por los
+profesionales sanitarios).
+Centrarse en medidas a largo plazo:
+Cumplimentar la Encuesta sobre la infraestructura de las salas a
+intervalos de tiempo regulares preestablecidos para ayudar a detectar
+de forma continua las posibles deficiencias en la infraestructura;
+Seguir disponiendo de un presupuesto anual suficiente destinado a
+proporcionar plenos recursos para la higiene de manos en todas las
+salas y departamentos de forma permanente.
+Acceso a las herramientas
+www.who.int/gpsc/en/17GUÍA DE APLICACIÓN PARTE II
+II.2. FORMACIÓN Y APRENDIZAJE
+II.2.1. Formación – Definiciones y perspectiva
+general
+La formación es un factor decisivo para obtener resultados satisfactorios y
+representa una de las piedras angulares de la mejora de las prácticas de
+higiene de manos.
+Todos los profesionales sanitarios necesitan formación completa
+sobre la importancia de la higiene de las manos, el modelo de “Los 5
+momentos para la higiene de manos” y los procedimientos adecuados
+para el lavado y la fricción de manos. Divulgando mensajes claros, que no
+se presten a la interpretación personal, con un método normalizado
+orientado al usuario, dicha formación pretende generar un cambio
+conductual y cultural y garantizar que la competencia relacionada con la
+higiene de manos está profundamente arraigada y se mantiene en todo el
+personal.
+A medida que los centros sanitarios progresan en el ciclo de mejora
+continua de la higiene de las manos, se pretende que establezcan un
+sólido programa de formación y ofrezcan periódicamente formación a los
+profesionales sanitarios, incluidos los nuevos empleados, así como
+actualizaciones y verificaciones de la competencia del personal existente y
+previamente formado. Como mínimo se deberá proporcionar formación
+básica sobre la higiene de manos, que es esencial para garantizar la
+seguridad del paciente en todos los centros sanitarios.
+La formación es una estrategia vital que se integra sólidamente con
+todos los demás componentes esenciales de la estrategia. De hecho, sin
+la formación adecuada es improbable que el cambio del sistema se
+traduzca en un cambio conductual con la adopción real del uso de
+preparados de base alcohólica para manos y en la mejora sostenida del
+cumplimiento de la higiene de las manos. Por otra parte, la evaluación y la
+retroalimentación especialmente con respecto a los índices de
+cumplimiento locales y los resultados de la prueba de conocimientos
+(sensibilizando sobre las lagunas existentes y las prácticas deficientes),
+ponen de relieve los conceptos abordados por la formación. Además, la
+mayoría de los tipos de recordatorios se crean para dirigir la atención
+hacia los principales mensajes formativos. Por último, la creación de una
+cultura institucional de seguridad sólida y verdadera está inherentemente
+unida a las intervenciones formativas.
+En el contexto de un programa de mejora de la higiene de las manos,
+los destinatarios de la formación a diferentes niveles son los formadores,
+observadores y profesionales sanitarios. Se recomienda un método de
+formación descendente en virtud del cual el coordinador del programa de
+higiene de manos, junto con otros participantes clave del centro sanitario
+(altos directivos o un comité, si existe), identifiquen a los individuos
+capaces de desempeñar el papel de formadores y observadores.
+Los formadores se encargarán de ofrecer formación a los profesionales
+sanitarios, incluyendo demostraciones prácticas de cómo y cuándo realizar
+la higiene de manos de acuerdo con el modelo de “Los 5 momentos para
+la higiene de las manos”. Por estas razones, el formador deberá tener
+preferiblemente un conocimiento básico del control de infecciones,
+experiencia en formación así como en prestar asistencia sanitaria a pie de
+cama. Lo ideal es que sea un líder influyente y creíble (por ejemplo, jefa de
+enfermeras / directora de enfermería / médico / jefe de otro departamento
+o disciplina clave).
+Los futuros formadores deberán ser informados sobre los
+mensajes clave que se van a divulgar y recibir apoyo para familiarizarse
+con las herramientas disponibles para la formación. En la mayoría de los
+casos, el coordinador del programa de higiene de manos debe organizar
+una formación reglada de los formadores.Asimismo, los observadores deberán recibir plena formación y ser
+capaces de detectar correctamente las oportunidades para la higiene de
+manos de conformidad con el método propuesto por la OMS y con el
+modelo de “Los 5 momentos para la higiene de las manos” (véase también
+la sección II.3 relacionada con la evaluación y retroalimentación). Si se
+parte de un planteamiento riguroso, los observadores deberían ser
+validados, es decir, su capacidad para desempeñar sus tareas
+debidamente deberá confirmarse mediante la realización de pruebas.
+Las actividades de formación de formadores y observadores deberán ser
+dirigidas por el coordinador del programa de higiene de manos, siempre
+que tenga buenos conocimientos del control de infecciones, y deberán
+llevarse a cabo en la fase de preparación del centro (fase 1, sección
+III.2.1).
+El centro sanitario deberá reconocer claramente el papel crucial de los
+formadores y observadores asignando un tiempo reservado a estas
+actividades. En caso de que se esté implantando una campaña en todo el
+hospital, es preferible que los formadores trabajen por parejas para
+garantizar la máxima consistencia en la divulgación de los mensajes.
+Deberán realizarse planes para la formación de los profesionales
+sanitarios durante la fase de preparación del centro (fase 1, sección III.2.1),
+que deberán incluir las decisiones relativas al tiempo que se asignará a la
+formación así como a los ámbitos clínicos específicos en los que se
+ofrecerá la formación en primera instancia (por ejemplo, prioridad en
+función del riesgo de IRAS).
+La formación del personal es un elemento clave de la fase de
+aplicación (fase 3, véase sección III.2.3) de un programa de mejora de la
+higiene de las manos. En algunos ámbitos en los que los recursos que se
+pueden invertir en la formación continua son limitados, será necesario
+ofrecer formación sobre los principios básicos de la transmisión microbiana
+e indicaciones para la higiene de las manos. Se deberá utilizar una técnica
+de resolución de problemas, en la que a las personas que reciben
+formación se les presentan escenarios que los motivan a aplicar principios
+teóricos.
+El personal de los centros sanitarios puede variar frecuentemente, y el
+personal existente se verá sometido a la presión de tener que recordar una
+serie de normas que debe cumplir durante sus actividades diarias. Por
+consiguiente, tras un periodo de formación inicial intensivo, las actividades
+de formación deben repetirse periódicamente para incluir al personal recién
+contratado y actualizar los conocimientos de los demás miembros del
+personal.
+Las sesiones formativas básicas para los formadores, observadores y
+profesionales sanitarios deberán centrarse en:
+los antecedentes del programa de la OMS para la seguridad del paciente
+y del Primer reto mundial en pro de la seguridad del paciente;
+la definición, impacto y carga de las IRAS;
+las principales formas de transmisión de patógenos relacionados con la
+atención sanitaria, con especial hincapié en la transmisión a través de
+las manos;
+la prevención de las IRAS y el papel decisivo de la higiene de las manos;
+lasDirectrices de la OMS sobre la higiene de las manos en la atención
+sanitaria  y su estrategia y herramientas de aplicación, que incluyen
+información explicativa sobre por qué, cuándo y cómo realizar la higiene
+de manos en la atención sanitaria.
+Las sesiones adicionales deberán dedicarse exclusivamente a los
+observadores, para que aprendan el método propuesto para la observación
+y practiquen su uso.
+Los centros deberían considerar la posibilidad de implantar un sistema
+de verificación de la competencia de todos los profesionales sanitarios que
+han recibido formación sobre higiene de manos. Podría hacerse a través
+de un curso de formación anual o un taller de demostración práctica de la
+higiene de manos para confirmar la competencia en relación con las
+técnicas de higiene adecuadas en los momentos oportunos. El uso de la
+encuesta sobre los conocimientos en materia de higiene de manos también
+contribuirá a cumplir este objetivo.1818GUÍA DE APLICACIÓN PARTE II
+II.2.2. Herramientas para la formación –
+descripción de las herramientas
+Las principales herramientas que se describen en esta sección
+están destinadas a dirigir y ayudar a los centros sanitarios a
+preparar e impartir formación.
+La gama de herramientas que se pueden utilizar para la
+formación se presentan en la siguiente figura:
+Diapositivas para el
+coordinador de
+higiene de manosDiapositivas para
+sesiones de
+formación de
+formadores,
+observadores y
+profesionales
+sanitarios
+Películas de
+formación en la
+higiene de manosDiapositivas que
+acompañan a las
+películas de
+formación
+Manual técnico de
+referencia para la
+higiene de manosFolleto sobre la
+higiene de manos:
+por qué, cómo y
+cuándoFolleto informativo
+sobre el uso de
+guantes
+Preguntas
+frecuentemente
+planteadasPublicaciones
+científicas clave
+Mantenimiento de la
+mejora –actividades
+adicionales a ser
+consideradas por los
+centros sanitarios
+Herramientas de
+observaciónPóster de los cinco
+momentos para la
+higiene de las
+manos
+Herramientas de observación – descritas en la sección de
+evaluación y retroalimentación
+Póster de los 5 momentos para la higiene de las manos – descrito
+en los recordatorios de la sección del lugar de trabajoDiapositivas para el coordinador de higiene de manos
+QuéUna serie de diapositivas en Power Point titulada
+“Las infecciones relacionadas con la atención
+sanitaria y la mejora de la higiene de manos”
+para ayudar a los responsables del programa de
+higiene de manos (especialmente a los
+coordinadores del programa) a explicar la
+necesidad de la higiene de manos a los altos
+directivos y otros participantes clave. En
+particular:
+- proponer normas de higiene de manos;
+- explicar la importancia del modelo de “Los
+5 momentos para la higiene de las manos”;
+- describir el plan de actuación del centro
+para mejorar la higiene de las manos.
+Por quéPorque un representante encargado de, o
+interesado en, la planificación de iniciativas para
+mejorar la higiene de las manos tendrá que
+comunicar a los demás la importancia de la
+higiene de manos y las actividades planificadas.
+DóndeEn las reuniones.
+CuándoAntes de iniciar o aplicar las estrategias para la
+mejora de la higiene de manos (fase 1, sección
+III.2.1).
+ QuiénLa herramienta deberá ser utilizada por:
+- El responsable de planificar iniciativas para
+mejorar la higiene de manos (el
+coordinador del programa de higiene de
+manos); y
+- las partes interesadas en catalizar
+iniciativas para mejorar la higiene de
+manos en el centro sanitario para
+comunicar la importancia de la higiene de
+manos a los altos directivos y otras
+personas.
+CómoMediante la presentación de diapositivas por
+parte del coordinador de higiene de manos a las
+demás personas del centro utilizando material
+didáctico visual o fotocopias, en donde se detalle
+la información de las diapositivas y otra
+información local.19GUÍA DE APLICACIÓN PARTE II
+Diapositivas para sesiones de formación de formadores,
+observadores y profesionales sanitarios
+QuéUna serie de diapositivas en PowerPoint que
+incluyen los conceptos clave relacionados con la
+estrategia de la OMS para la mejora de la higiene
+de las manos y que se pueden utilizar para:
+- formar a los formadores a fin de ponerlos
+al corriente de los objetivos de aprendizaje
+esenciales y los mensajes clave que han
+de transmitirse a los profesionales
+sanitarios;
+- formar a los observadores responsables
+del seguimiento del cumplimiento de la
+higiene de manos en el centro sanitario
+para que comprendan los principios
+básicos de la higiene de manos y los
+objetivos y métodos de observación de la
+higiene de manos;
+- proporcionar amplia formación a todos los
+profesionales sanitarios.
+Por quéPorque los formadores, observadores y todos los
+profesionales sanitarios del centro deben entender
+la importancia de la higiene de las manos, el
+modelo de “Los 5 momentos para la higiene de las
+manos” y los procedimientos adecuados para el
+lavado y la fricción de manos.
+DóndeEn las sesiones de formación organizadas por el
+centro para:
+-la formación de los formadores
+-la formación de los observadores
+-la formación de todos los profesionales
+sanitarios
+Cuándo En el momento de comenzar a aplicar la
+estrategia para la mejora de la higiene de
+las manos (fase 1, sección III.2.1) para
+formar a los formadores y a los
+observadores;
+ Durante las sesiones habituales de
+formación para todos los profesionales
+sanitarios, incluida la formación para los
+nuevos empleados y las actualizaciones
+periódicas para los profesionales sanitarios
+previamente formados (fase 3, sección
+III.2.3).
+QuiénUsuarios:
+- coordinador del programa de higiene de
+manos
+- formadores
+Destinatarios:
+- formadores
+- observadores
+- profesionales sanitarios
+CómoUna presentación de diapositivas en una única
+sesión de formación de aproximadamente 2
+horas (excluida la parte destinada a los
+observadores, que exige por los menos una hora
+adicional) o dividida en múltiples sesiones más
+cortas dependiendo de la situación local. Se
+recomienda más de una sesión, especialmente
+para los observadores, que deben tener una
+sesión adicional. Se recomienda que las
+películas de formación en la higiene de manos se
+utilicen durante la sesión de formación o
+después, en cuyo caso aumentará la duración de
+la sesión.Películas de formación en higiene de manos y diapositivas que las
+acompañan
+Qué Una serie de escenarios para ayudar a
+transmitir el modelo de “Los 5 momentos
+para la higiene de las manos” y la técnica
+apropiada para el lavado y la fricción de
+manos;
+ una serie de diapositivas en PowerPoint
+para acompañar a las películas y explicar el
+contenido y los mensajes formativos de los
+diferentes escenarios.
+Por quéPorque los formadores y el observador deben
+adquirir un conocimiento sólido del modelo de
+“Los 5 momentos para la higiene de las manos” y
+todos los profesionales sanitarios de un centro
+deben recibir formación periódica sobre la
+importancia de la higiene de las manos, las
+indicaciones para llevarla a cabo y los
+procedimientos adecuados para el lavado y la
+fricción de las manos.
+DóndeDurante las sesiones de formación organizadas
+por el centro para todos los profesionales
+sanitarios.
+Cuándo Tras la presentación de las Sesiones de
+formación para formadores, observadores y
+profesionales sanitarios ;
+ en cualesquiera momentos posteriores que
+se estimen oportunos a nivel local;
+ durante las sesiones para enseñar a los
+observadores a utilizar el formulario de
+observación y validar su actuación para
+registrar el cumplimiento al evaluar las
+prácticas de higiene de manos de los
+profesionales sanitarios.
+QuiénUsuarios:
+- coordinador del programa de higiene de manos
+- formadores
+Destinatarios:
+- formadores
+- observadores
+- profesionales sanitarios
+CómoLos formadores proyectan las películas a los
+profesionales sanitarios o a los observadores
+durante las sesiones de formación programadas
+y les proporcionan explicaciones adicionales.2020GUÍA DE APLICACIÓN PARTE II
+Manual técnico de referencia para la higiene de manos
+QuéUn manual que presenta la importancia de las
+IRAS y la dinámica de transmisión cruzada y que
+explica de forma detallada el concepto de “Los 5
+momentos para la higiene de las manos”, los
+procedimientos adecuados para el lavado y la
+fricción de manos y el método de observación de
+la OMS.
+Por quéPorque los formadores deben identificar los
+mensajes clave que han de transmitirse durante
+las sesiones formativas; todos los profesionales
+sanitarios de un centro deben comprender y
+seguir el modelo de “Los 5 momentos para la
+higiene de las manos” y los procedimientos
+correctos para el lavado y la fricción de manos;
+los observadores deben aprender a aplicar los
+principios básicos de observación.
+DóndeEn los ámbitos clínicos en los que se está
+aplicando la estrategia para la mejora de la
+higiene de las manos.
+CuándoAntes o durante las sesiones de formación (fase
+3, sección III.2.3).
+QuiénEsta herramienta debe ser utilizada por:
+- formadores
+- observadores
+- todos los profesionales sanitarios
+Cómo El coordinador de higiene de manos debe
+distribuir el manual a los formadores y
+observadores;
+ los formadores deben distribuir el manual a
+los profesionales sanitarios durante las
+sesiones de formación.
+Folleto sobre la higiene de manos: porqué, cómo y cuándo
+QuéUn folleto que incluye los mensajes formativos
+clave relacionados con el porqué, cómo y cuándo
+de la higiene de manos que los profesionales
+sanitarios deben conservar y consultar tras las
+sesiones de formación.
+Por quéPorque todos los profesionales sanitarios de un
+centro deben comprender y seguir el modelo de
+“Los 5 momentos para la higiene de las manos” y
+los procedimientos correctos para el lavado y la
+fricción de manos.
+DóndeEn los ámbitos clínicos en los que se está
+aplicando el programa de mejora de la higiene
+de las manos;
+En los ámbitos clínicos en los que ya se ha
+impartido formación y se considera que se
+necesitan breves actualizaciones o
+recordatorios.
+CuándoDurante las sesiones de formación (fase 3,
+sección III.2.3).
+QuiénEsta herramienta debe ser utilizada por todos los
+profesionales sanitarios de ámbitos clínicos en los
+que se está aplicando el programa de mejora de la
+higiene de las manos.
+CómoDescribir y distribuir el folleto durante las sesiones
+de formación.Preguntas frecuentemente planteadas
+QuéUn documento de preguntas y respuestas con
+algunas de las cuestiones planteadas con más
+frecuencia sobre la higiene de las manos.
+Por quéPorque es probable que los profesionales que
+participan en el programa de mejora de la
+higiene de manos se planteen preguntas sobre
+los antecedentes de la Alianza mundial de la
+OMS para la Seguridad del paciente así como
+sobre las iniciativas para la higiene de manos, la
+higiene de manos y cuestiones específicas
+relativas a la promoción, a la estrategia
+multimodal de la OMS para la mejora de la
+higiene de las manos y al modelo de “Los 5
+momentos para la higiene de las manos”.
+Dónde En las sesiones de formación de
+formadores y observadores para
+anticiparse a las preguntas más
+frecuentes;
+ Durante las sesiones de formación;
+ En la biblioteca o lugar de consulta del
+centro.
+CuándoEn cualquier momento, tanto de forma
+anticipatoria para formar a otros sobre las
+explicaciones de “Los 5 momentos para la
+higiene de manos” como cuando sea necesario
+en caso de que surjan preguntas,
+QuiénEsta herramienta deberá ser utilizada por:
+- el coordinador del programa de higiene de
+manos, los formadores y los observadores,
+para ayudarlos a responder posibles
+preguntas de los profesionales sanitarios;
+- todos los profesionales sanitarios.
+Cómo Presentando el documento durante las
+sesiones de formación;
+ remitiendo a todos los profesionales
+sanitarios con acceso a Internet al sitio web
+www.who.int/gpsc/en/ donde figuran las
+Preguntas frecuentemente planteadas . Esto
+puede hacerse indicando la dirección web
+en los documentos sobre higiene de manos
+del centro o facilitándola durante las
+sesiones de formación.21GUÍA DE APLICACIÓN PARTE II
+Publicaciones científicas clave
+QuéUna lista de publicaciones con revisión científica
+externa para remitir a las partes interesadas a los
+datos y comentarios de especial interés con
+respecto a la higiene de las manos.
+Por quéPorque hay muchas fuentes de información
+adicionales sobre la higiene de las manos que
+pueden ser útiles o de interés durante la
+formación de los profesionales sanitarios.
+Dónde Durante las sesiones de formación;
+ En la biblioteca o lugar de consulta del
+centro
+CuándoEn cualquier momento, tanto de forma
+anticipatoria para apoyar a los formadores en su
+tarea y poner sobre aviso a los profesionales
+sanitarios de los antecedentes científicos sobre la
+higiene de manos como cuando sea necesario en
+caso de que surjan cuestiones en torno al
+fundamento científico.
+QuiénEsta herramienta debe ser utilizada por:
+- el coordinador del programa de higiene de
+manos, formadores y observadores;
+- todos los profesionales sanitarios
+interesados en aprender más sobre la
+higiene de manos
+Cómo Presentando la lista de publicaciones
+científicas clave durante las sesiones de
+formación;
+ remitiendo a todos los profesionales
+sanitarios con acceso a Internet al sitio web
+www.who.int/gpsc/en/ donde figura la lista
+dePublicaciones científicas clave . Esto
+puede hacerse indicando la dirección web
+en los documentos sobre higiene de manos
+del centro o facilitándola durante las
+sesiones de formación.
+Folleto informativo sobre el uso de guantes
+QuéUn folleto que explica el uso adecuado de
+guantes con respecto al modelo de “Los 5
+momentos para la higiene de las manos” y que se
+presenta o distribuye a los profesionales
+sanitarios para que lo utilicen como referencia.
+Por quéPorque todos los profesionales sanitarios
+necesitan comprender cómo y cuándo utilizar
+correctamente los guantes al seguir el modelo de
+“Los 5 momentos para la higiene de las manos”.
+Dónde En sesiones de formación organizadas;
+ en los ámbitos clínicos en los que ya se ha
+impartido formación y se considera que se
+necesitan breves actualizaciones o
+recordatorios.
+CuándoDurante las sesiones de formación (fase 3,
+sección III.2.3).
+QuiénEsta herramienta debe ser utilizada por todos los
+profesionales sanitarios de ámbitos clínicos en
+los que se está aplicando el programa de mejora
+de la higiene de las manos.
+CómoDescribir y distribuir el folleto durante las sesiones
+de formación.Mantenimiento de la mejora – actividades adicionales a ser
+consideradas por los centros sanitarios
+QuéOrientación para los centros sanitarios
+interesados en aumentar y mantener la mejora
+existente de la higiene de manos organizando y
+utilizando herramientas o actividades adicionales
+como parte de sus planes de actuación a largo
+plazo.
+Por quéPorque algunos centros sanitarios ya disponen
+de estrategias bien establecidas para la mejora
+de la higiene de manos y cuentan con excelentes
+recursos y sistemas de observación y formación
+habituales. Para estos centros sanitarios, es
+decisivo mantener la dinámica así como las
+mejoras que se han hecho.
+DóndeEn las unidades de gestión y de control de
+infecciones del centro sanitario como parte de la
+planificación de actividades adicionales.
+CuándoUna vez que los centros sanitarios cuentan con
+infraestructura y sistemas bien establecidos para
+la formación y la evaluación de la higiene de
+manos y buscan actividades adicionales para
+mantener la concienciación y mejora de la
+higiene de manos (fase 5, sección III.2.5).
+QuiénEsta herramienta deberá ser utilizada por el
+coordinador del programa de higiene de manos o
+las personas responsables de planificar, aplicar y
+mantener la mejora de la higiene de manos en
+un centro sanitario.
+CómoEl coordinador de higiene de manos debe revisar
+la herramienta para obtener orientación e ideas
+sobre cómo mantener la dinámica y las mejoras
+en la higiene de manos en el centro, integrar las
+actividades seleccionadas en el plan de
+actuación local para la mejora de la higiene de
+manos y comentarlo con los altos directivos y
+otros profesionales clave.2222GUÍA DE APLICACIÓN PARTE II
+II.2.3. Uso de las herramientas para la formación
+– ejemplos de posibles situaciones en el ámbito
+sanitario
+Ejemplo 1: centros sanitarios que ofrecen poca formación o no
+ofrecen ninguna formación sobre la higiene de manos a los
+profesionales sanitarios.
+Si su centro sanitario ofrece poca formación o no ofrece ninguna
+formación sobre la higiene de manos a los profesionales sanitarios
+debido a limitaciones en su implantación causadas por la escasez o
+falta de recursos, deberán incluirse planes para abordar la formación
+del personal en un plan de actuación a fin de integrar la formación en
+la cultura del centro.
+Como mínimo, el plan de actuación deberá incluir:
+las limitaciones infraestructurales para seguir adelante con un
+programa de formación (considerar las herramientas para el cambio
+del sistema al documentar estas limitaciones);
+quién asume la responsabilidad de ultimar los detalles de la
+formación / herramientas de formación a ser utilizadas localmente
+(basándose en las herramientas descritas en esta sección);
+las medidas que hay que tomar para identificar a los formadores;
+los profesionales sanitarios (áreas del centro, categorías
+profesionales) que tienen prioridad para recibir la formación;
+los requisitos de la formación de los profesionales sanitarios
+destinatarios prioritarios (para confirmar esto, utilizar el cuestionario
+sobre los conocimientos en materia de higiene de manos de la
+sección de herramientas para la evaluación y retroalimentación);
+un marco temporal para la iniciación y conclusión de la formación
+de formadores, observadores y profesionales sanitarios;
+tiempo reservado para que los profesionales sanitarios reciban la
+formación;
+incorporación del programa de formación en el plan financiero del
+centro.
+Cuando estos componentes del plan de actuación estén
+implantados, las primeras medidas para aumentar la competencia del
+personal proporcionando formación básica a todos los miembros del
+personal existentes y nuevos deberán ser las siguientes:
+• sesiones de formación y debate para los formadores dirigidas por el
+coordinador de higiene de manos;
+• el uso de las Sesiones de formación para formadores, observadores
+y profesionales sanitarios para llevar a cabo sesiones de formación
+con la integración de:
+- datos locales sobre la tasa de las IRAS cuando se disponga
+de ellos
+- otra información sobre las medidas de control de infecciones
+que se deberían aplicar localmente;
+• centrarse en el modelo de “Los 5 momentos para la higiene de las
+manos” y en cómo realizar la higiene de manos durante las sesiones
+utilizando como mínimo lo siguiente:
+- Películas de formación sobre la higiene de manos y las
+diapositivas que las acompañan
+- Manual técnico de referencia para la higiene de manos
+- Folleto sobre la higiene de manos: por qué, cómo y cuándo
+- Póster de los 5 momentos para la higiene de manos
+- Pósteres de cómo realizar el lavado y la fricción de manos
+- Folleto informativo sobre el uso de guantesEjemplo 2: centros sanitarios en los que la formación básica del
+personal está bien establecida y que pretenden introducir actividades
+adicionales para preservar el cumplimiento de la higiene de manos.
+Si su centro sanitario cuenta con infraestructura y sistemas bien
+establecidos para la formación y evaluación de la higiene de manos,
+deberán considerarse las siguientes actividades adicionales para
+mantener la concienciación y mejora de la higiene de manos:
+formar a todos los profesionales sanitarios del centro de forma
+continuada, verificando al mismo tiempo su competencia;
+formar a los nuevos formadores y observadores estableciendo
+diferentes niveles;
+basar la formación en la retroalimentación periódica de los datos de
+evaluación detectados en todas las áreas;
+establecer las posibles maneras de presentar de forma fiable sus
+datos validados relativos al cumplimiento de la higiene de manos
+frente a las tasas de IRAS;
+revisar y actualizar el material didáctico por lo menos una vez año;
+desarrollar métodos de formación nuevos e innovadores (véase
+Mantenimiento de la mejora – actividades adicionales a ser
+consideradas por los centros sanitarios);
+compartir los éxitos con otros centros y publicar los resultados; y
+revisar y actualizar los planes de actuación con mayor regularidad y
+presentar los resultados a todos los equipos directivos.
+Acceso a las herramientas
+www.who.int/gpsc/en/23GUÍA DE APLICACIÓN PARTE II
+II.3. EVALUACIÓN Y RETRO-
+ALIMENTACIÓN
+II.3.1. Evaluación y retroalimentación –
+definiciones y perspectiva general
+La evaluación y el seguimiento reiterado de una serie de
+indicadores que reflejan las infraestructuras y prácticas de higiene de
+manos así como el conocimiento y la percepción sobre el problema
+de las IRAS y la importancia de la higiene de manos en el centro
+sanitario son un componente vital de la estrategia para mejorar la
+higiene de las manos. De hecho, no debería considerarse como un
+elemento independiente de la aplicación de la estrategia ni usarse
+exclusivamente para fines científicos, sino reconocerse como una
+fase esencial para identificar las áreas que merecen los mayores
+esfuerzos y proporcionar información crucial para reorientar las
+intervenciones del plan de actuación local. El seguimiento continuo
+es muy útil para conocer los cambios generados por la aplicación de
+la estrategia (por ejemplo, las tendencias de consumo de preparado
+de base alcohólica a partir del cambio del sistema) y para determinar
+si las intervenciones han sido eficaces para mejorar las prácticas de
+higiene de manos, la percepción y los conocimientos por parte de los
+profesionales sanitarios y para reducir las IRAS.
+La estrategia multimodal de la OMS para la mejora de la higiene
+de las manos recomienda el seguimiento y la evaluación de los
+siguientes indicadores:
+• cumplimiento de la higiene de manos mediante la observación
+directa;
+• infraestructura para higiene de manos de las salas;
+• conocimientos de los profesionales sanitarios sobre las IRAS y la
+higiene de manos;
+• percepción de las IRAS y la higiene de manos por parte de los
+profesionales sanitarios;
+• consumo de jabón y de preparados de base alcohólica.
+Realizar una evaluación inicial (véase fase 2, sección III.2.2) es
+importante en todos los niveles del proceso continuo de mejora de la
+higiene de manos, pero es especialmente crucial para un centro en el
+que se está implantando por primera vez el programa de mejora de la
+higiene de manos. Es necesario para recopilar información que
+refleje de forma realista las prácticas, conocimientos, percepción e
+infraestructura actuales con respecto a la higiene de manos. Tras la
+evaluación inicial, las encuestas realizadas utilizando las
+herramientas que se describen más adelante deben repetirse (véase
+fase 4, sección III.2.4) para hacer un seguimiento del progreso y
+confirmar que la implantación de las iniciativas para la higiene de
+manos se traducen en mejoras en la higiene de manos y en la
+reducción de las IRAS en el centro sanitario. La repetición de
+encuestas garantizará la uniformidad, la comparación de resultados y
+la determinación del progreso.
+En los centros en los que se promueve permanentemente la
+higiene de manos, tras el periodo de implantación inicial, la estrategia
+multimodal de la OMS exige realizar ciclos de evaluación al menos
+con una frecuencia anual para lograr la sostenibilidad. Por
+consiguiente, el seguimiento y la evaluación con retroalimentación
+continua durante años, con la frecuencia que determinen el
+coordinador y los participantes clave del programa.
+La introducción y análisis de datos son una parte importante de
+la evaluación global. Si el centro no cuenta con una unidad de
+epidemiología o estadística en la que se puedan gestionar los datos,
+será necesario designar a una persona a la que se le pueda asignar
+esta tarea. La persona designada debe saber utilizar programas
+informáticos básicos (por ejemplo, Microsoft Office) y es preferible quetenga conocimientos básicos en epidemiología y/o análisis
+estadístico.
+Las encuestas de la OMS suelen llevarse a cabo utilizando copias
+impresas de los correspondientes formularios; no se dispone de
+formularios electrónicos pero se pueden crear localmente. Se cuenta
+con una Herramienta de introducción y análisis de datos específica
+para cada encuesta que incluye un marco preelaborado para el
+análisis de datos. También se dispone de Instrucciones para la
+introducción y análisis de datos detalladas. Aprender a utilizar las
+bases de datos disponibles exige cierta formación y tiempo, pero se
+considera relativamente fácil.
+Tras introducir los datos en la base de datos específica, el
+coordinador del programa de higiene de manos deberá guardar
+copias impresas o electrónicas para facilitarlas si es necesario realizar
+verificaciones.
+La mejor estrategia para la introducción de datos es comenzar este
+proceso en cuanto se haya utilizado cada herramienta y cuando se
+disponga de los formularios cumplimentados.
+La retroalimentación de los resultados es parte integrante de la
+evaluación y la que le da sentido. De hecho, tras la evaluación inicial
+(véase fase 2, sección III.2.2) en un centro en el que se está
+implantando por primera vez el programa de mejora de la higiene de
+manos, los datos que indican lagunas en las buenas prácticas y los
+conocimientos, o una percepción deficiente del problema, se pueden
+utilizar para concienciar y convencer a los profesionales sanitarios de
+que hay una necesidad de mejora. Por otra parte, tras la implantación
+del programa de mejora (véase fase 4, sección III.2), los datos del
+seguimiento son cruciales para demostrar la mejora y, por
+consiguiente, mantener la motivación para realizar buenas prácticas y
+hacer esfuerzos continuos a escala individual e institucional. Estos
+datos son también muy útiles para identificar áreas en donde se
+necesitan esfuerzos adicionales (por ejemplo, determinadas
+categorías profesionales que demostraron nula o escasa mejora en el
+cumplimiento de la higiene de las manos u otros indicadores;
+determinadas indicaciones relativas a la higiene de manos en las que
+los profesionales sanitarios apenas mejoraron).
+Los resultados de las encuestas se pueden divulgar en informes
+por escrito u otros medios de comunicación interna o mostrar durante
+las sesiones formativas y de retroalimentación de datos. La
+herramienta Marco del informe resumido de datos ayuda a organizar
+las cifras que se derivan del análisis y a preparar las diapositivas para
+presentar los resultados.
+También existen otras formas de retroalimentación y cada centro
+deberá decidir la mejor forma de comunicar los resultados de los
+análisis de los datos.
+Una estrategia eficaz generaría mejoras en todas las actividades
+y conductas analizadas así como en la percepción de los
+profesionales sanitarios.
+Indicadores clave de resultados satisfactorios
+• aumento del cumplimiento de la higiene de manos
+• mejora en las infraestructuras de higiene de manos / control de
+infecciones
+• aumento del uso de productos para la higiene de manos
+• mejora en la percepción de la higiene de manos
+• mejora en el conocimiento de la higiene de manos2424GUÍA DE APLICACIÓN PARTE II
+II.3.2. Herramientas para la evaluación y retro-
+alimentación – descripción de las herramientas
+La gama de herramientas disponibles para respaldar la
+implantación de la evaluación y retroalimentación se representa en la
+siguiente figura.
+Manual técnico de
+referencia para la
+higiene de manosHerramientas de
+observación: formulario
+de observación y
+formulario de cálculo
+del cumplimiento
+Estudio sobre la
+infraestructura de las
+salasEstudio sobre el
+consumo de jabón /
+preparado de base
+alcohólica para manos
+Estudio sobre la
+percepción de los
+profesionales
+sanitariosEstudio sobre la
+percepción de los
+directivos
+Cuestionario sobre los
+conocimientos de los
+profesionales
+sanitarios en materia
+de higiene de manos
+Protocolo para
+evaluación de la
+tolerabilidad y
+aceptabilidad del
+preparado de base
+alcohólica para manos
+que se está utilizando
+o que está previsto
+introducir: Método 1Protocolo para
+evaluación y
+comparación de la
+tolerabilidad y
+aceptabilidad de
+diferentes preparados
+de base alcohólica
+para manos: Método 2
+Herramienta de
+introducción y análisis
+de datosInstrucciones para la
+introducción y análisis
+de datosPresentación tipo del
+informe resumido de
+datos
+LaHerramienta de introducción y análisis de datos ,lasInstrucciones
+para la introducción y anál isis de datos y la Presentación tipo del
+informe resumido de datos no se describen detalladamente en esta
+guía.
+Estudio sobre la infraestructura de las salas – se describe en la
+sección relativa al cambio del sistema.
+Estudio sobre el consumo de jabón /preparado de base alcohólica
+para manos – se describe en la sección relativa al cambio del
+sistema.
+Protocolos para evaluación de la tolerabilidad y aceptabilidad de los
+preparados de base alcohólica para manos – Métodos 1 y 2 – se
+describen en la sección relativa al cambio del sistema.
+Manual técnico de referencia para la higiene de manos – se describe
+en la sección relativa a la formación.Herramientas de observación de la higiene de manos
+QuéSe dispone de un conjunto de herramientas para
+llevar a cabo la observación directa de las
+prácticas de higiene de manos y, de este modo,
+evaluar el cumplimiento:
+- unformulario de observación – que se
+utilizará para recopilar datos sobre la
+práctica de la higiene de manos mientras
+se observa a los profesionales sanitarios
+durante el ejercicio de su actividad
+ordinaria. También incluye unas
+instrucciones resumidas para su uso;
+- dos formularios para el cálculo del
+cumplimiento (básico y opcional) – para
+ayudar al personal a calcular fácilmente
+los índices de cumplimiento, basándose
+en los datos recogidos en el formulario de
+observación.
+Están directamente relacionados con algunas
+herramientas para la formación (véase sección
+III.2.2) para ayudar al observador a adquirir los
+conocimientos básicos necesarios sobre los
+principios y métodos de observación. Estas son:
+- elmanual técnico de referencia para la
+higiene de manos – un amplio manual
+de formación para comprender los
+principios básicos de la higiene de
+manos y, en particular, el modelo de
+“Mis 5 momentos para la higiene de las
+manos” y para explicar detalladamente
+el método directo de observación
+propuesto por la OMS; y
+- elfolleto sobre la higiene de manos: por
+qué, cómo y cuándo – un folleto en el
+que se resumen los principios básicos
+sobre por qué, cómo y cuándo realizar
+la higiene de manos y sobre el uso
+apropiado de guantes.
+Por quéEl cumplimiento de la higiene de manos cuando
+está indicado durante la actividad asistencial
+ordinaria, es el indicador más válido de la
+conducta de los profesionales sanitarios en
+relación con la higiene de manos. Por
+consiguiente, es uno de los indicadores más
+importantes del éxito de la estrategia para la
+mejora de la higiene de manos.
+DóndeEn todos los ámbitos clínicos donde se está
+implantando el programa de mejora de la
+higiene de las manos.
+CuándoEvaluar el cumplimiento inicial de la higiene de
+manos en los ámbitos clínicos donde se aplicará
+la estrategia para la mejora. Las observaciones
+iniciales deben realizarse antes de la aplicación
+de la estrategia.
+- Durante la evaluación de seguimiento
+(fase 4, sección III.2.4), la observación
+sirve para conocer el efecto de la
+aplicación de la estrategia en el
+cumplimiento de la higiene de manos.
+- Después, las observaciones deben
+repetirse con regularidad, al menos una
+vez al año, para supervisar el
+mantenimiento de la mejora e identificar
+las áreas que necesitan intervenciones
+adicionales.
+Dado que es muy importante que durante el
+seguimiento reiterado las observaciones tengan
+lugar en el mismo escenario que la evaluación
+inicial, se recomienda confeccionar una lista de
+los lugares observados.25GUÍA DE APLICACIÓN PARTE II
+Herramientas de observación de la higiene de manos
+QuiénEstas herramientas deben ser utilizadas por el
+observador.
+Preferiblemente, el observador debería ser un
+profesional que cuente con experiencia en la
+prestación de asistencia sanitaria a pie de cama.
+El observador deberá recibir formación para
+identificar las indicaciones relativas a la higiene
+de manos de acuerdo con el modelo de “Mis 5
+momentos para la higiene de las manos” y utilizar
+la herramienta. Tras la formación, se deberá
+evaluar la capacidad del observador para
+detectar correctamente el cumplimiento de la
+higiene de manos (véase formación, sección II.2).
+CómoElmanual técnico de referencia para la higiene
+de manos explica claramente cómo utilizar los
+formularios de observación y cálculo. En el
+reverso del formulario de observación también se
+incluyen instrucciones resumidas para su uso.
+En general, en cada unidad analizada
+(departamento, servicio o sala) se deben
+observar entre 150 y 200 oportunidades para la
+higiene de manos.Estudio sobre la percepción de los profesionales sanitarios
+QuéUn cuestionario acerca de la percepción del
+efecto de las IRAS, la importancia de la higiene de
+manos como medida preventiva y la eficacia de
+los diferentes elementos de la estrategia
+multimodal.
+El cuestionario está disponible en las versiones
+inicial y de seguimiento. La versión de
+seguimiento es un formulario que difiere
+ligeramente de la versión inicial e incluye nuevas
+cuestiones relativas al efecto de algunas
+intervenciones, como la introducción o
+modificación de los preparados de base alcohólica
+para manos, los pósters y folletos expuestos o
+distribuidos en el centro y el material didáctico.
+Por quéEs importante determinar qué percepción tienen
+los profesionales sanitarios acerca de la
+importancia de la higiene de manos en la
+asistencia sanitaria, ya que se ha demostrado que
+ésta influye en su buena disposición para aceptar
+las mejoras. La retro-alimentación de estos datos
+puede ser útil para demostrar que la percepción
+que se tiene no se corresponde con la tasa real de
+las IRAS y la importancia de la higiene de las
+manos.
+DóndeEn todos los ámbitos clínicos que participan en la
+aplicación de la estrategia para la mejora.
+Cuándo- Durante el periodo de tiempo asignado a la
+evaluación inicial (fase 2, III.2.2) para
+conocer la percepción inicial que tienen los
+profesionales sanitarios sobre las IRAS y la
+higiene de las manos antes de realizar
+cualquier intervención para la mejora;
+- durante la evaluación de seguimiento (fase
+4, III.2.4) para evaluar el efecto de la
+aplicación de la estrategia en la percepción
+de los profesionales sanitarios.
+QuiénUsuario: el coordinador del programa o cualquier
+persona encargada de distribuir y recoger el
+cuestionario.
+Población de la encuesta: profesionales sanitarios
+de los ámbitos clínicos en los que se está
+implantando el programa de higiene de manos.
+Cómo- Distribución anónima del cuestionario;
+- preferiblemente mediante distribución al
+azar;
+- en caso de que la distribución al azar no
+sea viable:
+si sólo participan unas cuantas salas, el
+cuestionario debe distribuirse a todos
+los profesionales sanitarios en un plazo
+de una semana y los cuestionarios
+cumplimentados deben recogerse 4 ó 5
+días después;
+si el programa afecta a muchas salas o
+a todo el centro sanitario, el
+cuestionario debe distribuirse a todos
+los profesionales sanitarios presentes
+en el trabajo en un día específico; por
+consiguiente, se distribuirá por la
+mañana y se recogerá al final del
+mismo día.2626GUÍA DE APLICACIÓN PARTE II
+Cuestionario sobre los conocimientos de los profesionales
+sanitarios en materia de higiene de manos
+QuéUn cuestionario con preguntas técnicas para
+evaluar el conocimiento real de los aspectos
+esenciales de la transmisión a través de las
+manos y sobre la higiene de las manos durante
+la atención sanitaria.
+El conocimiento necesario para contestar
+correctamente estas cuestiones sólo se
+adquiere mediante actividades de formación y
+capacitación.
+Por quéLa higiene de manos es una medida sencilla,
+pero su mejora se basa en la comprensión de
+los mecanismos de transmisión de los
+microorganismos en el ámbito sanitario así
+como de las indicaciones clave.
+Es importante evaluar los conocimientos de los
+profesionales sanitarios antes y después de
+realizar las actividades de formación.
+DóndeEn los ámbitos clínicos donde se llevan a cabo
+las actividades de formación.
+CuándoEl cuestionario puede distribuirse:
+– para la evaluación inicial:
+- durante el periodo inmediatamente
+anterior al comienzo de cualquier
+actividad e intervención de formación; o
+- al principio de cada sesión de formación
+(es decir, durante el comienzo del
+periodo de aplicación de la estrategia).
+– para la evaluación de seguimiento:
+- al principio de cada sesión de
+formación; o
+- durante el periodo de evaluación de
+seguimiento (fase 2, véase sección
+III.2.4).
+QuiénUsuario: los formadores o cualquier persona
+encargada de distribuir y recoger el cuestionario.
+Población de la encuesta: los profesionales
+sanitarios que serán los destinatarios de las
+sesiones de formación sobre higiene de manos.
+CómoDeberá distribuirlo el formador. Si se pretende
+que los resultados sean anónimos, deberán
+darse instrucciones a cada profesional sanitario
+para crear un código de identidad que permita la
+autoevaluación después de haber tenido lugar la
+formación. El código de identidad puede darse a
+conocer al usuario únicamente o tanto al usuario
+como al formador, de acuerdo con los requisitos
+de privacidad establecidos localmente.Estudio sobre la percepción de los directivos
+QuéUn cuestionario para determinar la percepción que
+tienen los directivos acerca del efecto de las IRAS,
+la importancia de la higiene de manos como
+medida preventiva, los diferentes elementos de la
+estrategia multimodal y su papel vital en la
+promoción de la higiene de las manos en un clima
+institucional de seguridad.
+Por quéLa sensibilización de los directivos, su
+compromiso de contribuir sustancialmente a la
+creación de un clima institucional de seguridad así
+como su apoyo son cruciales para crear los
+cimientos y adquirir los recursos para la
+implantación de un programa de mejora de la
+higiene de manos. Por esta razón es importante
+evaluar su percepción sobre la importancia de la
+higiene de manos en la atención sanitaria e
+identificar los mensajes clave que deben
+comunicarse en las actividades de promoción.
+Dónde En la Dirección (unidad de gestión) del centro.
+Cuándo- Durante la fase de preparación del
+centro (fase 1, sección III.2.1) o
+durante el periodo inicial;
+- durante el periodo de seguimiento
+(fase 4, sección III.2.4) para evaluar el
+efecto de la implantación del
+programa en la percepción de los
+directivos.
+QuiénUsuario: el coordinador del programa o cualquier
+persona encargada de distribuir y recoger el
+cuestionario.
+Población de la encuesta: los altos directivos del
+centro.
+CómoDistribución anónima del cuestionario.
+Los cuestionarios cumplimentados deben
+recogerse 4 o 5 días después.27GUÍA DE APLICACIÓN PARTE II
+II.3.3. Uso de las herramientas para la
+evaluación y retroalimentación – ejemplos de
+posibles situaciones en el ámbito sanitario
+Ejemplo 1: centros sanitarios que adoptan un nuevo programa
+de mejora de la higiene de manos.
+La prioridad inmediata de estos centros es recopilar
+información de referencia sobre los indicadores pertinentes para
+la evaluación de las infraestructuras, prácticas y conocimientos
+relativos a la higiene de manos así como de la percepción del
+problema de las IRAS y de la importancia de la higiene de manos
+en el centro sanitario. Esto es de máxima importancia para
+identificar los recursos necesarios y establecer prioridades con
+respecto al programa de mejora de la higiene de manos. Para
+tener una visión amplia de la situación, todas las encuestas
+previamente indicadas deberían realizarse preferiblemente
+durante los periodos de preparación e inicial. La siguiente fase en
+que procede analizar los mismos indicadores es la evaluación de
+seguimiento, en la que el análisis de los mismos indicadores
+contribuye a evaluar el efecto producido por la estrategia.
+Teniendo en cuenta que este plan conlleva la asignación de
+suficiente tiempo y personal a estas actividades en ámbitos que
+tienen recursos limitados y otras prioridades, la realización de
+todas las encuestas podría no ser viable. En estos casos, las
+herramientas utilizadas se podrían limitar a las siguientes:
+Herramienta Cuándo se ha de utilizar
+Estudio sobre la percepción
+de los profesionales sanitariosPor lo menos en el periodo
+inicial
+Estudio sobre la
+infraestructura de las salasEn los periodos inicial y de
+seguimiento
+Estudio sobre el consumo de
+jabón/ preparados de base
+alcohólica para manosMensualmente o cada 3-4
+meses (de forma continua)
+Formulario de observaciónEn los periodos inicial y de
+seguimiento
+Es posible que estos centros no hayan alcanzado la fase en la
+que se lleva a cabo la evaluación de forma sistemática, incluidas
+las observaciones y la retroalimentación. Sin embargo, en los
+planes de actuación a largo plazo se debería considerar un
+marco temporal para la evaluación.Ejemplo 2: centros sanitarios en los que ya está establecido un
+programa de mejora de la higiene de manos.
+Se supone que estos centros ya han llevado a cabo las evaluaciones
+inicial y de seguimiento de los indicadores recomendados y que
+cuentan con infraestructura de apoyo y un programa de formación
+continua. El seguimiento y la evaluación siguen siendo una
+característica importante de la ampliación o refuerzo de una
+estrategia de mejora existente y proporcionarán datos de forma
+continuada sobre el progreso de la estrategia.
+Estos centros tendrán que prestar más atención al seguimiento
+frecuente de los conocimientos, percepción, infraestructuras y
+práctica de la higiene de manos realizando observaciones en todas
+las áreas del centro y proporcionar a los profesionales sanitarios de
+forma habitual informes y retroalimentación sobre los resultados junto
+con información sobre las mejoras que se están produciendo en la
+higiene de manos.
+La frecuencia de realización de estas encuestas depende de las
+prioridades locales. La observación de las prácticas de higiene de
+manos debería llevarse a cabo por lo menos una vez al año, pero
+preferiblemente con una frecuencia mensual. El consumo de
+productos para la higiene de manos, especialmente del preparado de
+base alcohólica para manos, debe registrarse mensualmente o en
+intervalos de tiempo que permitan realizar cálculos de tendencias
+anuales (por ejemplo, cada 3 ó 4 meses). Para una mejora sostenida,
+se recomienda un ciclo de planificación de actuación y revisión
+mínimo de cinco años.
+Asimismo, lo más probable es que estos centros lleven a cabo
+actividades de seguimiento y retroalimentación con respecto a las
+IRAS. De hecho, es posible que algunos centros ya cuenten con un
+sistema de vigilancia válido y bien establecido, en cuyo caso este
+sistema proporcionará información valiosa sobre los indicadores más
+fiables para evaluar la eficacia de la estrategia para la mejora de la
+higiene de manos. Lo ideal sería llevar a cabo la medición de las
+tendencias mensuales de incidencia durante al menos un año, tanto
+antes como después de la aplicación de la estrategia para la mejora
+de la higiene de manos. Dependiendo del alcance del programa,
+también pueden ser adecuadas las encuestas de prevalencia en las
+áreas en las que tiene lugar la promoción de la higiene de manos,
+antes y después de la aplicación del programa de mejora, siempre
+que se realice un cálculo adecuado del tamaño de la muestra.
+En el plan de actuación debería considerarse la necesidad de incluir
+algún sistema de seguimiento de las tasas de IRAS. El equipo
+encargado del programa de higiene de las manos y el equipo
+directivo deberán acordar los objetivos específicos para la mejora de
+las tasas de IRAS en el centro e incluirlos en el plan de actuación.
+Si se dispone de los índices locales de IRAS, se podría calcular la
+rentabilidad de la introducción del preparado de base alcohólica para
+manos y, posiblemente también, de toda la estrategia para la mejora.
+Compartir el aprendizaje adquirido con el Programa de la OMS
+para la Seguridad del Paciente
+El programa de la OMS para la seguridad del paciente está
+interesado en recibir información de retorno procedente de los
+coordinadores de higiene de manos sobre el proceso de implantación
+de un plan de actuación para la higiene de manos así como datos
+sobre las mejoras realizadas.
+En el sitio web del programa de la OMS para la seguridad del
+paciente www.who.int/gpsc/en/ figuran los datos de contacto y un
+área para enviar estudios de casos sobre las mejores prácticas.
+Acceso a las Herramientas
+www.who.int/gpsc/en/2828GUÍA DE APLICACIÓN PARTE II
+II.4. RECORDATORIOS EN EL
+LUGAR DE TRABAJO
+II.4.1. Recordatorios en el lugar de trabajo –
+definiciones y perspectiva general
+Los recordatorios en el lugar de trabajo son herramientas clave
+para señalar y recordar a los profesionales sanitarios la importancia
+de la higiene de las manos y las indicaciones y procedimientos
+adecuados para llevarla a cabo. También son medios de informar a
+los pacientes y a sus visitas de las pautas asistenciales que deberían
+esperar de sus profesionales sanitarios con respecto a la higiene de
+manos.
+Los pósteres son el tipo de recordatorio más habitual. El conjunto de
+herramientas para la aplicación incluye tres pósters estándar de la
+OMS para visualizar el modelo de “Mis 5 momentos para la higiene de
+las manos” y el procedimiento correcto para realizar la fricción y el
+lavado de manos.
+Otros tipos de recordatorios son los folletos de bolsillo que cada
+profesional sanitario puede llevar consigo, pegatinas colocadas en el
+punto de atención, etiquetas especiales incluyendo eslóganes
+persuasivos pegados en los dispensadores de preparados de base
+alcohólica y los distintivos con el logotipo de la higiene de manos.
+Los recordatorios en el lugar de trabajo deben ser una
+característica de los planes de actuación para los centros que
+implantan programas de mejora de la higiene de manos a todos los
+niveles. Los recordatorios deben utilizarse y exhibirse en todos los
+ámbitos clínicos del centro sanitario durante la fase de aplicación de
+la estrategia (fase 3, sección III.2.3) y deben actualizarse y renovarse
+con regularidad. Los recordatorios pueden ir dirigidos a los
+profesionales sanitarios, pacientes y visitas.
+La adaptación a la cultura local de los recordatorios de la OMS y
+el desarrollo de recordatorios nuevos en los que se visualizan las
+recomendaciones de la OMS sobre la higiene de manos utilizando
+terminología e imágenes propias facilitan sin duda la asimilación local
+de la estrategia.
+Los profesionales sanitarios también tendrán acceso a las guías y
+protocolos locales sobre la higiene de manos para informarles y
+recordarles lo que en su lugar de trabajo significan las buenas
+prácticas de la higiene de manos.
+II.4.2. Herramientas para usar como recordatorios
+en el lugar de trabajo – descripción de las
+herramientas
+La gama de herramientas que se pueden utilizar como
+recordatorios en lugar de trabajo se representa en la siguiente figura.
+Póster de los 5
+momentos para la
+higiene de manosPóster de cómo
+realizar la fricción de
+las manosPóster de cómo
+realizar el lavado de
+manos
+Folleto sobre la
+higiene de manos:
+cuándo y cómo
+Salvapantallas:
+SAVE LIVES:
+Clean Your  HandsPóster “Los 5 momentos para la higiene de las manos”
+QuéPóster en el que se visualizan los cinco momentos
+(indicaciones) en los que hay que realizar la
+higiene de manos durante la prestación de la
+asistencia sanitaria.
+Por quéPorque todos los profesionales sanitarios
+necesitan visualizar y suscribir los mensajes clave
+sobre la higiene de las manos, a saber, cuándo
+realizarla.
+DóndeSe ha de exponer en el punto de atención y en
+áreas destacadas de todo el centro sanitario.
+CuándoSe ha de exponer durante la fase de aplicación
+(fase 3, sección III.2.3), se mantendrá en todo
+momento y se sustituirá o renovará cuando sea
+necesario.
+QuiénUsuario: el coordinador del programa o cualquier
+persona encargada de exponer los pósters en
+todos los ámbitos clínicos.
+Destinatarios: todos los profesionales sanitarios
+que tengan contacto directo con los pacientes; los
+pacientes y sus visitas para que estén al corriente
+de las mejores prácticas de higiene de manos.
+CómoExponer los pósters en el punto de atención y
+renovarlos cuando sea necesario de acuerdo con
+el plan de actuación.
+Pósteres “Cómo realizar la fricción de manos” y “Cómo realizar
+el lavado de manos”
+QuéPósteres que explican los procedimientos
+adecuados para la fricción y el lavado de manos y
+cuyo objeto es recordar a los profesionales
+sanitarios que realicen la higiene de manos.
+Por quéPorque todos los profesionales sanitarios
+necesitan comprender los procedimientos
+adecuados para la fricción y el lavado de manos.
+DóndeSe han de colocar por todo el centro sanitario en
+áreas destacadas donde se preste la asistencia. El
+póster de cómo realizar la fricción de manos se
+pondrá preferiblemente en cada punto de atención;
+el póster de cómo realizar el lavado de manos
+debe situarse al lado de cada lavabo (que en
+condiciones ideales debería coincidir con cada
+punto de atención).
+CuándoSe han de colocar durante la fase de aplicación
+(fase 3, sección III.2.3), se mantendrán en todo
+momento y se sustituirán o renovarán cuando sea
+necesario.
+QuiénUsuario: el coordinador del programa o cualquier
+persona encargada de colocar los pósteres en
+todos los ámbitos clínicos.
+Destinatarios: todos los profesionales sanitarios
+que tengan contacto directo con los pacientes; los
+pacientes y sus visitantes para que estén al
+corriente de las mejores prácticas de higiene de
+las manos.
+CómoColocar los pósteres en los puntos de atención y
+renovarlos cuando sea necesario de acuerdo con
+el plan de actuación.29GUÍA DE APLICACIÓN PARTE II
+Folleto sobre la higiene de manos: cuándo y cómo
+QuéUn folleto de bolsillo que resume los mensajes
+clave relativos a cuándo y cómo se debe realizar
+la higiene de manos.
+Por quéPorque todos los profesionales sanitarios de un
+centro deben comprender y seguir el modelo de
+“Los 5 momentos para la higiene de las manos” y
+los procedimientos correctos para la fricción de
+manos y el lavado de manos.
+DóndeSe ha de distribuir en los ámbitos clínicos donde
+se está implantando el programa de mejora de la
+higiene de manos.
+CuándoSe ha de colocar durante la fase de aplicación de
+la estrategia (fase 3, sección III.2.3),
+preferiblemente durante las sesiones de
+formación.
+QuiénEsta herramienta debe ser utilizada por todos los
+profesionales sanitarios de los ámbitos clínicos en
+donde se está implantando el programa de mejora
+de la higiene de manos.
+CómoDistribuir el folleto durante las sesiones de
+formación para que los profesionales sanitarios lo
+utilicen como herramienta personal y como
+referencia.
+Salva-pantallas SAVE LIVES: Clean Your Hands
+Qué Un salva-pantallas para el ordenador.
+Por quéPara recordar a los profesionales sanitarios
+que realicen la higiene de manos en los
+momentos adecuados.
+..
+DóndeSe ha de instalar en los ordenadores que
+utilizan los profesionales sanitarios en el
+centro.
+Cuándo En todo momento.
+QuiénEsta herramienta debe ser utilizada por todos
+los profesionales sanitarios que tengan
+acceso a un ordenador en los ámbitos
+clínicos donde se está implantando el
+programa de mejora de la higiene de manos.
+CómoSustituir el salva-pantallas actual por el Salva-
+pantallas SAVE LIVES: Clean Your Hands para
+recordar a los profesionales sanitarios que
+realicen la higiene de manos.II.4.3. Uso de las herramientas para los
+recordatorios en el lugar de trabajo – ejemplos
+de posibles situaciones en el ámbito sanitario
+Ejemplo 1: centros que adoptan un nuevo programa de mejora de la
+higiene de manos o que tienen recursos limitados.
+Medidas clave:
+• Determinar los recursos disponibles, incluida la experiencia o los
+conocimientos locales, que pueden invertirse en recordar a los
+profesionales sanitarios la importancia de la higiene de manos.
+• Establecer las necesidades y establecer un plazo para abordarlas.
+• Considerar los posibles costes en la planificación financiera y
+asegurar un presupuesto.
+• En primera instancia, al tener que comprometerse a adoptar
+muchas medidas para implantar un nuevo programa de mejora de la
+higiene de manos, estos centros podrían decidir utilizar las
+herramientas ya disponibles en el conjunto de herramientas para la
+aplicación de la estrategia de la OMS sin ninguna adaptación.
+Ejemplo 2: centros en los que el programa de mejora de la higiene
+de manos ya está bien establecido.
+Medidas clave:
+• Considerar como prioritario en el plan de actuación adaptar los
+recordatorios, incluidas las imágenes, a la cultura nacional o local.
+• Asegurarse de que los recordatorios colocados están siempre en
+buen estado.
+• Incluir en el plan de actuación a largo plazo del centro la necesidad
+de que los recordatorios se renueven con regularidad cambiando las
+imágenes y los eslóganes.
+• La adaptación local de los recordatorios podría conseguirse más
+fácilmente si se invita a los profesionales sanitarios a dibujar sus
+propias imágenes. Este proceso podría facilitarse con el apoyo de un
+diseñador profesional que captaría las ideas de los profesionales
+sanitarios. Esta actividad ayudaría a generar la participación
+individual en el programa y fomentaría debates sobre los mensajes
+clave para la higiene de manos.
+• Utilizar otros recordatorios además de los pósteres.
+Compartir el aprendizaje adquirido con el Programa de la OMS
+para la Seguridad del Paciente
+El programa de la OMS para la seguridad del paciente está
+interesado en ver los recordatorios que se realizan a nivel local.
+En el sitio web del programa de la OMS para la seguridad del
+paciente www.who.int/gpsc/en/ figuran los datos de contacto e
+instrucciones para enviar sus recordatorios
+Acceso a las herramientas
+www.who.int/gpsc/en/3030GUÍA DE APLICACIÓN PARTE II
+II.5. CLIMA INSTITUCIONAL DE
+SEGURIDAD
+II.5.1. Clima institucional de seguridad –
+definiciones y perspectiva general
+El clima institucional de seguridad se refiere a crear el entorno y
+las percepciones que propicien la sensibilización sobre cuestiones de
+seguridad del paciente y garantizar al mismo tiempo que la mejora de
+la higiene de manos se considere una prioridad a todos los niveles,
+incluyendo
+la participación activa a escala institucional e individual;
+la toma de conciencia de la capacidad individual e institucional para
+cambiar y mejorar (autoeficacia); y
+la asociación con pacientes y organizaciones de pacientes.
+A escala institucional, este componente de la estrategia constituye
+los cimientos para la implantación y el mantenimiento del programa de
+mejora de la higiene de manos, que debe integrarse en una cultura que
+entienda y priorice las cuestiones de seguridad básicas.
+A escala individual, este componente de la estrategia es
+importante para sensibilizar a todos los profesionales sanitarios de la
+importancia de la higiene de manos así como para motivarles a
+realizarla de manera óptima como muestra de su compromiso de no
+causar daño alguno a los pacientes. Mediante la creación de un clima
+institucional de seguridad, tanto la institución como cada profesional
+toman conciencia de su capacidad de generar cambios y de catalizar la
+mejora a través de todos los indicadores.
+La creación de un clima institucional de seguridad debe ser una
+prioridad en toda promoción de la higiene de manos,
+independientemente de cuál sea el nivel de progreso de la mejora de la
+misma en el centro, y es esencial durante cualquier fase de
+implantación del programa. Al principio hay que hacer un gran esfuerzo
+con el fin de crear la motivación para emprender la promoción de la
+higiene de manos (fase 1, fase de preparación del centro, sección
+III.2.1). Es importante que los responsables de la toma de decisiones y
+las personas influyentes participen en el proceso de planificación desde
+la fase más temprana posible y que esta participación continúe durante
+la implantación del programa y posteriormente.
+Siguiendo un proceso continuo de progreso, de manera simultánea o
+sucesiva deberán irse explorando otras áreas de la seguridad del
+paciente, de manera que el clima de seguridad llegue a estar
+profundamente arraigado en la tradición y comportamiento
+institucionales. Esto exige un progreso continuo en el desarrollo de
+sistemas estables para la detección de sucesos adversos y la
+evaluación de la calidad, siendo la higiene de manos uno de los
+indicadores clave.
+Los profesionales sanitarios y las personas influyentes pueden
+contribuir en gran medida al desarrollo eficaz de un clima de seguridad.
+Además de los profesionales que pertenecen al centro sanitario, estas
+personas influyentes pueden proceder de organizaciones externas,
+organizaciones no gubernamentales y organizaciones profesionales
+que pueden ofrecer asesoramiento sobre estrategias eficaces para
+mejorar la seguridad del paciente.En los ámbitos en donde la promoción de la higiene de manos
+está muy avanzada, los altos directivos y cargos relevantes habrán
+demostrado reiteradamente un compromiso pleno con la higiene de
+manos mediante la asignación de recursos a largo plazo y se preciarán
+de los niveles de excelencia alcanzados en su centro. La higiene de
+manos se utilizará regularmente como indicador de la calidad. En estos
+ámbitos, todos los profesionales sanitarios estarán comprometidos con
+la higiene de manos y serán totalmente responsables del cumplimiento
+del modelo de “Los 5 momentos para la higiene de las manos”.
+Especialmente en estos ámbitos, aunque no exclusivamente, los
+pacientes participarán en la creación de un clima institucional de
+seguridad. De hecho, la concienciación y comprensión por parte de los
+pacientes de la práctica de la higiene de manos son importantes
+aspectos que han de tenerse en cuenta en los planes de actuación de
+un programa multimodal de mejora de la higiene de manos. Una actitud
+positiva por parte de los pacientes para motivar a los profesionales a
+realizar una buena higiene de las manos podría mejorar el
+cumplimiento del modelo de “los 5 momentos”. Realizar una higiene
+correcta de manos a la vista del paciente puede promover la confianza
+de éste y la alianza entre pacientes y profesionales para hacer la
+asistencia sanitaria más segura.
+II.5.2. Herramientas para el clima institucional de
+seguridad – descripción de las herramientas
+La gama de herramientas para el clima institucional de seguridad
+se representa en la siguiente figura:
+Modelo de carta para
+comunicar las
+iniciativas en materia
+de higiene de manos
+a los directivosModelo de carta para
+recomendar la higiene
+de manos a los
+directivos
+Orientación sobre
+cómo involucrar a los
+pacientes y sus
+organizaciones
+Mantenimiento de la
+mejora –actividades
+adicionales a ser
+consideradas por los
+centros sanitarios
+Video de promoción
+SAVE LIVES:  Clean
+Your  Hands31GUÍA DE APLICACIÓN PARTE II
+Modelo de carta para recomendar la higiene de manos a los
+directivos
+QuéUn modelo de carta para su uso y adaptación por
+parte de un coordinador local de higiene de
+manos para ayudar a establecer el diálogo inicial
+con los principales responsables de la toma de
+decisiones con respecto a la inversión en la
+mejora de la higiene de manos.
+Por quéPara ayudar a un coordinador local de higiene de
+manos o a las personas interesadas en introducir
+o reforzar iniciativas para la mejora de la higiene
+de manos en un centro sanitario, a promover y
+estimular el compromiso, el apoyo y la inversión
+por parte de los principales responsables de la
+toma de decisiones del centro.
+DóndeEn la unidad de gestión hospitalaria del centro
+sanitario.
+CuándoEn las fases iniciales de la implantación de un
+programa de mejora de la higiene de manos
+(fase 1, sección III.2.1).
+QuiénUsuario: un coordinador local de higiene de
+manos o las personas interesadas en introducir o
+reforzar iniciativas para la mejora de la higiene de
+manos en un centro sanitario.
+Destinatarios: altos directivos del centro sanitario.
+CómoEl usuario puede introducir información local o
+modificar el texto del modelo de carta para
+reflejar el estilo local y proceder a su envío.
+También se dispone de un modelo de carta
+similar para ayudar a comunicar mensajes
+importantes con respecto a las iniciativas en
+materia de mejora a los cargos directivos o
+líderes clave (Modelo de carta para comunicar
+las iniciativas en materia de higiene de manos a
+los directivos).Modelo de carta para comunicar las iniciativas en materia
+de higiene de manos a los directivos
+QuéUn modelo de carta para su uso y adaptación por
+parte de un coordinador local de higiene de manos
+para transmitir mensajes claros con respecto a las
+iniciativas de mejora e indicar explícitamente
+dónde se requiere tomar medidas y quién debe
+adoptarlas.
+Por quéPara ayudar a un coordinador local de higiene de
+manos o a las personas interesadas en introducir
+o reforzar iniciativas para la mejora de la higiene
+de manos en un centro sanitario, a comunicar
+mensajes importantes con respecto a las
+iniciativas en materia de mejora a los principales
+cargos directivos o cargos relevantes.
+Dónde En la unidad de gestión hospitalaria del centro
+sanitario.
+CuándoEn las fases iniciales de un programa de mejora
+de la higiene de manos (fase 1, sección III.2.1).
+QuiénUsuario: un coordinador local de higiene de manos
+o las personas interesadas en introducir o reforzar
+iniciativas para la mejora de la higiene de manos
+en un centro sanitario.
+Destinatarios: altos directivos del centro sanitario.
+CómoEl usuario puede introducir información local o
+modificar el texto del modelo de carta para reflejar
+el estilo local. También se dispone de un modelo
+de carta similar para ayudar a promocionar y
+estimular el compromiso, el apoyo y la inversión
+en la iniciativa por parte de los principales
+responsables de la toma de decisiones del centro.
+(Modelo de carta para recomendar la higiene de
+manos a los directivos).3232GUÍA DE APLICACIÓN PARTE II
+Orientaciones sobre cómo involucrar a los pacientes y sus
+organizaciones en las iniciativas relativas a la higiene de manos
+QuéOrientación sobre la intervención y participación
+de los pacientes, la colaboración con las
+organizaciones de pacientes y el desarrollo de
+un programa para formar a los pacientes y
+sensibilizarlos con respecto a la mejora de la
+higiene de manos en la atención sanitaria.
+Por quéPorque las Directrices de la OMS sobre la
+higiene de las manos en la atención sanitaria
+fomentan la alianza entre los pacientes, sus
+familias y los profesionales sanitarios para
+promover la higiene de manos en los ámbitos
+sanitarios y su aportación puede tener un efecto
+positivo en la mejora.
+DóndeEn la unidad de gestión hospitalaria del centro
+sanitario.
+CuándoUna vez que los centros sanitarios cuentan con
+un programa bien establecido de mejora de la
+higiene de las manos (tenerlo en cuente para el
+desarrollo de planes a largo plazo durante la
+fase 5, véase sección III.2.5).
+QuiénEsta herramienta debe ser utilizada por el
+coordinador del programa de higiene de manos
+en los centros donde está previsto hacer
+partícipes e involucrar a los pacientes u
+organizaciones de pacientes en iniciativas para
+la higiene de manos.
+CómoEl coordinador del programa de higiene de
+manos puede revisar la herramienta de
+orientaciones e ideas sobre cómo involucrar a
+los pacientes y sus organizaciones e integrar las
+actividades seleccionadas en su plan de
+actuación a largo plazo para la mejora de la
+higiene de manos.Mantenimiento de la mejora – actividades adicionales a ser
+consideradas por los centros sanitarios
+QuéOrientación para los centros sanitarios interesados
+en ampliar la mejora existente de la higiene de
+manos con herramientas o actividades adicionales
+que podría organizar el centro como parte de sus
+planes de actuación a largo plazo para mantener
+la dinámica y continuar intensificando (o por lo
+menos manteniendo) la mejora de la higiene de
+manos.
+Por quéPorque es decisivo mantener la dinámica y las
+mejoras obtenidas en los centros sanitarios que ya
+disponen de estrategias bien establecidas para la
+mejora de la higiene de manos y cuentan con
+excelentes recursos y sistemas de observación y
+formación.
+Dónde En la unidad de gestión hospitalaria del centro
+sanitario.
+CuándoUna vez que los centros sanitarios cuentan con
+infraestructura y sistemas bien establecidos para
+la formación y la observación de la higiene de
+manos (especialmente con respecto al desarrollo
+de planes a largo plazo durante la fase 5, véase
+sección III.2.5).
+QuiénEsta herramienta debe ser utilizada por el
+coordinador del programa de higiene de manos,
+los directivos, o las personas responsables de la
+planificación, aplicación y mantenimiento de la
+mejora de la higiene de manos en un centro
+sanitario.
+CómoEl coordinador del programa de higiene de manos
+debe revisar la herramienta de orientaciones e
+ideas sobre cómo mantener la dinámica y las
+mejoras en la higiene de manos en su centro, e
+integrar las actividades seleccionadas en su plan
+de actuación a largo plazo para la mejora de la
+higiene de las manos.33GUÍA DE APLICACIÓN PARTE II
+DVD de promoción SAVE LIVES: Clean Your Hands
+QuéUn cortometraje con imágenes impactantes para
+promover la higiene de manos y la iniciativa SAVE
+LIVES: Clean Your Hands.
+Por quéPara inculcar a todos los profesionales sanitarios la
+promoción y la práctica óptima de la higiene de manos
+durante la prestación de la asistencia sanitaria y motivar
+a los pacientes a participar en las iniciativas de mejora de
+la higiene de manos.
+DóndeSe proyectará en las reuniones, sesiones de formación y
+zonas públicas de un centro en el que se promueva la
+intervención y participación de los pacientes, como una
+forma impactante de inculcar y promover la higiene de
+manos.
+CuándoAl inicio y cierre de las reuniones en las que se requiera
+un mensaje claro con respecto a la importancia de la
+higiene de manos (por ejemplo, las sesiones didácticas,
+sesiones de formación, reuniones de equipo, reuniones
+de sensibilización, sesiones informativas para el
+personal).
+QuiénUsuarios: el coordinador del programa de higiene de
+manos, directivos y formadores.
+CómoProyectar el cortometraje a los profesionales sanitarios o
+al público antes de facilitar más detalles sobre las
+iniciativas en materia de higiene de manos para ofrecer
+un contexto y un mensaje impactante sobre la higiene de
+manos en la asistencia sanitaria.
+II.5.3. Uso de las herramientas para el clima
+institucional de seguridad – ejemplos de
+posibles situaciones en el ámbito sanitario
+Ejemplo 1: centros sanitarios que adoptan un nuevo programa de
+mejora de la higiene de manos.
+Medidas clave:
+Identificar al coordinador del programa de mejora de la higiene de
+manos y, preferiblemente, también a un adjunto y, cuando sea
+posible, un equipo o comité dedicado a la higiene de manos.
+Prepararse para dar a conocer las iniciativas de mejora de la higiene
+de manos en todo el centro.
+Identificar a las partes interesadas internas, directivos, individuos o
+grupos clave que necesiten estar informados de las iniciativas
+emprendidas en el centro sanitario.
+Utilizar los modelos de cartas para solicitar el apoyo de los altos
+directivos y comunicarse con ellos y con los profesionales sanitarios.
+En particular, obtener financiación, recursos humanos y apoyo de
+los directivos para organizar actividades de formación.
+Identificar por lo menos a un miembro del personal de cada sala, o
+de cada departamento (médicos o supervisoras) que estará
+totalmente informado, en el momento oportuno, de la puesta en
+marcha de la estrategia para la mejora de la higiene de manos y, si
+es posible, estará formado en el control general de infecciones.
+Facilitar las Directrices de la OMS sobre la higiene de las manos en
+la atención sanitaria o el resumen de éstas en los ámbitos clínicos.
+Considerar un marco temporal para iniciar futuros debates con
+organizaciones de pacientes o involucrar a los pacientes.
+Comenzar poniendo los pósteres de la OMS en lugares clave para
+propiciar la sensibilización.Ejemplo 2: centros sanitarios en los que ya está establecido el
+programa de mejora de la higiene de manos.
+Medidas clave:
+Elaborar un plan a largo plazo que comprenda aquellas medidas
+que garanticen que el clima institucional de seguridad se refleje
+totalmente en la higiene de manos.
+Incluir la higiene de manos en el conjunto de indicadores para la
+evaluación de la calidad de la atención sanitaria prestada en el
+centro.
+Fijar objetivos anuales para la mejora de la higiene de las manos
+(por ejemplo, mejorar el cumplimiento de forma que supere
+determinados índices, en función de la situación local).
+Establecer planes de incentivos y recompensas para los
+profesionales sanitarios por el cumplimiento óptimo del modelo de
+“Los 5 momentos para la higiene de las manos” o el protocolo para
+la higiene de manos basado en las Directrices de la OMS para la
+higiene de las manos en la atención sanitaria.
+Revisar las actividades existentes que involucren a los pacientes u
+organizaciones de pacientes en la mejora de la atención sanitaria y
+hacer un plan para la mejora de la higiene de manos
+Realizar actividades que involucren a los pacientes en la promoción
+de la higiene de las manos. Esta medida podría incluir lo siguiente:
+- encuestas a los pacientes para conocer su punto de vista acerca
+de la mejor forma de participar en la promoción de la higiene de
+manos;
+- desarrollo y difusión de folletos informativos o pósteres para
+informar a los pacientes de las iniciativas en materia de higiene de
+manos y de cómo pueden fomentarlas y apoyarlas;
+- iniciativas (expositores en la entrada del centro, actividades en las
+salas) para catalizar el apoyo de los pacientes hacia la promoción
+de la higiene de manos;
+- formación de los pacientes para identificar los momentos en que
+los profesionales deben realizar la higiene de manos;
+- colaboración con las organizaciones de pacientes para contribuir
+a la sensibilización o formación de los mismos, o ejercer presión
+para obtener financiación o mejorar para los centros.
+Acceso a las herramientas
+http://www.who.int/gpsc/en/GUÍA DE APLICACIÓN PARTE III
+PARTEIII
+34La parte III de la guía de aplicación proporciona los siguientes
+elementos adicionales para contribuir a la aplicación de la estrategia
+multimodal de la OMS para la mejora de la higiene de manos:
+esquema de plan de actuación que enumera qué medidas deben
+adoptarse para conseguir la aplicación de cada componente de
+la estrategia, tanto en los centros sanitarios que se encuentran
+en un nivel de progreso básico de la promoción de la higiene de
+manos como en los que están a un nivel avanzado; y
+un método por etapas como modelo para la aplicación de la
+estrategia en centros sanitarios que se han comprometido
+recientemente con la mejora de la higiene de manos.III.1. ELABORACIÓN DE UN PLAN
+DE ACTUACIÓN
+ElEsquema de plan de actuación se propone para ayudar a
+elaborar el plan de actuación local. Es muy amplio pero no tiene en
+cuenta cuestiones locales; por consiguiente, los centros sanitarios
+deberían identificar los elementos que se aplican a su situación local
+y modificar el esquema añadiendo actividades adicionales para
+reflejar las necesidades locales. No se pretende que el esquema
+indique el orden cronológico en que se deben emprender las
+medidas propuestas sino que ofrezca una perspectiva general de
+todas las medidas necesarias para conseguir la aplicación de cada
+componente de la estrategia, de acuerdo con los datos facilitados en
+la Parte II de la presente guía. Comprende una amplia variedad de
+medidas con respecto al progreso de la higiene de manos en el
+centro sanitario: desde las medidas básicas que se han de adoptar
+para iniciar un programa de higiene de manos hasta las actividades
+avanzadas indicadas en los centros sanitarios donde la promoción
+de la higiene de manos está muy avanzada. Además, el esquema
+ayuda a identificar funciones y responsabilidades, a establecer un
+marco temporal para la ejecución de las medidas y para las
+repercusiones presupuestarias y a realizar un seguimiento del
+progreso.
+Esquema global de un plan de actuación
+Medida Persona encargadaMarco temporal
+(fechas de inicio y
+finalización)Presupuesto
+(si es aplicable)Progreso
+(inclúyanse las fechas de
+revisión y conclusión)
+General
+Acceso a las directrices de la OMS sobre la higiene
+de las manos en el sitio web del programa de la
+OMS para la seguridad del paciente
+Adaptar las directrices de la OMS para su
+aplicabilidad local y garantizar al mismo tiempo la
+conformidad con las recomendaciones
+Acceso al conjunto de herramientas para la
+aplicación de la estrategia multimodal de la OMS
+para la mejora de la higiene de las manos en el sitio
+web del programa de la OMS para la seguridad del
+paciente
+Identificar un coordinador para el programa de
+mejora de la higiene de manos y un coordinador
+adjunto
+Identificar y crear un equipo o comité para apoyar al
+coordinador de higiene de manos
+Identificar las iniciativas o planes previos sobre la
+mejora de la higiene de manos / control de
+infecciones en el centro
+Contactar con el Director Gerente /director y los
+altos directivos del hospital para estudiar las
+medidas y actividades que se han de llevar a cabo
+en consonancia con el progreso actual de la
+promoción de la higiene de manos / control de
+infecciones en el centro y con las directrices de la
+OMS35GUÍA DE APLICACIÓN PARTE III
+Medida Persona encargadaMarco temporal
+(fechas de inicio y
+finalización)Presupuesto (si
+es aplicable)Progreso (inclúyanse las
+fechas de revisión y
+conclusión)
+Acordar el alcance de las actividades que se han
+de llevar a cabo
+Ajustar la actividad requerida a los recursos
+humanos disponibles
+Si actualmente se aplican en el centro políticas,
+normas, protocolos, procedimientos normalizados
+de trabajo, paquetes de medidas, etc., garantizar
+que uno de ellos se centra en la higiene de manos
+y planificar su difusión a todos los ámbitos clínicos
+y profesionales sanitarios
+Cambio del sistema
+Analizar el cumplimiento existente de la higiene de
+manos o la información disponible sobre las IRAS
+para orientar el programa de mejora de la higiene
+de manos
+Analizar las estructuras y recursos actuales
+Informe sobre la infraestructura de las salas
+Informe sobre el consumo de jabón / preparados de
+base alcohólica para manos
+Estudiar con el director gerente/director/altos
+directivos cómo mejorar las infraestructuras, con el
+objetivo a largo plazo de proporcionar un lavabo
+para cada habitación, provisto de agua corriente
+potable, jabón y toallas (lo más probable es que
+esta medida se relacione con planes más amplios/
+nacionales)
+Estudiar con el director gerente/director/altos
+directivos cómo abordar la disponibilidad de los
+recursos y mejorar el acceso a los mismos
+(suministrar preparados de base alcohólica para
+manos en cada punto de atención)
+Decidir si el preparado de base alcohólica para
+manos se va a producir o comprar
+Gestionar la compra en el mercado (local), teniendo
+en cuenta la disponibilidad, eficacia, tolerabilidad y
+coste
+Consultar la guía de producción local de
+preparados de base alcohólica para manos
+Analizar con las personas /expertos pertinentes la
+viabilidad y las medidas requeridas para producir
+los preparados de base alcohólica para manos
+recomendados por la OMS en el centro sanitario, y
+en especial las cuestiones de asequibilidad y
+seguridad
+Utilizar la herramienta de planificación y
+determinación de costes del preparado de base
+alcohólica  a fin de desarrollar una hoja de cálculo de
+presupuesto para la producción del preparado de
+base alcohólica para manos recomendado por la
+OMS
+Estudiar con el director gerente /director/directivos
+los planes nacionales o regionales para suministrar
+preparados de base alcohólica para manos a fin de
+intentar establecer…
+Realizar pruebas de tolerabilidad y aceptabilidad
+utilizando los protocolos para la evaluación
+Elaborar un plan financiero de los costes
+necesarios para subsanar las deficiencias de agua,
+lavabos, jabón, toallas y preparado de base
+alcohólica para manos e intentar obtener un
+presupuesto anual adecuado para este finGUÍA DE APLICACIÓN PARTE III
+36conclusión)Medida Persona encargadaMarco temporal
+(fechas de inicio y
+finalización)Presupuesto (si es
+aplicable)Progreso (inclúyanse
+fechas de revisión y
+Si es necesario, estudiar con el director gerente
+/director/altos directivos la posibilidad de obtener
+ayuda financiera adicional para mantener planes a
+corto, medio y largo plazo, por ejemplo, mediante la
+financiación del ministerio de sanidad/fondos de
+donantes / donaciones de la industria / otras
+donaciones
+Formación y aprendizaje
+Establecer los requisitos para la formación de los
+profesionales sanitarios basada en el número de
+empleados, necesidades y otras cuestiones locales
+Revisar/diseñar un programa de formación basado
+en las herramientas de formación de la OMS
+Identificar a los formadores (al menos uno por
+centro)
+Identificar a los observadores (al menos uno por
+centro)
+Reservar tiempo, contando con el apoyo de los altos
+directivos, para que los formadores y observadores
+se formen y desempeñen sus funciones asignadas,
+por ejemplo, mediante acuerdos por escrito
+Llevar a cabo la formación de los formadores
+Llevar a cabo la formación de los observadores (los
+formadores y observadores pueden recibir la misma
+formación básica en las mismas sesiones antes de
+que los observadores reciban formación específica
+adicional)
+Establecer el plan, incluido el marco temporal, para
+iniciar, llevar a cabo y evaluar la formación de los
+profesionales sanitarios
+Comunicar a todos los directivos y al personal cuál
+es el compromiso de tiempo requerido para la
+formación de los profesionales sanitarios
+Establecer un sistema para informar a los altos
+directivos sobre las sesiones de formación, y un plan
+de actuación para abordar la escasa asistencia o
+falta de asistencia
+Incorporar el programa de formación en el plan
+financiero global del centro
+Establecer un sistema para actualizar la formación y
+verificar la competencia de los formadores, por
+ejemplo, anualmente.
+Establecer un sistema para actualizar la formación y
+verificar la competencia de todos los profesionales
+sanitarios, por ejemplo, anualmente.
+Elaborar un plan para producir material didáctico
+complementario u organizar actividades adicionales
+para mantener la dinámica y motivación a más largo
+plazo (por ejemplo, organizar debates en el horario
+de comida sobre cuestiones relativas a la higiene de
+manos; preparar material de aprendizaje online;
+crear un sistema de apoyo entre compañeros para
+formar a los nuevos empleados en la higiene de
+manos)
+Establecer un sistema para actualizar el material
+didáctico37GUÍA DE APLICACIÓN PARTE III
+Medida Persona encargadaMarco temporal
+(fechas de inicio y
+finalización)Presupuesto (si es
+aplicable)Progreso (inclúyanse
+fechas de revisión y
+conclusión)
+Evaluación y retroalimentación
+Diseñar o revisar las actividades de evaluación y
+retroalimentación incluyendo…
+Observaciones de la higiene de manos
+Encuestas sobre la infraestructura de las salas
+Encuestas sobre el consumo de jabón/ preparados
+de base alcohólica para manos
+Encuestas sobre la percepción de los profesionales
+sanitarios
+Encuestas sobre la percepción de los directivos
+Encuestas sobre los conocimientos de los
+profesionales sanitarios
+Pruebas de tolerabilidad y aceptabilidad del
+preparado de base alcohólica para manos
+Establecer el plan, incluido el marco temporal, para
+las actividades de evaluación y retroalimentación
+Incluir la identificación de todo el apoyo
+especializado que se podría requerir, por ejemplo,
+epidemiólogo, administrador de datos
+Incorporar las actividades de evaluación y retro-
+alimentación al plan financiero global del centro
+Establecer un sistema global para informar a los
+altos directivos sobre los resultados de la
+evaluación, y un plan de actuación para abordar las
+deficiencias en cuanto al cumplimiento,
+conocimientos e infraestructuras
+Utilizar el manual técnico de referencia para la
+higiene de manos a fin de planificar las
+observaciones
+Identificar los candidatos a observadores
+(si no se ha hecho previamente)
+Establecer un sistema para la formación continua y
+para verificar la competencia de los observadores,
+por ejemplo, anualmente
+Realizar actividades iniciales de evaluación y retro-
+alimentación al personal sanitario clave, considerar
+el uso de …
+Herramienta de introducción y análisis de datos y las
+instrucciones para la introducción y análisis de datos
+Presentación tipo del informe resumido de datos
+Elaborar y difundir un plan de observación continua
+de acuerdo con un calendario acordado, por
+ejemplo, con una frecuencia anual pero
+preferiblemente bimensual
+Presentar los resultados de las observaciones al
+equipo de implantación del programa de higiene de
+manos y al equipo directivo trimestralmente o con
+arreglo a un calendario acordado
+Fijar objetivos anuales para la mejora del
+cumplimiento de la higiene de manos contando con
+la aprobación de todo el personal clave y teniendo
+en cuenta los datos actuales sobre los índices de
+cumplimiento de la higiene de manos
+Evaluar la información actual sobre los índices de
+IRAS en el centroGUÍA DE APLICACIÓN PARTE III
+38Medida Persona encargadaMarco temporal
+(fechas de inicio y
+finalización)Presupuesto (si es
+aplicable)Progreso (inclúyanse
+fechas de revisión y
+conclusión)
+Establecer un sistema para hacer un seguimiento
+continuo de los índices de IRAS y de los índices de
+cumplimiento de la higiene de manos
+Si es posible, realizar un análisis de coste-
+efectividad para informar a los directivos y asegurar
+la inversión en higiene de manos en el futuro
+Considerar la realización de un estudio de casos
+sobre las mejoras en relación con la higiene de
+manos en el centro para su publicación a escala
+local, regional o nacional y en el sitio web de la
+OMS
+Considerar la publicación de datos sobre la mejora
+de la higiene de manos y los índices de IRAS en el
+centro en una revista médica con revisión científica
+externa, revista especializada o boletín interno
+Considerar la presentación de datos sobre la mejora
+de la higiene de manos y los índices de IRAS en el
+centro en congresos locales, nacionales o
+internacionales
+Recordatorios en el lugar de trabajo
+Determinar los recursos disponibles, incluidos los
+recordatorios y experiencia local existentes, para
+aplicarlos a los recordatorios sobre la higiene de
+manos destinados a los profesionales sanitarios
+Establecer los requisitos para actualizar los
+recordatorios o suministrar nuevos recordatorios
+Establecer los costes y la fuente de financiación
+cuando sea necesario
+Acceder al sitio web del programa de la OMS para
+la seguridad del paciente y guardar pósteres y
+folletos y averiguar sus costes de reproducción
+Proporcionar o exponer pósteres en todos los
+ámbitos clínicos
+Asegurarse de que los pósteres están en buen
+estado y que se visualizan claramente en los
+lugares adecuados, por ejemplo, en el punto de
+atención, encima de los lavabos
+Distribuir los folletos a los profesionales sanitarios
+durante las sesiones de formación y tenerlos a la
+vista en todos los entornos clínicos
+Elaborar un plan para producir recordatorios
+complementarios o actualizados de forma
+continuada, y para incluir ideas innovadoras
+distintas de los pósters y folletos
+Clima institucional de seguridad
+Dejar claro que se están llevando a cabo todas las
+demás medidas para garantizar el cambio del
+sistema, la formación, evaluación y retro-
+alimentación y recordatorios en el lugar de trabajo
+Identificar y recabar el apoyo continuado de los
+altos directivos clave y directivos del centro.
+Redactar y enviar una carta para que los directivos
+y mandos intermedios apoyen las actividades de
+mejora de la higiene de manos y animen a la
+gerencia a continuar la inversión39GUÍA DE APLICACIÓN PARTE III
+Medida Persona encargadaMarco temporal
+(fechas de inicio y
+finalizaciónPresupuesto (si es
+aplicable)Progreso (inclúyanse las
+fechas de revisión y
+conclusión)
+Si es posible, preparar un caso de negocio y
+presentarlo a los altos directivos para conseguir
+la inversión continuada en higiene de manos
+Redactar y enviar una carta para comunicar a
+los directivos las iniciativas en materia de
+higiene de manos
+Crear un comité para aplicar el plan de
+actuación en el centro
+Organizar reuniones de forma habitual para
+ofrecer retroalimentación y revisar en
+consecuencia el plan de actuación (puede
+elegirse un comité ya establecido para que
+actúe como vehículo para abordar la mejora de
+la higiene de manos )
+Elaborar un plan para dar a conocer las
+actividades de mejora de la higiene de las
+manos en todo el centro – cuando sea posible
+colaborar con los especialistas en comunicación
+interna
+Asignar personal clave a todas las áreas que
+puedan actualizarse y seguir difundiendo de
+forma continuada información sobre las
+actividades relativas a la higiene de manos.
+Analizar la participación existente de los
+pacientes u organizaciones de pacientes en las
+actividades de mejora de la atención sanitaria y
+considerar un marco temporal para iniciar
+negociaciones / colaboraciones con las
+organizaciones de pacientes
+Utilizar las orientaciones sobre cómo involucrar
+a los pacientes y sus organizaciones en las
+iniciativas relativas a la higiene de manos
+Considerar la realización de encuestas a los
+pacientes
+Iniciar actividades de sensibilización de los
+pacientes (por ejemplo, facilitar folletos
+informativos sobre la higiene de las manos y
+planificar sesiones de formación)
+Considerar la realización de iniciativas para
+recompensar o reconocer el cumplimiento de la
+buena higiene de manos por parte de
+profesionales sanitarios, salas o departamentos
+específicos
+Incluir la higiene de manos entre los indicadores
+y objetivos anuales del centro
+Elaborar un plan para producir material didáctico
+complementario u organizar actividades
+adicionales para mantener la dinámica y la
+motivación (por ejemplo, organizar debates en el
+horario de comida sobre cuestiones relativas a
+la higiene de manos; producir material de
+aprendizaje online; crear un sistema de apoyo
+entre compañeros para formar a los nuevos
+empleados en la higiene de manos; utilizar el
+DVD de promoción: SAVE LIVES: Clean Your
+HandsGUÍA DE APLICACIÓN PARTE III
+40III.2. APLICACIÓN DEL MÉTODO
+POR ETAPAS
+.El método por etapas ayuda a desarrollar y planificar el
+programa de mejora de la higiene de manos con el paso del tiempo y
+de acuerdo con una secuencia racional de actividades. De hecho, los
+componentes de la estrategia en función de sus características son
+adecuados para ser aplicados en diferentes fases.
+Este método se propone para que lo consideren los centros que han
+implantado recientemente un programa de mejora de la higiene de
+manos basado en la estrategia multimodal de la OMS. Con un orden
+secuencial definido, se conduce al lector por la trayectoria que hay
+que seguir para aplicar la estrategia con una amplia gama de
+actividades y el apoyo de todo el conjunto de herramientas para la
+aplicación de la OMS. Aunque la prueba piloto demostró que este
+método por etapas es muy amplio y proporciona orientación útil,
+puede resultar denso y muy laborioso. Los profesionales e
+instituciones comprometidos con la mejora de la higiene de manos
+deberían ser conscientes de que la promoción de la higiene de
+manos es realmente una tarea laboriosa y desafiante pero, por otro
+lado, en términos generales genera un gran progreso en la mejora de
+la seguridad del paciente. La carga de trabajo que supone implantar
+un programa de mejora de la higiene de manos depende de su
+alcance; no obstante, la carga de actividades se puede reducir al
+principio si se centra en los requisitos mínimos, y se puede ir
+aumentando gradualmente.
+Los criterios mínimos para la aplicación de la estrategia
+multimodal de la OMS se exponen en la siguiente figura:
+Componente
+multimodalCriterios mínimos para la
+aplicación
+1. Cambio del
+sistema: preparados
+de base alcohólica en
+el punto de aplicaciónDispensadores de preparado de base
+alcohólica para manos ubicados en el
+punto de atención en cada ámbito
+clínico (sala u otros), o proporcionados
+al personal (frascos de bolsillo)
+1. Cambio del
+sistema: Acceso a
+suministro continuo de
+agua potable, jabón y
+toallasUn lavabo para cada 10 camas, jabón y
+toallas desechables disponibles en
+cada lavabo
+2. Formación y
+aprendizajeTodo el personal de los ámbitos
+clínicos incluidos en el programa de
+higiene de manos recibe formación. Se
+establece un programa para actualizar
+la formación a corto, medio y largo
+plazo
+3. Evaluación y retro-
+alimentaciónDos periodos de evaluación (inicial y de
+seguimiento) que incluyen como
+mínimo encuestas sobre la
+infraestructura, observaciones de la
+higiene de manos y seguimiento del
+consumo de jabón y preparados de
+base alcohólica
+4. Recordatorios en el
+lugar de trabajoPóster de “Cómo realizar la fricción y el
+lavado de manos” y “Los 5 momentos
+para la higiene de manos” expuestos
+en ámbitos clínicos incluidos en el
+programa de higiene de manos (por
+ejemplo, habitaciones de pacientes;
+áreas del personal; consultas externas
+/ ambulatorios)
+5. Clima institucional
+de seguridadEl director gerente, el director, los altos
+directivos y otros cargos relevantes
+contraen el compromiso manifiesto de
+apoyar la mejora de la higiene de
+manos (por ejemplo, anuncios o cartas
+formales al personal).III.2.1. Fase 1: preparación del centro –
+disponibilidad para la acción
+La fase 1 tiene como objeto garantizar la preparación global de
+la institución para establecer un programa de mejora de la higiene de
+manos. Esto incluye la obtención de los recursos necesarios (tanto
+humanos como financieros), la adecuación de la infraestructura y la
+identificación de responsables clave para dirigir el programa de
+mejora de la higiene de manos, incluido un coordinador y su adjunto.
+Deberá realizarse la planificación adecuada a fin de preparar una
+estrategia clara para todo el programa.
+Las actividades que han de realizarse en la fase 1 se relacionan
+principalmente con los planes y medidas para alcanzar los objetivos
+de los componentes 1 (cambio del sistema), 2 (formación) y 5 (clima
+institucional de seguridad) de la estrategia.
+Remítase a las secciones dedicadas a estos componentes de
+la estrategia para obtener más información y consultar las
+herramientas disponibles.
+Se pretende que esta fase dure alrededor de 2 meses.
+Se recomienda a los centros que apliquen la estrategia
+inicialmente en las salas en donde haya gran motivación e interés y
+sea probable que la mejora sanitaria sea considerable y
+posteriormente tenga un efecto en los demás.
+Debe tenerse muy en cuenta la viabilidad de ajustar las
+actividades requeridas a los recursos humanos y financieros
+disponibles. Para demostrar el beneficio económico de la
+intervención y determinar la financiación requerida para implantar el
+plan de actuación, puede ser necesario realizar un análisis
+económico y formalizar un plan financiero en esta fase inicial de
+establecimiento del alcance de la intervención.
+En resumen, la fase 1 debería incluir lo siguiente:
+- convencer a los altos directivos y profesionales clave del centro
+de que la seguridad del paciente es una cuestión crucial y la
+mejora de la higiene de manos es de suma importancia para
+garantizar una atención segura;
+- identificar a las personas clave que participarán en la
+implantación del programa; seleccionar a un coordinador, un
+coordinador adjunto y posiblemente un equipo o comité que los
+apoye; asignar tareas y cometidos concretos a nivel individual;
+Coordinador del programa de higiene de manos:
+Perfil: un profesional que deberá tener conocimientos sobre
+cuestiones de higiene de manos y control de infecciones y,
+preferiblemente una experiencia amplia en la calidad y seguridad;
+deberá ser una persona muy respetada y con acceso a los altos
+directivos.
+Tareas: proponer un plan de actuación uniforme para aplicar la
+estrategia de mejora de la higiene de manos de conformidad con las
+Directrices de la OMS sobre la higiene de las manos en la atención
+sanitaria y basándose en la situación actual de la promoción de la
+higiene de manos en el centro sanitario; comentarlo con los altos
+directivos y coordinar su implantación en todas las fases; y, además,
+dirigir la formación de los formadores y los observadores41GUÍA DE APLICACIÓN PARTE III
+Equipo/ comité de higiene de manos
+Perfil: un grupo de personas clave del centro y, en particular, cargos
+influyentes (enfermeras jefe, médicos jefe, cargos relevantes de otras
+disciplinas, altos directivos) junto con las personas que participan en la
+prevención y control de infecciones.
+Tareas: apoyar al coordinador y compartir la toma de decisiones;
+reunirse con regularidad (por lo menos una vez al mes al principio del
+programa; y después con menor frecuencia) para supervisar el
+progreso, poner de relieve cualesquiera asuntos o problemas, proponer
+soluciones y analizar los datos emergentes.
+- establecer un plan para conseguir la aplicación de todos los
+componentes de la estrategia o de aquellos que se consideren
+clave en el centro sanitario (especialmente para los ámbitos en los
+que ya está en marcha la promoción de la higiene de manos);
+- decidir el alcance de la implantación (centrarse en un número
+limitado de áreas o en todo el centro sanitario);
+- crear las condiciones para que se produzca el cambio del sistema
+(por ejemplo, planes de actuación para suministrar el preparado de
+base alcohólica para manos o garantizar su ubicación adecuada en
+el punto de atención);
+- identificar a los formadores y observadores;
+Formador
+Perfil: un profesional preferentemente con experiencia en impartir
+formación y en prestar asistencia sanitaria a pie de cama.
+Preferiblemente debería ser un cargo influyente (enfermera jefe
+/directora de enfermería/médico) o el adjunto de un cargo influyente y
+tener un buen conocimiento previo del control de infecciones.
+Tareas: formar a los profesionales sanitarios en la higiene de manos
+durante la fase 3.
+Observador:
+Perfil: un profesional con experiencia en prestar asistencia a pie de
+cama y con conocimiento de la estrategia para la mejora de la higiene
+de manos
+Tareas: observar abierta y objetivamente las prácticas de la higiene de
+manos y recopilar datos sobre el cumplimiento utilizando el modelo de
+“Los 5 momentos para la higiene de manos” y el método de la OMS;
+proporcionar retroalimentación sobre los resultados a los profesionales
+sanitarios, altos directivos y otros individuos o grupos clave que
+participan en el programa de higiene de manos.
+- generar los conocimientos y la pericia necesarios (formar a los
+formadores y a los observadores) para llevar a cabo las
+actividades relacionadas con los componentes de la estrategia 2
+(formación) y 3 (evaluación) que se prevé aplicar en las fases 2
+(evaluación inicial), 3 (aplicación) y 4 (evaluación de seguimiento);
+- analizar todas las herramientas para la evaluación y retro-
+alimentación, asignar tareas y elaborar el plan para realizar las
+encuestas en la fase 2;
+- desarrollar un plan sobre cómo y a quién se comunicará la
+información relativa al plan de actuación y la mejora;Posibles métodos de comunicación:
+Oral
+Electrónica (e-mail) si se dispone
+Boletín informativo o similar
+Formación formal e informal
+Pósteres / recordatorios
+Presentaciones en reuniones del personal facultativo y de
+enfermería
+Alocución del Director Gerente al personal sanitario
+- preparar los recursos y apoyos necesarios para aplicar todos los
+componentes de la estrategia, especialmente el 2 (formación) y el
+4 (recordatorios); e
+- identificar al personal encargado de llevar a cabo la introducción
+y análisis de datos.
+Recursos humanos requeridos /participantes clave que
+intervienen en la fase 1:
+Coordinador del programa de higiene de manos
+Coordinador adjunto
+Formadores
+Observadores
+Altos directivos /Administradores del centro sanitario
+Profesionales de la prevención y el control de infecciones
+Enfermeras jefe, médicos jefe, cargos relevantes de otras
+disciplinas
+Departamento central de compras, farmacéutico
+Comité/equipo de higiene de manos (incluidos los participantes
+clave previamente mencionados, cuando sea oportuno)
+Verificación de actuaciones – fase 1
+¿Se han llevado a cabo las siguientes actuaciones? Sí/No
+Se nombró a un coordinador
+Se evaluó la viabilidad de la aplicación de la estrategia
+multimodal
+Se identificó a individuos y grupos clave y se obtuvo apoyo
+(se creó el equipo/comité)
+Se asignaron funciones para garantizar la ejecución del plan
+El plan fue acordado por todos los participantes clave
+incluidos los altos directivos
+Se alcanzó un acuerdo sobre la aplicación de la estrategia
+en todo el hospital frente a la aplicación en salas específicas
+únicamente
+Se enviaron las cartas para recomendar y comunicar las
+iniciativas en materia de higiene de manos a los altos
+directivos
+Se llevó a cabo un análisis del presupuesto
+Se obtuvieron los fondos necesarios para suministrar el
+preparado de base alcohólica para manos o mejorar su
+disponibilidad en el punto de atención así como otros
+recursos, incluidos los recursos humanos
+Se decidió si las preparados de base alcohólica para manos
+se van a comprar o fabricar en el centro
+ Se identificó a los observadores
+Se llevó a cabo la formación de formadores y observadoresGUÍA DE APLICACIÓN PARTE III
+42III.2.2. Fase 2: evaluación inicial –obtención de
+información sobre la situación actual
+El objeto de la Fase 2 es principalmente llevar a cabo la
+evaluación inicial de la práctica de la higiene de las manos así
+como de la percepción, los conocimientos y las infraestructuras
+disponibles con respecto a ella. Es importante evaluar la situación
+actual en el centro sanitario con el fin de adaptar y perfeccionar los
+planes de actuación para la aplicación de la estrategia. Las
+actividades que se llevan a cabo en la fase 2 también son vitales
+porque proporcionarán información de referencia para cualquier
+comparación y evaluación del progreso a medida que se va
+aplicando la estrategia multimodal. Durante esta fase, podrían
+continuarse o llevarse a cabo algunas medidas específicas
+planificadas en la fase 1 para preparar la fase de aplicación de la
+estrategia (preparación de la formación, adquisición o producción
+del preparado de base alcohólica para manos).
+Las actividades que está previsto que tengan lugar en la fase 2
+tienen que ver principalmente con los planes y actuaciones para
+alcanzar los objetivos del componente 3 de la estrategia
+(evaluación y retroalimentación).
+Remítase a la sección dedicada a este componente de la
+estrategia para obtener más información y consultar las
+herramientas disponibles.
+Se pretende que esta fase dure alrededor de 3 meses.
+En la siguiente tabla se propone, únicamente a título orientativo,
+un programa secuencial para llevar a cabo las encuestas en el centro.
+Los plazos de tiempo indicados son aproximados, y dependerán del
+alcance de la aplicación en el centro.
+Encuesta sobre la
+infraestructura de
+las salas
+(situación inicial)Semana
+1-2
+Estudio sobre la
+percepción de los
+altos directivos
+(situación inicial)Semana
+3
+Estudio sobre la
+percepción de los
+profesionales
+sanitarios
+(situación inicial)Semana
+4-5
+Observación
+de la higiene
+de las manos
+(situación
+inicial)Semana
+6-8
+Encuesta sobre el
+consumo de
+jabón/preparados
+de base alcohólica
+para manos
+(situación inicial)Fin de la
+Fase 2;
+después 1
+vez al mes
+o cada 3-4
+meses
+Encuesta sobre
+los
+conocimientos
+de los
+profesionales
+sanitarios
+(situación
+inicial)Última
+semana o
+inmediatam
+ente antes
+de la sesión
+de
+formación
+Enresumen, la fase 2 debería incluir lo siguiente:
+- realizar las encuestas sobre infraestructura, percepción y
+conocimientos y recoger los datos sobre la observación de la
+higiene de manos y el consumo de jabón/ preparado de base
+alcohólica para manos según lo planificado;- realizar la encuesta de tolerabilidad y aceptabilidad si el
+preparado de base alcohólica para manos se introdujo
+recientemente o para comparar diferentes productos;
+- llevar a cabo la introducción y análisis de datos tan pronto como
+se haya rellenado cada encuesta;
+- evaluar los resultados y asegurarse de que son fiables;
+- difundir los resultados entre los participantes clave del programa;
+- evaluar cómo utilizar los resultados durante la fase 3 (por ejemplo,
+cómo presentar los datos durante las sesiones formativas, qué
+medidas especificas deberían tomarse para mejorar la
+infraestructura);
+- evaluar los índices de IRAS correspondientes a los últimos 6
+meses /1 año si está establecido el sistema de vigilancia local o
+realizar una encuesta sobre prevalencia en los ámbitos clínicos
+incluidos en el programa de mejora de la higiene de manos;
+- concluir la formación de los formadores;
+- preparar material didáctico adicional, incluidos los datos de la
+evaluación inicial;
+- analizar el material didáctico y realizar planes precisos para las
+sesiones formativas destinadas a los profesionales sanitarios;
+- prepararse para cualquier actividad de promoción que vaya a
+lanzarse durante la fase 3;
+- finalizar el proceso de compra o producción local del preparado de
+base alcohólica para manos; y
+- prepararse para cualquier cambio adicional del sistema (por
+ejemplo, instalación de lavabos, adquisición de jabón/ toallas
+desechables, aumento o cambio de dispensadores de preparado
+de base alcohólica para manos).
+Recursos humanos requeridos /participantes clave que intervienen
+en la fase 2:
+Coordinador de higiene de manos
+Coordinador adjunto
+Formadores
+Observadores
+Departamento central de compras, farmacéutico
+Epidemiólogo, administrador de datos
+Comité/equipo de higiene de manos (incluidos los participantes
+clave previamente mencionados, cuando sea oportuno)
+Verificación de actuaciones – fase 2
+Actuación Sí/No
+Se llevó a cabo la encuesta sobre la infraestructura de las
+salas
+Se llevó a cabo la encuesta sobre la percepción de los altos
+cargos
+Se llevó a cabo la encuesta sobre la percepción de los
+profesionales sanitarios
+Se recogieron datos sobre el consumo
+Se realizaron las observaciones de higiene de manos
+Se llevó a cabo la encuesta sobre los conocimientos de los
+profesionales sanitarios
+Se llevó a cabo la introducción de datos
+Se analizaron e interpretaron los datos
+Se consiguió la disponibilidad de preparado de base alcohólica
+Se tomaron medidas para otros cambios del sistema previstos
+Se concluyó la formación de los formadores
+El material didáctico está listo.43GUÍA DE APLICACIÓN PARTE III
+III.2.3. Fase 3: aplicación –introducción de las
+actividades de mejora
+La fase 3 es clave para conseguir la mejora y consiste en aplicar
+todas las intervenciones planificadas en la fase 1 y utilizar los
+principales resultados obtenidos a partir de la fase 2 para motivar la
+mejora. Su importancia es vital para concienciar de lo que representan
+las IRAS y la importancia de la higiene de las manos, para mejorar los
+conocimientos, implantar los elementos del cambio del sistema y
+finalmente catalizar el cambio de hábitos de conducta.
+Las actividades que se llevarán a cabo en la fase 3 se relacionan
+principalmente con los planes y actuaciones para alcanzar los
+objetivos de los componentes de la estrategia: 1 (cambio del sistema),
+2 (formación y aprendizaje), 4 (recordatorios en el lugar de trabajo) y 5
+(clima institucional de seguridad). Sin embargo, también se pretende
+llevar a cabo algunas actividades de evaluación.
+Remítase a la sección dedicada a estos componentes de la
+estrategia para obtener más información y consultar las
+herramientas disponibles.
+Se pretende que esta fase dure alrededor de 3 meses.
+En resumen, la fase 3 debería incluir lo siguiente:
+- celebrar un evento oficial bien publicitado que sirva para lanzar las
+actividades de promoción y que implique la ratificación o la firma
+simbólica de compromiso por parte de los cargos relevantes y los
+profesionales sanitarios;
+- distribuir el preparado de base alcohólica para manos en el punto
+de atención de todos los ámbitos clínicos incluidos en el programa;
+- colocar pósteres y distribuir otros recordatorios en el punto de
+atención a los profesionales sanitarios de todos los ámbitos
+incluidos en el programa;
+- distribuir las Directrices de la OMS sobre la higiene de las manos
+en la atención sanitaria o el resumen de éstas en los ámbitos
+clínicos incluidos en el programa;
+- organizar las sesiones formativas para todos los profesionales
+sanitarios que trabajan en los ámbitos clínicos incluidos en el
+programa, sesiones que comprenden la distribución del material
+didáctico así como la formación práctica sobre cómo realizar la
+higiene de manos;
+- llevar a cabo la prueba de conocimientos en las sesiones
+formativas, si no se ha realizado en la fase 2;
+- garantizar que se realiza la retroalimentación de los datos de la
+evaluación inicial (ya sea durante las sesiones formativas o
+mediante informes u otros medios de comunicación);
+- hacer un seguimiento del consumo mensual de preparado de base
+alcohólica para manos;
+- si es factible, llevar a cabo observaciones mensuales de la higiene
+de manos;
+- organizar con regularidad reuniones del equipo / comité para hacer
+un seguimiento del progreso de la aplicación de la estrategia,
+superar los posibles obstáculos, y adaptar los planes si es
+necesario;
+- prepararse para llevar a cabo las actividades de evaluación
+planificadas en la fase 4.Recursos requeridos /participantes clave involucrados en la fase 3:
+Coordinador del programa de higiene de manos
+Coordinador adjunto
+Formadores
+Observadores
+Altos directivos /administradores del centro sanitario
+Profesionales de la prevención y el control de infecciones
+Enfermeras jefe, médicos jefe, cargos relevantes de otras
+disciplinas
+Departamento central de compras, farmacéutico
+Comité/ equipo de higiene de manos
+Pacientes, organizaciones de pacientes
+Autoridades ministeriales, representantes del gobierno
+Verificación de actuaciones – fase 3
+¿Se han llevado a cabo las siguientes actuaciones? Sí/No
+Se utilizó como guía el plan de actuación, desarrollado en la
+fase 1
+Se facilitó al personal retroalimentación de datos y análisis
+iniciales
+Se distribuyeron las Directrices de la OMS sobre la higiene
+de las manos en la atención sanitaria
+Se distribuyeron pósteres, otros recordatorios y material de
+promoción
+Se distribuyó el material didáctico
+Se distribuyó el preparado de base alcohólica para manos
+Se llevaron a cabo sesiones de formación
+Se llevó a cabo la determinación mensual del consumo
+Se realizaron encuestas sobre la tolerabilidad y
+aceptabilidad del preparado de base alcohólica para manos
+Se llevaron a cabo observaciones mensuales del
+cumplimiento de la higiene de manos (cuando fue factible)
+Se celebraron reuniones de revisión con regularidad
+En el sitio web www.who.int/gpsc/en/ se puede acceder a imágenes
+que muestran ejemplos de iniciativas adoptadas y herramientas
+producidas por los centros sanitarios durante la fase de aplicación
+mientras se realizaba la prueba piloto de la estrategia multimodal de
+la OMS para la mejora de la higiene de las manos.GUÍA DE APLICACIÓN PARTE III
+44III.2.4. Fase 4: evaluación de seguimiento –
+evaluación del efecto de la aplicación
+La Fase 4 tiene objetivos muy importantes: hacer un
+seguimiento del progreso y confirmar que la aplicación de las
+iniciativas se traduce en mejoras en la higiene de las manos. Las
+encuestas llevadas a cabo para la evaluación inicial durante la fase
+2 deben repetirse para obtener datos de seguimiento suficientes
+para comparar los periodos previos y posteriores a la aplicación.
+Sin embargo, es importante comprender que dado que esta
+evaluación se realizará poco tiempo después de la aplicación,
+únicamente proporcionará información sobre el efecto inmediato
+del programa. Es necesario recopilar datos del efecto a largo plazo
+para llevar a cabo otra evaluación partiendo de un seguimiento más
+prolongado e invertir en la supervisión continua de los indicadores
+clave. No obstante, la información sobre el efecto a corto plazo es
+crucial para ayudar a adoptar futuras decisiones y medidas (fase
+5). También es importante reconocer que durante la fase 4, las
+actividades de mejora de la higiene de manos deberían continuar
+con arreglo al plan de actuación local.
+Las actividades que se llevarán a cabo en la fase 4 tienen que ver
+principalmente con los planes y actuaciones para alcanzar los
+objetivos del componente 3 (evaluación y retroalimentación) de la
+estrategia. Sin embargo, todas las actividades destinadas a la
+mejora de la higiene de manos iniciadas en la fase 3 deben
+mantenerse y seguir promoviéndose.
+Remítase a la sección dedicada a este componente de la
+estrategia para obtener más información y consultar las
+herramientas disponibles.
+Se pretende que esta fase dure alrededor de 2 meses.
+En la siguiente tabla se propone, únicamente a título
+orientativo, un programa secuencial para llevar a cabo las
+encuestas en el centro. Los plazos de tiempo indicados son
+aproximados, y dependerán del alcance de la aplicación en el
+centro.
+Encuesta sobre la
+infraestructura de
+las salas
+(seguimiento)Semana
+1-2
+Estudio sobre la
+percepción de los
+altos directivos
+(seguimiento)Semana
+3
+Estudio sobre la
+percepción de los
+profesionales
+sanitarios
+(seguimiento)Semana
+4-5
+Observación
+de la higiene
+de las manos
+(seguimiento)Semana
+6-8
+Encuesta sobre el
+consumo de
+jabón/preparados
+de base alcohólica
+para manos1 vez al
+mes o cada
+3-4 meses
+Encuesta de
+conocimientos
+de los
+profesionales
+sanitarios
+(seguimiento)La primera
+semana, si
+no se lleva
+a cabo en la
+fase 3En resumen, la fase 4 debería incluir lo siguiente:
+- realizar las encuestas sobre infraestructura, percepción y
+conocimientos y recoger los datos sobre la observación de la
+higiene de manos y el consumo de jabón/ preparado de base
+alcohólica para manos de acuerdo con los planes;
+- llevar a cabo la introducción y análisis de datos tan pronto como se
+haya rellenado cada encuesta;
+- evaluar los resultados y asegurarse de que son fiables;
+- mantener las actividades destinadas a la mejora de la higiene de
+manos iniciadas en la fase 3 (disponibilidad de preparado de base
+alcohólica para manos y productos para el lavado de manos,
+recordatorios, sesiones de formación concurrentes, etc.) en función
+de las necesidades y los planes locales.
+Recursos humanos requeridos /participantes clave involucrados
+en la fase 4:
+Coordinador del programa de higiene de manos
+Coordinador adjunto
+Observadores
+Personal del departamento de compras
+Comité/equipo de higiene de manos
+Verificación de las actuaciones – fase 4
+¿Se han llevado a cabo las siguientes actuaciones ? Sí/No
+Se llevó a cabo la encuesta sobre la infraestructura de las
+salas
+Se llevó a cabo la encuesta sobre la percepción de los
+altos cargos
+Se llevó a cabo la encuesta sobre la percepción de los
+profesionales sanitarios
+Se recogieron datos sobre el consumo mensualmente
+Se realizaron las observaciones de la higiene de manos
+Se llevó a cabo la encuesta sobre los conocimientos de los
+profesionales sanitarios (si es aplicable)
+Se llevó a cabo la introducción de datos
+Se analizaron e interpretaron los datos
+Actividades destinadas a la mejora de la higiene de manos
+de forma continuada45GUÍA DE APLICACIÓN PARTE III
+III.2.5. Fase 5: ciclo continuo de planificación y
+revisión – desarrollo de un plan para los
+próximos 5 años
+La fase 5 es crucial para revisar todo el ciclo de aplicación
+establecido durante las fases previas y desarrollar planes a largo
+plazo destinados a garantizar que la mejora se mantiene y progresa.
+Para cumplir a largo plazo el objetivo general de implantar la higiene
+de manos como parte integrante de la cultura del centro sanitario, es
+esencial desarrollar y aplicar planes de actuación y garantizar al
+mismo tiempo que hay un ciclo de revisión continua. Deberán
+diseñarse planes de aplicación teniendo en cuenta en todo momento
+el objetivo de conseguir la mejora sostenible de la higiene de manos.
+La mejora de la higiene de manos no es un proceso de duración
+limitada: la promoción y el seguimiento de la higiene de las manos no
+se deberán interrumpir nunca una vez que se hayan implantado.
+La planificación y la revisión son cruciales para el éxito de
+cualquier programa de trabajo. Las medidas clave de todo el proceso
+pueden ser útiles para garantizar que se mantiene el progreso de los
+planes y que se adoptan cambios cuando es necesario para
+conseguir los mejores resultados con respecto a la mejora de la
+higiene de manos. Una estrategia para la mejora de la higiene de
+manos no puede permanecer estática sino que debe renovarse en
+intervalos de tiempo determinados, con planes que garanticen esta
+incorporación desde el principio. Con los cambios apropiados de
+acuerdo con el plan de actuación a largo plazo, debería repetirse el
+ciclo completo utilizando el método por etapas durante un periodo de
+5 años como mínimo, tal y como se representa en la siguiente figura.
+Guía de aplicación
+de la OMS
+Fase
+4
+Fase
+3Fase
+2Fase
+1Fase
+5
+Fase
+4Fase
+2
+Fase
+3Fase
+1Fase
+5
+Guía de aplicación
+de la OMS
+Año 1 Año 2 Repetir al
+menos
+durante 5
+añosLa mayor parte de los proyectos se revisan en algún momento para
+garantizar que sus resultados estén disponibles puntualmente y que
+se atienen a los objetivos fijados en la asignación presupuestaria. Por
+consiguiente, adoptando desde el principio el planteamiento del ciclo
+de planificación y revisión de actuaciones, el programa de higiene de
+manos podrá tomar la delantera y proporcionar dicha información
+antes de que sea solicitada.
+Las actividades que se llevarán a cabo en la fase 5 tienen que ver
+principalmente con los planes y actuaciones para alcanzar los
+objetivos del componente 3 (evaluación y retroalimentación; en
+particular el análisis e interpretación de datos) y 5 (clima institucional
+de seguridad) de la estrategia.
+Remítase a las secciones dedicadas a estos componentes
+de la estrategia y al plan de actuación global para obtener más
+información y consultar las herramientas disponibles.
+Se pretende que esta fase dure alrededor de 2 meses.GUÍA DE APLICACIÓN PARTE III
+46En resumen, la fase 5 debería incluir lo siguiente:
+– analizar los resultados de la evaluación de seguimiento y evaluar
+el efecto en indicadores clave del éxito;
+– identificar las áreas que necesitan una mejora adicional así como
+las lecciones aprendidas  para incluir esta información en los
+futuros planes de actuación;
+– decidir cómo divulgar a todos los profesionales sanitarios los
+resultados más relevantes (por ejemplo, mediante un acto formal,
+un informe final por escrito);
+– elaborar un informe en que se detalle todo el desarrollo del
+programa, su impacto y el aprendizaje adquirido;
+– involucrar a los altos directivos y otros líderes en la planificación
+a largo plazo del programa para impulsar más la mejora de la
+higiene de manos y recabar su apoyo y aportación;
+– determinar los recursos disponibles y ajustarlos al plan de
+aplicación;
+– preparar, ultimar y obtener la aprobación para los planes de
+actuación, por parte, entre otras, de las personas que apoyan
+plenamente la ejecución de los planes. Los planes deben incluir
+las medidas relacionadas con los componentes estratégicos
+(véase el modelo de plan de actuación) según el progreso y las
+prioridades locales;
+– preparar, ultimar y obtener la aprobación del presupuesto del
+programa;
+– establecer un plan de contingencias ante cambios imprevistos en
+los planes y el presupuesto;
+– establecer una frecuencia precisa para realizar las encuestas de
+evaluación;
+– establecer un sistema de evaluación de datos para apoyar el
+desarrollo de planes de actuación adicionales seleccionados
+como objetivo, y decidir qué miembros del personal/ comité/
+grupos serán los participantes clave y qué se espera de ellos, por
+ejemplo, una revisión especializada para interpretar los
+resultados en cuanto al impacto en la mejora de la higiene de
+manos;
+– acordar determinados puntos de revisión (incluidos los informes
+de evaluación y progreso del programa en momentos fijados
+específicos);
+– establecer un sistema de información en los puntos de revisión
+acordados, y decidir qué miembros del personal/comité/grupos
+serán los participantes clave y decidir qué se espera de ellos;
+– establecer grupos /comisiones adicionales que estén formados
+por diversos miembros del personal del centro para analizar y
+reflexionar sobre todo el progreso y los datos y que garanticen
+que se sienten partícipes del plan del centro para mejorar y
+mantener la higiene de manos;
+– identificar a miembros clave del personal y hacer planes para
+trabajar con los miembros de cualesquiera disciplinas que sirvan
+de modelos a seguir con el fin de utilizar su motivación para
+dirigir y animar a los otros;
+– establecer un plan para crear una red de contactos con otros
+centros, a escala regional, nacional o internacional, para
+compartir los éxitos y las soluciones y catalizar el aumento en
+escala de la mejora;
+– identificar las personas que ayudarán a difundir los éxitos del
+programa y responder a las preguntas sobre el mismo
+procedentes de fuentes externas, por ejemplo, los medios de
+comunicación o los especialistas en comunicación locales o del
+centro sanitario.
+En la siguiente tabla figuran una serie de ejemplos de actividades
+específicas relacionadas con la higiene de manos que se pueden
+considerar en la fase 5 como parte del apoyo a los planes a largo
+plazo y a la sostenibilidad.Componente Actividad
+Cambio del sistemaEstablecer planes para realizar la encuesta sobre
+la infraestructura de las salas a intervalos de
+tiempo regulares y predeterminados, notificar los
+resultados a los grupos/comisiones identificados y
+revisar los planes de actuación cuando sea
+necesario.
+Establecer un sistema para garantizar que en el
+punto de atención se dispone permanentemente
+de productos para la higiene de manos.
+Considerar si todavía se necesita alguna mejora
+para que los productos para la higiene de manos,
+especialmente el preparado de base alcohólica
+para manos, estén disponibles en todos los
+puntos de atención del centro.
+Formación y
+aprendizajeEstablecer un plan de actuación para que tras
+las sesiones de formación los profesionales
+sanitarios evalúen entre ellos sus conocimientos
+y difundan este plan en los ámbitos clínicos
+designados. En paralelo. incorporar una revisión
+de este proceso.
+Establecer un sistema para identificar nuevos
+formadores y observadores, por ejemplo, pedir
+a las enfermeras jefe que faciliten los nombres
+de aquellos profesionales sanitarios que sean
+buenos ejemplos a seguir.
+Concertar reuniones periódicas para el análisis
+de los datos de evaluación disponibles con el fin
+de revisar las sesiones de formación y planificar
+su actualización cuando sea necesario.
+Recopilar información sobre posibles maneras de
+presentar datos y discutirlas con el personal
+sanitario para garantizar que en diferentes
+ámbitos clínicos se utiliza el mejor método y se
+entiende.
+Recabar la participación de colaboradores
+externos como especialistas en formación y
+pacientes /organizaciones de pacientes para
+evaluar el programa y contribuir al desarrollo de
+nuevos e innovadores métodos de formación.
+Evaluación y
+retroalimentaciónElaborar un plan para el seguimiento
+frecuente, preferentemente mensual, de los
+conocimientos, percepción, infraestructuras
+y actuación mediante observaciones en
+todas las áreas del centro. Debería incluir el
+suministro habitual de informes y retro-
+alimentación de resultados a los
+profesionales sanitarios junto con
+información sobre cómo se llevan a cabo las
+mejoras en la higiene de manos.
+Llevar a cabo la medición de las tendencias
+de incidencias mensuales de IRAS utilizando
+un sistema válido de vigilancia, si no está
+establecido.
+Realizar anualmente encuestas sobre la
+prevalencia de IRAS en las áreas en las
+que tienen lugar las intervenciones de
+higiene de manos, siempre que se realice
+un cálculo adecuado del tamaño de la
+muestra.
+Establecer un sistema de registro e
+información continuos del consumo
+mensual de productos para la higiene de
+manos, especialmente los preparados de
+base alcohólica para manos, para posibilitar
+los cálculos de  tendencias anuales.47GUÍA DE APLICACIÓN PARTE III
+Componente Actividad
+Recordatorios
+en el lugar de
+trabajoRecabar sugerencias con respecto a las
+adaptaciones de los recordatorios e ideas para
+los nuevos recordatorios entre el personal o los
+pacientes/ organizaciones de pacientes
+motivados y realizar un nuevo plan de actuación
+para su desarrollo y análisis. Si es posible, incluir
+a un diseñador en este proceso y si es necesario,
+asignar presupuesto a este servicio.
+Identificar diversos miembros del personal de los
+ámbitos clínicos que se encarguen de renovar los
+pósteres y de asegurarse de que están en buenas
+condiciones.
+Clima
+institucional de
+seguridadIncluir la higiene de manos en el conjunto de
+indicadores para evaluar la calidad asistencial del
+centro, mediante un informe que comprenda
+información preliminar sobre la necesidad de una
+mejora de la higiene de manos, los planes del
+programa, los resultados de la evaluación y los
+posibles beneficios de la inclusión de la higiene de
+manos como indicador de la calidad.
+Establecer un sistema para fijar y revisar los
+objetivos anuales de mejora de la higiene de manos
+a nivel del centro, departamentos y ámbitos clínicos
+o salas e incluir la opinión de los pacientes u
+organizaciones de pacientes en este proceso.
+También se debería determinar cómo y dónde se
+harán públicos los datos de resultado de la
+evaluación.
+Preparar un programa de presentaciones o
+iniciativas (por ejemplo, expositores, promociones,
+recompensas, etc.) sobre la mejora de la higiene
+de manos y las razones de sus éxitos, que incluya
+a los pacientes u organizaciones de pacientes
+cuando sea oportuno. Asegurarse de que estas
+presentaciones se ofrecen a todos los grupos del
+centro para que lleguen a entender por qué la
+higiene de manos es importante para garantizar
+un clima de seguridad.
+Recabar comentarios y mensajes entre los miembros
+del personal del centro de forma continuada para
+demostrar el compromiso y motivación de todos en
+garantizar un clima de seguridad a través de la
+mejora de las prácticas de higiene de manos y de la
+prevención de las IRAS.
+Recursos humanos requeridos / participantes clave implicados en
+la fase 5:
+Coordinador del programa de higiene de manos
+Coordinador adjunto
+Formadores
+Observadores
+Epidemiólogo, administrador de datos
+Altos directivos / administradores del centro sanitario
+Profesionales de la prevención y el control de infecciones
+Enfermeras jefe, médicos jefe, cargos relevantes de otras
+disciplinas
+Comité / equipo de higiene de manosVerificación de las actuaciones –fase 5
+¿Se han llevado a cabo las siguientes actuaciones ? Sí/No
+Realizada la revisión de datos de seguimiento. Se prepararon y
+programaron sesiones formales o informales para presentar los
+datos a todo el personal.
+Se identificaron y analizaron las áreas que necesitan una mejora
+adicional así como las lecciones aprendidas
+Se realizaron actividades de retroalimentación e
+intercambio de opiniones sobre los datos de seguimiento
+con los grupos o equipos pertinentes
+Se elaboró un informe
+Se difundieron los resultados más relevantes a todos
+los profesionales sanitarios
+Se concluyeron y aprobaron los planes de actuación a largo
+plazo
+Se estableció un plan de contingencia ante cambios
+imprevistos en los planes o el presupuesto
+Se aprobaron los puntos de revisión del programa y se
+comunicaron a todos los grupos o equipos pertinentes
+Se concluyó y aprobó un modelo de informe de progreso y de
+informe de evaluación del programa
+Se documentaron las fechas de revisión del plan de actuación,
+basándose en los planes de revisión de los datos de resultado de
+la evaluación
+Se fijaron las fechas de las reuniones del próximo año y se
+comunicaron a los grupos o equipos pertinentes
+Se programaron intervenciones y actividades de promoción
+para el próximo año y se comunicaron a los grupos o equipos
+pertinentes
+Se estableció y se comunicó el sistema para identificar a los
+nuevos formadores, observadores, ejemplos a seguir, personal
+de apoyo para la colocación de recordatorios, y se identificó una
+fecha de revisión para garantizar que todo el personal implicado
+sigue ejerciendo sus funciones
+Se estableció el plan para crear una red de contactos
+con otros centros, a escala regional, nacional o
+internacional, para el próximo año
+Se presentaron ideas para incrementar la escala y
+garantizar la sostenibilidad del programa y se
+consensuó su inclusión en un plan de actuación a más
+largo plazo
+Se desarrolló un plan de actuación para 5 años, que sigue el
+ciclo de evaluación, aplicación y revisión descrito en toda esta
+guía48GUÍA DE APLICACIÓN
+ANEXO
+Ejemplos de sitios web útiles para la aplicación de
+la estrategia:
+Sitios web generales
+www.hopisaffe.ch/
+Programa de mejora de la higiene de manos de los hospitales de la
+Universidad de Ginebra.
+www.cdc.gov/cleanhands/
+Recomendaciones sobre diversos aspectos de la higiene de manos de
+los Centros para la Prevención y el Control de las Enfermedades
+(CDC) de Estados Unidos.
+www.theific.org/
+La Federación Internacional de Control de Infecciones (IFIC) es una
+organización que acoge sociedades y asociaciones de profesionales
+sanitarios del ámbito del control y ámbitos relacionados a escala
+mundial.
+www.apic.org/
+La Association for Professionals in Infection Control and Epidemiology
+(Asociación de Profesionales del Control de Infecciones y
+Epidemiología) es una organización internacional con sede en Estados
+Unidos que participa en la prevención y control de infecciones y
+epidemiología hospitalaria en ámbitos sanitarios de todo el mundo.
+www.ihi.org/IHI/Topics/HealthcareAssociatedInfections/
+El Institute for Healthcare Improvement (IHI) (Instituto para la Mejora
+de la Atención sanitaria) es una organización independiente sin ánimo
+de lucro con sede en Estados Unidos que contribuye al liderazgo de la
+mejora de la atención sanitaria en todo el mundo.
+www.shea-online.org/
+La Society for Healthcare Epidemiology of America (Sociedad
+Estadounidense de Epidemiología en la Atención Sanitaria) es una
+organización internacional con sede en Estados Unidos que se centra
+en diversas disciplinas y actividades dirigidas a la prevención y el
+control de infecciones y efectos adversos y a la mejora de la calidad
+de la asistencia.
+www.ips.uk.net/
+La Infection Prevention Society (Sociedad para la Prevención de
+Infecciones) se dedica a promover el avance de la formación en la
+prevención y el control de infecciones, y, en particular, a ofrecer cursos
+de formación, programas de acreditación, material didáctico, reuniones
+y congresos.Campañas nacionales y subnacionales de higiene
+de manos
+www.hha.org.au/
+La iniciativa nacional para la higiene de manos en Australia.
+portal.health.fgov.be/portal/page?_pageid=56,11380441&_dad=po
+rtal&_schema=PORTAL
+Campaña nacional de Bélgica sobre la higiene de manos.
+www.handhygiene.ca/
+Campaña nacional de Canadá sobre la higiene de manos.
+www.binasss.sa.cr/seguridad
+Campaña nacional de Costa Rica sobre la higiene de manos.
+www.sante-sports.gouv.fr/dossiers/sante/mission-mains-
+propres/mission-mains-propres.html
+Campaña francesa “Mission Mains propres”
+www.calidad.salud.gob.mx/
+Campaña nacional de Méjico sobre la higiene de manos.
+www.renomsorg.no
+Campaña nacional de Noruega sobre la higiene de manos.
+www.justcleanyourhands.ca/
+Campaña de higiene de manos de Ontario.
+www.washyourhandsofthem.com
+Campaña nacional de Escocia sobre la higiene de manos.
+www.swisshandhygienecampaign.ch ywww.swiss-noso.ch/
+Campaña nacional de Suiza sobre la higiene de manos.
+www.npsa.nhs.uk/cleanyourhands/
+Campaña de Inglaterra, Irlanda del Norte y Gales sobre la higiene de
+manos.
+Otros
+www.who.int/patientsafety/patients_for_patient/en/
+Patients for Patient Safety (PFPS) (Pacientes por la Seguridad del
+Paciente) es uno de los programas mundiales de la Alianza Mundial
+para la Seguridad del Paciente que hace hincapié en el importante
+papel que pueden desempeñar los pacientes y los consumidores en la
+tarea de mejorar la calidad y seguridad de la asistencia sanitaria en
+todo el mundo.49
+SAVE LIVES
+Clean Your  Hands
+Patient Safety
+A World Alliance for Safer Health Care

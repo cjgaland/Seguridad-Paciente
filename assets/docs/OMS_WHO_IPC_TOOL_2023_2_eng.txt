@@ -1,0 +1,235 @@
+Assessment tool on infection prevention 
+and control minimum requirements  for 
+primary  health care facilities
+Introduction
+The WHO assessment tool on infection prevention and control (IPC) minimum requirements for primary health 
+care facilities is a tool to support the implementation of the WHO minimum requirements for IPC programmes1, 
+which are derived from the core components for IPC programmes2. Users should be familiar with the WHO IPC 
+minimum requirements before using this tool.
+Purpose of this tool
+The tool will assist primary health care facilities to assess their situation regarding the WHO minimum requirements 
+for each IPC core component and to identify those that still need to be achieved or improved. It is based on 
+selected indicators included in the WHO IPC assessment framework (IPCAF) at the facility level3.
+The WHO Strengthening IPC in primary care manual4, supporting implementation of the IPC core components, 
+outlines five steps for implementing IPC programmes to help maximize the likelihood of success and overcome 
+some of the process complexity. Step 2 involves conducting a baseline assessment to establish an understanding 
+of the current situation of IPC in the facility, including strengths and weaknesses, with a view to guiding action 
+planning for improvement. Step 4 (evaluating impact) is concerned with assessing the effectiveness of the action 
+plan. This tool is a valuable instrument to support steps 2 and 4 of this process. The manual4, as well as the core 
+components’ guidelines2 and minimum requirements1 documents, provide definitions and explanations that will 
+help the interpretation of the indicators included in this tool.
+1 Minimum requirements for infection prevention and control. Geneva: World Health Organization; 2019 ( https://www.who.int/publications/i/
+item/9789241516945 ), accessed 19 April 2023). 
+2 Guidelines on core components of infection prevention and control programmes at the national and acute health care facility level. Geneva: 
+World Health Organization; 2016 ( https://www.who.int/publications/i/item/9789241549929 ).
+3 Infection prevention and control assessment framework at the facility level. Geneva: World Health Organization; 2018 ( https://www.who.int/
+teams/integrated-health-services/infection-prevention-control/core-components , accessed 19 April 2023).
+4 Strengthening infection prevention and control in primary care: a collection of existing standards, measurement and implementation resources. 
+Geneva: World Health Organization; 2021 ( https://www.who.int/publications-detail-redirect/9789240035249 , accessed 19 April 2023).2
+ASSESSMENT TOOL ON INFECTION PREVENTION AND CONTROL MINIMUM REQUIREMENTS FOR PRIMARY HEALTH CARE FACILITIESThis tool is not intended to be used as an audit tool. Its purpose is to help self-assess, plan, organize and 
+implement a facility-based IPC programme according to the WHO minimum requirements1. The tool provides a 
+structured approach to determine the status of implementation of each of the core components of IPC activities 
+recommended to be available in primary health care facilities. Most importantly, this tool should be used in a 
+spirit of  improvement to identify areas that still need to be tackled and to develop targeted plans to have at 
+least the minimum requirements for IPC in place at the primary care level.
+Who should complete and use this tool?
+This tool should be completed by the health professional in charge of IPC (that is, the IPC link person5 or equivalent 
+in a primary care facility) and responsible for organizing and implementing IPC activities at the facility level. 
+Alternatively, this tool may be completed by those who have an understanding and knowledge of the IPC capacity 
+within the facility.
+How is it structured?
+This tool is structured according to the eight sections reflecting the eight WHO IPC core components and minimum 
+requirements at the primary care facility level2, covering a total of 26 indicators. These indicators are based on 
+evidence and expert consensus and have been framed as statements. As these are minimum requirements, the 
+total score will be the sum of all ‘yes’ responses for each core component.
+5 Nurse or doctor (or other health professional) in a ward or within the facility (for example, staff working in clinical services such as intensive 
+care unit or maternal and neonatal care, or water, sanitation and hygiene or occupational health professionals) who has been trained in IPC and 
+links to an IPC focal point/team at a higher level in the organization (for example, IPC focal point/team at the facility or district level). IPC is not 
+the primary assignment of this professional but, among others, he/she may undertake tasks in support to IPC. For example, these may include 
+supporting implementation of IPC practices, providing mentorship to colleagues, monitoring activities, and alerting on possible infectious 
+risks. Source: Core competencies for infection prevention and control professionals Geneva: World Health Organization; 2020 ( https://www.
+who.int/publications/i/item/9789240011656 , accessed 19 April 2023).
+3
+ASSESSMENT TOOL ON INFECTION PREVENTION AND CONTROL MINIMUM REQUIREMENTS FOR PRIMARY HEALTH CARE FACILITIES
+6 This group of professionals should be trained to achieve a higher level of knowledge covering all areas relevant to IPC, including patient and 
+health care worker safety and quality improvement. To maintain high-level expertise, it is important that all IPC specialists undergo regular 
+updates of their competencies. Source: Core competencies for infection prevention and control professionals Geneva: World Health Organization; 
+2020 ( https://www.who.int/publications/i/item/9789240011656 , accessed 19 April 2023).
+7 A ‘yes’ is defined as having SOPs/guidelines for all of the listed IPC elements. If any one element is not present/available, then this is a ‘no’.
+8 Includes aspects of improving working conditions, detection of occupational diseases, health surveillance of workers, pre-employment 
+screening and vaccinations.
+9 Transmission-based precautions are to be used in addition to standard precautions for patients who may be infected or colonized with 
+certain infectious agents for which additional precautions are needed to prevent transmission. They are based on the routes of transmission of 
+specific pathogens (for example, contact versus droplets). More information can be found in the United States Centers for Disease Control and 
+Prevention Guidelines for Isolation Precautions ( https://www.cdc.gov/infectioncontrol/guidelines/isolation/index.html, accessed 19 April 2023).
+10 “Some” is defined as at least two or more IPC SOPs regularly monitored.Core component 2. IPC guidelines
+Question  Yes/No  Comments  
+1. Does your facility have locally adapted/developed 
+standard operating procedures (SOPs)/guidelines 
+addressing ALL7 the following IPC measures:
+• hand hygiene
+• decontamination of medical devices and patient 
+care equipment
+• environmental cleaning
+• health care waste management
+• injection safety8
+• health and care worker protection and safety
+• aseptic technique
+• triage of infectious patients
+• basic principles of standard and transmission-
+based precautions9? 
+2. Are the SOPs/guidelines in your facility based on 
+national or international guidelines (if they exist)?
+3 .  D o  y o u  r o u t i n e l y  ( f o r  e x a m p l e ,  o n c e  p e r  y e a r )  
+monitor the implementation of at least some10 of 
+the IPC SOPs/guidelines in your facility?Core component 1. IPC programme
+Question  Yes/No  Comments  
+1. Is there a trained IPC link person5, with dedicated 
+(part-) time available within your primary care facility? 
+2. Is there at least one IPC-trained health and care 
+officer6 a va i l abl e  a t  the  next  ad m i n i stra tiv e  l ev el  
+(for example, district) to supervise IPC activities in 
+primary care facilities within the area?Assessment tool on IPC minimum requirements for primary health care facilities4
+ASSESSMENT TOOL ON INFECTION PREVENTION AND CONTROL MINIMUM REQUIREMENTS FOR PRIMARY HEALTH CARE FACILITIESCore component 4. Health care-associated infection surveillance
+There are no minimum requirements for core component 4. This 
+is not part of the overall score.  Comments  
+If health care-associated infection surveillance is performed, is 
+it done according to national or sub-national plans (for example, 
+detection and reporting of reportable diseases and outbreaks 
+affecting the facility catchment area)?
+Core component 5. Multimodal strategies for the implementation of IPC interventions
+Question  Yes/No  Comments  
+1. Do you use multimodal strategies11 to implement IPC 
+interventions (at the very least) to improve ALL  the following 
+IPC practices:
+• hand hygiene
+• safe injection practices
+• decontamination of medical instruments and devices
+• environmental cleaning?
+11 Multimodal strategies comprise measures to support the implementation of IPC improvement interventions and commonly focus on: 1) system 
+change (infrastructure and human resources for IPC); 2) training and education; 3) monitoring and feedback; and 4) communications/reminders.Core component 6. Monitoring/audit of IPC practices and feedback
+Question  Yes/No  Comments  
+1. Is there a monitoring system for IPC infrastructure indicators 
+(for example, soap or alcohol-based handrub product 
+consumption) in your primary care facility?
+2. Is there a monitoring system for IPC process indicators (for 
+example, compliance with hand hygiene or injection safety 
+standard practices) in place in your primary care facility?Core component 3. IPC education and training
+Question  Yes/No  Comments  
+1. Do all new front-line health and care workers receive education 
+and training on IPC SOPs/guidelines upon employment?
+2. Do all new cleaning staff receive education and training on 
+IPC SOPs/guidelines upon employment?
+3. Are IPC link persons5 in your primary care facility specifically 
+trained in IPC practices?
+4. Are IPC officers at the next administrative level (that is, district 
+level) specifically trained in IPC?5
+ASSESSMENT TOOL ON INFECTION PREVENTION AND CONTROL MINIMUM REQUIREMENTS FOR PRIMARY HEALTH CARE FACILITIESCore component 7. Workload, staffing and bed occupancy12
+Question  Yes/No  Comments  
+1. Are there systems in place to reduce overcrowding13 
+according to existing SOPs/guidelines?
+2 .  A r e  s t a ff i n g  l e v e l s  a s s e s s e d  i n  y o u r  f a c i l i ty  t o  
+ensure that they are appropriate according to patient 
+workload, using WHO and/or national tools (national 
+norms on patient/staff ratio)14?
+3. Is a system in place in your facility to improve 
+staffing levels when staffing they are considered to 
+be too low15 according to the assessment?
+Core component 8. Built environment, materials and equipment for IPC at the facility level16
+Question  Yes/No  Comments  
+1. Are water services available from a source on the 
+premises at all times and of sufficient quantity for 
+basic IPC activities17 according to national guidelines?
+2. Are functioning hand hygiene stations (that is, 
+alcohol-based hand rub solution or soap and water 
+and clean single-use towels) available at ALL  points 
+of care?
+3. Are there a minimum of two functional, improved 
+sanitation facilities18 available on-site, one for patients 
+and one for staff?
+4. Is there energy/power supply available at least 
+during working hours for all critical uses (for example, 
+electronic medical devices, general lighting of areas 
+where health care procedures are performed and 
+lighting of toilet facilities and showers, pumping and 
+treating water, sterilization and decontamination, 
+incineration or alternative treatment technologies)?
+12 Particularly for these questions, the IPC team may need to consult with other relevant teams in the facility to be able to respond to questions 
+accordingly.
+13 Examples include a system for patient flow, a triage system including a referral system, and a system for the management of consultations.
+14 The WHO Workload indicators of staffing need method provides health managers with a systematic way to determine how many health 
+workers of a particular type are required to cope with the workload of a given health facility and aid decision-making ( https://www.who.int/
+publications/i/item/9789241500197 , accessed 13 April 2023).
+15 ‘Too low’ is defined as per the tool used to assess staffing levels in core component 7, question 2.
+16 This component can be assessed in more detail using the WHO water and sanitation for health facility improvement tool (WASH FIT) ( https://
+www.who.int/publications/i/item/9789240043237 , accessed 19 April 2023). Particularly for these questions, the IPC team may need to consult 
+with other relevant teams in the facility to be able to respond to questions accordingly and accurately.
+17 Examples include drinking, hand washing, personal hygiene, medical activities, sterilization, decontamination, cleaning and laundry.
+18 Improved sanitation facilities include flush toilets into a managed sewer or septic tank and soak-away pit, VIP latrines, pit latrines with slab 
+and composting toilets. To be considered usable, a toilet/latrine should have a door that is unlocked when not in use (or for which a key is 
+available at any time) and can be locked from the inside during use. There should be no major holes or cracks or leaks in the toilet structure, 
+the hole or pit should not be blocked, water should be available for flush/pour flush toilets. It should be within the grounds of the facility and it 
+should be clean as noted by the absence of waste, visible dirt and excreta, and insects.6
+ASSESSMENT TOOL ON INFECTION PREVENTION AND CONTROL MINIMUM REQUIREMENTS FOR PRIMARY HEALTH CARE FACILITIES
+19 Natural ventilation: outdoor air driven by natural forces (for example, winds) through building purpose-built openings, including windows, 
+doors, solar chimneys, wind towers and trickle ventilators. Mechanical ventilation: air driven by mechanical vans installed directly in windows 
+or walls or in air ducts for supplying air into, or exhausting air from, a room. More information at: https://apps.who.int/iris/handle/10665/44167 , 
+accessed 19 April 2023.
+20 Cohorting strategies should be based on a risk assessment conducted by the IPC team.
+21 Negative pressure ventilation conditions in isolation rooms may be necessary to prevention transmission of some organisms (for example, 
+multidrug-resistant tuberculosis).
+22 Personal protective equipment: medical non-sterile and surgical sterile gloves, surgical masks, goggles or face shields and gowns are 
+considered as essential personal protective equipment. Respirators and aprons should also be available in adequate quantities in all facilities 
+for use when necessary.
+23 Waste containers should be placed within visible, easy to reach areas.
+24 Sterilized or disinfected according to quality standards. More information available at: https://www.who.int/publications/i/item/9789241549851  
+and https://www.who.int/publications/i/item/WHO-UHL-IHS-IPC-2022.4 , accessed 19 April 2023.5. Is environmental ventilation19 (natural or mechanical) 
+present and functioning (well maintained) as intended 
+in patient care areas?
+6. Are there materials for cleaning (for example, 
+detergent, mops, buckets, etc.), available at ALL  
+times?
+7. Is there a space or rooms for cohorting20/physical 
+separation of patients with similar pathogens or 
+syndromes if temporarily needed (for example, 
+tuberculosis, measles, cholera, viral hemorrhagic 
+fevers (Ebola virus disease, Marburg virus disease, 
+severe acute respiratory syndrome)21?
+8. Is personal protective equipment22 available at ALL  
+times and in sufficient quantity for appropriate use for 
+both standard and transmission-based precautions 
+for all health and care workers?
+9. Do you have functional waste collection containers 
+for non-infectious (general) waste, infectious waste, 
+and sharps waste in close proximity23 to all waste 
+generation points?
+10. Does your health facility provide a dedicated 
+decontamination area and/or sterile supply 
+department (either present on- or off-site and operated 
+by a licensed decontamination management service) 
+for the decontamination and sterilization of medical 
+devices and other items and or equipment?
+11. Do you have sterile and/or disinfected equipment24 
+ready for use and available?7
+ASSESSMENT TOOL ON INFECTION PREVENTION AND CONTROL MINIMUM REQUIREMENTS FOR PRIMARY HEALTH CARE FACILITIESInterpretation 
+Count your total ‘yes’ responses overall and for each core component. A total score of 26 (100%) means you 
+have achieved the minimum requirements for IPC at the primary care level. If your score is less, this means you 
+have not achieved all the minimum requirements. Review the areas identified by this evaluation as requiring 
+improvement in your facility and develop an action plan to address them. To undertake this task, consult the WHO 
+Strengthening IPC in primary care manual4, which will provide you with guidance, templates, tips and examples 
+from around the world, as well as with a list of relevant IPC improvement tools. Keep a copy of this assessment 
+to compare with repeated uses in the future.
+Adding up subtotal scores
+Core component  Total ‘yes’ responses
+1. IPC programmes /2
+2. IPC guidelines /3
+3. IPC education and training /4
+4. Health care-associated infection surveillance (not scored)
+5. Multimodal strategies /1
+6. Monitoring/audits of IPC practices and feedback /2
+7. Workload, staffing and bed occupancy /3
+8. Built environment, materials and equipment for IPC at the facility 
+level/11
+Final total score /26
+WHO/UHL/IHS/IPC/2023.2 – © WHO 2023. Some rights reserved.
+This work is available under the CC BY-NC-SA 3.0 IGO licence .

@@ -1,0 +1,2083 @@
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+                  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+                         
+      
+           
+ 
+ SAVE LIVES
+Clean Your  Hands
+Manual técnico de referencia para 
+la higiene de las manos  
+2ANTES DE REALIZAR 
+UNA TAREA LIMPIA O 
+ASÉPTICA
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+3DESPUÉS 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO  
+DEL PACIENTE1ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE
+2ANTES DE REALIZAR 
+UNA TAREA LIMPIA O 
+ASÉPTICA2ANTES DE REALIZAR 
+UNA TAREA LIMPIA O 
+ASÉPTICA
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+3DESPUÉS 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES3DESPUÉS 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO  
+DEL PACIENTE5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO  
+DEL PACIENTE1ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE1ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE
+Dirigido a los profesionales sanitarios, a los formadores y 
+a los observadores de las prácticas de higiene de las manos   
+ 
+Patient Safety 
+A World Alliance for Safer Health Care  
+ 
+ 
+ 
+ 
+ 
+Publicado por la Organización Mundial de la Salud (OMS) en el 2009 con el título Hand 
+Hygiene Technical Referente Manual  
+ 
+© Organización Mundial de la Salud, 2009 
+ 
+ 
+WHO/IER/PSP/2009.02
+ 
+Se reservan todos los derechos. Las publicaciones de la organización Mundial de la Salud 
+pueden solicitarse a WHO Press, World Health Organization, 20 Avenue Appia, 1211 
+Geneva 27, Switzerland Tel: +41 22 791 3264; Fax: +41 22 791 4857; e-mail: 
+bookorders@who.int. Las solicitudes de autorización para reproducir o traducir las 
+publicaciones de la OMS – ya sea para la venta o la distribución sin fines comerciales – 
+deben dirigirse a WHO Press, a la dirección mencionada. 
+Las denominaciones utilizadas en esta publicación no implican, por parte de la OMS, juicio 
+alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus 
+autoridades, ni respecto a la delimitación de sus fronteras. Las líneas discontinuas de los 
+mapas representan de forma aproximada fronteras con respecto a las cuales puede que no 
+haya pleno acuerdo. 
+La mención de empresas específicas o de productos de determinados fabricantes no implica 
+que la  OMS los apruebe o recomiende con preferencia a otros de naturaleza similar que no 
+son mencionados. Salvo error u omisión, los nombres de los productos patentados figuran 
+en mayúsculas. 
+La Organización Mundial de la Salud ha adoptado todas las precauciones razonables para 
+verificar la información que figura en el presente documento.  Sin embargo, el material 
+publicado se distribuye sin garantía de ningún tipo, ni explícita ni implícita. El lector es 
+responsable de la interpretación y el uso que haga de este material, y la Organización 
+Mundial de la Salud no responderá en ningún caso de los daños que se deriven de su 
+utilización. 
+ 
+ 
+ 
+ 
+El Director General de la Organización Mundial de la Salud ha concedido al Ministerio de 
+Sanidad, Política Social e Igualdad los derechos de traducción para realizar una edición en 
+español, de la que este Ministerio es el único responsable. 
+ 
+ 
+ 
+© de la traducción, Ministerio de Sanidad , Política Social e Igualdad, 2010 
+NIPO
+: 860- 11-176-1 
+ 
+ 
+ 
+     
+ 
+CONTENIDO   
+      CONTENIDO  
+ 
+DEFINI CIONES  5 
+ 
+ 
+PARTE I – INFECCIONES RELACIONADAS CON LA ATENCIÓN SANITARIA E HIGIENE DE LAS 
+MANOS 
+  7 
+ 
+I.1.    7 ¿Qué es un a infección relacionada con la atención sanitaria y qué impacto tiene en la seguridad del paciente?  
+ 
+I.2. ¿Qué papel desempeñan las manos en la transmisión de los microorganismos?     7 
+¿Qué papel desempeña la higiene de las manos en la prevención de las infecciones relacionadas con la atención I.3.    7 sanitaria?    
+I.4. ¿Cómo debe realizarse la higiene de las manos?     7 
+I.5. ¿Cuándo debe realizarse la higiene de las manos?        8 
+      9  I.5.1. El modelo de «Los cinco momentos para la higiene de las manos».    
+  
+ 
+ 
+PAR
+TE II – PRÁCTICA, FORMACIÓN Y OBSERVACIÓN DE LA HIGIENE DE LAS 10
+MANOS  
+   
+II.1. La aplicación práctica de « Los cinco momentos para la higiene de las manos»  10 
+ II.1.1.  La zona del paciente  10 
+ II.1.2. El área asistencial  10 
+ II.1.3.  El contacto con el paciente y su entorno 11 
+II.2. Profesionales sanitarios a los que incumbe la higiene de las manos  11 
+II.3. Actividades asistenciales e indicaciones  11 
+II.4. Indicaciones y acciones de higiene de las manos      11 
+II.5. Hacia una mayor comprensión de la aplicación de los cinco momentos      12 
+ II.5.1.  Indicación (momento) 1: antes del contacto con el paciente    12 
+ II.5.2.  Indicación (momento) 2: antes de un procedimiento limpio / aséptico  13 
+ II.5.3.  Indicación (momento) 3: después del riesgo de exposición a fluidos corporales    14 
+ II.5.4.  Indicación (momento) 4: después del contacto con el paciente                                 14 
+ II.5.5.  Indicación (momento) 5: después del contacto con el entorno del paciente                                    15 
+ II.5.6.  Comprensión de los cinco momentos en la secuencia asistencial                                16 
+II.6. Indicaciones para la higiene de las manos cuando se necesita utilizar guantes médicos                            17 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+ 
+PARTE II I – LA OBSERVACIÓN DE LA PRÁCTICA DE LA HIGIENE DE LAS MANOS   18
+   
+III.1. El propósito de la observación  18 
+III.2. La observación directa de la práctica de higiene de las manos  18 
+III.3. Las reglas de la observación  18 
+III.4. El observador y su papel       18 
+III.5. Las oportunidades para realizar la higiene de las manos 19 
+III.6. La acción de higiene de manos vista por el observador 19 
+III.7. Informar sobre el cumplimiento de la higiene de las manos 20 
+III.8. Metodología de observación     20 
+ III.8.1. El formulario de observación    22 
+ III.8.2. El formulario de cálculo básico  24  
+ 
+ 
+ 
+PARTE IV – OTROS ASPECTOS DE LA HIGIENE DE LAS MANOS    26
+IV.1. La seguridad de las manos  26 
+IV.2. El cuidado de la piel de las manos  26 
+  
+   
+ 
+PARTE V – LISTA DE REFERENCIAS ESCOGIDAS    27
+  
+ 
+ 
+APÉNDICE – FORMULARIOS DE OBSERVACIÓN Y CÁLCULO    28
+       5   DEFINICIONES 
+ 
+ 
+ 
+DEFINICIONES  
+ 
+ 
+ 
+Preparado de base alcohólica 
+para la fricción de las manos   
+Prepara do de contenido alcohólico (líquido, gel o espuma ) formulado para ser aplicado en las 
+manos con el objetivo de inactivar los microorganismos y / o suprimir temporalmente su 
+crecimiento. Estos preparados pueden contener uno o más tipos de alcohol con excipientes , otros 
+principios activos y humectante s. 
+ 
+Procedimiento limpio/aséptico   
+Cualquier actividad de asistencia que entraña un contacto directo o indirecto con mucosas, piel no 
+intacta o un dispositivo médico invasivo. Durante este procedimiento no debe transmitirse ningún 
+germen.  
+ 
+Fluidos corporales   
+Cualquier sustancia/fluido procedente del cuerpo: 
+ Sangre 
+ Excreciones: orina, heces, vómito, meconio, loquios 
+ Secreciones: saliva, moco, esperma, leche y calostro, lágrimas, cerumen, vermis caseoso 
+(hasta el primer baño)  
+ Trasudado/exudado: líquido pleural, líquido cerebroespinal, líquido ascítico, líquido sinovial, 
+líquido amniótico, pus, con la excepción del sudor.  
+ Por extensión, cualquier muestra biológica extraída del   cuerpo (incluyendo muestras de tejido, 
+placenta, muestras citológicas, órganos y médula ósea). 
+ 
+Puntos críticos   
+Los puntos críticos se asocian al riesgo de infección. Corresponden a zonas del cuerpo o 
+dispositivos médicos que han de protegerse frente a gérmenes patógenos (puntos críticos con 
+riesgo infeccioso para el paciente), o a zonas del cuerpo o dispositivos médicos con riesgo potencial 
+de que la mano sufra una exposición a fluidos corporales y patógenos hemotransmisibles (puntos 
+críticos con riesgo de exposición a fluidos corporales). Ambos tipos de riesgo pueden producirse 
+simultáneamente.  
+ 
+Guantes médicos  
+Guantes usados para procedimientos médicos:  
+ Guantes de examen estériles y no estériles 
+ Guantes quirúrgicos 
+ Guantes de quimioterapia 
+ 
+Cuidado de las manos   
+Acciones que disminuyen el riesgo de irritación o deterioro de la piel.  
+ 
+Higiene de manos   
+Término genérico referido a cualquier medida adoptada para la limpieza de las manos -fricción con 
+un preparado de base alcohólica o lavado con agua y jabón-, con el objetivo de reducir o inhibir el 
+crecimiento de microorganismos en las manos.  
+ 
+Indicación de higiene de las 
+manos   
+Razón por la que se debe realizar la higiene de las manos en una determinada situación  
+ 
+Oportunidad para la 
+higiene de las manos   
+Momento durante la actividad asistencial en el que es necesario realizar una higiene de manos para 
+interrumpir la transmisión manual de microorganismos. Constituye el denominador para calcular el 
+grado de cumplimiento de la higiene de las manos, es decir, el porcentaje de ocasiones en que los 
+profesionales sanitarios realmente realizan una higiene de manos con respecto a todas las 
+ocasiones observadas que lo reque rirían.  
+ 
+Fricción de las manos   
+Aplicar un antiséptico para manos para reducir o inhibir la propagación de los microorganismos sin 
+necesidad de una fuente exógena de agua ni del enjugado o secado con toallas u otros 
+instrumentos.   
+ 
+Dispositivo médico 
+invasivo   
+Dispositivo médico que se introduce a través de la piel, de una membrana mucosa o de un orificio 
+natural.   
+ 
+Colonización   
+Presencia y multiplicación de microorganismos patógenos sin que se produzca una invasión o 
+deterioro de los tejidos.   
+ 
+Infección   
+Invasión y multiplicación de microorganismos patógenos en un tejido o en una parte del cuerpo que, 
+mediante diversos mecanismos celulares o tóxicos pueden posteriormente ocasionar una lesión 
+tisular y convertirse en enfermedad.  6  6 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+ 
+ 
+RESUMEN  
+ 
+ 
+Las infecciones relacionadas con la atención sanitaria (IRAS) suponen una tremenda 
+carga de enfermedad y tienen un importante impacto económico en los pacientes y 
+los sistemas sanitarios de todo el mundo. Pero una buena higiene de las manos, la 
+sencilla tarea de limpiarse las manos en el momento apropiado y de la manera 
+adecuada, puede salvar vidas.  
+ 
+La Organización Mundial de la Salud (OMS) ha elaborado unas Directrices sobre la 
+Higiene de las Manos en la Atención Sanitaria, basadas en la evidencia científica, 
+para ayudar a los centros sanitarios a mejorar la higiene de las manos y de ese 
+modo disminuir las IRAS.  
+ 
+El Manual Técnico de Referencia para la Higiene de las Manos se ha desarrollado 
+para ayudar a los profesionales sanitarios a implementar mejoras en los centros en 
+los que trabajan como parte de una estrategia multimodal según las Directrices de la 
+OMS sobre la Higiene de las Manos en la Atención Sanitaria. 
+  
+Este Manual Técnico de Referencia está diseñado para ser utilizado en cualquier 
+centro sanitario. Presenta información detallada acerca de la higiene de las manos y 
+va dirigido a profesionales sanitarios, formadores y observadores. Se centra en la 
+comprensión, la práctica y la enseñanza de conceptos de higiene de manos, con el 
+objetivo de poder ayudar a otros a comprender su importancia y su aplicación en la 
+prevención de la transmisión cruzada de microorganismos. Es particularmente 
+importante porque proporciona información exhaustiva sobre la aplicación de «Los 5 
+Momentos para la Higiene de Manos» propuestos por la OMS y sobre el 
+procedimiento de observación de la higiene de manos, además de incluir imágenes y 
+ejemplos prácticos. De este modo facilita que aumente el conocimiento que poseen 
+los profesionales sanitarios de cuándo y cómo deben realizar la higiene de las 
+manos, así como de su observación. Puede utilizarse para las sesiones de formación 
+y aprendizaje tanto formales como informales y para apoyar el proceso de 
+evaluación y retroalimentación de los resultados de la observación de la higiene de 
+las manos. El objetivo último es contribuir a la reducción de las IRAS mejorando la 
+práctica de la higiene de las manos y de este modo impedir el despilfarro de los 
+recursos y salvar vidas.     7     
+ 
+ 
+PARTE I 
+INFE 
+ CCIONES RELACIONADAS CON LA 
+ATE 
+ NCIÓN SANITARIA E HIGIENE DE LAS 
+ MANOS 
+  
+ 
+ 
+ 
+   
+I.1. ¿QUÉ ES UNA INFECCIÓN RELACIONADA CON LA ATENCIÓN SANITARIA Y QUÉ 
+IMPACTO TIENE EN LA SEGURIDAD DEL PACIENTE? 
+Una infección relacionada con la atención sanitaria (IRAS), también denominada infección nosocomial, se define como «aquella infección que afecta a 
+un paciente durante el proceso de asistencia en un hospital u otro centro sanitario, que no estaba presente ni incubándose en el momento del ingreso.  
+Incluye también las infecciones que se contraen en el hospital pero se manifiestan después del alta, así como las infecciones ocupacionales del 
+personal del centro sanitario».  Con esta definición se comprende claramente que la incidencia de estas infecciones está ligada a la prestación de 
+asistencia sanitaria y que puede producirse, aunque no siempre, como consecuencia del fallo de los sistemas y los procesos de la asistencia sanitaria, 
+así como del comportamiento humano. Por lo tanto, supone un problema importante de seguridad del paciente.  
+Las IRAS se producen en todo el mundo y afectan a cientos de millo nes de pacientes tanto en los países desarrollados como en los países en 
+desarrollo. En los países desarrollados complica entre el 5% y el 10% de los ingresos en los hospitales de agudos. En los países en desarrollo el 
+riesgo es de 2 a 20 veces mayor y la proporción de pacientes infectados puede rebasar el 25 %. Además del sufrimiento físico y moral que ocasionan a 
+los pacientes y sus familias, las IRAS suponen un elevado coste para el sistema sanitario y consumen recursos que podrían destinarse a medidas 
+preventivas o a otras prioridades.     
+I.2. ¿QUÉ PAPEL DESEMPEÑAN LAS MANOS EN LA TRANSMISIÓN DE LOS 
+MICROORGANISMOS ?  
+Los microorganismos (gérmenes) responsables de las IRAS pueden ser virus, hongos, parásitos y, con mayor frecuencia, bacterias. Las IRAS pueden  
+estar provocadas bien por microorganismos que ya estaban presentes en la mucosa y la piel del paciente (endógenos) o por microorganismos 
+procedentes de otro paciente o de un profesional sanitario o del entorno (exógenos). En la mayoría de los casos, el vehículo de transmisión de los 
+microorganismos desde la fuente de infección al paciente son las manos de los profesionales sanitarios, pero los propios pacientes pueden ser la 
+fuente. Generalmente, los microorganismos se transmiten de un paciente a otro, de una parte del cuerpo a otra y del entorno al paciente o viceversa. 
+Los gérmenes y los potenciales agentes patógenos pueden ir colonizando progresivamente las manos de los profesionales sanitarios durante el 
+proceso de atención. Si no hay higiene de manos, cuanto más se prolongue la asistencia, mayores serán el grado de contaminación de las manos y 
+los riesgos potenciales para la seguridad del paciente.  
+El riesgo de transmisión y el perjuicio potencial están presentes en todos los momentos de la prestación asistencial, sobre todo en el caso de 
+pacientes inmunodeprimidos o vulnerables y/o si se utilizan dispositivos invasivos permanentes (catéteres urinarios, intravenosos, intubación 
+endotraqueal, drenajes...).  
+I.3. ¿QUÉ PAPEL DESEMPEÑA LA HIGIENE DE LAS MANOS EN LA PREVENCIÓN DE 
+LAS INFECCIONES RELACIONADAS CON LA ATENCIÓN SANITARIA?  
+Diversos estudios han demostrado claramente que la implementación de programas bien estructurados de control de infecciones es una forma 
+rentable de disminuir las IRAS. Algunos han puesto de manifiesto que estos resultados también son factibles en países y centros sanitarios con 
+recursos limitados .  
+El control de las infecciones se basa en una serie de medidas sencillas y bien establecidas, de probada eficacia y ampliament e reconocidas. Las 
+«Precauciones Estándar» comprenden los principios básicos del control de las infecciones que son obligatorios en todos los centros sanitarios. Su 
+aplicación se extiende a todos los pacientes que reciben asistencia, al margen de su diagnóstico, sus factores de riesgo y su presunto estado 
+infeccioso, disminuyendo el riesgo de que el paciente y el personal del hospital contraigan una infección  
+La higiene de las manos constituye en gran medida el núcleo de las Precauciones Estándar y es indiscutiblemente la medida más eficaz para el control 
+de las infecciones. Lo mismo puede decirse en aquellas situaciones en que se aplican determinadas «precauciones de aislamiento» de manera 
+específica (precauciones para evitar la transmisión por contacto, por gotas o por el aire). Además, la importancia de la higiene de las manos se 
+enfatiza desde los enfoques más actuales de mejora de la calidad de tipo multimodal o de «paquetes» de medidas de intervención para la prevención 
+de infecciones específicas como las bacteriemias o las infecciones urinarias relacionadas con dispositivos, la infección del sitio quirúrgico y la 
+neumonía asociada a la ventilación mecánica. La importancia de incorporar una higiene de manos eficaz y efectiva en todos los elementos de la 
+prestación asistencial debe mantener su prominencia en la atención sanitaria . 
+I.4. ¿CÓMO DEBE REALIZARSE LA HIGIENE DE LAS MANOS?  
+La higiene de las manos puede realizarse frotando las manos con un preparado de base alcohólica o lavándolas con agua y jabón.  Usando la técnica y 
+el producto adecuado, las manos quedan libres de contaminación potencialmente nociva y segura para la atención al paciente. 
+ 8  8 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+ 
+ Fricción de manos con un preparado de base alcohólica  
+La forma más efectiva de asegurar una higiene de manos óptima 
+es realizar una fricción de las manos con un preparado de base 
+alcohólica 
+(PBA). Según las Directrices de la OMS, cuando haya disponible 
+un PBA éste debe usarse de manera preferente para la antisepsia 
+rutinaria de las manos (recomendación de categoría IB). La fricción 
+de manos con un PBA  presenta las siguientes ventajas inmediatas:  
+- la eliminación de la mayoría de los gérmenes (incluyendo los  
+virus); 
+- el escaso tiempo que precisa (de 20 a 30 segundos);  
+- la disponibilidad del producto en el punto de atención*; 
+- la buena tolerancia de la piel; 
+- el hecho de que no se necesite ninguna infraestructura   
+particular (red de suministro de agua limpia, lavabo, jabón o 
+toalla para las manos). 
+El jabón y el preparado de base alcohólica no deben utilizarse 
+conjuntamente (categoría II).  
+Para seguir las recomendaciones sobre la higiene de manos 
+rutinaria, lo ideal es que los profesionales sanitarios la lleven a 
+cabo donde y cuándo prestan la asistencia, es decir, en el punto de 
+atención*
+*Punto de atención : es el lugar donde confluyen tres elementos: el paciente, el profesional sanitario y la asistencia o el tratamiento que entrañ a 
+contacto con el paciente o su entorno (en la zona del paciente). El concepto comprende la necesidad de realizar una higiene de las manos en los 
+momentos recomendados en el lugar preciso donde tiene lugar la prestación de asistencia. Para ello es necesario que haya un producto para la HM (por 
+ejemplo un preparado de base alcohólica) fácilmente accesible y tan cerca como sea posible: al alcance de la mano de donde se efectúe el tratamiento 
+o la asistencia al paciente. Los productos para los puntos de atención deben ser accesibles sin necesidad de abandonar la zona del paciente. 
+La disponibilidad de preparados de base alcohólica para la fricción de las manos en los puntos de atención normalmente se consigue facilitándoselos al 
+personal (en formato envase de bolsillo), fijándolos a la cama del paciente o la mesita de noche o adosándolos a los carritos de curas o de medicación 
+que se llevan al punto de atención. y en los momentos señalados. A menudo esto requiere 
+utilizar un PBA.  
+Lavado de manos  
+Hay que lavarse las manos con agua y jabón cuando estén 
+visiblemente sucias o manchadas de sangre u otros fluidos 
+corporales, cuando existe una fuerte sospecha o evidencia de 
+exposición a organismos potencialmente formadores de esporas, o 
+después de usar los servicios (categoría II).  
+La realización de una higiene de manos eficaz, ya sea por fricción 
+o por lavado (Figuras 1.a y 1.b), depende de una serie de factores: 
+- la calidad del preparado de base alcohólica (su conformidad 
+con los   estándares europeos y norteamericanos); 
+- la cantidad de producto que se usa; 
+- el tiempo que se dedica a la fricción o al lavado; 
+- la superficie de la mano que se ha frotado o lavado.  
+Las acciones de higiene de las manos tienen más eficacia cuando 
+la piel de las manos se encuentra libre de cortes, las uñas son 
+naturales, cortas y sin esmalte y las manos y los antebrazos no 
+tienen joyas y están al descubierto (ver Sección 4: Otros aspectos 
+de la higiene).  
+Por tanto, es importante que se sigan una serie de pasos a la hora 
+de realizar la higiene de las manos para que éstas sean seguras 
+para la prestación de asistencia (Figuras 1.a y 1.b).  Figura 1.a 
+ 
+I.5. ¿CUÁNDO DEBE REALIZARSE LA 
+HIGIENE DE LAS MANOS?  
+La realización o no de una adecuada higiene de las manos tiene 
+consecuencias en la transmisión de agentes patógenos y el desarrollo de 
+las IRAS. Realizar una higiene de las manos no es simplemente una 
+opción, una cuestión de sentido común o una mera oportunidad; durante la 
+prestación asistencial responde a indicaciones que están justificadas por el 
+riesgo de transmisión de gérmenes. Para minimizar las diferencias en la 
+comprensión y aplicación de las indicaciones para la higiene de las manos 
+por parte de los profesionales sanitarios, los formadores y los 
+observadores de las prácticas de HM es importante que dichas 
+indicaciones sean comprensibles de manera universal. No debe quedar 
+lugar para la duda o la interpretación por parte de los profesionales 
+sanitarios y, además, si la manera de realizar la higiene de manos va a ser 
+evaluada y los resultados de la evaluación presentados al personal para 
+asegurar la mejora continua, es esencial que los observadores posean una 
+comprensión clara de cuáles son las indicaciones adecuadas para la 
+higiene de las manos.     9   PARTE I  – INFECCIONES RELACIONADAS CON LA ATENCIÓN SANITARIA E HIGIENE DE LAS MANOS 
+ Figura 1.b 
+ 
+I.5.1. El modelo de «Los cinco momentos 
+p
+ara la higiene de las manos»   
+El modelo de «Los cinco momentos para la higiene de las manos» 
+propone una visión unificada para los profesionales sanitarios, los 
+formadores y los observadores con objeto de minimizar la variación 
+entre individuos y conducir a un aumento global del cumplimiento de 
+las prácticas efectivas de higiene de las manos. Considerando la 
+evidencia, este modelo integra las indicaciones para la higiene de las 
+manos recomendadas por las Directrices de la OMS (ver Parte II de las 
+Directrices) en cinco momentos en los que se requiere higiene de 
+manos. Sobre todo, este enfoque centrado tanto en el usuario como en 
+el paciente se propone minimizar la complejidad e integrarse en la 
+secuencia natural de trabajo, siendo aplicable a una amplia gama tanto 
+de entornos como de profesiones en el ámbito de la asistencia 
+sanitaria. 
+Decidir presentar la higiene de las manos mediante un concepto 
+sintético que se concentra en sólo cinco indicaciones tiene la intención 
+de facilitar la comprensión de los momentos en los que existe un 
+riesgo de transmisión de gérmenes por medio de las manos de modo 
+que éstos se memoricen y se integren en las actividades asistenciales. 
+«Los cinco momentos para la higiene de las manos» (Figura 2) se 
+propone como modelo de referencia para la apropiada realización, 
+enseñanza y evaluación de la higiene de las manos. El modelo 
+pretende trascender la larga lista (que nunca es exhaustiva) de 
+situaciones y actividades asistenciales que requieren higiene de las 
+manos; no define múltiples y específicos procedimientos o situaciones, 
+sino que ayuda a concentrarse en momentos esenciales integrados en 
+la secuencia asistencial que son primordiales para la higiene de las 
+manos. El modelo no disminuye en modo alguno la necesidad de la 
+higiene de las manos. Es una herramienta para identificar los 
+momentos en los que debe realizarse dicha higiene, así como para 
+distinguir aquellos en los que no resulta útil. Figura 2. 
+Los cinco momentos para la higiene de las 
+manos 
+ 
+2ANTES DE 
+REALIZAR UNA 
+TAREA LIMPIA O 
+ASÉPTICA
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+3DESPUÉS DE 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES1ANTES DEL 
+CONTACTO 
+DIRECTO CON 
+EL PACIENTE
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO 
+DEL PACIENTE
+2ANTES DE 
+REALIZAR UNA 
+TAREA LIMPIA O 
+ASÉPTICA
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+2ANTES DE 
+REALIZAR UNA 
+TAREA LIMPIA O 
+ASÉPTICA2ANTES DE 
+REALIZAR UNA 
+TAREA LIMPIA O 
+ASÉPTICA
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+3DESPUÉS DE 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES3DESPUÉS DE 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES1ANTES DEL 
+CONTACTO 
+DIRECTO CON 
+EL PACIENTE1ANTES DEL 
+CONTACTO 
+DIRECTO CON 
+EL PACIENTE
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO 
+DEL PACIENTE5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO 
+DEL PACIENTE
+ 10  10 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+   
+ 
+ 
+P ARTE II 
+P 
+ RÁCTICA, FORMACIÓN Y OBSERVACIÓN DE LA 
+H 
+ 
+ IGIENE DE LAS MANOS  
+ 
+ 
+ 
+ 
+ 
+II.1. LA APLICACIÓN PRÁCTICA DE 
+«LOS 
+CINCO MOMENTOS PARA LA 
+HIGIENE DE LAS MANOS»  
+La necesidad de efectuar la higiene de las manos está estrechamente 
+ligada a las actividades de los profesionales sanitarios en el espacio 
+físico que rodea a cada paciente. Si lo consideramos en relación a un 
+solo paciente, el entorno en que se realiza la asistencia puede dividirse 
+en dos áreas espaciales virtuales, la zona del paciente y el área de 
+asistencia, ilustradas en la Figura 3.  
+Figura 3. 
+ÁREA DE ASISTENCIA
+ZONA DEL PACIENTE
+Punto crítico 
+con riesgo de 
+infección para 
+el paciente
+Punto crítico 
+con riesgo de 
+exposición a 
+fluidos 
+corporales
+ÁREA DE ASISTENCIA
+ZONA DEL PACIENTE
+Punto crítico 
+con riesgo de 
+infección para 
+el paciente
+Punto crítico 
+con riesgo de 
+exposición a 
+fluidos 
+corporales
+ 
+II.1.1. La zona del paciente 
+El modelo «Los cinco momentos para la higiene de las manos» se 
+centra específicamente en los contactos que se producen en la zona 
+del paciente durante la prestación asistencial. 
+La zona del paciente incluye al paciente y algunas superficies y objetos 
+destinados a éste de forma temporal  y exclusiva . Contiene al 
+paciente X y su entorno inmediato (Figura 3). Esto incluye 
+normalmente al paciente y todas las superficies inanimadas que toca o 
+que se encuentran en contacto físico directo con él, tales como las 
+barandillas de la cama, la mesita de noche, la ropa de cama, tubos de 
+infusión y otro equipo médico. Además incluye las superficies que 
+suelen tocar los profesionales sanitarios cuando atienden al paciente, 
+como monitores, picaportes y botones y otras superficies de contacto.   
+La zona del paciente no es un área espacial estática (por ejemplo, el 
+área que rodea al paciente que incluye la cama con el mobiliario y el 
+equipo asociados a la misma), sino el área que rodea al paciente y que 
+le incluye en cualquier momento. «Acompaña» al paciente por el área 
+de asistencia dondequiera que éste va o está. El modelo no se limita a 
+los pacientes postrados en cama, sino que también se aplica a los 
+pacientes sentados en una silla o a los que visitan al fisioterapeuta en 
+una sala de tratamiento común (Figura 4).  En consecuencia el concepto de «Los cinco momentos» también se 
+apli
+ca a situaciones que definen una zona «temporal» del paciente (por 
+ejemplo, mientras recibe ayuda en el cuarto de baño). La zona del 
+paciente también puede variar considerablemente en función del 
+entorno, la duración de la estancia y el tipo de asistencia que se 
+presta.  
+Figura 4.  
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+3DESPUÉS 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES1ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO  
+DEL PACIENTE2ANTES DE REALIZAR 
+UNA TAREA LIMPIA O 
+ASÉPTICA
+4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE4DESPUÉS DEL 
+CONTACTO CON 
+EL PACIENTE
+3DESPUÉS 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES3DESPUÉS 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES1ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE1ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO  
+DEL PACIENTE5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO  
+DEL PACIENTE2ANTES DE REALIZAR 
+UNA TAREA LIMPIA O 
+ASÉPTICA2ANTES DE REALIZAR 
+UNA TAREA LIMPIA O 
+ASÉPTICA
+ 
+El entorno del paciente está contaminado por la flora del propio 
+paciente. Por lo tanto, cualquier objeto que vaya a ser reutilizado debe 
+previamente descontaminarse al acceder y al abandonar el entorno del 
+paciente. Los objetos que normalmente no se destinan a la asistencia 
+al paciente y que se trasladan con frecuencia al área de asistencia 
+sanitaria no deben considerarse nunca como entorno del paciente, por 
+muy cerca del mismo que se encuentren (por ejemplo, la gráfica 
+electrónica o en papel, los lápices, etcétera). Las pertenencias 
+personales se consideran parte de la zona del paciente puesto que no 
+deben sacarse de ella. Además, los objetos y las superficies expuestas 
+temporalmente al paciente, tales como las superficies de un cuarto de 
+baño compartido, una mesa de fisioterapia o radiología deben 
+descontaminarse después de la salida del paciente. 
+II.1.2. El área asistencial  
+El 
+área de asistencia hace referencia a las superficies del espacio en 
+que se desarrolla la asistencia fuera de la zona del paciente X, es 
+decir, otros pacientes y sus respectivas zonas, así como el entorno 
+asistencial más amplio. En la mayoría de los contextos el área de 
+asistencia se caracteriza por la presencia de diversos y numerosos 
+microorganismos, incluyendo gérmenes multirresistentes. Realizar la 
+higiene de las manos aplicando los cinco momentos  al tiempo que se 
+atiende a los pacientes en sus respectivas zonas contribuye a proteger 
+el entorno sanitario general frente a la contaminación por los gérmenes 
+del paciente.      11   PARTE II  – PRÁCTICA, FORMACIÓN Y OBSERVACIÓN DE LA HIGIENE DE LAS MANOS 
+ II.1.3. El contacto con el paciente y su 
+e
+ntorno 
+El paciente es una persona que recibe una asistencia sanitaria que 
+entraña contacto directo o indirecto (por medio de un objeto 
+intermedio). 
+Los distintos tipos de contacto son: 
+a) El contacto con los efectos personales y la piel intacta del 
+paciente. 
+b) El contacto con las membranas mucosas, la piel no intacta, con 
+dispositivos médicos invasivos que corresponden a puntos 
+críticos en lo que concierne al riesgo para el paciente (por 
+ejemplo, una vía vascular como la que muestra la Figura 3).  
+c) El contacto potencial o real con un fluido corporal que 
+corresponde a un punto crítico en lo que concierne al riesgo para 
+el profesional       sanitario (por ejemplo, una bolsa de recogida de 
+orina como en la Figura 3), incluyendo el contacto con mucosas y 
+piel no intacta (puntos críticos con riesgo de exposición a fluidos 
+corporales).  
+d) El contacto con objetos del entorno del paciente.  
+Cada tipo de contacto justifica la necesidad de una o más indicaciones 
+para la higiene de las manos antes y después de un procedimiento con 
+el fin de impedir la transmisión al paciente, al profesional sanitario o al 
+área de asistencia. 
+II.2. PROFESIONALES SANITARIOS A 
+LOS QUE INCUMBE LA HIGIENE DE LAS 
+MANOS 
+La higiene de las manos incumbe a todos los profesionales sanitarios 
+que se encuentran en contacto directo o indirecto con los pacientes y 
+su entorno durante sus respectivas actividades. Las modalidades de 
+transmisión de gérmenes pueden diferir en función de la actividad, 
+pero la entidad del riesgo asociado a la transmisión en una situación 
+particular suele ser desconocida. Por este motivo, todas las personas 
+que participan en la prestación de asistencia sanitaria tienen la 
+responsabilidad de detener la transmisión microbiana cuando el 
+contacto directo o indirecto justifica la existencia de indicaciones para 
+la higiene de las manos. En un entorno asistencial, todas las 
+actividades que entrañan contacto directo o indirecto con los pacientes 
+se consideran actividades de asistencia sanitaria. Eso significa que, 
+con excepción del personal administrativo, la higiene de las manos 
+incumbe potencialmente a todos los profesionales de la salud, sea cual 
+sea su ubicación, en el curso de la realización de sus tareas. 
+II.3. ACTIVIDADES ASISTENCIALES E 
+INDICACIONES 
+La actividad asistencial se puede describir como una sucesión de 
+tareas durante las cuales las manos de los profesionales sanitarios 
+tocan distintos tipos de superficies (las manos de los pacientes, las 
+mucosas, el catéter intravenoso, la mesita de noche, el instrumental 
+médico, los residuos, la comida, la orina). La transmisión de gérmenes 
+de una superficie a otra debe interrumpirse, puesto que cada contacto 
+puede ser una fuente potencial de contaminación por o de las manos 
+de un profesional sanitario. Siempre que exista un riesgo de 
+transmisión de gérmenes, las indicaciones se aplican en el espacio de 
+tiempo que media entre los contactos.  
+ 
+ …→ CONTACTO 1 → [INDICACIÓN(ES)] → CONTACTO 2 → 
+[INDICACIÓN(ES )] → …   
+Los objetivos de las indicaciones para la higiene de las manos son:  
+1) Interrumpir la transmisión de gérmenes por medio de las manos 
+(Figura 5): a) entre el área de asistencia y la zona del paciente; b) 
+entre la zona del paciente y el área de asistencia; c) a un punto 
+crítico con riesgo infeccioso para el paciente (por ejemplo, una 
+membrana mucosa, la piel no intacta, un dispositivo médico 
+invasivo); d) desde la sangre y los fluidos corporales. 
+2) Prevenir: a) la colonización del paciente por parte de patógenos 
+potenciales (incluyendo los multirresistentes); b) la diseminación 
+de patógenos potenciales (incluyendo los multirresistentes) en el 
+área de asistencia; c) las infecciones causadas principalmente por 
+microorganismos endógenos; d) la colonización e infección de los 
+profesionales sanitarios. 
+Figura 5.  El área de asistencia y la zona del paciente: dinámica de la 
+transmisión de gérmenes. 
+ab
+c
+d
+ab
+c
+d
+II.4. INDICACIONES Y ACCIONES DE 
+HIGIENE DE LAS MANOS 
+La realización de una higiene de manos efectiva incluye que los 
+pr
+ofesionales sanitarios tomen conciencia de las indicaciones y de 
+cuándo y en qué orden se aplican durante las actividades 
+asistenciales. La acción de higiene de manos puede realizarse 
+frotándose las manos con un preparado de base alcohólica o 
+lavándoselas con agua y jabón. 
+Una indicación hace que la higiene de manos sea necesaria en un 
+momento dado. Está justificada por el riesgo de transmisión de 
+gérmenes de una superficie a otra y cada indicación está restringida a 
+un contacto específico. Las indicaciones aquí descritas se aplican 
+solamente a la atención sanitaria ordinaria y no a los procedimientos 
+que requieren una preparación manual quirúrgica. 
+Las indicaciones para la higiene de las manos no se corresponden con 
+el principio y el fin de una secuencia de actividades asistenciales. Se 
+produce una indicación para la higiene de las manos siempre que las 
+manos de un profesional sanitario se desplazan de una zona espacial 
+a otra (del área de asistencia a la zona del paciente y viceversa), de un 
+punto crítico a otro punto del cuerpo en el mismo paciente (por 
+ejemplo, de un punto crítico con riesgo de exposición a fluidos 
+corporales a un simple contacto con el paciente) o lejos del paciente 
+(por ejemplo, cuando pasan del área de asistencia a un punto crítico 
+para el paciente).12  12 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+Según la propuesta de «Los cinco momentos para la higiene de las manos» de la OMS, las indicaciones para la higiene de manos recomendadas por 
+las Directrices de la OMS para la Higiene de las Manos en la Atención Sanitaria  se integran en cinco momentos esenciales en los que se necesita 
+realizar la higiene de las manos en el curso del proceso asistencial (ver la siguiente tabla).  
+Tabla.  Correspondencia entre las indicaciones y las recomendaciones de la OMS. 
+Los 5 momentos Recomendaciones de consenso 
+Directrices de la OMS para la Higiene de las Manos en la Atención Sanitaria de 2009   
+1. Antes del contacto con el paciente D.a) Antes y después de tocar al paciente (IB) 
+  
+  
+ 
+ 
+ 2. An
+tes de un procedimiento  
+    li
+mpio / aséptico  D.b) Antes de manipular un dispositivo invasivo para la asistencia al paciente, con independencia 
+de que se empleen guantes o no (IB). 
+D.d) Si hay desplazamiento de un punto del cuerpo contaminado a otro punto del cuerpo durante 
+la asistencia al mismo paciente (IB).  
+3. Después del riesgo de exposición 
+    a fluidos corporales  D.c) Después del contacto con excreciones o fluidos corporales, membrana mucosa, piel no 
+intacta o vendaje de heridas (IA). 
+D.d) Si hay desplazamiento de un punto del cuerpo contaminado a otro punto del cuerpo durante 
+la asistencia al mismo paciente (IB). 
+D.f) Después de quitarse los guantes esterilizados (II) o no esterilizados (IB).  
+4. Después del contacto con el paciente D.a
+) Antes y después de tocar al paciente (IB). 
+D.f) Después de quitarse los guantes esterilizados (II) o no esterilizados (IB).  
+5. Después del contacto con el entorno 
+del paciente  D.e) Después del contacto con los objetos y las superficies inanimadas (incluyendo el equipo 
+médico) en las inmediaciones del paciente (IB). 
+D.f) Después de quitarse los guantes esterilizados (II) o no esterilizados (IB).  
+El modelo pretende trascender la larga lista (que nunca es exhaustiva) 
+de
+ situaciones y acciones asistenciales que requieren higiene de 
+manos; no define específicos y múltiples procedimientos o situaciones 
+sino que ayuda a concentrarse en momentos esenciales integrados en 
+la secuencia asistencial que son primordiales para la higiene de las 
+manos. El modelo no disminuye en modo alguno la necesidad de la 
+higiene de las manos. Es una herramienta para identificar los 
+momentos en los que ésta debe realizarse, así como para distinguir 
+aquellos en los que no resulta útil.   
+II.5. HACIA UNA MAYOR COMPRENSIÓN 
+DE LA APLICACIÓN DE LOS CINCO 
+MOMENTOS 
+Dos de los cinco momentos para la higiene de las manos se producen 
+antes  del contacto o del procedimiento asistencial; los tres restantes 
+se producen después  del contacto o exposición a fluidos corporales. 
+Las indicaciones que corresponden a los momentos "antes" señalan la 
+necesidad de prevenir el riesgo de transmisión microbiana al paciente.  
+Las indicaciones "después" pretenden prevenir el riesgo de 
+transmisión microbiana al profesional sanitario y al área de asistencia 
+(es decir, otros pacientes, sus inmediaciones y el entorno sanitario). 
+Durante una secuencia de actividades asistenciales, ciertas 
+indicaciones pueden coincidir en el mismo momento. Si como 
+resultado sólo se requiere una acción de higiene de manos, las 
+indicaciones deben evaluarse individualmente a la luz del resultado 
+previsto. 
+ II.5.1. Indicación (momento) 1: antes del 
+contacto con el pa
+ciente 
+Cuándo :antes de tocar al paciente al acercarse a él. Esta indicación 
+viene determinada al producirse el último contacto con el área de 
+asistencia y previa al siguiente contacto con el paciente. 
+Por qué:  para prevenir la transmisión de gérmenes desde el área de 
+asistencia al paciente y en última instancia proteger al paciente de la 
+colonización y, en algunos casos, de las infecciones exógenas por 
+parte de gérmenes nocivos transmitidos por las manos de los 
+profesionales sanitarios.   
+Notas:  Este momento se produce antes del contacto con la ropa y la 
+piel intacta del paciente; la acción de higiene de manos puede 
+realizarse al entrar en la zona del paciente, al acercarse al paciente o 
+inmediatamente antes de tocarlo. El contacto con las superficies del 
+entorno del paciente puede producirse al tocar objetos entre el 
+momento en que se penetra en la zona del paciente y el contacto con 
+éste; la higiene de las manos no es necesaria antes de tocar estas 
+superficies sino antes del contacto con el paciente. Si después de 
+efectuar la higiene de manos pero antes del contacto con el paciente, 
+se producen otros contactos de este tipo o con el entorno del paciente, 
+no es necesario repetir la higiene de manos.      13   PARTE II  – PRÁCTICA, FORMACIÓN Y OBSERVACIÓN DE LA HIGIENE DE LAS MANOS 
+Situaciones que ejemplifican el contacto directo 
+a) Antes de estrecharle la mano a un paciente o acariciar la frente 
+de un niño; 
+b) Antes de ayudar a un paciente en actividades de cuidado 
+personal: moverse, darse un baño, comer, vestirse, etcétera; 
+c) Antes de prestar asistencia u otro tratamiento no invasivo: colocar 
+una máscara de oxígeno o realizar fisioterapia; 
+d) Antes de realizar una exploración física no invasiva: tomar el 
+pulso, la presión sanguínea, auscultar el pecho o realizar un 
+electrocardiograma.  
+Ejemplo práctico: 
+ 
+ 
+ 
+      
+ Indicación 1 
+Antes de tocar al 
+paciente 
+El profesional 
+sanitario efectúa una 
+higiene de las manos Contacto con el 
+área de asistencia 
+sanitaria previo a la 
+indicación 
+El profesional 
+sanitario entra en 
+una habitación 
+compartida 
+empujando un carrito 
+y corre las cortinas 
+del recinto de uno de 
+los pacientes Contacto con el 
+paciente que 
+justifica la 
+indicación 1 
+El profesional 
+sanitario mueve la 
+mesita de noche para 
+llegar hasta el 
+paciente y le 
+estrecha la mano 
+o 
+El profesional 
+sanitario estrecha la 
+mano del paciente y 
+mueve la mesita de 
+noche. 
+Figura 6.a 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1 ANTES DEL 
+CONTACTO 
+DIRECTO CON  
+EL PACIENTE ÁREA DE ASISTENCIA 
+ZONA DEL PACIENTE 
+II.5.2. Indicación (momento) 2: antes de un 
+procedimiento limpio/aséptico (en un punto 
+crítico con riesgo infeccioso para el 
+paciente)  
+Cuándo: inmediatamente antes de acceder a un punto crítico con 
+riesgo infeccioso para el paciente. Esta indicación viene determinada 
+al producirse el último contacto con cualquier superficie del área de 
+asistencia y de la zona del paciente (incluyendo al paciente y su 
+entorno), y previa a cualquier procedimiento que entrañe contacto 
+directo o indirecto con las membranas mucosas, la piel no intacta o un 
+dispositivo médico invasivo.  Por qué:  para impedir la transmisión de gérmenes por inoculación al 
+pa
+ciente, así como de un punto del cuerpo a otro del mismo paciente. 
+Notas: 
+Si se emplean guantes para realizar el procedimiento limpio / aséptico, 
+debe efectuarse una higiene de manos antes de ponérselos. 
+La indicación no viene definida por una secuencia de acciones 
+asistenciales, sino por el contacto directo o indirecto con la membrana 
+mucosa, la piel dañada o un dispositivo médico invasivo. 
+También debe tener en cuenta esta indicación cualquier profesional de 
+la sanidad que trabaje en algún punto de la cadena asistencial anterior 
+a la atención directa y se encargue de preparar algún producto o 
+instrumento destinado a estar en contacto con las mucosas o la piel no 
+intacta vía ingestión o inoculación (personal de esterilización, farmacia, 
+cocina).  
+Situaciones que ejemplifican procedimientos limpios/ asépticos: 
+a) Antes de cepillar los dientes al paciente, de poner gotas en los 
+ojos, de realizar un tacto vaginal o rectal, examinar la boca, la 
+nariz o el oído con o sin instrumental, introducir un supositorio o 
+un pesario o realizar una succión de la mucosa; 
+b) Antes de vendar una herida con o sin instrumental, de aplicar 
+pomada en una vesícula o realizar una inyección o punción 
+percutánea; 
+c) Antes de introducir un dispositivo médico invasivo (cánula nasal, 
+sonda nasogástrica, tubo endotraqueal, sonda urinaria, catéter   
+percutáneo, drenaje), de detener / abrir cualquier circuito de un 
+dispositivo médico invasivo (con fines de alimentación, 
+medicación, drenaje, succión o monitorización);  
+d) Antes de preparar comida, medicamentos, productos 
+farmacéuticos o material estéril. 
+Ejemplo práctico: 
+Contacto con una 
+su
+perficie previo a 
+la indicación 
+El profesional 
+sanitario ha 
+realizado los 
+preparativos 
+necesarios para 
+tomar una muestra 
+de sangre, 
+incluyendo la 
+desinfección y 
+colocación de un 
+torniquete en el 
+brazo del paciente. Indicación 2 
+Antes de un 
+procedimiento limpio 
+/ aséptico 
+El profesional sanitario 
+efectúa una higiene de 
+las manos. Contacto con piel 
+no intacta que 
+justifica la 
+indicación 2 
+El profesional 
+sanitario se pone 
+guantes e introduce 
+la aguja en vena. 14  14  MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+Figura 6.b   
+ 
+ 
+ 
+ZONA DEL PACIENTE 
+2 ANTES DE 
+REALIZAR 
+UNA TAREA 
+LIMPIA O 
+ASÉPTICA ÁREA DE ASISTENCIA 
+ 
+II.5.3. Indicación (momento) 3: después del 
+r
+iesgo de exposición a fluidos  corporales   
+Cuándo:  en cuanto termina la tarea que entraña un riesgo de 
+exposición a fluidos corporales (y después de quitarse los guantes). 
+Esta indicación viene determinada al producirse contacto con la sangre 
+u otros fluidos corporales (aunque éste sea mínimo y no se vea con 
+claridad) y previa al siguiente contacto con cualquier superficie, 
+incluyendo al paciente, su entorno o el área de asistencia sanitaria.   
+Por qué:  para proteger al profesional sanitario de la colonización o 
+infección por los gérmenes del paciente y para proteger el entorno 
+sanitario de la contaminación y de la subsiguiente propagación 
+potencial.   
+Esta acción puede posponerse hasta que el profesional sanitario haya 
+abandonado el entorno del paciente si debe retirar y procesar equipo 
+(por ejemplo, un tubo de drenaje abdominal) en una zona adecuada, 
+siempre y cuando sólo toque dicho equipo antes de realizar la higiene 
+de las manos.  
+Notas:  si el profesional sanitario lleva guantes en el momento de la 
+exposición a un fluido corporal, debe quitárselos inmediatamente 
+después y efectuar una higiene de manos. 
+Esta acción puede posponerse hasta que el profesional sanitario haya 
+abandonado el entorno del paciente si debe retirar y procesar equipo 
+(por ejemplo, un tubo de drenaje abdominal) en una zona adecuada, 
+siempre y cuando sólo toque dicho equipo antes de realizar la higiene 
+de las manos. 
+También debe tener en cuenta esta indicación cualquier profesional de 
+la sanidad que trabaje en algún punto de la cadena asistencial 
+posterior a la atención directa al paciente y tenga que manipular fluidos 
+corporales (técnico de laboratorio, patólogo), equipo sucio y 
+contaminado (personal de esterilización), residuos sucios y 
+contaminados (personal de mantenimiento o de servicios).  
+Situaciones que ejemplifican el riesgo de exposición a fluidos 
+corporales:   
+a) Cuando termina el contacto con una membrana mucosa y / o piel 
+no intacta. b) Después de una punción o inyección percutánea; después de 
+intro
+ducir un dispositivo médico invasivo (acceso vascular, 
+catéter, tubo, drenaje, etcétera); después de detener y abrir un 
+circuito invasivo; 
+c) Después de retirar un dispositivo médico invasivo;  
+d) Después de retirar cualquier protección (vendaje, gasa, 
+compresa, etcétera); 
+e) Después de manipular una muestra orgánica; después de limpiar 
+excreciones y cualquier otro fluido corporal; después de limpiar 
+cualquier superficie contaminada y material sucio (ropa de cama 
+manchada, aparatos dentales, instrumentos, orinales, cuñas, 
+sanitarios, etcétera). 
+Ejemplo práctico:  
+ 
+ 
+ 
+ ÁREA DE ASISTENCIA 
+    
+   Riesgo de 
+exposición a fluidos 
+corporales que 
+justifica la 
+indicación 3 
+El profesional 
+sanitario cambia las 
+sábanas sucias y 
+retira la cuña de un 
+paciente postrado en 
+cama, mete las 
+sábanas en una 
+bolsa y se quita los 
+guantes. Indicación 3 
+Después del riesgo 
+de exposición a 
+fluidos corporales 
+El profesional 
+sanitario efectúa una 
+higiene de las manos Se produce el 
+contacto con el 
+paciente, su 
+entorno o el 
+entorno asistencial 
+después de la 
+indicación 
+El profesional 
+sanitario ayuda al 
+paciente a volver a la 
+cama. 
+Figura 6.c 
+  
+3 DESPUÉS DE 
+EXPOSICIÓN A 
+FLUIDOS 
+CORPORALES ZONA DEL PACIENTE 
+II.5.4. Indicación (momento) 4: después del 
+contacto con el paciente 
+Cuándo: al alejarse del paciente, después de haberlo tocado. Esta 
+indicación viene determinada al producirse el último contacto con la 
+piel intacta, la ropa del paciente o una superficie de su entorno 
+(después del contacto con el paciente) y previa al siguiente contacto 
+con una superficie en el área de asistencia sanitaria.      15   PARTE II  – PRÁCTICA, FORMACIÓN Y OBSERVACIÓN DE LA HIGIENE DE LAS MANOS 
+Por qué: para proteger al profesional sanitario de la colonización y la 
+infección potencial por los gérmenes del paciente y para proteger el 
+entorno del área de asistencia de la contaminación y la potencial 
+propagación. 
+Notas:  la acción se puede posponer hasta que el profesional sanitario 
+haya abandonado la zona del paciente si tiene que retirar y procesar 
+equipo en una zona adecuada, siempre y cuando sólo toque dicho 
+equipo antes de realizar la higiene de manos. La indicación 4 no se 
+puede disociar de la indicación 1. Cuando el profesional sanitario toca 
+directamente al paciente y después toca otro objeto en el entorno del 
+paciente antes de abandonar la zona se aplica la indicación 4 y no la 5. 
+Situaciones que ejemplifican el contacto directo:   
+a) Después de estrecharle la mano a un paciente o acariciar la 
+frente de un niño; 
+b) Después de ayudar a un paciente en las actividades de cuidado 
+personal: moverse, darse un baño, comer, vestirse, etcétera; 
+c) Después de realizar una exploración física no invasiva: tomar el 
+pulso, la presión sanguínea, auscultar el pecho o realizar un 
+electrocardiograma; 
+d) Después de prestada la asistencia y otros tratamientos no 
+invasivos: cambiar la ropa de la cama en la que se encuentra el 
+paciente, colocar una máscara de oxígeno o realizar fisioterapia.  
+Ejemplo práctico :  
+  
+  Contacto con el 
+paciente y/o su 
+entorno que 
+justifica la 
+indicación 4 
+El profesional 
+sanitario ayuda al 
+paciente a sentarse 
+en la cama. Indicación 4 
+Después del 
+contacto con el 
+paciente 
+El profesional 
+sanitario efectúa una 
+higiene de las manos Contacto con el 
+entorno del área de 
+asistencia después 
+de la indicación 4 
+El profesional 
+sanitario contesta al 
+teléfono 
+Figura 6.d
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  4 DESPUÉS DEL 
+CONTACTO 
+CON EL 
+PACIENTE ZONA DEL PACIENTE ÁREA DE ASISTENCIA I.5.5. Indicación (momento) 5: después del 
+contacto con el entorno del paciente 
+Cuándo:  después de tocar cualquier objeto o mueble al salir del 
+en
+torno del paciente, sin haber tocado a éste. Esta indicación viene al 
+producirse el último contacto con las superficies y los objetos inertes 
+en el entorno del paciente (sin haber tocado a éste) y previa al 
+siguiente contacto con una superficie en el área de asistencia. 
+Por qué:  para proteger al profesional sanitario de la colonización por 
+los gérmenes del paciente que pueden estar presentes en las 
+superficies / objetos de entorno inmediato y para proteger el entorno 
+sanitario de la contaminación y la potencial propagación. 
+Nota:  La indicación 4, «después del contacto con el paciente» y la 
+indicación 5, «después del contacto con el entorno del paciente» no 
+pueden combinarse jamás, puesto que la indicación 5 excluye el 
+contacto con el paciente y la indicación 4 sólo se aplica después del 
+contacto con éste.  
+Situaciones que ejemplifican contactos con el entorno del paciente: 
+a) Después de una actividad de mantenimiento: cambiar la ropa de 
+cama sin que el paciente esté en ella, agarrar la barandilla de la 
+cama o limpiar la mesita de noche; 
+b) Después de una actividad asistencial: ajustar la velocidad de la 
+perfusión o apagar una alarma de monitorización; 
+c) Después de otros contactos con superficies u objetos inanimados 
+(lo ideal sería que se evitaran): apoyarse en una cama o en  una 
+mesita de noche.  
+Ejemplo práctico : 
+Contacto con  
+su
+perficies y 
+objetos inertes en el 
+entorno del paciente
+que justifica la 
+indicación 5 
+El profesional 
+sanitario ha retirado 
+las sábanas de la 
+cama desocupada y 
+las ha echado en una 
+bolsa. Indicación 5 
+Después del 
+contacto con el 
+entorno del 
+paciente 
+El profesional 
+sanitario efectúa una 
+higiene de las manos Contacto con el 
+entorno del área de 
+asistencia después 
+de la indicación 5 
+El profesional 
+sanitario contesta al 
+teléfono 16  16 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+Figura 6.e 
+ 
+ 
+ 
+5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO 
+DEL PACIENTE5DESPUÉS DEL 
+CONTACTO CON 
+EL ENTORNO 
+DEL PACIENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ÁREA DE ASISTENCIA 
+ZONA DEL PACIENTE II.5.6. Comprensión de los cinco momentos 
+dentro de la secuencia asistencial  
+La secuencia de actividades asistenciales que se prestan a un 
+paciente o a varios puede hacer que se produzcan simultáneamente 
+varias indicaciones de realizar la higiene de las manos. Esto no 
+significa que cada una de las indicaciones requiera una acción de 
+higiene de manos por separado. Una acción de higiene de manos 
+viene justificada por la indicación que precede o sigue inmediatamente 
+a una secuencia de dos o más contactos; una sola acción de higiene 
+de manos es suficiente para prevenir cualquier riesgo de transmisión 
+microbiana.  
+La Figura 7 presenta un ejemplo de coincidencia de dos indicaciones: 
+cuando un profesional sanitario se desplaza de un paciente a otro, lo 
+que de ordinario implicaría indicaciones diferentes dependiendo del 
+punto de vista de cada paciente. La indicación 4, en este caso 
+«después del contacto con el paciente A», se aplica al dejar al 
+paciente A para atender al paciente B; y la indicación 1, «antes del 
+contacto con el paciente B», se aplica en este caso antes de que se 
+produzca el contacto entre el profesional sanitario y el paciente B. Hay 
+toda una serie de situaciones diversas en las que coinciden más de 
+una indicación. Son posibles innumerables combinaciones para todas 
+las indicaciones, excepto para la 4 y la 5. 
+Figura 7. Coincidencia de dos indicaciones 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  4 DESPUÉS DEL 
+CONTACTO 
+CON EL 
+PACIENTE  1 ANTES DEL 
+CONTACTO 
+CON EL 
+PACIENTE 
+ACTIVIDAD ASISTENCIAL     17   PARTE II  – PRÁCTICA, FORMACIÓN Y OBSERVACIÓN DE LA HIGIENE DE LAS MANOS 
+  II.6. INDICACIONES PARA LA HIGIENE 
+DE 
+LAS MANOS CUANDO SE NECESITA 
+UTILIZAR GUANTES MÉDICOS  
+ 
+ 
+ 
+ 
+ 
+ Las indicaciones para efectuar la higiene de las manos son 
+independientes de las que justifican el uso de guantes (ya sean 
+esterilizados o no). El uso de guantes no modifica ni sustituye la 
+realización de la higiene de manos: a) cuando una indicación de 
+higiene de manos precede a una tarea que entraña contacto y requiere 
+el uso de guantes se debe realizar la higiene de las manos antes de 
+ponérselos; b) cuando una indicación sigue a una tarea que entraña 
+contacto y requiere el uso de guantes debe realizarse la higiene de 
+manos después de quitárselos; c) cuando se produce una indicación 
+mientras el profesional sanitario lleva guantes, debe quitárselos para 
+efectuar la higiene de manos y cambiárselos si fuera necesario. El uso 
+de guantes no condiciona las indicaciones para realizar la higiene de 
+manos; más bien la higiene de las manos influye en el uso apropiado 
+de los guantes.  
+Para obtener información exhaustiva sobre el uso de los guantes, 
+consulte el «Folleto de información sobre el uso de los guantes» 
+(«Glove use information leaflet») incluido en el conjunto de Materiales 
+de implementación de la Estrategia Multimodal de la OMS para la 
+Mejora de la Higiene de las Manos.  
+En resumen 
+Las indicaciones para la higiene de las manos pueden integrarse en 
+cinco momentos durante la prestación asistencial. Conocer, 
+comprender y reconocer esos momentos son los pilares en los que se 
+basa una higiene de manos efectiva. Si los profesionales sanitarios 
+identifican estas indicaciones (momentos) con prontitud y reaccionan 
+ante ellas efectuando las acciones adecuadas de higiene de las 
+manos, es posible prevenir las infecciones relacionadas con la 
+atención sanitaria provocadas por la transmisión cruzada a través de 
+las manos. Realizar la acción adecuada en el momento apropiado es 
+garantía de una atención sanitaria segura. 18  18  MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+   
+ 
+ 
+P ARTE III 
+L 
+ A OBSERVACIÓN DE LA PRÁCTICA DE LA 
+H IGIENE DE LAS MANOS  
+ 
+ 
+ 
+ 
+III.1. EL PROPÓSITO DE LA 
+OBSERVACIÓN  
+El principal propósito de la observación es demostrar el grado de 
+cumplimiento de la higiene de las manos entre los profesionales 
+sanitarios y, en algunos casos, evaluar el tipo y la calidad de la técnica 
+que se emplea para realizarla. Dependiendo del tipo de centro y del 
+nivel de cumplimiento por parte de los profesionales sanitarios, y 
+según las prioridades específicas, los resultados de la observación 
+también ayudan a determinar cuáles son las intervenciones más 
+apropiadas para fomentar, educar y formar en la higiene de las manos. 
+Al realizar observaciones antes y después de dicho periodo de 
+intervención no sólo es posible evaluar repetidamente los niveles de 
+cumplimiento de la higiene de las manos sino también calibrar las 
+mejoras y el impacto de la intervención y ajustar las campañas y el 
+material educativo.  
+Si están disponibles, los resultados de la observación se pueden 
+correlacionar con las tendencias de los índices de IRAS, el indicador 
+para evaluar el resultado de una estrategia de promoción de la higiene 
+de las manos.  
+El principal propósito del método de la OMS para la observación 
+directa que aquí proponemos es generar datos a gran escala sobre el 
+cumplimiento de la higiene de las manos del modo más preciso 
+posible, de acuerdo con el modelo de «Los cinco momentos para la 
+higiene de las manos».  
+III.2. LA OBSERVACIÓN DIRECTA DE LA 
+PRÁCTICA DE HIGIENE DE LAS MANOS  
+Uno de los métodos para evaluar las prácticas de higiene de las 
+manos es la observación directa de los profesionales sanitarios 
+mientras prestan la asistencia ordinaria. Hemos escogido un método 
+de observación directa porque genera los datos más precisos sobre el 
+cumplimiento de las recomendaciones de higiene de las manos por 
+parte de los profesionales sanitarios, aunque los resultados no deben 
+considerarse como una representación perfecta de la situación real. 
+Sus ventajas son las siguientes: a) el denominador en tiempo real 
+permite comparar resultados referidos simultáneamente al momento, el 
+lugar y las circunstancias; y b) la consistencia entre las herramientas, 
+las definiciones y los conceptos de referencia que emplean tanto los 
+profesionales sanitarios como los observadores. Las dos principales 
+desventajas del método son la influencia potencial que el observador 
+puede ejercer sobre el comportamiento de los profesionales sanitarios 
+(puesto que este método implica que el profesional es consciente de 
+ser observado) y el impacto sobre la fiabilidad de los datos de la 
+interpretación que hace el observador de las definiciones y de la 
+situación. 
+III.3. LAS REGLAS DE LA 
+OBSERVACIÓN   
+Se suele recomendar que los datos de la observación se recojan de 
+forma anónima y sean confidenciales. Los resultados de las observaciones no deberían emplearse para realizar una evaluación 
+a
+dministrativa del personal. No obstante, en algunos casos, por 
+decisión institucional o porque no hay ningún impedimento particular 
+para identificar a los profesionales sanitarios, también se puede hacer 
+una observación individual con fines educativos que incluya la 
+identidad del profesional. De hecho, para mejorar la comprensión y 
+contribuir a fomentar la higiene de las manos, siempre que sea posible 
+los resultados deberían presentarse de inmediato al personal que ha 
+sido observado (retroalimentación sobre el cumplimiento). Esto debería 
+hacerse de tal modo que sea posible un intercambio de puntos de vista 
+conducente a fomentar la confianza y la cultura de seguridad entre los 
+participantes.  
+Por ejemplo, se puede facilitar la información en reuniones o si no 
+individualmente en momentos apropiados durante la jornada laboral en 
+un formato escrito sencillo que pueda colgarse en un lugar conveniente 
+del espacio de trabajo para que se incorpore a un proceso continuo de 
+discusión y comparación con la futura información sobre el 
+cumplimiento. Además, los resultados finales deberían enviarse de 
+forma individual o colectiva a todos los profesionales sanitarios 
+implicados, así como a otros, en función de las decisiones de cada 
+centro, por ejemplo los equipos de gestión y los de control de 
+infecciones.  Esto debería hacerse lo antes posible después de recabar 
+los datos. La observación es una forma de concienciar al personal 
+sanitario de la necesidad de efectuar una adecuada higiene de manos: 
+el simple hecho de observar las prácticas de higiene de manos, 
+proporcionar información al respecto y comentar los resultados tiene 
+un efecto promocional inmediato. Así pues, en aquellos casos en que 
+ha de evaluarse el cumplimiento basal, no debe darse 
+retroalimentación hasta que se estimen las tasas globales (es decir, 
+hasta que se observe el número total de oportunidades previsto, ver 
+Sección III.8).   
+III.4. EL OBSERVADOR Y SU PAPEL  
+El papel principal del observador consiste en observar de forma abierta 
+y objetiva las prácticas y recoger datos sobre la higiene de las manos 
+valiéndose de las cinco indicaciones junto con la metodología y las 
+instrucciones que aquí se proponen. Antes de hacerlo, los 
+observadores deben familiarizarse con las cinco indicaciones y los 
+conceptos subyacentes, que deben ser capaces de aplicar, identificar, 
+diferenciar y explicar. Aunque el conocimiento básico sobre la higiene 
+de manos que se necesita está resumido en este manual de 
+referencia, para ser capaz de poner en práctica los conceptos, el 
+observador debe poseer una amplia experiencia previa en la atención 
+a pacientes y la gestión clínica .       19   PARTE III  – LA OBSERVACIÓN DE LA PRÁCTICA DE LA HIGIENE DE LAS MANOS 
+No obstante, como observador también debe ser capaz de realizar 
+objetivamente las tareas de observación. La posición del observador le 
+imprime un carácter de referente tanto de cara a las personas 
+observadas como hacia el personal de gestión administrativa y de 
+toma de decisiones. Suelen tener además la responsabilidad de 
+fomentar y en algunos casos de formar en la higiene de manos, de dar 
+información retroactiva y comentar los resultados, así como de ayudar 
+a diseñar la campaña en función de las necesidades de los 
+profesionales sanitarios. El observador, por lo tanto, debe saber y 
+comprender cómo se lleva a cabo una campaña de promoción. 
+El observador se presenta a una hora conveniente a los profesionales 
+que van a someterse a la observación y, si fuera pertinente, a los 
+pacientes y les facilita una explicación general acerca de su presencia 
+(por ejemplo, la observación de las prácticas asistenciales). Se 
+recomienda que el periodo de observación se comunique de manera 
+formal a la supervisora y al jefe de servicio; en algunos casos se 
+necesitará el consentimiento escrito de los pacientes. Los 
+profesionales deben tener claro si la observación es anónima o no y 
+cómo se utilizará la información obtenida. El respeto a la intimidad de 
+los pacientes siempre ha de reflejarse en el comportamiento del 
+observador, que no debe interferir con las actividades asistenciales 
+que se realicen durante la sesión. La observación no debe llevarse a 
+cabo en situaciones extremas (intervenciones médicas de urgencia o 
+signos de estrés incontrolado en un profesional sometido a la 
+observación) puesto que éstos no reflejan una situación de asistencia 
+«estándar». El observador ha de ser capaz de retirarse de tales 
+situaciones. No obstante, esto no excluye la observación en los 
+servicios de urgencias y de cuidados intensivos. 
+El observador normalmente se sitúa cerca del punto de atención. 
+Mientras observa, se recomienda que coloque el formulario sobre un 
+soporte sólido para facilitar su cumplimentación. También es más fácil 
+hacer correcciones si se utiliza un lapicero y una goma; no obstante, 
+los observadores deben ser conscientes en todo momento de que es 
+necesario que sean objetivos y no deben modificar lo que han 
+registrado a menos que hayan cometido un rotundo error en la 
+observación. Deben usar un reloj para cronometrar las sesiones. Sin 
+embargo, si el observador emplea un reloj de pulsera, debería ofrecer 
+un buen ejemplo no poniéndoselo en la muñeca y absteniéndose de 
+lucir otras joyas. Debe tener las uñas cortas, sin esmalte, y no llevar 
+uñas postizas al igual que el resto de profesionales sanitarios. 
+III.5. LAS OPORTUNIDADES PARA 
+REALIZAR LA HIGIENE DE LAS MANOS 
+Las definiciones y referencias básicas que emplean los observadores 
+para identificar las acciones de higiene de manos durante las 
+actividades asistenciales son idénticas a las enumeradas en la Sección 
+II.5 y se aplican del mismo modo a la observación, la formación y la 
+práctica de la higiene de las manos. No obstante, los observadores 
+tienen una perspectiva diferente de las indicaciones y las acciones de 
+la de los formadores y los profesionales sanitarios.  Cuando el 
+observador identifica una indicación, la convierte en una oportunidad al 
+tiempo que la registra, empleando un procedimiento especial de 
+cómputo. La oportunidad determina la necesidad de realizar la acción 
+de higiene de manos, tanto si la razón (la indicación que conduce a la 
+acción) es una como si es múltiple. Desde el punto de vista del 
+observador, existe oportunidad siempre que se produce y se observa 
+  una de las indicaciones para la higiene de las manos. Se pueden 
+presentar varias indicaciones simultáneamente, creando una sola 
+oportunidad que requiere una única acción de higiene de manos (ver 
+Sección II.5.6). La oportunidad es una unidad de cómputo equivalente 
+al número de acciones de higiene de manos que se necesitan, al 
+margen del número de indicaciones. El cumplimiento se mide 
+dividiendo el número de acciones (el numerador) entre el número de 
+oportunidades (el denominador) (ver Sección III.7).   
+III.6. LA ACCIÓN DE LA HIGIENE DE 
+MANOS VISTA POR EL OBSERVADOR 
+El observador siempre debe establecer un vínculo entre una acción de 
+higiene de manos observada y una oportunidad computada. La acción 
+puede ser negativa (no realizada) o positiva (realizada). Es posible que 
+en algunos casos el observador no vea la acción, de modo que el 
+observador sólo debe registrar las acciones que vea claramente y que 
+correspondan a indicaciones; el observador no está autorizado a 
+asumir que una acción ha tenido lugar. El momento en que el 
+observador identifica una indicación se computa como una oportunidad 
+ante la que debería producirse la correspondiente acción positiva o 
+negativa. Una acción positiva indica cumplimiento; una acción negativa 
+indica incumplimiento. Una acción positiva que no está justificada por 
+una indicación identificada y que por lo tanto no puede traducirse en 
+una oportunidad no se puede incluir al medir el cumplimiento. 
+La cronología de los acontecimientos puede ser variable: la indicación 
+puede ser anterior (después del riesgo de exposición a fluidos 
+corporales, después del contacto con el paciente o después del 
+contacto con el entorno del paciente) o posterior (antes del contacto 
+con el paciente o antes de una tarea limpia / aséptica) a la acción de 
+higiene de manos. Registrar una indicación en un momento dado no 
+excluye la posibilidad de combinarla con otras indicaciones, siempre y 
+cuando éstas se adhieran a la secuencia de actividades y se 
+produzcan las correspondientes acciones positivas de higiene de 
+manos. Por ejemplo, un profesional sanitario penetra en el entorno del 
+paciente, realiza la higiene de manos (indicación 2) y conecta una 
+infusión intravenosa fijada a una válvula de tres vías (sin tocar al 
+paciente). Cuando se ha completado el procedimiento, el profesional 
+toma el pulso al paciente (indicación 1). La realización de la higiene de 
+manos antes de la tarea limpia / aséptica (indicación 2) también es 
+«válida» para la indicación 1, que se produce a continuación.  
+El foco principal de la observación no debe ser la acción sino más bien 
+la identificación de la indicación a la que el profesional sanitario 
+responde de manera positiva o negativa, antes o después del contacto 
+que determina la indicación. Dicho de una forma bastante simple, si el 
+observador identifica una o más indicaciones, éstas se computan como 
+una sola oportunidad y se registra una acción positiva o negativa.  
+Si el observador no identifica una indicación, no se computa como 
+oportunidad y no se registra acción alguna. La conexión entre la 
+indicación, la oportunidad y la acción está ilustrada en la Figura 8. Los 
+observadores siempre deben tener cuidado de no hacer asunciones 
+cuando no dispongan de todos los elementos que definen una 
+indicación. 
+Por ejemplo: el observador ve a un profesional sanitario acercándose a 
+un paciente sin haber visto lo que ha hecho antes (si ha realizado o no 
+la higiene de manos). No puede registrar la indicación.
+ 
+ 20  20 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+ 
+ 
+Según la figura 8, en el curso de la observación de las actividades 
+asistenciales durante un periodo determinado x, el observador: 
+- ha identificado nueve indicaciones; 
+- ha contado seis oportunidades: 1, 4 y 6 se definen 
+respectivamente por dos indicaciones cada una (a y b, e y f, h e i); 
+- ha observado cuatro acciones de higiene de manos positivas 
+(realizadas) de las cuales tres están ligadas a las oportunidades  
+1, 4 y 6; una de las acciones observadas no estaba ligada a  
+ninguna oportunidad;  
+- ha observado tres acciones negativas (no realizadas) ligadas a 
+las oportunidades 2, 3 y 5. 
+Además, el observador no debe registrar indicaciones para la higiene 
+de las manos que surjan de hábitos o acciones inconscientes del 
+profesional sanitario en el cumplimiento de sus obligaciones, como 
+ajustarse las gafas o apartarse un mechón de cabello. El hecho de que 
+sean inconscientes significa que no se pueden registrar como 
+indicaciones para la higiene de las manos. Una excepción que se debe 
+computar es cuando el hábito provoca la interrupción de un 
+procedimiento estéril. 
+III.7. INFORMAR SOBRE EL 
+CUMPLIMIENTO DE LA HIGIENE DE LAS 
+MANOS 
+Al dar parte de los datos sobre las prácticas de higiene de manos, el 
+observador siempre debe tener presente lo siguiente:  
+a) a) Para definir una oportunidad se debe observar al menos una     
+indicación para la higiene de manos;  
+b) Cada oportunidad requiere una sola acción de higiene de manos; 
+c) Una acción se puede aplicar a más de una indicación; 
+d) Una acción documentada puede ser positiva o negativa siempre 
+que corresponda a una oportunidad;   
+e) La observación de una acción positiva no siempre implica la 
+existencia de una oportunidad.   
+El cumplimiento de la higiene de manos es la proporción entre el 
+número de acciones realizadas y el número de oportunidades y se 
+expresa por medio de la siguiente fórmula:   
+  
+Esto refleja el grado de cumplimiento por parte de los profesionales 
+s
+anitarios del requisito de realizar la higiene de las manos durante su 
+actividad asistencial de acuerdo con las cinco indicaciones (momentos) 
+en la medida en que éstos se computan como oportunidades.  El 
+cumplimiento supone una equivalencia exacta entre el número de 
+acciones y el número de oportunidades. El incumplimiento se produce 
+cuando el número de oportunidades sobrepasa el número de acciones 
+realizadas.  
+III.8. METODOLOGÍA DE OBSERVACIÓN  
+La fiabilidad e imparcialidad de los datos recogidos, que deberían 
+reflejar con precisión la situación observada, dependerá de la 
+metodología que se desarrolle y de su implementación. 
+En primer lugar hay que definir el alcance de la observación: el 
+escenario, las categorías profesionales y las indicaciones. Según la 
+estrategia multimodal de la OMS para la mejora de la higiene de las 
+manos, la observación debe tener lugar en aquellas áreas donde se 
+está implementando o se va a implementar la estrategia: una o más 
+unidades / plantas asistenciales, uno o más servicios médicos o todo el 
+centro sanitario. Según la metodología que aquí describimos, los 
+únicos sujetos de observación son los profesionales sanitarios que 
+están en contacto directo con los pacientes, lo que no significa en 
+modo alguno que otros profesionales sanitarios no tengan que realizar 
+la higiene de las manos (ver Sección II.3). 
+Los profesionales sanitarios se dividen en cuatro amplias categorías 
+profesionales : a) enfermera / matrona; 2) auxiliar; 3) médico y 4) 
+otros. Cada categoría puede subdividirse en función de la información 
+que se necesite. Se puede elegir una o todas las categorías 
+profesionales para la observación. El requisito principal es que sean 
+representativas en función de la categoría profesional y del escenario. 
+Por ejemplo, si en un determinado escenario el 50% del personal es de 
+enfermería, el 50% de la categoría profesional que se observe debe 
+ser personal de enfermería. Si el alcance del estudio de observación 
+es todo el centro sanitario y todo el personal sanitario, todos los 
+servicios médicos y todas las categorías profesionales deben estar 
+representados en los datos de observación. 
+El periodo  de observación se define como el espacio temporal durante 
+el que se mide el cumplimiento en un determinado escenario. La 
+duración del periodo dependerá del tamaño de la muestra. Acciones realizadas    C   u mpli miento (%  ) =                                          x 100 Oportunidades      21    PARTE III  – LA OBSERVACIÓN DE LA PRÁCTICA DE LA HIGIENE DE LAS MANOS 
+ Cuando se compara el cumplimiento de la higiene de las manos 
+du
+rante dos periodos distintos (por ejemplo, antes y después de una 
+intervención para promover la higiene de las manos), el tamaño de la 
+muestra debe ser lo suficientemente grande para que se excluya la 
+influencia del azar. Por lo tanto, lo ideal es que el cálculo del tamaño 
+de la muestra se realice durante la fase de diseño del plan de 
+monitorización de la higiene de manos. No existe evidencia consistente de cuál es el tamaño ideal de muestra que se necesita para asegurar 
+la representatividad, pero las estimaciones indican que para hacer 
+comparaciones fiables se necesitan 200 oportunidades por periodo y 
+unidad de observación (ya sea una planta, servicio o categoría 
+profesional, etcétera). La Figura 9 muestra ejemplos de cálculo del 
+tamaño muestral según la estimación de los niveles de cumplimiento 
+basal y de seguimiento.  
+ 
+Figura 9.  Tamaño de muestra (número de oportunidades) según un aumento esperado del cumplimiento de la HM del 10% o del 20% 
+ 
+Adaptada de Sax H et al. Am J Infect Control ,2009, en prensa.  
+Si
+ se ha decidido observar a las enfermeras de una única unidad, se 
+debe
+ observar sistemáticamente a cada uno de los miembros de dicha 
+categoría. Si por el contrario la observación abarca a todo el personal 
+de un servicio médico que emplea a unos 500 profesionales, lo 
+preferible sería realizar un muestreo por aleatorización. Para ello, la 
+metodología propone secuenciar la observación en sesiones de 
+duración limitada, realizando cada sesión en un lugar diferente, con 
+profesionales diferentes y en momentos diferentes. En general esto 
+asegura una muestra representativa. Para permitir la comparación 
+entre los datos recogidos en distintos periodos de observación, los 
+métodos para determinar el muestreo deben ser similares. 
+La sesión  de observación es el espacio de tiempo en que se realiza la 
+observación en un escenario definido (sala). Se numera y se 
+cronometra (hora de inicio y fin) para calcular la duración total. La 
+duración establecida debe ser unos 20 minutos (+10 minutos), 
+dependiendo de la actividad que se observa. En la medida de lo 
+posible, es preferible observar una secuencia asistencial de principio a 
+fin. Por esta razón, si es preciso puede prolongarse la sesión. Si los 
+profesionales sometidos a observación necesitan interrumpir su 
+actividad con los pacientes mientras la observación está en curso, es 
+preferible poner fin a la sesión. Por último, si durante la sesión no se 
+observan actividades asistenciales relevantes, no tendría sentido 
+prolongarla. 
+El propósito de dividir de este modo la observación en sesiones es 
+adquirir una visión global de las prácticas (diferentes profesionales 
+prestando asistencia sanitaria en lugares diferentes). 
+La metodología que aquí describimos permite observar a un número ilimitado de profesionales sanitarios de las cuatro categorías 
+anteriormente mencionadas durante una sola sesión o a un número 
+limitado de hasta cuatro individuos por sesión. La primera opción, a 
+saber, la muestra más grande, tiene la ventaja de que permite recoger 
+más rápidamente y a gran escala el mayor número de oportunidades, 
+incluso en escenarios en los que la intensidad de la actividad es 
+limitada; la desventaja es que no es posible recoger ni identificar datos 
+a nivel individual. Por otra parte, si nos centramos en no más de cuatro 
+profesionales es posible obtener información a nivel individual e 
+identificar al profesional aunque se tarde más tiempo en recoger los 
+datos. 
+El objetivo del método que aquí proponemos es generar datos sobre el 
+cumplimiento de la higiene de manos a gran escala. Sin embargo 
+puede modificarse fácilmente para adecuarse a las situaciones locales 
+sin alterar los principios subyacentes que están basados en la 
+detección de los cinco momentos para la higiene de las manos 
+promovidos por la OMS. El método se puede adaptar en función de la 
+categoría profesional y la indicación (es decir, observar sólo algunas 
+categorías y / o detectar el cumplimiento de ciertas indicaciones y no 
+de las cinco). Además, se pueden incorporar otros aspectos ligados a 
+los datos de observación sin necesidad de introducir ningún cambio 
+fundamental; por ejemplo la conexión entre el uso de los guantes y el 
+incumplimiento de la higiene de manos. En este caso, cuando se 
+observa el uso de guantes paralelamente a una acción de HM negativa 
+(no realizada), la información debe registrarse sistemáticamente. La 
+inclusión de tales datos permite medir el impacto del uso de guantes 
+en el incumplimiento. Esta información no debe confundirse con la 
+monitorización del uso de los guantes. 
+ 22  22 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+En resumen, siempre hay que ajustarse a los siguientes principios:  
+- Definir el alcance de la observación  
+- Recoger datos de 200 oportunidades por observación por unidad 
+(planta, servicio, categoría profesional, etcétera) en cada periodo 
+de observación.  
+- Observar las prácticas de los profesionales sanitarios que están 
+en contacto directo con los pacientes.  
+- Documentar por categoría profesional y escenario los datos   
+recogidos en sesiones de 20 minutos (pueden ser hasta 10   
+minutos más largas o más cortas) 
+- No observar a más de tres profesionales a la vez.  
+III.8.1. El formulario de observación 
+ 
+ 
+ El formulario de observación (Apéndice págs. 1 y 2) presenta una 
+plani
+lla para realizar las observaciones. Consta de dos elementos: una 
+cabecera  y una cuadrícula. 
+Figura 10.  La cabecera 
+La 
+cabecera  (Figu ra 10) permite que las observaciones se localicen 
+con precisión en el tiempo y el espacio (emplazamiento, fecha, 
+duración de la sesión y observador) y que los datos se clasifiquen y se 
+registren (periodo, sesión). Está información debe anotarse antes de 
+registrar los datos de observación para asegurarse de que éstos sean 
+aptos para usarse en el análisis.   
+Según la escala de la observación, deben utilizarse las 
+denominaciones locales para designar el centro, el servicio, el pabellón 
+y el departamento al cumplimentar la cabecera. También se pueden 
+usar los códigos de la OMS, lo que permite la comparación de los 
+datos de diferentes instituciones de todo el mundo. Son los siguientes: 
+1) médico (que incluye dermatología, neurología, hematología, 
+oncología, etcétera); 2) quirúrgico (que incluye neurocirugía, urología, 
+otorrinolaringología, oftalmología, etcétera); 3) mixto (médico y 
+quirúrgico, que incluye ginecología); 4) obstetricia (incluyendo la 
+correspondiente cirugía); 5) pediatría (incluyendo la correspondiente 
+cirugía); 6) cuidados intensivos y reanimación; 7) urgencias; 8) larga 
+estancia y rehabilitación; 9) ambulatorio (incluyendo la correspondiente 
+cirugía) y 10) otros (que se han de especificar).   Situar la observación en el tiempo permite definir y datar el periodo de 
+evaluación en relación con las intervenciones (antes y después de una 
+intervención, seguimiento, etcétera). Indicar la hora a la que empieza y 
+termina una sesión permite definir su duración y evaluar el 
+cumplimiento en relación con la intensidad de las oportunidades para 
+la higiene de manos durante un determinado intervalo de tiempo. 
+Realizar la observación en sesiones asegura, entre otras cosas, que 
+se observan una gama de escenarios, categorías profesionales y 
+momentos para la higiene de manos.  
+Cuando introduce sus iniciales en el formulario de observación, el 
+observador indica que lo ha comprobado antes de devolverlo. Esto 
+también permite verificar los datos e identificar cualquier indicio de 
+sesgo por parte del observador. Se asigna un número a cada sesión 
+para indicar que los datos están listos para ser analizados. Dicho 
+número se introduce en una base de datos y en el formulario de 
+cálculo de cumplimiento básico cuando se procesan los datos. Sólo es 
+necesario anotar el número de la página si se utiliza más de un 
+formulario durante una sola sesión.      23   PARTE III  – LA OBSERVACIÓN DE LA PRÁCTICA DE LA HIGIENE DE LAS MANOS 
+  Figura 11.  La cuadrícula 
+ 
+La cuadrícula  de registro de observaciones (Figura 11) contiene los 
+datos necesarios para medir el cumplimiento. Se divide en cuatro 
+columnas ; cada columna puede destinarse bien a una categoría 
+profesional (en cuyo caso se registran en la columna distintos 
+profesionales de dicha categoría) o a un profesional individual cuya 
+categoría se especifica. Si los datos se clasifican por categoría 
+profesional, se debe indicar el número de profesionales de cada 
+categoría que se ha observado en cada sesión No existe límite 
+superior. Si los datos se clasifican por profesional, se puede incluir un 
+máximo de cuatro en el mismo formulario.  
+El personal sanitario se clasifica en las siguientes categorías y 
+empleando los códigos siguientes:  
+1.    Enfermera / matrona 
+              1.1 Enfermera 
+              1.2 Matrona 
+              1.3 Estudiante de enfermería / matrona 
+2.    Auxiliar 
+3.    Médico 
+              3.1 Internista 
+              3.2 Cirujano 
+              3.3 Anestesista / reanimador / médico de urgencias 
+              3.4 Pediatra 
+              3.5 Ginecólogo 
+              3.6 Consultor 
+              3.7 Estudiante de medicina 
+4. Otros profesionales sanitarios 
+              4.1 Terapeuta (fisioterapeuta, terapeuta ocupacional, 
+audiólogo, logopeda, etcétera) 
+              4.2 Técnico (radiólogo, técnico de cardiología, técnico de 
+quirófano, técnico de laboratorio, etcétera). 
+              4.3 Otros (dietista, dentista, trabajador social, otros 
+profesionales de la asistencia) 
+              4.4 Estudiante Cada columna (Figura 12) es independiente de las demás: la 
+cronología de los datos no tiene que ser la misma en cada columna. 
+Depende del número de oportunidades que se observan para cada 
+categoría profesional o para cada individuo. Se puede observar a 
+varios profesionales al mismo tiempo (cuando están trabajando con el 
+mismo paciente o en la misma habitación); sin embargo, es 
+desaconsejable observar simultáneamente a más de tres personas. En 
+función de la intensidad de las actividades y de las indicaciones, los 
+observadores deben limitar la observación a uno o dos profesionales 
+para excluir la posibilidad de que se produzcan omisiones durante una 
+secuencia de asistencias. El observador siempre debe captar y 
+registrar todas las indicaciones aplicables a las actividades y a los 
+profesionales observados.   
+Cada columna contiene ocho apartados. Cada apartado corresponde a 
+una oportunidad y en él se introducen las indicaciones y las acciones 
+positivas o negativas observadas. Las casillas cuadradas del 
+formulario (□) significan que los ítems no son excluyentes (si se aplican 
+varios a la misma oportunidad, deben señalarse todos); el círculo ( ○) 
+significa que sólo se aplica un ítem a la oportunidad y se refiere a las 
+acciones de higiene de manos negativas (no acción) así como a la 
+información sobre el uso de los guantes, si ésta se recoge.   
+Una acción de higiene de manos positiva se registra según el método 
+empleado: fricción de las manos con un preparado de base alcohólica, 
+lavado con agua y jabón, o una combinación de los dos en ese orden. 
+Según este método, no se evalúa la calidad (técnica, duración) de la 
+acción. Si se registra una acción positiva que no responda a una 
+indicación, ésta no debe computarse cuando se analicen los datos.  
+Las acciones de higiene de manos negativas deben registrarse para 
+que las correspondientes oportunidades se incluyan en el análisis. La 
+cuadrícula de registro presenta las siguientes abreviaturas para las 
+cinco indicaciones de higiene de las manos: ant.pac: antes del 
+contacto con el paciente; ant.asépt: antes de un procedimiento limpio / 
+aséptico; desp.f.c: después del riesgo de exposición a fluidos 
+corporales; desp.pac: después del contacto con el paciente; y 
+desp.ent.p: después del contacto con el entorno del paciente.
+ 24  24 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+  
+Figura 12.  La columna 
+ 
+ 
+ También se incluyen FM: fricción de las manos con un preparado de 
+base alcohólica; LM: lavado de manos con agua y jabón. El separar los 
+dos métodos de higiene de manos permite evaluar el procedimiento 
+elegido por los profesionales en función de las indicaciones, siempre 
+que dicha elección sea posible. El uso de guantes sólo debe 
+registrarse si el profesional sometido a la observación lleva guantes en 
+el momento en que se produce una oportunidad y no realiza una 
+acción de higiene de manos. 
+Cada formulario debe revisarse inmediatamente después de la sesión 
+de la observación y se debe anotar la hora de finalización, la duración 
+de la sesión y la firma.  
+III.8.2. El formulario de cálculo  básico   
+La utilización de este formulario (Apéndice, págs. 3 y 4) se recomienda 
+particularmente en los centros sanitarios que no disponen de 
+tecnología de la información para reunir y analizar datos electrónicos. 
+El instrumento está diseñado para generar resultados de cumplimiento 
+globales divididos por categoría profesional e indicación.  Sin embargo, 
+también puede usarse para subdividir los resultados según el 
+escenario.  
+El cumplimiento de la higiene de las manos es la proporción entre el 
+número de acciones realizadas y el número de oportunidades, según  
+se expresa en la siguiente fórmula:  
+ 
+ 
+ 
+ Cumplimiento (%) =                                       x 100 Acciones realizadas 
+Oportunidades 
+ 
+En el formulario de observación, las indicaciones observadas se 
+c
+lasifican como oportunidades para la higiene de las manos 
+(denominador), con las que se comparan las acciones de higiene de 
+manos positivas (numerador).  
+Los resultados del cumplimiento pueden calcularse globalmente pero 
+también pueden dividirse por categoría profesional y escenario. De 
+este modo, cuando los profesionales sanitarios reciben la información 
+pueden referirla a su categoría profesional o contexto laboral.
+  
+       25    PARTE III  – LA OBSERVACIÓN DE LA PRÁCTICA DE LA HIGIENE DE LAS MANOS 
+A continuación se muestra el formulario del cálculo básico de 
+cumplimiento por categoría profesional . 
+Figura 13. 
+  
+ 
+Se introduce el número total de oportunidades de cada sesión, junto 
+con el número total de acciones positivas realizadas (fricción o lavado 
+con agua y jabón). Cada línea numerada corresponde a los resultados 
+de una sesión; el número correspondiente se introduce en el formulario 
+para verificar que al medir el cumplimiento se han incluido los datos 
+relevantes. La cuadrícula permite dividir los resultados por categoría 
+profesional y / o localización El cumplimiento se calcula sumando los 
+resultados de cada sesión y dividiendo el número total de acciones 
+positivas entre el número total de oportunidades. A partir de estos 
+cálculos se puede extraer la proporción de acciones positivas de 
+fricción de manos con un preparado de base alcohólica o de lavado de 
+manos con agua y jabón para relacionarlas con otros aspectos, en 
+particular con la infraestructura disponible para la higiene de manos.  También se puede calcular el cumplimiento general de la higiene de 
+manos por cada categoría profesional y ubicación según las cinco 
+indicaciones. No obstante, ésta no es una medición precisa del 
+cumplimiento, puesto que las indicaciones no constituyen un 
+denominador completamente fiable, aunque los resultados 
+proporcionan cierta idea de cómo realizan la higiene de manos los 
+profesionales sanitarios. Los resultados reflejan la conexión entre la 
+indicación para la higiene de manos y las acciones positivas en las que 
+se frotan las manos con un producto de base alcohólica o se las lavan 
+con agua y jabón. Cuando varias indicaciones coinciden en una sola 
+oportunidad, se registra cada indicación y a continuación se multiplica 
+la acción positiva asociada por el número de indicaciones.  
+ 
+A continuación se muestra el formulario de cálculo básico de 
+cumplimiento por indicación. 
+Figura 14. 
+ 
+De forma parecida al cálculo básico de cumplimiento por categoría 
+profesional, se indica el número total de oportunidades y acciones 
+positivas en cada sesión. Al realizar una observación, es necesario 
+mantener una atención constante para evitar omitir una conexión entre 
+una indicación y una acción, lo que puede suceder fortuitamente 
+durante una sesión y no se contempla específicamente en el 
+formulario. Establecer correlaciones entre indicaciones y acciones 
+permite diseñar programas formativos para los profesionales sanitarios basándose en el comportamiento observado además de a partir de la 
+imagen global que producen las indicaciones. Al presentar de esta 
+manera los resultados se da por sentado que las personas implicadas 
+conocen las indicaciones (definiciones, riesgo de transmisión, 
+ejemplos), pero también proporciona un soporte inicial para 
+implementar las medidas formativas para desarrollar dicho 
+conocimiento. 26  26  
+ 
+PA RTE IV 
+O TROS ASPECTOS DE LA HIGIENE DE LAS 
+M ANOS  
+ 
+  
+ 
+ 
+ 
+ 
+IV.1. La seguridad de las manos  
+La piel debajo de los anillos está más densamente colonizada por 
+gérmenes que las áreas comparables de piel en los dedos que no 
+tienen anillos; por lo tanto, llevar joyas fomenta la presencia y la 
+supervivencia de la flora transitoria. La recomendación de consenso 
+desaconseja enérgicamente ponerse anillos o joyas durante la 
+prestación de asistencia sanitaria.  
+Las áreas por encima y por debajo de las uñas atraen a los gérmenes, 
+sobre todo si las uñas son largas, están esmaltadas o son postizas. 
+Llevar uñas artificiales puede contribuir a la transmisión de ciertos 
+agentes patógenos asociados a la asistencia sanitaria. 
+Cualquier cambio en la capa superficial de la epidermis, así como los 
+daños más profundos, también fomentan la colonización por parte de 
+la flora cutánea no comensal (por ejemplo Staphylococcus aureus y 
+bacterias Gram negativas). 
+Asegurar la seguridad de las manos no llevando joyas, manteniendo 
+las uñas cortas y cuidando la piel son otros aspectos de la higiene de 
+las manos que aumentan la eficacia de la fricción de las manos con un 
+producto de base alcohólica y del lavado con agua y jabón.  
+IV.2. El cuidado de la piel de las manos 
+El uso frecuente y repetido de productos para la higiene de manos, en 
+particular jabones y otros detergentes, puede ocasionar dermatitis de 
+contacto a los profesionales sanitarios, sobre todo en lugares con una 
+intensa actividad asistencial en los que se necesita realizar la higiene 
+de manos muchas veces por hora, así como durante la estación 
+invernal. Por lo tanto, el cuidado de las manos que incluye el uso 
+regular de cremas de buena calidad y la adopción de comportamientos 
+apropiados es de la mayor importancia para evitar daños en la piel. 
+Ciertas prácticas de higiene de manos pueden aumentar el riesgo de 
+irritación de la piel y deben evitarse. Por ejemplo, lavarse las manos 
+regularmente con agua y jabón inmediatamente antes o después de 
+usar un producto de base alcohólica no sólo es innecesario sino que 
+puede producir dermatitis. Además, ponerse los guantes mientras las 
+manos siguen húmedas después del lavado o la aplicación de alcohol 
+aumenta el riesgo de irritación de la piel. Por lo tanto, ciertas 
+conductas han de evitarse y los profesionales sanitarios deben 
+asegurarse de que sus manos se encuentran en buen estado. La 
+tolerancia de la piel debe considerarse uno de los criterios más 
+importantes para la selección de un producto.   
+ 
+ 
+ 
+Los siguientes aspectos deben tomarse en consideración para 
+asegurar un buen estado de la piel:  
+- Lavarse las manos con agua y jabón es más severo para la piel  
+que frotárselas con un producto de base alcohólica que contenga 
+un humectante; 
+- Ciertos detergentes y jabones antisépticos producen más 
+irritación que otros. Se recomienda realizar un test de tolerancia 
+antes de introducirlos; 
+- Los guantes empolvados pueden producir irritación cuando se 
+emplean al mismo tiempo que los productos de  base alcohólica;  
+- El uso de una crema de manos protectora ayuda a mejorar el 
+estado de la piel siempre y cuando sea compatible con los 
+guantes y los productos de higiene de manos que se usan.  
+Las siguientes conductas deben evitarse :  
+- Utilizar simultáneamente agua y jabón y productos a base de 
+alcohol;  
+- Utilizar agua caliente para lavarse las manos con agua y jabón; 
+- Ponerse los guantes con las manos húmedas, ya que puede 
+producir irritación; 
+- Realizar la higiene de manos fuera del marco de las indicaciones; 
+- Llevar guantes fuera del marco de las indicaciones.  
+Se deben seguir los siguientes principios :  
+- Frotarse las manos hasta que el producto de base alcohólica se 
+evapore por completo;  
+- Secarse las manos cuidadosamente después de lavárselas con 
+agua y jabón. 
+- Aplicar regularmente una crema de manos protectora. 
+       27     
+ 
+ 
+P ARTE V 
+L 
+  
+ ISTA DE REFERENCIAS ESCOGIDAS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Larson E, Girard R, Pessoa-Silva CL, Boyce J, Donaldson L, Pittet D. 
+Skin reactions related to hand hygiene and selection of hand hygiene 
+products.   American Journal of Infection Control  2006;34:627-35.  
+Pittet D, Allegranzi B, Sax H, Dharan S, Pessoa da Silva C, Donaldson 
+L, Boyce J. Evidence-based model for hand transmission during patient 
+care and the role of improved practices.  Lancet Infectious Diseases  
+2006;6:641-52. 
+Sax H, Allegranzi B, Uçkay I, Larson E, Boyce J, Pittet D. “My five 
+moments for hand hygiene” – a user-centred design approach to 
+understand, train, monitor and report hand hygiene.  Journal of Hospital 
+Infection  2007;67:9-21.  
+Allegranzi B, Pittet D. The role of hand hygiene in healthcareassociated 
+infection prevention. Journal of Hospital Infection  2009 (in press). 
+Pittet D, Allegranzi B, Boyce J; on behalf of the WHO World Alliance for 
+Patient Safety First Global Patient Safety Challenge Core Group of 
+Experts. The WHO guidelines on  hand hygiene in health care and their 
+consensus recommendations.  Infection Control and Hospital 
+Epidemiology  2009; 30:611-22.  
+Pittet D. Hand hygiene promotion: 5 moments, 5 components, 5 steps, 
+and 5 May 2009.  International Journal of Infection Control  2009; 5:1-3.  
+H Sax, B Allegranzi, M-N Chraïti, J Boyce, E Larson, D Pittet. The 
+World Health Organization hand hygiene observation method. 
+American Journal of Infection Control  2009 (in press).   
+ 
+ 
+ 
+ 
+ 28  28 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+APÉNDICE. FORMULARIOS DE OBSERVACIÓN Y CÁLCULO 
+ 
+ 
+ 
+        29  APÉNDICE  – FORMULARIOS DE OBSERVACIÓN Y CÁLCULO  
+ 
+ 
+30  30 MANUAL TÉCNICO DE REFERENCIA PARA LA HIGIENE DE LAS MANOS  
+ 
+ 
+ 
+     31  APÉNDICE  – FORMULARIOS DE OBSERVACIÓN Y CÁLCULO  
+   
+ 
+ 
+ SAVE LIVES
+Clean Your  Hands 
+Patient Safety 
+A World Alliance for Safer Health Care 

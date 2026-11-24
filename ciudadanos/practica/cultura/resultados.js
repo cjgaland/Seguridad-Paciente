@@ -1,18 +1,9 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
-import { getFirestore, collection, getDocs } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
-import { GEMINI_API_KEY } from "../../../js/config.js";
+import { listar, descripcionModo } from "../../../js/core/almacen.js";
+document.addEventListener("DOMContentLoaded", () => {
+    const aviso = document.getElementById("avisoAlmacen");
+    if (aviso) aviso.textContent = descripcionModo();
+});
 
-const firebaseConfig = {
-    apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
-    authDomain: "seguridadpaciente-f0860.firebaseapp.com",
-    projectId: "seguridadpaciente-f0860",
-    storageBucket: "seguridadpaciente-f0860.firebasestorage.app",
-    messagingSenderId: "394227294182",
-    appId: "1:394227294182:web:5bd4cc318ea4d9cf9ac027"
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
 
 // CONFIGURACIÓN DE BLOQUES (CIUDADANOS)
 // Asumiendo 8 preguntas en bloques: Info(3), Trato(2), Medicacion(2), Entorno(1)
@@ -46,22 +37,24 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // LISTENER IA
-    const btnIA = document.getElementById('btn-analizar-ia');
-    if(btnIA) btnIA.addEventListener('click', generarAnalisisIA);
 });
 
 async function loadData() {
     try {
-        // COLECCIÓN CIUDADANOS
-        const querySnapshot = await getDocs(collection(db, "encuestas_ciudadanos"));
+        const querySnapshot = await listar("encuestas_ciudadanos");
         
-        if (querySnapshot.empty) { updateKPIs(0, 0); return; }
+        if (querySnapshot.length === 0) {
+            updateKPIs(0, 0);
+            return;
+        }
 
         allData = [];
         querySnapshot.forEach(doc => {
-            const d = doc.data();
-            if (d.respuestas && d.perfil) allData.push(d);
+            const d = doc;
+            // Validación básica de datos
+            if (d.respuestas && d.perfil) {
+                allData.push(d);
+            }
         });
         
         applyFilters();
@@ -222,124 +215,4 @@ function renderDetalleChart() {
             animation: { duration: 500 }
         }
     });
-}
-
-// ==========================================
-//  IA ANALISTA DE EXPERIENCIA (CIUDADANOS)
-// ==========================================
-
-async function generarAnalisisIA() {
-    const totalEncuestas = document.getElementById('total-responses').textContent;
-    const notaGlobal = document.getElementById('global-score').textContent;
-    const filtroGen = document.getElementById('filter-gender').selectedOptions[0].text;
-    const filtroEdad = document.getElementById('filter-age').selectedOptions[0].text;
-    
-    const datosContexto = `
-        DATOS DE LA ENCUESTA PREMS (Experiencia Paciente):
-        - Total participantes: ${totalEncuestas}
-        - Filtro: Género [${filtroGen}] - Edad [${filtroEdad}]
-        - Satisfacción Global: ${notaGlobal}/5.0
-        - Dimensiones: Información, Trato, Medicación, Entorno.
-    `;
-
-    // PROMPT CIUDADANO (HTML VISUAL)
-    const prompt = `
-        Actúa como un Experto en Experiencia del Paciente (Patient Experience).
-        Analiza estos datos: ${datosContexto}
-        
-        IMPORTANTE: NO RESPONDAS EN MARKDOWN. RESPONDE SOLO CON CÓDIGO HTML.
-        Usa esta estructura para el informe DAFO visual:
-
-        <div class="dafo-grid">
-            <div class="dafo-box fortalezas">
-                <h3>LO MEJOR VALORADO</h3>
-                <ul>
-                    <li>(Aspecto positivo destacado 1)</li>
-                    <li>(Aspecto positivo destacado 2)</li>
-                </ul>
-            </div>
-
-            <div class="dafo-box debilidades">
-                <h3>A MEJORAR</h3>
-                <ul>
-                    <li>(Punto de dolor detectado 1)</li>
-                    <li>(Punto de dolor detectado 2)</li>
-                </ul>
-            </div>
-
-            <div class="dafo-box oportunidades">
-                <h3>OPORTUNIDADES</h3>
-                <ul>
-                    <li>(Idea para mejorar la experiencia 1)</li>
-                    <li>(Idea para mejorar la experiencia 2)</li>
-                </ul>
-            </div>
-
-            <div class="dafo-box amenazas">
-                <h3>RIESGOS PERCIBIDOS</h3>
-                <ul>
-                    <li>(Posible riesgo de seguridad 1)</li>
-                    <li>(Posible riesgo de seguridad 2)</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="mejora-box">
-            <h3>ACCIONES PARA MEJORAR LA EXPERIENCIA</h3>
-            <ul>
-                <li><strong>Acción 1:</strong> Propuesta concreta.</li>
-                <li><strong>Acción 2:</strong> Propuesta concreta.</li>
-                <li><strong>Acción 3:</strong> Propuesta concreta.</li>
-            </ul>
-        </div>
-
-        <div class="conclusion-box">
-            (Frase final empática resumiendo el sentir de la ciudadanía).
-        </div>
-    `;
-
-    // UI Loading
-    document.getElementById('ia-loading').style.display = 'block';
-    document.getElementById('ia-result').style.display = 'none';
-    document.getElementById('ia-disclaimer').style.display = 'none';
-    const btn = document.getElementById('btn-analizar-ia');
-    btn.disabled = true;
-
-    try {
-        const respuestaHTML = await consultarGeminiAPI(prompt);
-        
-        const resultDiv = document.getElementById('ia-result');
-        const htmlLimpio = respuestaHTML.replace(/```html/g, '').replace(/```/g, '');
-        resultDiv.innerHTML = htmlLimpio;
-        
-        document.getElementById('ia-loading').style.display = 'none';
-        resultDiv.style.display = 'block';
-        document.getElementById('ia-disclaimer').style.display = 'block';
-        
-    } catch (error) {
-        console.error(error);
-        alert(`Error: ${error.message}`);
-        document.getElementById('ia-loading').style.display = 'none';
-    } finally {
-        btn.disabled = false;
-    }
-}
-
-async function consultarGeminiAPI(promptTexto) {
-    const MODEL_NAME = "gemini-2.0-flash";
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
-
-    const response = await fetch(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ contents: [{ parts: [{ text: promptTexto }] }] })
-    });
-
-    if (!response.ok) {
-        const errorData = await response.json().catch(() => null);
-        throw new Error(errorData?.error?.message || response.statusText);
-    }
-
-    const json = await response.json();
-    return json.candidates[0].content.parts[0].text;
 }

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diccionario de términos médicos · Participa</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="../../../css/sidebar.css">
+    <link rel="stylesheet" href="glosario.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body class="tool-page">
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú lateral"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+        <div class="sp-header-left"><img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo" alt="Estrategia para la Seguridad del Paciente"></div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right"><img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right" alt="Consejería de Sanidad, Presidencia y Emergencias"></div>
+    </header>
+
+    <div class="sp-layout">
+        <aside class="sidebar">
+            <div class="sidebar-header"><i class="fa-solid fa-hand-holding-heart"></i> <span>Participa</span></div>
+            <nav class="sidebar-nav" aria-label="Navegación">
+                <div class="sidebar-group">
+                    <div class="sidebar-label">Esta herramienta</div>
+                    <a href="glosario.html" class="sidebar-btn sidebar-link" aria-current="page"><i class="fa-solid fa-book-medical"></i> Diccionario de términos</a>
+                </div>
+                <div class="sidebar-group sidebar-group-end">
+                    <a href="../practica.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-arrow-left"></i> Volver a Participa</a>
+                    <a href="../../../ciudadanos.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-users"></i> Volver a Ciudadanía</a>
+                    <a href="../../../index.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-house"></i> Volver al Inicio</a>
+                </div>
+            </nav>
+        </aside>
+
+        <main class="main-content glos-main">
+            <div class="top-bar">
+                <h2><i class="fa-solid fa-book-medical" style="color:#f97316;"></i> Diccionario de términos médicos</h2>
+                <a href="../practica.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Salir</a>
+            </div>
+
+            <p class="aviso-fijo" role="note">
+                <i class="fa-solid fa-circle-info" aria-hidden="true"></i>
+                <span><strong>Información general, no sustituye a su profesional sanitario.</strong> Ante cualquier duda sobre su salud, sus informes o sus medicamentos, pregunte a su médico, enfermera o farmacéutico.</span>
+            </p>
+
+            <div class="glos-grid">
+                <section class="glos-filtros" aria-label="Buscar y filtrar">
+                    <label for="buscador" class="glos-label">Buscar un término</label>
+                    <div class="glos-busqueda">
+                        <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+                        <input type="search" id="buscador" placeholder="Ej.: disnea, hipertensión, ayunas..." autocomplete="off">
+                    </div>
+
+                    <div class="glos-label" id="lbl-categorias">Categoría</div>
+                    <div class="glos-cats" id="categorias" role="group" aria-labelledby="lbl-categorias"></div>
+
+                    <div class="glos-label" id="lbl-letras">Letra inicial</div>
+                    <div class="glos-letras" id="letras" role="group" aria-labelledby="lbl-letras"></div>
+
+                    <button type="button" id="btn-limpiar" class="glos-limpiar"><i class="fa-solid fa-eraser"></i> Quitar filtros</button>
+                </section>
+
+                <section class="glos-resultados" aria-label="Resultados">
+                    <div class="glos-cabecera">
+                        <span id="contador" aria-live="polite"></span>
+                    </div>
+                    <div id="lista" class="glos-lista" tabindex="0" aria-label="Lista de términos"></div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <script src="../../../js/sidebar.js"></script>
+    <script src="glosario_data.js"></script>
+    <script src="glosario.js"></script>
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
+</body>
+</html>

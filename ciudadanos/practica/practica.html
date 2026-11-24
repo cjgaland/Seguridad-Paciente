@@ -28,11 +28,11 @@
         <div id="sidebar-overlay" class="sidebar-overlay"></div>
 
         <div class="sp-header-left">
-            <img src="../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+            <img src="../../assets/images/icons/logos/logo_Estrategia.png" alt="Estrategia para la Seguridad del Paciente" class="sp-logo">
         </div>
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
         <div class="sp-header-right">
-            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+            <img src="../../assets/images/icons/logos/logo_CSPyE.svg" alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right">
         </div>
     </header>
 
@@ -49,9 +49,7 @@
                         Herramientas
                     </div>
                     
-                    <a href="traductor/traductor.html" class="sidebar-btn" style="text-decoration:none;">
-                        <i class="fa-solid fa-language"></i> Traductor de Salud
-                    </a>
+                    
 
                     <a href="buzon/buzon.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
                         <i class="fa-solid fa-envelope-open-text"></i> Buzón de Seguridad
@@ -63,6 +61,10 @@
 
                     <a href="dudas/dudas.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
                         <i class="fa-solid fa-list-ul"></i> Mi Lista de Dudas
+                    </a>
+
+                    <a href="glosario/glosario.html" class="sidebar-btn" style="text-decoration:none; margin-top:5px;">
+                        <i class="fa-solid fa-book-medical"></i> Diccionario Médico
                     </a>
                     
                     <div style="margin-top:5px;">
@@ -99,15 +101,7 @@
 
             <div class="tools-grid">
 
-                <article class="tool-card sim" onclick="location.href='traductor/traductor.html'">
-                    <div class="tool-icon" style="background:#f0fdf4; color:#10b981;">
-                        <i class="fa-solid fa-language"></i>
-                    </div>
-                    <div class="tool-badge">IA Beta</div>
-                    <h3>Traductor de Salud</h3>
-                    <p>¿No entiendes tu informe médico? Nuestra IA te lo explica con palabras sencillas.</p>
-                    <span class="btn-tool" style="color:#10b981;">Traducir <i class="fa-solid fa-wand-magic-sparkles"></i></span>
-                </article>
+                
                 
                 <article class="tool-card sim" onclick="location.href='buzon/buzon.html'">
                     <div class="tool-icon" style="background:#ecfdf5; color:#10b981;"><i class="fa-solid fa-envelope-open-text"></i></div>
@@ -132,6 +126,14 @@
                     <p>Selecciona tus preocupaciones y genera una lista de preguntas para tu médico.</p>
                     <span class="btn-tool" style="color:#f97316;">Crear Lista <i class="fa-solid fa-arrow-right"></i></span>
                 </article>
+
+                <article class="tool-card sim" onclick="location.href='glosario/glosario.html'">
+                    <div class="tool-icon" style="background:#eef2ff; color:#4f46e5;"><i class="fa-solid fa-book-medical"></i></div>
+                    <div class="tool-badge">Consulta</div>
+                    <h3>Diccionario de Términos Médicos</h3>
+                    <p>Busca esa palabra rara de tu informe o prospecto y entiéndela en lenguaje sencillo.</p>
+                    <span class="btn-tool" style="color:#4f46e5;">Buscar <i class="fa-solid fa-arrow-right"></i></span>
+                </article>
                 
                 <article class="tool-card test" onclick="location.href='cultura/autotest.html'">
                     <div class="tool-icon" style="background:#ffedf2; color:#f7113c;"><i class="fa-solid fa-heart-pulse"></i></div>
@@ -151,5 +153,6 @@
     </div>
 
     <script src="../../js/sidebar.js"></script>
+    <script type="module" src="../../js/core/actualizaciones.js"></script>
 </body>
 </html>

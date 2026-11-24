@@ -1,6 +1,6 @@
 import { bancoPalabras } from "./palabras.js";
 
-export async function initAnagrams({ root, saveScoreFirebase }) {
+export async function initAnagrams({ root, guardarPuntuacion }) {
 
     // --- ESTADO ---
     const st = {
@@ -360,9 +360,9 @@ export async function initAnagrams({ root, saveScoreFirebase }) {
         st.enPausa = true;
         document.removeEventListener('keydown', st.keyHandler);
 
-        if (typeof saveScoreFirebase === "function") {
+        if (typeof guardarPuntuacion === "function") {
             try {
-                await saveScoreFirebase(st.nivel, st.puntos, (60 - st.tiempoTotal));
+                await guardarPuntuacion(st.nivel, st.puntos, (60 - st.tiempoTotal));
             } catch (e) { console.error(e); }
         }
 

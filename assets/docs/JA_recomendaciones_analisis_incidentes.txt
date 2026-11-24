@@ -1,28 +1,1200 @@
-RECOMENDACIONES LEGALES Y METODOLÓGICAS PARA EL ANÁLISIS DE INCIDENTES (EVENTOS ADVERSOS) CON DAÑO - ESPAÑA
-
-1. MARCO JURÍDICO Y PROTECCIÓN
-- Ley 16/2003 (Cohesión y Calidad): Ampara el registro de eventos adversos para mejora de la calidad.
-- Ley 41/2002 (Autonomía del Paciente): Derecho del paciente a conocer lo ocurrido (información veraz).
-- Ley de Enjuiciamiento Criminal (Art. 262): Obligación de denunciar delitos, pero conflicto con la cultura de seguridad (no punitiva).
-- RECOMENDACIÓN CLAVE: Separar el análisis técnico de seguridad (aprendizaje) del expediente disciplinario o judicial. Los informes de seguridad (APEA) deben ser CONFIDENCIALES y ANONIMIZADOS.
-
-2. ANÁLISIS EN PROFUNDIDAD DE EVENTOS ADVERSOS (APEA)
-- ¿Cuándo hacerlo?: Obligatorio en Eventos Centinela (muerte inesperada, daño grave permanente, pérdida de órgano/función no relacionada con curso natural de la enfermedad). Recomendado en incidentes de alto riesgo.
-- Plazo: Iniciar antes de 48h. Finalizar informe en máximo 30 días.
-- Equipo (UFGR): Comisión de Seguridad, Unidad de Calidad, expertos implicados y Dirección Médica/Enfermería.
-
-3. METODOLOGÍA DE ANÁLISIS
-- Análisis Causa Raíz (ACR): Herramienta estándar. Busca causas profundas (latentes) y no culpables individuales.
-- Protocolo de Londres: Análisis de factores contribuyentes (paciente, tarea, equipo, ambiente, organización).
-- Objetivo: Identificar FALLOS DEL SISTEMA, no errores de personas.
-
-4. GESTIÓN DEL INFORME
-- El informe final del APEA debe contener: Descripción de hechos (cronología), análisis de causas y PLAN DE MEJORA (acciones concretas para evitar recurrencia).
-- Custodia: Archivo de la Comisión de Calidad/Seguridad.
-- Anonimización: Se deben eliminar nombres de profesionales y pacientes en el informe final de aprendizaje.
-- Difusión: Las lecciones aprendidas y mejoras deben compartirse con toda la organización (feedback), pero protegiendo la identidad de los implicados.
-
-5. INFORMACIÓN AL PACIENTE (OPEN DISCLOSURE)
-- Es un deber ético y legal informar al paciente del evento adverso.
-- Se debe explicar: Qué ocurrió, por qué (si se sabe), qué consecuencias tiene y qué se va a hacer para solucionarlo y para que no le pase a otros.
-- No especular ni culpar. Mostrar empatía y pesar (disculpa).
+ 
+ 
+ 
+ 
+ 
+ Recomendaciones 
+para el análisis de los incidentes de seguridad del paciente con daño (eventos adversos) 
+Cuestiones metodológicas 
+y legales 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 2021 
+MINISTERIO DE SANIDAD  
+ 
+ 
+ 
+ 
+ Recomendaciones 
+para el análisis de los incidentes de seguridad del paciente con daño (eventos adversos) 
+Cuestiones metodológicas 
+y legales 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 2021 
+MINISTERIO DE SANIDAD    
+ Edita: 
+© MINISTERIO DE SANIDAD 
+CENTRO DE PUBLICACIONES Paseo del Prado, 18 - 28014 MADRID 
+NIPO en línea: 133-21-015-9 
+https://cpage.mpr.gob.es Recomendaciones  
+para el análisis de  
+los incidentes de  
+seguridad del paciente  
+con daño (eventos  
+adversos) 
+Cuestiones metodológicas  
+y legales 
+MINISTERIO
+ 
+DE SANIDAD
+ Sociedad Española
+de Calidad Asisten
+ cial 
+Fundación Española
+de Calidad Asistencial RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO  7Índice
+Prólogo  9
+Preámbulo 11
+Objetivo general de la conferencia de consenso 15
+Metodología de la conferencia de consenso 17
+Producto esperado 19
+Presentación del problema 21Principales conclusiones del debate de la conferencia de consenso 
+organizadas por bloques temáticos 25
+Resumen de los aspectos trabajados 41
+Ideas clave para el análisis de los incidentes de seguridad del paciente con daño (eventos adversos) en el marco jurídico en España, 2020  43
+Anexo 1: Glosario de términos 47
+Anexo 2: Regulaciones jurídicas vigentes (revisión octubre 2019) 49
+Anexo 3: Relación de sistemas de notificación y aprendizaje para la seguridad del paciente (SNASP) del Sistema Nacional de Salud en España   51
+Anexo 4: Agenda de la reunión 53
+Anexo 5: Participantes del grupo de trabajo 55
+Listado de verificación de recomendaciones, en la aplicación del marco jurídico actual en España, para la realización del informe del Análisis en Profundidad de un Evento Adverso (APEA) en centros sanitarios  57 RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 9 Prólogo
+ 
+El Ministerio de Sanidad (en adelante MS) ostenta, entre otras, las funcio
+nes de desarrollar acciones para la mejora de la calidad asistencial del Sistema Nacional de Salud, tal como reconoce la Ley 16/2003 de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud.  En el marco de dicha 
+ley se viene desarrollando, desde el año 2006, la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud (SNS) en colaboración con las Comunidades Autónomas (CCAA) e INGESA (Instituto Nacional de Gestión Sanitaria) sociedades científicas y otras partes interesadas. Actualmente, el marco de referencia es la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud 2015-2020. 
+La Sociedad Española de Calidad Asistencial (SECA) es una sociedad 
+científica de carácter multidisciplinar cuya misión es: fomentar e impulsar la mejora continua de la calidad asistencial en el sistema sanitario español. Para desplegar  en la práctica esta misión cuenta con la fundación, FECA 
+(Fundación Española de Calidad Asistencial), comprometida con la seguridad del paciente como una de las dimensiones cruciales en la mejora continua de la calidad asistencial. 
+Ambas instituciones tienen entre sus funciones promover actividades 
+e iniciativas que mejoren la calidad asistencial y la seguridad del paciente en el sistema sanitario. Una de dichas iniciativas es la de facilitar y difundir el conocimiento científico y los avances en seguridad del paciente a los profesionales del Sistema Nacional de Salud, fomentando la cultura de seguridad. 
+Por todo ello, el MS y la SECA/FECA suscribieron un Convenio
+1, con 
+fecha 26 de diciembre de 2019, para promover la colaboración en los temas comunes a ambas entidades, en el ámbito de la mejora de la Calidad Asistencial y la Seguridad del Paciente, favoreciendo el intercambio de información y colaborando en tareas, actividades y proyectos que fueran de mutuo beneficio. 
+Como fruto de dicho Convenio Marco se desarrolló la Jornada Técnica 
+para elaborar Recomendaciones para el Análisis de Incidentes de Seguridad con Daño, dentro del marco jurídico nacional actual, el día 4 de octubre de 2019. Esta Jornada técnica buscó alcanzar consenso en unas recomendaciones concretas que faciliten a los profesionales, que participan en el análi-
+1   BOE núm. 14.Jueves 16 de enero de 2020. Ministerio de Sanidad. Resolución de 26 de di
+ciembre de 2019, de la Secretaría General de Sanidad y Consumo, por la que se publica el Convenio con la Sociedad Española de Calidad Asistencial, en materia de calidad asistencial. ­
+­
+­
+­
+­
+­
+­
+­
+­
+­
+­ INFORMES, ESTUDIOS E INVESTIGACIÓN 10 sis de los incidentes de seguridad con daño, llamados eventos adversos (en 
+adelante EA), el desempeño de su labor dentro del marco jurídico actual. Asimismo, se identificaron propuestas normativas que facilitasen el aprendizaje de las organizaciones en materia de calidad y seguridad del paciente en España. 
+Ambas entidades han venido trabajando, a través del grupo de trabajo 
+de seguridad del paciente de SECA/FECA y de la Subdirección General de Calidad e Innovación, en aspectos relacionados con una adecuada respuesta a los pacientes afectados por un EA en las instituciones sanitarias, así como a los profesionales y a la propia institución sanitaria implicada. Esta acción está en consonancia con los objetivos de la nueva Estrategia de Seguridad del Paciente del SNS, 2015-2020. 
+Junio de 2020 
+Yolanda Agra Varela  
+Subdirectora de Calidad e Innovación  
+Ministerio de Sanidad  Inmaculada Mediavilla Herrera Presidenta de SECA/FECA  Soc./Fund. Española de Calidad 
+Asistencial ­  
+ 
+ 
+  
+  
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 11 Preámbulo
+ 
+En todos los sistemas sanitarios, incluidos los desarrollados como es el caso del sistema sanitario de España, y así lo han puesto de manifiesto diferentes informes nacionales e internacionales, se producen, en el curso de la aten ­
+ción sanitaria, incidentes que afectan a la seguridad de los pacientes (en adelante ISP). Estos incidentes, en algunas ocasiones, conducen a que el paciente sufra algún tipo de daño (ISP con daño o Evento Adverso, EA), se menoscabe la calidad asistencial y se llegue a minar la confianza en los servicios y centros del sistema sanitario. 
+La prestación de atención sanitaria no está exenta de riesgos y, en la 
+práctica, ocurren casi en idéntica proporción, incidentes que se consideran inevitables, junto a otros que se considera que podrían llegar a evitarse apli­cando el conocimiento disponible. Estos incidentes, en su gran mayoría, responden a las condiciones en la que se toman las decisiones clínicas y se aplican procedimientos en un marco de creciente complejidad, con elevado uso de tecnología y gran frecuencia de pacientes pluripatológicos y polime ­
+dicados. 
+Un porcentaje importante de los EA son evitables y, por ello, las orga­
+nizaciones sanitarias deben analizar lo ocurrido y desplegar planes de mejo ­
+ra que reduzcan la probabilidad de que vuelvan a ocurrir. No obstante, en ocasiones, el daño asociado a la asistencia sanitaria ocurre y es inevitable, en otras difícilmente evitables. Con esta realidad, planteamos trabajar para que se reduzca el número de incidentes, particularmente, los evitables. 
+La existencia de estos ISP ha sido recogida en la literatura cientí ­
+fica y, tanto en nuestro país, como en otros de nuestro entorno, ha sido analizada para establecer prácticas con las que incrementar esa seguri ­
+dad. Nuestro país, en el año 2005, comenzó el desarrollo de la primera Estrategia Nacional de Seguridad del Paciente. Esta fue actualizada para el periodo 2015-2020 con el consenso de todas las CCAA e INGESA, las sociedades científicas, los pacientes y expertos del mundo académico. Esta estrategia ha sido desplegada, en distinto grado, en todo el Sistema Nacional de salud. 
+Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacio ­
+nal de Salud, contempla en el Capítulo VI, articulo 59: El registro de acon­
+tecimientos adversos, que recogerá información sobre aquellas prácticas que hayan resultado un problema potencial de seguridad para el paciente. 
+No todos los EA o ISP con daño producen el mismo menoscabo al 
+paciente. La mayoría de EA ocasionan un daño leve y con menos frecuen ­
+cia, causan un daño grave. De las definiciones que ofrece la Organización   
+ 
+ 
+   
+ 
+ 
+ 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 12 2   Más que palabras: Marco Conceptual de la Clasificación Internacional para la Seguridad 
+del Paciente. Informe Técnico Definitivo Enero de 2009. WHO 2009. http://www.who.int/ patientsafety/implementation/icps/icps_full_report_es.pdf Mundial de la Salud (OMS) para EA, una de las más utilizadas es la que se refiere al incidente que causa daño a un paciente
+2 . 
+Hoy día sabemos que la mayoría de los EA que consideramos evitables 
+son consecuencia de una conjunción de fallos y errores y tienen, por tanto, la consideración de sistémicos. Por esta razón, las administraciones sanitarias, las sociedades científicas y los profesionales del sector están comprometidos con la identificación de sus causas y la implantación de mejoras en benefi ­
+cio de una atención sanitaria más segura. Para conseguirlo se han definido prácticas seguras y planes y actuaciones entre los que hay que destacar los sistemas de notificación y aprendizaje de incidentes de seguridad del pacien­te SNASP. 
+Los SNASP han demostrado que, utilizados de forma adecuada, cons­
+tituyen una herramienta útil para promover una atención más segura, a través del aprendizaje que la organización sanitaria realiza con el análisis detallado de los propios incidentes de seguridad y la implantación de las mejoras propuestas. 
+Estos SNASP permiten a un centro concreto, conocer los incidentes 
+que están sucediendo en la práctica clínica real y actuar de forma tempra­na para ofrecer, en la medida de lo posible, una óptima calidad asistencial. Las actividades de mejora propuestas surgen del análisis de los incidentes notificados. 
+En el caso de los incidentes con daño o eventos adversos (EA) y, es ­
+pecialmente, de los que ocasionan daño grave (EA), se recomienda llevar a cabo un análisis en profundidad de los mismos. Este análisis en profundidad puede realizarse por diferentes métodos o herramientas de investigación en calidad asistencial. Los métodos utilizados con mayor frecuencia son: la técnica del análisis causa raíz (ACR), el protocolo de Londres y el análisis del evento centinela (AEC), entre otros. En este documento, nos referi ­
+remos a estos métodos como Análisis en Profundidad de Eventos Adver ­
+sos (APEA), por cuanto cualquiera de los mencionados métodos permite profundizar en el análisis de los factores latentes y factores contribuyentes al desencadenamiento del EA estudiado. Consideramos el APEA como el procedimiento necesario para la adecuada gestión de los incidentes de segu­ridad del paciente graves o EA. Su análisis facilita la elaboración de planes de mejora adecuados en el ámbito asistencial en el que ha ocurrido dicho evento que reduzcan las probabilidades de aparición de un incidente simi­lar en el futuro Clasificación Internacional para la Seguridad del Paciente (CISP-OMS). Típicamente se orienta a reducir su frecuencia en la medida  RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 13 de lo posible, facilitando oportunidades de mejora de la atención que reci
+ben los pacientes y que de otra forma no se vería incrementada. 
+El MS junto con un equipo de expertos jurídicos elaboró un informe 
+sobre los aspectos legales del establecimiento de un sistema  de notificación 
+y registro de incidentes y eventos adversos en el sector sanitario3. En dicho 
+documento se recogía la necesidad de anonimización del proceso para armonizar el aprendizaje de los errores y el desarrollo de los planes de mejora en las organizaciones sanitarias, así como la exigencia de denunciar el EA producido en el curso de la atención sanitaria desde el punto  de vista legal y 
+deontológico. Esta anonimización, en consonancia con la legislación vigente de protección de información de carácter personal, supone la imposibilidad de identificar ex post  a las personas concretas involucradas en el EA (pa
+ciente, profesionales implicados) y a los profesionales que participan en el APEA sin afectar al análisis en profundidad del EA. 
+El proceso de análisis subsiguiente de dichos EA supone la participa
+ción de profesionales sanitarios experimentados que revisen con profundidad los hechos ocurridos, las circunstancias en que se producen, entrevisten a los profesionales involucrados y revisen la documentación en relación al proceso. De tal forma que, todo este trabajo de investigación les permita comprender los  hechos y establecer un plan de mejora para la organización. 
+El anonimato o la anonimización de las personas involucradas en el 
+EA es imprescindible para fomentar una cultura positiva de seguridad del paciente. El anonimato de los participantes en el APEA no  parece posible 
+al ser sus identidades conocidas como consecuencia de su pertenencia al equipo de calidad del centro sanitario. 
+El miedo a las consecuencias legales, profesionales y de la reputación 
+que se derivan  del análisis de estos incidentes puede impedir la completa 
+implicación de los profesionales en la notificación, APEA y planes de mejora. Sin  embargo, sin el concurso de los profesionales no es posible mejo
+rar la seguridad  del entorno. Si, ante cada actuación, el profesional siente 
+amenazada su seguridad jurídica y cuestionadas sus decisiones clínicas, es decir si aumenta su inseguridad, se corre el riesgo de que aumenten las prácticas orientadas  a la medicina  defensiva que suponen el aumento de proce
+dimientos de escaso valor, lo que añadiría nuevos riesgos para el paciente. 
+Algunos países  de nuestro entorno, como Dinamarca e Italia, han 
+constatado esta realidad y han  establecido un marco normativo que prima 
+la seguridad de los pacientes con regulaciones que protegen  las documenta -­
+­
+­
+­
+­
+­
+­
+­
+­
+3   Romeo Casabona CM, Urruela Mora A, Libano Beristain A. Establecimiento de un sistema 
+nacional de notificación y registro de incidentes y eventos adversos: aspectos legales. La notificación de eventos adversos en el sector sanitario: perspectiva de derecho comparado: segundo informe, diciembre 2007. Madrid: Ministerio de Sanidad y Consumo; 2008.   
+ 
+  
+ 
+   
+  
+INFORMES, ESTUDIOS E INVESTIGACIÓN 14 ciones de 
+análisis de eventos adversos de su utilización procesal en litigios 
+y, por tanto, sitúa estas actividades por encima de procedimientos sanciona ­
+dores, que contribuyen más a disuadir que a promover mejoras en la calidad asistencial. 
+El MS y SECA/FECA realizaron el 12 de marzo de 2019 la Jornada: 
+Aspectos Legislativos para avanzar en la cultura de Seguridad del Paciente, con el objetivo de reflexionar sobre el panorama legislativo actual y los cam­bios que serían necesarios para impulsar la cultura de Seguridad del Pacien­te y facilitar un marco legal que garantice la seguridad jurídica de los pro­fesionales sanitarios que participan en la identificación y análisis de los ISP. 
+Tras dicha Jornada se consideró necesario constituir un grupo de tra ­
+bajo con expertos en seguridad del paciente de diferentes ámbitos (CCAA, académico, etc.) y disciplinas (juristas, médicos, enfermeras, etc.) con el fin de: 
+• Establecer recomendaciones para el análisis de los incidentes de se­
+guridad del paciente con daño dentro del marco jurídico nacional. 
+• Establecer un plan de acción para el desarrollo de una propuesta de cambios normativos necesarios para impulsar la seguridad del pa­ciente en España. 
+Para lograr dichos fines, el grupo de trabajo inició su labor mediante la 
+metodología de la Conferencia de Consenso el 4 de octubre de 2019, en el Ministerio de Sanidad, cuyo trabajo se describe a continuación.   
+ Objetivo general de la 
+conferencia de consenso 
+ 
+  
+ 
+  
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 15 • Promover la cultura de seguridad del paciente entre los profesionales sa­
+nitarios por medio de unas recomendaciones para el análisis de los inci­
+dentes de seguridad dentro del marco jurídico actual, con el fin de facilitar un entorno cada vez más seguro para los pacientes en todos los ámbitos asistenciales. 
+Objetivos específicos: 
+• Proponer recomendaciones para mejorar la seguridad jurídica de los pro­
+fesionales sanitarios que participan en la notificación y en el análisis de los incidentes de seguridad con daño, en especial, en el caso de los EA, desde el respeto a los derechos de los pacientes y a la normativa y recomenda­ciones nacionales e internacionales aplicables. 
+• Contribuir a reducir las barreras actuales que limitan la participación de 
+los profesionales en la notificación y gestión de los ISP y asegurar a los pacientes un entorno cada vez más seguro.    
+  
+  
+  
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 17 Metodología de la conferencia 
+de consenso 
+• Revisión y análisis de la normativa española e internacional refe­
+rente a seguridad del paciente en relación con los sistemas de noti­ficación y análisis de incidentes de seguridad del paciente con daño. 
+• Conferencia de consenso mediante debate abierto y participación activa de participantes de diferentes disciplinas y especializaciones sobre cuestiones específicas del análisis previo, estableciendo una respuesta consensuada sobre la temática debatida. 
+• Revisión del borrador de informe por los miembros del Comité Ins­titucional de la Estrategia de Seguridad del Paciente del SNS que representan a las consejerías de salud de las CCAA. 
+• Elaboración de un informe de recomendaciones final, fruto del con ­
+senso entre el conjunto de participantes y revisores.    
+  
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 19 Producto esperado
+ 
+• Documento de recomendaciones para la elaboración de los informes 
+de Análisis en Profundidad de los Eventos Adversos (APEA), en el marco jurídico español actual. 
+• Concretar propuestas de cambios en normas legales y en procedi ­
+mientos que promuevan la seguridad jurídica de los informes de los APEA, en línea con las recomendaciones internacionales y nacio­nales.    
+ 
+   
+  
+  
+  
+ 
+ 
+ 
+  
+  
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 21 Presentación del problema
+ 
+• La introducción progresiva de la cultura de seguridad del paciente 
+en las organizaciones sanitarias en nuestro país impulsada desde el 
+MS y las CCAA con la meta de generar aprendizaje y mejoras a partir de las situaciones que no han funcionado como estaban pla­nificadas, ha llevado a la creación de diferentes tipos de estructuras organizativas para la gestión de riesgos. Estas estructuras organiza ­
+tivas son, en función del servicio de salud, las comisiones clínicas de calidad y seguridad del paciente, unidades funcionales de gestión de riesgos, red de responsables de seguridad del paciente en cada unidad y/o servicio, red de gestores de los sistemas de notificación y aprendizaje entre las más frecuentes. A partir de ahora, en el do­cumento haremos referencia a estas estructuras de forma genérica como UFGR (Unidades Funcionales de Gestión de Riesgos). 
+• Los sistemas de notificación y aprendizaje obedecen a recomenda ­
+ciones de organismos internacionales, especialmente la Organiza­ción Mundial de la Salud (OMS), el Consejo de Europa y el Con ­
+sejo de la Unión Europea, interesados en promover la cultura de seguridad entre los diferentes Estados Miembros y están basados en la literatura científica que avala su empleo como método para aprender de los errores y prevenir su repetición, habida cuenta de la incertidumbre en la que se desenvuelve la actividad asistencial. 
+• Estos sistemas están amparados, en España, normativamente por el 
+artículo 59 de la Ley de Cohesión y Calidad del Sistema Nacional de Salud (2003). 
+• En la Ley 41/2002 de Autonomía del Paciente, se indica que, el pacien­
+te tiene derecho a recibir información de todo lo ocurrido en el pro­ceso de su atención sanitaria, tal como refleja el art. 4.1 Ley 41/2002 «éste (el paciente) tiene derecho a conocer, con motivo de cualquier actuación en el ámbito de su salud, toda la información disponible sobre la misma (salvando los supuestos exceptuados por la Ley)». 
+• La Estrategia de Seguridad del Paciente del SNS 2015-2020 así como 
+las estrategias similares de las diferentes CCAA, promueve el apren ­
+dizaje de las organizaciones sanitarias a través de los sistemas de notificación y aprendizaje de EA. 
+• En algunas regulaciones autonómicas, disponer de un sistema de no­tificación y aprendizaje para la seguridad del paciente es un requisito incluido en la autorización de centros y, también, en otras instruccio -    
+ 
+  
+  
+ 
+ 
+  
+INFORMES, ESTUDIOS E INVESTIGACIÓN 22 nes específicas 
+para cumplir los objetivos de los contratos-programa 
+de los servicios regionales de salud. 
+• Los sistemas notificación se han puesto en práctica en todas las 
+CCAA (Anexo 3). La cultura de seguridad del paciente, fomentada 
+a través de las diferentes estrategias de seguridad del paciente, ha llevado a que los profesionales notifiquen los incidentes de seguri­dad del paciente para promover el aprendizaje y evitar su repetición. 
+• La puesta en marcha del SiNASP (Sistema de Notificación y Apren ­
+dizaje para la Seguridad del Paciente), promovido por el MS, y otros sistemas de notificación con finalidad similar en algunas CCAA, ha 
+puesto sobre la mesa determinadas cuestiones en relación con el im­
+pacto jurídico de la notificación de los EA, con los informes de su análisis y el papel de los equipos que investigan estos EA en procedi­mientos judiciales, en caso de que sean requeridos a testificar en cau ­
+sas judiciales abiertas en relación con dichos EA. Mientras que en nuestro país existen desde hace muchos años registros obligatorios de incidentes de seguridad, por ejemplo con respecto a reacciones 
+adversas a medicamentos, la aparición de estos nuevos sistemas de 
+registro y análisis de incidentes ha supuesto un cambio relevante en nuestra capacidad para incrementar la seguridad de los pacientes y han puesto de relieve nuevas situaciones que requieren nuevas res ­
+puestas para apuntalar las ventajas que suponen estos procedimien ­
+tos para los pacientes y, en general, para la salud de la población. 
+• Por otra parte, es obligatoria la notificación de errores de medica ­
+ción según la ley 28/2009 de 30 de diciembre del medicamento. El RD de Farmacovigilancia de 21 de julio de 2013 que traspone la Directiva Europea 2010/84/EU, incluye la obligatoriedad de notifi ­
+car al sistema de farmacovigilancia las reacciones adversas a medi ­
+camentos entendidas como «respuesta nociva y no intencionada a un medicamento» incluyendo las reacciones adversas por errores de medicación. El Sistema Español de Farmacovigilancia a través de 
+la base de datos FEDRA remite los datos a la base de la Agencia 
+Europea del Medicamento (EUDRAVIGILANCIA). La Agencia Española de Medicamentos y Productos Sanitarios (AEMPS), en coordinación con las CCAA, organiza y evalúa el funcionamiento del Sistema Español de Farmacovigilancia de forma anonimizada. 
+• La notificación no exonera, sino que complementa, la obligación 
+deontológica de informar al paciente de lo ocurrido en el transcurso de la atención sanitaria recibida. El Código de Deontología y Ética Médica (2011) recomienda informar al paciente de todos los inci­dentes del proceso asistencial.    
+  
+ 
+  
+  
+  • Actualmente los sistemas de notificación y aprendizaje de los inci ­
+dentes de seguridad son, en su mayoría, voluntarios para los pro­
+fesionales sanitarios. No obstante, algunos servicios de salud auto ­
+nómicos han regulado normas para que la notificación de los EA sea obligatoria para los profesionales sanitarios que trabajan en sus servicios de salud. 
+• La generación de informes derivados del análisis en profundidad de los EA sitúa al sistema sanitario en una coyuntura difícil desde el punto de vista jurídico. En España, el marco fijado por la Ley de Enjuiciamiento Criminal (en adelante, LeCrim), en materia de proceso penal, vendría a establecer, por medio de los arts. 259 y ss. LeCrim y 410 y ss. LeCrim, por un lado, la obligación de denuncia de los presuntos hechos delictivos de los que se tenga conocimiento (obligación cualificada en relación con los profesionales sanitarios en virtud del art. 262 LeCrim) y, por otro lado, la obligación de com ­
+parecer como testigos en caso de concurrir el oportuno llamamiento judicial al efecto. Ello podría generar importantes conflictos, funda ­
+mentalmente, para los profesionales participantes en los análisis de los EA, que manejan la información del EA con fines de mejorar la calidad asistencial. El conflicto surgiría ante la eventualidad de ser convocados al efecto de comparecer como testigos por el juez ins ­
+tructor competente de una causa vinculada al EA estudiado, por lo que tendrían la obligación de desvelar toda la información vinculada al EA de que tuvieran conocimiento. 
+• El informe técnico del equipo de investigación que se elabora tras el análisis tiene la finalidad de establecer mejoras para reducir la pro ­
+babilidad de que dicho EA vuelva a producirse en la organización sanitaria. Dicho informe de mejoras es actualmente un documento administrativo y posee carácter oficial. En caso de que un juez o el paciente o la familia lo solicitasen se debería facilitar conforme a lo establecido en la normativa vigente respecto de la protección de da­tos de carácter personal y la Ley 41/2002 de autonomía del paciente. 
+• El Ministerio de Sanidad ha promovido, desde el año 2007, estudios con expertos en la materia sobre aspectos legales de los sistemas de notificación de incidentes, análisis de los modelos de derecho com ­
+parado y recomendaciones normativas para España
+4. 
+Romeo Casabona CM, Urruela Mora A, Libano Beristain A. Establecimiento de un sistema 
+nacional de notificación y registro de incidentes y eventos adversos: aspectos legales. La notificación de eventos adversos en el sector sanitario: perspectiva de derecho comparado: segundo informe, diciembre 2007. Madrid: Ministerio de Sanidad y Consumo; 2008. 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 23 4    
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 24 • Una de las cuestiones que se ha trabajado desde SECA ha sido la propuesta 
+de modificación del artículo 417, de la LeCrim, buscando 
+el objetivo de crear una cultura proactiva no punitiva en seguridad del paciente que prime el bienestar del paciente. En este sentido, la experiencia de los países que han desarrollado una normativa es­pecífica, ha sido diferenciar el proceso de análisis técnico, en aras de proponer mejoras buscando aumentar la calidad asistencial y la seguridad del paciente, de las actuaciones que, en sede judicial, pu ­
+dieran requerirse, o ser necesarias, para determinar si existió inob­servancia a las normas de cuidado al paciente. 
+• Hay que matizar y diferenciar las razones por las que se realizan los 
+Informes de Análisis en Profundidad de Eventos Adversos (APEA) y la necesidad de información que, en caso de litigio, se requiere para determinar si existió imprudencia de algún profesional (inob ­
+servancia de la norma de cuidado). El informe del APEA reporta indudables ventajas en el análisis de los incidentes, pero puede des ­
+pertar en personas no expertas en la materia ideas erróneas sobre los incidentes de seguridad, alejadas de la cultura de la seguridad del paciente que afronta los fallos en las actuaciones como fallos sisté ­
+micos frente a la cultura de la culpa. En este sentido, un análisis del contexto internacional, revela que son cada vez más los países que desarrollan normativas que protegen estos informes de APEA de su utilización como pruebas periciales en procesos judiciales penales. Esta protección incluiría la documentación en relación con los sis ­
+temas de notificación y aprendizaje y los documentos de análisis en profundidad de EA. 
+• Dinamarca, diferentes estados de EEUU (Leyes de Disculpa, Sorry 
+Laws) y recientemente Italia (Ley de Seguridad del Paciente, marzo 2017) han desarrollado leyes o regulaciones en este sentido. Estas normas buscan proteger la calidad de la atención sanitaria que reci­ben los pacientes mediante la aplicación de las evidencias científicas que han mostrado su efectividad. 
+• Ante la incertidumbre que, desde el punto de vista jurídico, puede plan­
+tearse, tal como se ha puesto de manifiesto (en particular, una posible utilización sistemática de material derivado de procesos de mejora de la calidad asistencial en el marco de proceso penales frente a profesio­nales sanitarios), resultaría recomendable adelantarse estableciendo unas recomendaciones con el marco jurídico actual en España, ante posible dificultades de naturaleza jurídica muy susceptibles de minar la labor que, en materia de seguridad del paciente, se ha llevado a cabo a partir de la Estrategia de Seguridad del Paciente del SNS. Principales conclusiones del  
+debate de la conferencia de  
+consenso organizadas por  
+bloques temáticos 
+BLOQUE 1 de preguntas 
+¿Qué se notifica en los sistemas de notificación y aprendizaje para  
+la seguridad del paciente? ¿En qué casos es imprescindible realizar  
+un APEA y en qué casos es recomendable? ¿Qué debe y qué no  
+debe incluir el informe? ¿Quién debería (perfiles profesionales) par
+ticipar en este análisis? ¿Cuál debiera ser el papel de las UFGR de  
+las organizaciones sanitarias en la supervisión y aprobación de los  
+informes? ¿La autorización de cesión de datos en el ingreso aplica  
+sin restricciones para obtener la información con la que realizar este  
+tipo de análisis? ­
+¿Qué se notifica en los sistemas de notificación  
+y aprendizaje para la seguridad del paciente? 
+•   Existen varios sistemas de notificación y aprendizaje en las CCAA, 
+unos recogen todos los tipos de incidentes de seguridad del paciente mientras que otros sólo los incidentes sin daño. No obstante, la estructura de recogida de la información es similar entre ellos. 
+•   El SiNASP, sistema de notificación promovido por el MS, está diseñado de forma que los datos se anonimizan (se eliminan los datos relativos a la identidad del notificante) automáticamente en un periodo de quince días, situación similar a otros sistemas de notificación implantados en España. Los datos que se eliminan automáticamente son: Fecha y hora en que ocurrió el incidente, nombre y dirección de email del notificante (si se ha identificado) y categorías profesionales de las personas  implicadas. Todas las estadísticas que se generan, se 
+muestran anonimizadas (datos agregados) excepto los datos de los ­
+­­­
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 25  indicadores referentes a la gestión de los incidentes. Según datos del 
+informe SiNASP del 2018, el número de los notificantes que se identifican al notificar ha aumentado con respecto al año 2017 y el porcentaje de profesionales que se identifican es mayor en AP (67%) que en atención hospitalaria (65,5%). El número de notificaciones en 2018, ha sido ligeramente superior al de 2017
+5. 
+•   Según los datos de un reciente cuestionario de percepción  aplicado a 
+los gestores del SiNASP, las principales barreras para la notificación son: dudas de la utilidad del sistema por parte de los profesionales, temor a consecuencias negativas de tipo personal, el tempo requerido para notificar considerando la carga de trabajo habitual y la falta de cultura de seguridad, como  facilitadores para la notificación, se
+ñalan la confidencialidad y anonimicidad del sistema y su fácil accesibilidad desde el puesto de trabajo
+6. Estos datos refuerzan la ne
+cesidad de habilitar medidas para facilitar esta notificación.  Uno de 
+los elementos cruciales, además de mejorar la cultura y el liderazgo de la organización, es crear un  marco jurídico con regulaciones que 
+se adapten a la realidad de las instituciones sanitarias y faciliten la notificación de EA y el aprendizaje de la organización sanitaria. 
+•  En  las CCAA de Madrid y Castilla y León sólo se notifican los ISP 
+sin daño. Si hay daño se recomienda que se notifiquen a la compañía aseguradora o bien a la dirección de los centros sanitarios. Madrid está elaborando  una regulación normativa sobre criterios de autori
+zación de centros sanitarios para mejorar la seguridad del paciente pero no incluye la obligación de la notificación. 
+•  En  el caso del País Vasco existe la Instrucción 2/2018 de 21, de fe
+brero, para la adecuada notificación de los eventos centinela, así como de otros EA y brotes epidémicos o alertas epidemiológicas del ámbito de Osakidetza. Esta instrucción obliga a que la notificación de eventos centinela e incidentes con daño se realice a la Dirección del centro y a dar traslado del informe del análisis pertinente al responsable del equipo corporativo de seguridad del paciente, que lo ­
+­
+­
+­
+­
+­
+­
+­
+­
+5 		 Sistema de Notificación y Aprendizaje para la Seguridad del Paciente (SiNASP). Inciden
+tes de seguridad notificados en 2018. Madrid: Ministerio de Sanidad; 2020. Disponible en: https://www.seguridaddelpaciente.es/resources/documentos/2020/07/sinasp-2018.pdf 
+6 		 Sistema de Notificación y Aprendizaje para la Seguridad del Paciente (SiNASP). Cuestio
+nario a gestores locales 2019. Madrid: Ministerio de Sanidad; 2020. Disponible en: https:// www.seguridaddelpaciente.es/resources/documentos/2020/06/Informe_cuestionario%20 gestores%20locales_2019_MS.pdf?nocache ­
+­
+INFORMES, ESTUDIOS E INVESTIGACIÓN 26    
+ 
+ 
+   
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ pondrá a disposición de la Dirección Asistencial Sanitaria y a la Sub ­
+dirección de la Asesoría Jurídica de Osakidetza. 
+• En la Comunidad Valenciana el sistema de notificación (SINEA) 
+tiene como objetivo identificar y analizar los incidentes que produ ­
+jeron o podían haber producido daño a los pacientes, con el fin de 
+promover los cambios necesarios en el sistema sanitario. 
+• El sistema de notificación de Cataluña recoge incidentes con daño 
+y sin daño, es voluntario, confidencial, anónimo, no punitivo y con 
+orientación sistémica para permitir el análisis local de los casos. 
+• En Andalucía, el sistema de notificación recoge incidentes de forma 
+voluntaria y anónima que se analizan a nivel local o autonómico. El 
+sistema andaluz es abierto y, también, los pacientes pueden notificar al sistema. 
+¿En qué casos es imprescindible realizar un 
+APEA y en qué casos es recomendable? 
+• Debe realizarse un APEA en los EA con consecuencias graves para 
+el paciente o incidentes que no se han llegado a producir y que, de 
+haberlo hecho, hubieran tenido consecuencias graves para el pacien ­
+te. Normalmente, se realiza el APEA a partir de la notificación al sistema de notificación de la institución sanitaria. Dicha notificación 
+puede hacerla cualquier profesional que se ha visto involucrado de alguna manera en el EA y que sea trabajador de la organización. 
+• En numerosas organizaciones las notificaciones de EA se siguen de su correspondiente APEA y puede también conllevar la apertura de un expediente de responsabilidad patrimonial por parte de la admi ­
+nistración, aun cuando no exista reclamación explícita del paciente y/o familia afectado por el EA. 
+• Si se detecta inobservancia de guías o normas en el análisis prelimi ­
+nar de EA, se recomienda a la institución sanitaria hacer un análisis en profundidad y aportar las mejoras que fueran adecuadas, con in ­
+dependencia del curso de responsabilidades que pueda derivarse de dicha situación. Cabe recordar que, en los sistemas de notificación, quedan excluidas del sistema las infracciones graves con implicacio ­
+nes legales obvias, puesto que son casos de utilidad limitada desde un punto de vista del aprendizaje y la gestión de riesgos. Aspectos 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 27    
+ 
+   
+ 
+ 
+  
+ 
+   
+  
+ que se deberían excluir serían, por ejemplo, abusos de pacientes o 
+actuaciones bajo los efectos de las drogas. 
+• Adicionalmente, es deseable que se realice un análisis retrospecti ­
+vo de los incidentes sin daño reiterados y cuasi incidentes que se 
+consideren relevantes y/o de gran potencial de aprendizaje. Estos análisis tienen el valor de estar desprovistos de la carga emocional y repercusiones de los EA, lo que permite un análisis más sosegado y la propuesta de mejoras a más largo plazo. 
+• Podría darse la notificación de un EA ocurrido en un centro sanita ­
+rio privado en el sistema de notificación de un centro sanitario públi ­
+co, en el caso de que la atención prestada en el centro privado haya 
+sido concertada por el centro público. El profesional del sistema sa­
+nitario público que ha asumido el tratamiento del EA ocurrido po ­
+dría notificarlo al sistema. El equipo de investigación del EA debería 
+considerar esa circunstancia y contactar con la entidad sanitaria con ­
+certada para su participación en el análisis del EA. 
+¿Qué debe y qué no debe incluir el informe? 
+• Como recomendación se propone que los informes deben constituir 
+un elemento de trabajo de las comisiones de seguridad del paciente, de las unidades funcionales de gestión de riesgos, de la red de res ­
+ponsables de seguridad del paciente de los servicios o unidades, o de los equipos de investigación nombrados por una institución sanitaria (UFGR). Por tanto, los informes del APEA realizados se recogerán 
+anonimizados como un anexo al acta de la reunión de la UFGR que 
+ha analizado el EA. Estos informes deben custodiarse junto a la do ­
+cumentación resultante del informe del APEA, como es el plan de mejora. 
+• Toda la documentación del APEA, y el informe técnico resultante, 
+constituyen herramientas del proceso de mejora continua de la or ­
+ganización sanitaria y se desaconseja que se adjunten a la historia 
+clínica de los pacientes. 
+• La historia clínica del paciente debe recoger de manera objetiva los hechos acontecidos en el proceso asistencial a través del relato de los 
+profesionales que han participado en el proceso asistencial que dio 
+lugar al EA y que cuentan con autorización para realizar anotacio -
+INFORMES, ESTUDIOS E INVESTIGACIÓN 28    
+  
+   
+  
+  
+ 
+ nes en la historia del paciente (por ejemplo: profesionales médicos, 
+de enfermería, de farmacia, de fisioterapia, …). 
+• El acceso para realizar anotaciones en la historia clínica sobre el EA 
+puede variar en función de la regulación autonómica. En cualquier caso, profesionales como celadores, administrativos, personal de limpieza… no suelen tener acceso a la historia clínica. Sin embargo, pueden haber participado en el proceso asistencial y tienen capaci ­
+dad para realizar la notificación del EA al sistema de notificación y 
+aprendizaje de la organización sanitaria. 
+• En algunos centros sanitarios de Cataluña se solicita a cada profe ­
+sional implicado en un EA un informe por escrito sobre qué pasó 
+de forma inmediata al suceso (de tal forma que, si con posterioridad –meses, años– existe una causa judicial en relación con este tema, se disponga del detalle de los hechos, reduciendo el impacto del paso del tiempo en la memoria de los involucrados en el EA). Estos infor ­
+mes individuales incluyen también, junto al informe, todos los proto ­
+colos y procedimientos relacionados. 
+• A día de hoy existe cierta variabilidad en el contenido de los APEA y en su uso, siendo aconsejable avanzar en el desarrollo de un proce ­
+dimiento que asegure el adecuado empleo de esta técnica de análisis para la finalidad para la que fue diseñada y que no es otra que incre ­
+mentar la seguridad de los pacientes. 
+• La recomendación inmediata es la de generar informes de análisis 
+en profundidad de EA anonimizados, de tal forma que se respete el espíritu de los sistemas de aprendizaje y mejora para la seguridad del paciente en los que no se busca un culpable sino reconocer el fallo sistémico, dar un plan alternativo de cuidados y proponer mejoras. 
+• El documento relevante para lograr las mejoras que se persiguen 
+es el propio resultado del análisis que se materializa en un plan de mejora donde se recojan áreas de mejora, actuaciones para lograrlo, responsables de llevarlo a cabo, calendario, recursos que se emplea ­
+rán y medidas de resultado para conocer si la acción ha tenido el éxito esperado. La implantación de forma sistemática y generalizada de estas medidas debe impulsarse desde los equipos directivos de los centros sanitarios, quienes deberían atender las necesidades y recursos necesarios para la fomentar la realización de los análisis en profundidad y la aplicación de las recomendaciones de mejora de los 
+informes de los mismos, para evitar la aparición de un nuevo EA de 
+la misma naturaleza, en la misma organización sanitaria. 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 29    
+ 
+   
+  
+  
+  
+  
+ 
+ 
+  
+ • En tanto en cuanto no se desarrolle una norma o marco jurídico de 
+seguridad del paciente, parece aconsejable que la información que 
+generan los análisis en profundidad se realice sin identificación de 
+situaciones que comprometan al paciente o a los profesionales. 
+¿Quién debería (perfiles profesionales) 
+participar en este análisis? 
+• Deberían participar, al menos, parte de los profesionales de las co ­
+misiones de seguridad del paciente, calidad, otras comisiones ad hoc, 
+unidades funcionales de gestión de riesgo o responsables de seguri ­
+dad del paciente. 
+• Se recomienda incluir en el equipo de investigación a una persona 
+del equipo directivo. En principio, en casi todas las comisiones clíni ­
+cas de un hospital o primaria suelen contar con participación de una persona del equipo directivo. 
+• En relación con la idoneidad para acceder a los datos de la historia 
+clínica del paciente afectado por el EA, todos los miembros de las 
+UFGR con nombramiento en vigor, por la condición de ser miem ­
+bros de la UFGR, tienen cobertura jurídica para acceder a las histo ­
+rias de los pacientes en el contexto de la investigación para la mejora 
+de la calidad asistencial. 
+• Se aconseja incluir representación de la asesoría jurídica de la insti ­
+tución en el equipo de investigación de un EA. 
+• En el momento actual, no existe seguridad jurídica para recomendar invitar a representantes de las asociaciones de pacientes con implan ­
+tación en el área de referencia del centro, en el grupo de trabajo. En caso de participación de los pacientes, éstos sólo deberían revisar, desde su perspectiva de pacientes, el informe anonimizado de mejo ­
+ras elaborado por el equipo que ha investigado los hechos, sin tener acceso a los datos clínicos del paciente. 
+• En relación con las compañías aseguradoras, cada organización esta ­
+blecerá la relación adecuada en función del contrato suscrito con las mismas, sin olvidar que la información que se maneja en la UFGR 
+es confidencial y restringida a implementar acciones de mejora en 
+la institución y que, por tanto, es un asunto interno y no deberían participar profesionales ajenos a la institución. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 30    
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  • La propia organización puede establecer un procedimiento de au­
+ditoria interna de los informes APEA emitidos de forma periódica, 
+con la finalidad de impulsar la puesta en marcha de los procedimien ­
+tos de mejora encaminados a reducir la probabilidad de la ocurren ­
+cia de un nuevo EA. 
+• No se recomienda que en el análisis participen directivos de servicios 
+regionales de salud o de consejerías o departamentos regionales de salud ya que se podría ver alterado el fin de los SNASP, que se cen ­
+tran en identificar los problemas, investigar y generar aprendizaje y mejora interna de la organización. 
+¿Cuál debiera ser el papel de las UFGR, de 
+las organizaciones sanitarias, en la 
+supervisión y aprobación de los informes? 
+• En relación con el APEA, los profesionales que acceden a los da­
+tos asistenciales del paciente lo hacen por motivos de investigación en mejora de la calidad asistencial de la organización, con el fin de 
+generar mejoras para la prevención de futuros nuevos EA. Se reco ­
+mienda que estos profesionales pertenezcan a una UFGR correcta ­
+mente regulada y/o tengan nombramiento en vigor por parte de los 
+equipos directivos de las organizaciones sanitarias para estas funcio ­
+nes. Se debe tener en cuenta que toda cesión de datos que se haga a terceros ha de estar amparada en la normativa de protección de datos aplicable. 
+• Las personas que integran las distintas comisiones sanitarias, in ­
+cluidas por tanto las UFGR, tienen acceso a las historias clínicas de pacientes para el estudio de los hechos que se están analizando. Así, es importante que las UFGR tengan un estatus reconocido, un nombramiento explícito en vigor, por parte del servicio regional de salud. Esta regulación garantiza la seguridad jurídica para el acceso a la historia clínica de pacientes a los profesionales que no han aten ­
+dido al paciente pero que realizan una labor de investigan los hechos en aras de identificar mejoras y trasladarlas al plan de calidad de la organización sanitaria. 
+• La asesoría jurídica puede intervenir en el soporte a las segundas víctimas y en la supervisión del informe del APEA. Por ello, debería 
+formar parte, como miembro de la comisión de calidad/seguridad o 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 31   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+   
+  comisión ad hoc, de la unidad funcional de gestión de riesgos o de 
+los responsables de seguridad del paciente de los servicios/unidades con nombramiento explícito en vigor por parte de la dirección de la institución sanitaria. 
+• La estructura funcional del modelo de gestión de riesgos asistencia ­
+les de una organización sanitaria actuará para analizar los EA no ­
+tificados a través del sistema de notificación y aprendizaje de segu ­
+ridad del paciente o bien a través de los criterios establecidos por la organización sanitaria como, por ejemplo, la notificación del EA por otro método aceptado en la misma, a solicitud de profesionales involucrados en un EA o de la Dirección del centro. 
+¿La autorización de cesión de datos en el ingreso aplica sin restricciones para obtener información con la que realizar este tipo de análisis? 
+• Con la salvaguarda de confidencialidad que se reserva en la norma, los profesionales sanitarios que reciben el encargo de confeccionar un APEA cuentan con la autorización para el acceso a la documen ­
+tación clínica necesaria para realizar esta labor. 
+• En principio, se recomienda focalizar los informes APEA en lo que constituye su razón de ser: plan de mejoras para evitar nuevos EA por causas similares, no resultando para este fin relevante otro tipo de información. 
+• Los informes de mejora elaborados tras el análisis de EA quedarán en el acta de revisión de la comisión de seguridad del paciente u otra comisión ad hoc, o en el acta de la reunión de la unidad funcional de gestión de riesgos o equipo de investigación de responsables de seguridad del paciente (UFGR) que lo haya analizado. Se hará lle ­
+gar al equipo directivo del centro sanitario el plan de propuestas de mejoras elaborado. 
+• Si el paciente o su familia afectado por el EA solicitara el informe APEA tendrá derecho a obtener el informe de las propuestas de mejoras derivadas de dicho APEA. Actualmente no existe un marco de seguridad jurídica que respalde la entrega del informe del APEA completo aunque se haya anonimizado, en cuanto a los profesiona ­
+les intervinientes. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 32   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+ 
+  
+ 
+ BLOQUE 2 de preguntas 
+¿Qué contenido mínimo debería incluir un informe de resultado del 
+análisis en profundidad de un incidente de seguridad con daño? ¿En qué plazo temporal debería estar ultimado? ¿Cómo se debería asegurar que las propuestas de mejora se llevan a cabo? ¿En qué casos debe informarse al paciente o a sus familiares del resultado del análisis del incidente? 
+¿Qué contenido mínimo debería incluir un informe de resultado del análisis en profundidad de un incidente de seguridad con daño? 
+• En el caso de que se produzca un incidente de seguridad del paciente con daño (EA), cualquier profesional de la organización sanitaria lo comunicará al sistema de notificación. Este primer paso refleja la cultura de seguridad del paciente de una organización. Es un paso crucial y se debe garantizar que la notificación sea accesible y segura para todos los profesionales de la organización. 
+• Este primer paso es relevante ya que aporta la información básica para poder describir los hechos, las personas que han estado invo ­
+lucradas. A partir de ahí, el equipo de investigación desarrollará su trabajo de análisis y elaboración del informe del APEA. 
+• En todos los informes de APEA debe quedar bien establecido que la cultura de seguridad del paciente analiza los EA desde el punto de vista sistémico. El EA ocurrido es consecuencia, pero no la única causa, del daño generado al paciente. La causalidad normalmente se justifica por la confluencia de múltiples factores. 
+• El informe APEA deberá contener la descripción de los hechos y la temporalidad de EA así como las actuaciones profesionales llevadas a cabo. El equipo investigador incluirá el análisis de los factores cau ­
+sales y condiciones latentes presentes en la organización sanitaria que pudieron contribuir al EA por medio de herramientas meto ­
+dológicas de calidad y seguridad del paciente como el Protocolo de Londres, el análisis de los factores causales a través del Diagrama 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 33    
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+   de Ishikawa, análisis de barreras, análisis de los porqués, análisis de 
+causa-raíz, análisis de evento centinela, etc. 
+• El equipo de investigación, tras realizar el APEA, emitirá un infor ­
+me técnico de mejoras para la organización sanitaria con el fin de reducir la probabilidad de que un EA similar vuelva a ocurrir en la 
+organización. 
+• El informe de investigación completo del APEA será anexado al 
+acta de la reunión de la UFGR en que se presente el plan de mejo ­
+ra derivado. Se guardará completamente anonimizado en cuanto a 
+sujeto del EA y equipo profesional involucrado. El plan de mejora emitido del APEA será incorporado al plan de calidad de la organi ­
+zación sanitaria. 
+¿En qué plazo temporal debería estar 
+ultimado? 
+• No se debe dar un marco temporal fijo en relación con la ocurrencia 
+del EA. En grandes organizaciones el tiempo transcurrido hasta que 
+se analiza el EA puede ser de meses, aunque la recomendación más generalizada es que no exceda de 30 días (por ejemplo, SiNASP). En ese plazo se debe decidir qué se hace y si se indica iniciar APEA. Cuanto más tarde se inicie dicho análisis, cabe esperar más sesgos de memoria, menos interés en el análisis en profundidad y menos opor ­
+tunidades para evitar que se repita el daño. Por otro lado, cuanto 
+más tarde se produzca el feed-back al profesional notificante, más se 
+reduce la probabilidad de que vuelva a realizar una nueva notifica ­
+ción en el futuro. 
+¿Cómo se debería asegurar que las propuestas 
+de mejora se llevan a cabo? 
+• Las aportaciones realizadas por los representantes de las Comuni ­
+dades Autónomas nos permiten concluir que existe una gran varia ­
+bilidad de actuaciones, al igual que existe variabilidad en la práctica 
+clínica, variabilidad en la práctica judicial y variabilidad en la reali ­
+zación, contenidos y monitorización de las mejoras en relación con los informes de los EA analizados. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 34    
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  • El informe técnico del análisis en profundidad y la propuesta de me ­
+joras lo realizan los técnicos, pero la toma de decisiones sobre las 
+acciones de mejora a implantar se realiza desde la dirección gerencia 
+de los centros sanitarios. 
+• Los profesionales que forman parte de las UFGR deberían tener un 
+papel importante a la hora de proponer revisiones internas de la do ­
+cumentación de la situación de todas las mejoras propuestas tras los APEA en una organización. Esta revisión podría ser anual y debería 
+hacer partícipe al equipo directivo, además de a los profesionales, de 
+tal forma que dichas mejoras se pueden incorporar a los objetivos de la organización a través de las herramientas de gestión oportunas, 
+facilitando el seguimiento de las medidas y comunicando las mejoras 
+alcanzadas al conjunto de la organización en un feed-back positivo para todos los profesionales. 
+• Dado el importante papel que adquieren estas estructuras funcionales 
+de gestión de riesgos (UFGR) en relación con la elaboración de los 
+informes APEA, parece necesario el desarrollo de una normativa que recoja estas esenciales funciones en las organizaciones sanitarias. 
+¿En qué casos debe informarse al paciente o 
+a sus familiares del resultado del análisis del 
+incidente? 
+• Según la ley de autonomía del paciente (41/2002), artículo 4.1, los pa ­
+cientes tienen derecho a conocer, con motivo de cualquier actuación 
+en el ámbito de su salud, toda la información disponible sobre la mis ­
+ma, salvando los supuestos exceptuados por la ley. Además, toda per ­
+sona tiene derecho a que se respete su voluntad de no ser informada. 
+• A día de hoy es pertinente, por parte de los profesionales, informar 
+al paciente sobre la ocurrencia de un EA ( Open Disclosure ), notifi ­
+carlo por los profesionales implicados (SNAP) y realizar un análisis 
+en profundidad (APEA) por la UFGR correspondiente que facilite 
+un informe de mejoras a la organización sanitaria para reducir la 
+probabilidad de que el EA vuelva a ocurrir. 
+• El Código de Deontología y Ética Médica también recomienda a los profesionales informar al paciente de cualquier asunto en relación 
+con su historia clínica. 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 35   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   BLOQUE 3 de preguntas 
+¿Qué cambios normativos son necesarios para establecer un mar ­
+co de seguridad jurídica para quienes notifican y participan en el 
+análisis en profundidad de las causas de un incidente de seguridad con daño? ¿Cómo y por quién debería custodiarse este tipo de in ­
+formes? ¿Qué difusión es recomendable que tengan los informes y quién debe difundir estos resultados (incluidas las medidas para evitar nuevos incidentes similares)? 
+¿Qué cambios normativos son necesarios para 
+establecer un marco de seguridad jurídica para 
+quienes notifican y participan en el análisis en 
+profundidad de las causas de un incidente de 
+seguridad con daño? 
+• La progresiva implantación de la Estrategia de Seguridad del Paciente 
+con la puesta en marcha de sistemas de notificación y registro de EAs que permiten a los profesionales identificar y describir los EA, anali ­
+zarlos y poner en marcha las mejoras en el sistema de salud para que se reduzca la probabilidad de nuevos EAs, puede generar colisiones 
+con los derechos del paciente. Por un lado, el derecho del paciente 
+que sufre el EA a conocer toda la información disponible sobre su salud atendiendo a la Ley de Autonomía del Paciente y al propio Có ­
+digo de Deontología Médica. Por otro, deben tomarse en considera ­
+ción el derecho a la protección de la vida y de la integridad física –en definitiva, de la salud– de terceros, que se beneficiarán del aprendizaje y la reducción de riesgos y que garantizan los profesionales con sus 
+notificaciones y propuestas de mejora. Y finalmente, cabe poner de 
+manifiesto el hecho de que en el ámbito jurídico español la explicación 
+dada al paciente sobre el EA acontecido pueda ser considerada como 
+un indicio de culpabilidad en un procedimiento judicial. 
+• Además, la cuestión es aún más compleja, porque el paciente que 
+sufre el EA puede invocar que, si se limitan de manera improceden ­
+te los medios de prueba en un proceso penal, se afecta al derecho 
+fundamental a la tutela judicial efectiva del art. 24 Constitución Es ­
+pañola. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 36    
+  
+  
+ 
+ 
+ 
+  
+ 
+ • La dimensión de los derechos en presencia obliga a un análisis con 
+gran cautela a la hora de realizar planteamientos de reforma legisla ­
+tiva en este punto. Existe un cierto consenso en torno a la necesidad 
+de instar reformas de la LeCrim, en concreto en su artículo 417, que 
+supongan la concesión de exenciones testificales para los miembros 
+de las UFGR que lleven a cabo el informe APEA (del tipo de las 
+ya existentes para abogados y ministros de culto en dicho artículo). 
+• Por otro lado, la Ley italiana sobre seguridad del paciente, de 2017, plantea la necesidad de tomar en consideración la relevancia pro ­
+cesal que determinada documentación generada en el marco de los 
+procesos de mejora de la calidad asistencial (fundamentalmente, si 
+la misma no ha sido previamente anonimizada) puede ostentar en determinados procesos penales contra profesionales sanitarios. 
+• El marco jurídico actual en el ámbito de la seguridad del paciente se 
+estructura fundamentalmente en torno a la Ley 16/2003 de Cohesión y Calidad del Sistema Nacional de Salud, la Ley 41/2002 de Autono ­
+mía del Paciente, y la normativa en materia de LOPD. Igualmente, La Estrategia de Seguridad del Paciente del Sistema Nacional de Sa ­
+lud 2015-2020 y su desarrollo específico en las diferentes comunida ­
+des autónomas y el Código de Deontología y Ética Médica, forman parte del marco normativo de la seguridad del paciente. En dicha normativa se recomienda a las organizaciones sanitarias y a sus pro­fesionales la notificación de los EA para aprender, al mismo tiempo que se comunican al paciente los hechos ocurridos. Sin embargo, en España no se dispone de una regulación de protección a la notifica ­
+ción y al notificante. 
+• En nuestro país debería considerarse el desarrollo de una ley espe ­
+cífica de seguridad del paciente como en Italia o Dinamarca. En Ita ­
+lia se promulgó una ley integral de seguridad del paciente de 2017 concretó, a través de diferentes artículos, las particularidades, entre otras, en la esfera penal sustantiva y procesal penal. El Art. 6 de dicha ley se refiere a los límites de responsabilidad penal por im ­
+prudencia si se respetaron recomendaciones previstas en las guías en materia de seguridad del paciente. El art 16 limita el acceso por parte de los tribunales a materiales obtenidos en el marco de los sistemas de seguridad del paciente. Para la propuesta de elaborar una ley de Seguridad del Paciente partiendo de algunos de los cri ­
+terios sentados por la ley italiana de 2017, sería necesario elaborar 
+un preámbulo legislativo que facilitara poner de acuerdo a profe -
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 37    
+    
+    
+    
+   
+ 
+ 
+ 
+  
+   
+  
+ 
+ 
+  sionales sanitarios, juristas y pacientes. En definitiva, la legislación 
+italiana puede servir de principal referente de derecho comparado. 
+• En cuanto a reformulaciones jurídicas, podemos resumir que po ­
+dríamos hablar de 3 vías de abordaje de reformas jurídicas: 
+–		Desarrollo de una ley integral de seguridad del paciente. 
+–		Modificaciones en determinados artículos de la LeCrim (artículo 
+417). 
+–		Formulación de un nuevo capítulo sobre seguridad del paciente 
+en la ley de Cohesión y Calidad de Sistema Nacional de Salud, 
+2003. 
+• Algunas CCAA han incluido, dentro de las normativas autonómicas de autorización de apertura de nuevos centros sanitarios, aspectos de 
+calidad y de seguridad del paciente. Otras, están regulando decretos autonómicos específicos sobre seguridad del paciente. En la tabla 2 se detallan las regulaciones autonómicas que afectan a la seguridad del pa ­
+ciente hasta la fecha de publicación del presente informe (junio 2020). 
+• Por otro lado, numerosos servicios regionales de salud están traba ­
+jando en sistemas de gestión de calidad como EFQM, ISO 9001:2015, en los cuales se promueve la gestión de riesgos, la declaración de 
+contingencias en formato de no conformidades con la norma, y la 
+elaboración de planes de acción preventivos para evitar que vuelvan a ocurrir fallos, entre ellos EA, en el sistema. 
+• Además, debemos recordar que, tanto la Normativa Europea, como 
+la regulación jurídica del medicamento en Europa ya obliga a los 
+profesionales de la salud a notificar los EA relacionados con medi ­
+camentos. 
+• No obstante, para el desarrollo de una ley integral de seguridad del paciente en España hay que sensibilizar sobre este tema a los profe ­
+sionales de la carrera judicial (para lo cual es relevante incorporar al debate al Consejo General del Poder Judicial) también a las So ­
+ciedades Científicas, a los pacientes y a los decisores políticos, de tal forma que se consiga una sensibilización interdisciplinar sobre la 
+cultura de la seguridad del paciente. 
+• El MS ha emitido una pregunta al Comité Nacional de Bioética so ­
+bre la posibilidad, desde la perspectiva bioética, de promover de for ­
+ma efectiva políticas de SP y, en su marco, permitir la notificación y análisis de los incidentes de seguridad con seguridad jurídica para 
+los profesionales sanitarios, sin menoscabo de los derechos de los pacientes y usuarios. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 38   
+   
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+  ¿Cómo y por quién debería custodiarse este 
+tipo de informes? 
+• Una vez que se realice el APEA, el informe se conserva anonimiza ­
+do junto al acta donde se informa del plan de mejoras elaborado tras 
+el análisis por la UFGR, o bien en un registro elaborado a tal fin por la organización. 
+• La UFGR enviara a la dirección del centro el informe con las áreas de mejora que se han concretado para la organización. 
+• En la historia clínica del paciente deberán estar reflejados los he ­
+chos objetivos que han ocurrido en el transcurso de la atención al paciente. 
+• Los centros deben definir quién debe tener, y en qué condiciones, acceso al registro con los informes completos anonimizados de los 
+APEA. 
+¿Qué difusión es recomendable que tengan 
+los informes y quién debe difundir estos resultados (incluidas las medidas para evitar nuevos incidentes similares)? 
+• En las situaciones en las cuales existan normas autonómicas que 
+obligan a la realización de un análisis en profundidad tras incidentes 
+centinelas, este documento debe ser público y no se debe anonimi ­
+zar. Por ello, resulta de gran interés estudiar las normas autonómi ­
+cas, ya que, aquellas que son de obligado cumplimiento a nivel disci ­
+plinario (interno) o judicial, tienen impacto en cómo se elaboran los 
+análisis en profundidad de los EA. 
+• El equipo de trabajo que realiza el APEA (UFGR), en aras de ve ­
+lar por la confidencialidad de la información, sólo deberá facilitar al equipo directivo el informe de mejoras derivado de dicho análisis. El equipo directivo recogerá el informe de mejoras para su valoración e inclusión de las mejoras en el plan de acciones de mejora de la orga ­
+nización sanitaria. Como en todo plan de mejoras, se considera que 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 39   debe haber un seguimiento de la puesta en marcha de las mejoras, 
+identificando a las personas responsables de asegurar que se llevan a cabo y monitorizando las actividades con su calendario. Por tanto, cabe realizar una recomendación particular sobre la monitorización dentro del plan de calidad de la organización de las acciones de me ­
+jora derivadas del análisis de los EA graves. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 40   
+  Resumen de los aspectos 
+trabajados 
+Las normativas y recomendaciones que actualmente afectan a las activida ­
+des que se realizan para favorecer la seguridad de los pacientes, en especial, 
+aquellas anteriores a la Ley de Cohesión y Calidad, generan incertidumbre entre los profesionales y no siempre favorecen un entorno de reflexión so ­
+bre la práctica asistencial, sus riesgos y la mejor forma de afrontarlos. 
+Los planes de mejora de las organizaciones sanitarias se ha demostra ­
+do que constituyen la alternativa metodológica más adecuada para avanzar en calidad asistencial. El limitar la investigación de eventos y propuestas de mejora tendría como consecuencia inmediata la paralización de la implan ­
+tación de ciclos de mejora en los centros sanitarios y en el quehacer de los profesionales. Esta situación repercutiría negativamente en la calidad asis ­
+tencial y, por tanto, en el bienestar de los pacientes. Actuar de este modo alejaría a nuestro Sistema de Salud de las prácticas que se aconsejan desde organismos internacionales y sociedades científicas y que han sido contras ­
+tadas mediante estudios científicos. 
+Es recomendable abordar de forma global el marco que regula la ac­
+tuación profesional en materia de seguridad de los pacientes y este grupo de trabajo aconseja a las autoridades sanitarias avanzar en la aprobación de una norma con rango de ley que establezca la obligación de velar por la seguridad de los pacientes, al tiempo que ofrezca cobertura a los enfoques de trabajo que se vienen poniendo en práctica para lograr este objetivo. 
+Esta futura ley debería abordar de forma transversal la problemática 
+en torno a la seguridad de los pacientes e integrar las referencias, actual ­
+mente dispersas, en esta materia, contribuyendo a modernizar los procedi ­
+mientos de identificación, análisis y prevención de incidentes de seguridad, de forma acorde a las recomendaciones de OMS y los avances científicos y tecnológicos. 
+En tanto en cuanto no se dispone de dicho marco normativo especí ­
+fico y, conforme a lo contemplado en la Ley de Cohesión y Calidad, es in­dispensable que las autoridades sanitarias, tanto a nivel autonómico como nacional, velen por la correcta implantación de los sistemas de notificación y el adecuado trabajo de las comisiones que analizan en profundidad los incidentes, con el propósito de incrementar la seguridad mediante un apren ­
+dizaje continuo, a partir de la experiencia y la investigación científica, en la misma medida que sucede con el resto de prácticas sanitarias. Este análisis en profundidad, elaborado por el método que en cada caso se considere más 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 41  apropiado, debe estar centrado en la mejora y tener como objetivo lograr 
+una óptima calidad asistencial. Debe ajustarse a la metodología específica de los planes de mejora. 
+La información detallada del APEA y anonimizada quedará adjunta 
+al acta de la reunión del UGFR o registro ad hoc. Mientras que las propues ­
+tas derivadas de los informes APEA se integrarán en los planes de mejora de las organizaciones sanitarias. Los centros deben realizar un análisis del logro alcanzado con dichos planes, y sus resultados podrían difundirse entre profesionales y pacientes. 
+Esta orientación a la mejora continua debe realizarse de forma parale ­
+la a la implantación de una cultura proactiva de seguridad que sustituya a la todavía presente visión punitiva que frena los cambios y transformaciones que se identifican como necesarios para lograr un entorno más seguro para los pacientes. 
+INFORMES, ESTUDIOS E INVESTIGACIÓN 42                       
+                     
+                 
+                 
+                 
+                   
+                 
+                   
+                           
+                   
+                       
+                       
+                       
+             
+                       
+                     
+                   
+                     
+             
+               
+                   
+                       
+           Ideas clave para para el análisis 
+de los incidentes de seguridad del paciente con daño (eventos adversos) en el marco jurídico en España, 2019 
+1. Notificar los EA al Sistema de Notificación Autonómico. En este 
+sentido se recomienda continuar con los esfuerzos formativos y nor ­
+mativos al respecto a fin de incrementar la notificación y las posibi ­
+lidades de aprendizaje y mejora. 
+2. Garantizar que el Sistema de Notificación Autonómico	 cumple 
+los requisitos legales recomendados en el informe sobre El Esta ­
+blecimiento de un Sistema de Notificación y Registro de Inciden ­
+tes y Eventos Adversos en el Sector Sanitario: Aspectos Legales, 
+MSCBS, 2009. Entre las recomendaciones más importantes está la 
+anonimización de la información a los 15 días de la notificación. 
+3. Analizar los EA en el marco de una comisión clínica o UFGR, bien 
+regulada en la estructura autonómica, que permita cumplir con los 
+requisitos de la Ley de Autonomía del Paciente y la Ley de Pro­
+tección de Datos en relación con el uso de información clínica por 
+parte de profesionales que no estén al cargo de la asistencia directa 
+al paciente. 
+4. Los informes de APEA serán material interno de trabajo de la Co-
+misión/Unidad Clínica que lo analiza (Comisión de Calidad/Seguri ­
+dad del Paciente). Las actas o registros de las comisiones clínicas o 
+UFGR recogerán las mejoras derivadas del análisis de los EA, las 
+cuales se elevarán a la Dirección de las organizaciones sanitarias 
+para evaluarlas y articular su implementación en el contexto de la 
+organización. Se recomienda encarecidamente a las organizaciones 
+sanitarias que establezcan una monitorización periódica del proceso 
+de implementación de los informes de mejora derivados de los in­
+formes del APEA con la finalidad de reducir la probabilidad de la 
+ocurrencia de nuevos EA en la organización. 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 43   
+   
+        
+     
+ 
+ 
+ 
+    
+      
+  
+     
+     
+ 
+      
+    Figura resumen 
+PROCEDIMIENTO DE ANÁLISIS EN PROFUNDIDAD DE UN EVENTO ADVERSO 
+Sistema de 
+notificación y 
+aprendizaje • Notificación del incidente de seguridad del paciente al sistema de 
+notificación y aprendizaje del servicio de salud 
+• Proceder a la anonimización de las notificaciones del sistema a los 15 días 
+de su recepción, en cuanto a datos de identificación personal se refiere. 
+Estructura Funcional 
+de Calidad y 
+Seguridad del 
+Paciente de la 
+Organización 
+Sanitaria • Realizar el análisis en profundidad del incidente de seguridad del paciente con daño (Evento 
+Adverso, EA). 
+• Proceder a la anonimización del informe final en cuanto a datos de identificación personal se 
+refiere. 
+• Elaboración de un Informe de propuestas de mejora para la organización sanitaria. 
+Organización 
+Sanitaria • Incluir  las propuestas en el plan de calidad de la organización. 
+• Realizar una monitorización de la implementación de mejoras para reducir la probabilidad de 
+nueva ocurrencia de un EA. 
+• Ante requerimiento judicial, remitir el plan de mejora elaborado a partir del informe de 
+análisis en profundidad del EA. 
+   
+     
+                             
+     
+                               
+     
+                         
+               Plan de acciones futuras 
+Objetivo del Plan de acción 
+• Diseñar y desarrollar un plan de acción a corto, medio y largo plazo 
+para impulsar una propuesta de reforma legislativa en España so­
+bre seguridad del paciente. 
+Productos esperados 
+• Plan de acción, a corto, medio y largo plazo, que sirva de base para 
+la propuesta de desarrollo de un marco legal apropiado en seguri ­
+dad del paciente en España, que integre la normativa nacional vi­gente en este ámbito. 
+1. Solicitud al Comité de Bioética de España para que emita su 
+opinión sobre los fundamentos para promover políticas de segu -
+INFORMES, ESTUDIOS E INVESTIGACIÓN 44         
+                   
+                   
+                     
+             
+                             
+                         
+                   ridad del paciente en España que permitan un marco de seguri ­
+dad jurídica para los profesionales que participan en sistemas de 
+notificación de incidentes de seguridad. 
+2. Realizar una propuesta normativa para garantizar el aprendizaje 
+y mejora del Sistema Nacional de Salud en España elaborando 
+una propuesta de Ley de Seguridad del Paciente, al amparo de 
+los derechos fundamentales consagrados en la Constitución es­
+pañola de 1978 a la vida y a la integridad física y moral (art. 15 
+CE). 
+3.  Considerar la modificación del art. 417 de la LeCrim en relación 
+con incorporar a los profesionales que participan en el análisis de eventos adversos o incidentes de seguridad del paciente con daño, como colectivo exento de la obligación de declarar como 
+testigos en procedimientos judiciales de eventos adversos que han analizado. 
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 45    Anexo 1: Glosario de términos
+ 
+ACR: Análisis Causa-Raíz.
+ 
+AEMPS:    Agencia Española del Medicamento y Productos Sanitarios.
+ 
+APEA:    Análisis en Profundidad de Eventos Adversos Graves. 
+CISP:	 	Clasificación 	Internacional	  de	 Seguridad	  del	 Paciente. 
+EA:	 Evento	  	Adverso. 	Incidente 	de	 Seguridad	  del	 Paciente	  con	 Daño	  
+para el paciente. 
+ISP:	 	Incidente	  de	 Seguridad	  del	 Paciente. 
+LeCrim:   Ley de Enjuiciamiento Criminal.  
+MS:  Ministerio de Sanidad.  
+OMS:	 Organización	  	Mundial 	de	 la	 Salud. 
+UFGR:	 	Se	 entiende 	como	  tal	 la	 comisión 	 de	 calidad	 y	 seguridad 	 del	 pa
+ciente	  o	 comisión	  ad 	hoc	 del	 centro	  o	 unidad	  funcional	  de	 gestión	  
+de riesgos o unidad de calidad y seguridad del paciente o a la 
+red de referentes de seguridad del paciente de servicios/unidades/ equipos, 	con 	nombramiento	  en 	vigor,	  según	  se	 haya	  desarrollado	  
+en	 cada	  institución 	sanitaria 	o 	servicio 	regional	  de	 salud. 
+SNASP:	 	Sistema 	de 	Notificación 	y	 Aprendizaje	  para	  la	 Seguridad	  del	 Pa
+ciente. 
+SiNAPS: 		 Sistema	 	  de	 Notificación	  y	 Aprendizaje	  para	  la	 Seguridad	  del	 Pa
+ciente del Ministerio de Sanidad. ­
+­
+­
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 47  Tabla descriptiva básica sobre conceptos clave de la Taxonomía de CISP de la OMS 
+Agente: sustancia, un objeto o un sistema que actúa para producir cambios. 
+Análisis Causa-Raíz (ACR): Análisis en profundidad: proceso sistemático e iterativo mediante el cual 
+se identifican. 
+Atención sanitaria: servicios que reciben las personas o las comunidades para promover, mantener, 
+vigilar o restablecer su salud. 
+Circunstancia: es una situación o un factor que puede influir en un evento, un agente o una o varias 
+personas. Condición latente: Aspecto no tenido en cuenta durante la planificación de una actividad o un proce
+so. Son fallos inadvertidos del sistema. 
+Cuasi-incidente: es un incidente que no alcanza al paciente (por ejemplo, se conecta una unidad 
+de sangre a la vía de infusión intravenosa del paciente equivocado, pero se detecta el error antes de comenzar la infusión). 
+Daño: la alteración estructural o funcional del organismo y/o todo efecto perjudicial derivado de ella. 
+Los daños comprenden las enfermedades, las lesiones, los sufrimientos, las discapacidades y la muerte, y pueden ser físicos, sociales o psicológicos. 
+Daño asociado a la atención sanitaria: daño que deriva de los planes o medidas adoptados durante 
+la prestación de atención sanitaria o que se asocia a ellos, no el que se debe a una enfermedad o lesión subyacente. 
+Efecto secundario: es un efecto conocido, distinto del deseado primordialmente y relacionado con las 
+propiedades farmacológicas de un medicamento, como la aparición de náuseas tras la administración de morfina para aliviar el dolor. 
+Error: hecho de no llevar a cabo una acción prevista según se pretendía o de aplicar un plan incorrecto. 
+Los errores pueden manifestarse al hacer algo erróneo (error de comisión) o al no hacer lo correcto (error por omisión), ya sea en la fase de planificación o en la de ejecución. 
+Evento: algo que le ocurre a un paciente o que le atañe. Evento centinela: Incidente o suceso inexplicado que produce la muerte o serias secuelas físicas o 
+psicológicas, o el riesgo de éstas. 
+Factor contribuyente: circunstancia, acción o influencia (por ejemplo, una mala distribución de los 
+turnos o una mala asignación de tareas) que se considera que ha desempeñado un papel en el origen o la evolución de un incidente o que ha aumentado el riesgo de que se produzca un incidente. 
+ Incidente: evento o circunstancia que podría haber ocasionado u ocasionó un daño innecesario a un 
+paciente. Un incidente puede ser un cuasi-incidente, un incidente sin daños o un incidente con daños (evento adverso). 
+Incidente con daños (evento adverso): incidente que causa daño al paciente (por ejemplo, se infunde 
+la unidad de sangre errónea y el paciente muere de una reacción hemolítica). 
+Incidente sin daño: aquel en el que un evento alcanza al paciente, pero no le causa ningún daño apre
+ciable (por ejemplo, se infunde la mencionada unidad de sangre, pero no era incompatible). 
+Paciente: como la persona que recibe atención sanitaria. Se utiliza el término paciente en lugar de 
+cliente, residente o consumidor, si bien se admite que es posible que muchos receptores de atención sanitaria, como una embarazada sana o un niño al que se vacuna, no sean considerados pacientes o no se vean a sí mismos como tales. 
+Peligro: es una circunstancia, un agente o una acción que puede causar daño. 
+ Reacción adversa: un daño imprevisto derivado de un tratamiento justificado. Por ejemplo, una neu
+tropenia inesperada tras administrar un fármaco que no se sabía que pudiera tener este efecto es una reacción adversa. 
+Riesgo: probabilidad de que se produzca un incidente. Seguridad del paciente: es la reducción del riesgo de daños innecesarios hasta un mínimo aceptable, 
+el cual se refiere a las nociones colectivas de los conocimientos del momento, los recursos disponibles y el contexto en el que se prestaba la atención. ­
+­
+­
+­
+INFORMES, ESTUDIOS E INVESTIGACIÓN 48   Tabla 1. Normativas nacionales que afectan a la cultura de seguridad del pacien
+te (revisión octubre 2019) 
+Ley 14/1986, de 25 de abril, General de Sanidad. 
+Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y 
+obligaciones en materia de información y documentación clínica. 
+Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud. Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal. Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal. Código de Deontología Médica. Guía de Ética Médica. Junio 2011. Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo 
+a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos). 
+ Tabla 2. Normativas autonómicas relacionadas con la seguridad del paciente 
+(revisión octubre 2019) 
+ Comunidad 
+Autónoma 
+Asturias 
+Cantabria 
+Cataluña Madrid 
+C. Foral de Navarra Norma/Instrucción 
+Decreto 55/2014, de 28 de mayo, por el que se regula la autorización de 
+centros y servicios sanitarios. 
+Orden SAN/17/2011 de 19 de mayo, por la que se crean y se regulan los 
+Comités de Seguridad del Paciente y Gestión de Riesgos de la Comunidad Autónoma de Cantabria. 
+Decreto 151/2017 de 17 de Octubre, por el que se establecen los requisitos 
+y garantías técnico-sanitarias comunes de centros y servicios sanitarios y los procedimientos para su autorización y registro. 
+Decreto 134/2004, de 9 de septiembre, por el que se crea el Observatorio 
+Regional de Seguridad del Paciente de la Comunidad de Madrid, modificado por el Decreto 53/2017, de 9 de mayo (BOCM de 11 de mayo de 2017). 
+Resolución 125/2019, de 21 de febrero, del Director Gerente del Servicio 
+Navarro de Salud-Osasunbidea, para garantizar la adecuada gestión de los eventos adversos graves que se producen como resultado no deseado de la asistencia sanitaria. Anexo 2: Regulaciones jurídicas 
+vigentes (revisión octubre 2019)
+ 
+­
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 49   Tabla 2. Continuación 
+ Comunidad 
+Autónoma Norma/Instrucción 
+Instrucción 3/2017/71271, normalización de las funciones de calidad asisten
+C. Valenciana cial y seguridad del paciente de los departamentos/centros de la Consellería 
+de Sanidad Universal y Salud Pública. 
+País Vasco Instrucción 2/2018 de 21 de febrero, de la Dirección General de Osakidetza para la adecuada notificación y análisis, de los eventos centinela, así como otros eventos adversos y brotes epidémicos o alertas epidemiológicas en el ámbito de Osakidetza. 
+Decreto 78/2016, de 17 de mayo, sobre medidas de seguridad de pacientes 
+que reciban asistencia sanitaria en los centros y servicios sanitarios ubicados en Euskadi. ­
+INFORMES, ESTUDIOS E INVESTIGACIÓN 50  Anexo 3: Relación de sistemas 
+de notificación y aprendizaje 
+para la seguridad del paciente 
+(SNASP) del Sistema Nacional de Salud en España 
+Comunidad Autónoma Denominación del SNASP 
+Andalucía Sistema de Gestión de Incidentes de Seguridad (SGIS) 
+Aragón Sistema de Notificación y Aprendizaje para la Seguridad del Paciente 
+SiNASP 
+Principado de Asturias SiNASP 
+Illes Balears NOTIFIC 
+Canarias SiNASP 
+Cantabria SiNASP 
+Castilla y León Sistema de notificación de incidentes sin daño (SISNOT) 
+Castilla-La Mancha SiNASP 
+Cataluña Plataforma para la gestión de la seguridad del paciente (TPS-CLOUD) 
+Comunidad Valenciana Sistema de notificación de incidentes y eventos adversos (SINEA) 
+Extremadura SiNASP 
+Galicia SiNASP 
+Comunicación (notificación y aprendizaje) de Incidentes de Seguri
+Comunidad de Madrid dad sin daño y Errores de Medicación de la Comunidad de Madrid 
+(CISEMadrid) 
+Región de Murcia SiNASP 
+Comunidad Foral de Navarra SiNASP 
+País Vasco Sistema de notificación y aprendizaje en seguridad del paciente (SNASP) 
+La Rioja SiNASP 
+Ciudad Autónoma de Ceuta SiNASP 
+Ciudad Autónoma de Melilla SiNASP ­
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 51  Agenda, 4 octubre 2019. Sede Ministerio de Sanidad. 
+9’30 h. Bienvenida y presentación del alcance del objetivo de la reunión. 
+ 9’45 h. Bloque 1 de preguntas: 
+¿Qué se notifica en los sistemas de notificación y aprendizaje para la seguridad del paciente? 
+¿En qué casos es imprescindible realizar un análisis en profundidad un de un incidente de seguridad con daño y en qué casos es recomendable? ¿Qué debe y qué no debe incluir? ¿Quién debería (perfiles profesionales) participar en este análisis? ¿Cuál debiera ser el papel de las estructuras funcionales de calidad y seguridad del paciente (UFGR) de las organizaciones sanitarias en la supervisión y aprobación de los informes? ¿La autorización de cesión de datos en el ingreso aplica sin restricciones para obtener la información con la que realizar este tipo de análisis? 
+ 11’00 h. Bloque 2 de preguntas: 
+¿Qué contenido mínimo debería incluir un informe de resultado del análisis en profundidad de un incidente de seguridad con daño? ¿En qué plazo temporal debería estar ultimado? ¿Cómo se debería asegurar que las propuestas de mejora se llevan a cabo? ¿En qué casos debe informarse al paciente o a sus familiares del resultado del análisis del incidente? 
+ 12’15 h. Bloque 3 de preguntas: 
+¿Qué cambios normativos son necesarios para establecer un marco de seguridad jurídica para quienes notifican y participan en el análisis en profundidad de las causas de un incidente de seguridad con daño? ¿Cómo y por quién debería custodiarse este tipo de informes? ¿Qué difusión es recomendable que tengan los informes y quién debe difundir estos resultados, incluidas las medidas para evitar nuevos incidentes similares? 
+ 14’00 h. Cierre, resumen de conclusiones. Anexo 4: Agenda de la reunión
+ 
+­
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 53  RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO 55 Apellidos y nombre Cargo Organización 
+Agra Varela, Yolanda Subdirectora de Calidad e Inno
+vación Ministerio de Sanidad 
+Aibar Remón, Carlos Jefe de Servicio de Medicina Pre Hospital Clínico Universitario de 
+ventiva y Salud Pública. Profesor Universidad de Zaragoza Zaragoza 
+Aranaz Andrés, Jesús María Jefe de Servicio de Medicina Hospital Universitario Ramón y 
+Preventiva y Salud Pública. Real Academia de Medicina de Valencia Cajal de Madrid 
+Astier Peña, María Pilar Grupo de Seguridad del Paciente SECA/FECA** 
+Bueno Domínguez, María José Grupo de Seguridad del Paciente SECA/FECA** 
+Carrillo Murcia, Irene Grupo de Seguridad del Paciente SECA/FECA** 
+De Montalvo Jääskeläinen, Fe Presidente Comité de Bioética de España 
+derico 
+Fernández Herreruela, Carlos Director SHAM Aseguradora Médica 
+García Bergón, Mónica Asesora SHAM Aseguradora Médica 
+Garrote Díaz, Juan Manuel Secretario Organización Médica Colegial 
+Mira Solves, José Joaquín Grupo de Seguridad del Paciente SECA/FECA** 
+Moreno Campoy, Elvira Eva M.C.I.S.P .* C.A. Andalucía 
+Oliva Oliva, Gloria M.C.I.S.P .* C.A. Cataluña 
+Pardo Hernández, Alberto M.C.I.S.P .* C.A. Madrid 
+Peiró Callizo, Enrique M.C.I.S.P .* C.A. País Vasco 
+Pérez Boillos, María José M.C.I.S.P .* C.A. Castilla y León 
+Pérez Pérez, Pastora Grupo de Seguridad del Paciente SECA/FECA** 
+Prieto Santos, Nuria Coordinadora Técnica Seguridad 
+del Paciente Ministerio de Sanidad 
+Romeo Casabona, Carlos María Catedrático de Derecho Penal Universidad de Deusto, Bilbao 
+Santiñá Vila, Manel Presidente SECA/FECA** 
+Silvestre Busto, Carmen M.C.I.S.P .* C. Foral de Navarra 
+Urruela Mora, Asier Profesor de Derecho Penal Universidad de Zaragoza 
+ **  M.C.I.S.P .: Miembro del Comité Institucional de la Estrategia de Seguridad del Paciente del Sistema 
+Nacional de Salud 
+ **  SECA/FECA: Sociedad Española de Calidad Asistencial/Fundación Española para la Calidad Asis
+tencial. Anexo 5: Participantes del  
+grupo de trabajo 
+­
+­
+­
+­
+­Listado de verificación de recomendaciones, en la aplicación 
+del marco jurídico actual en España, para la realización del informe 
+del Análisis en Profundidad de un Evento Adverso (APEA) 
+en centros sanitarios:
+La finalidad de este listado de verificación es identificar las áreas de mejora 
+para responder a las recomendaciones legales de los análisis en profundidad de los incidentes de seguridad del paciente (ISP) con daño o eventos adver -
+sos (EA). Por ello, su aplicación debe ser periódica detectando deficiencias y reconociendo logros. 
+Recomendaciones 
+El centro dispone de un procedimiento actualizado para el análisis de los ISP 
+con daño o EA, que incluye cómo trasladar al plan de calidad de la institución y cómo monitorizar los informes de mejora planteados tras el APEA.
+El centro dispone de un informe periódico de las notificaciones de los profe -
+sionales al Sistema de Notificación y Aprendizaje, o sistemas similares, según 
+regulación autonómica.
+La institución, o en su caso la comunidad autónoma, realiza una comprobación 
+periódicamente del uso y funcionamiento adecuado del sistema de notifica -
+ción para promover una óptima calidad asistencial.
+La institución dispone de un procedimiento para informar a los pacientes (y 
+en su caso familiares), tras un EA, de una forma adecuada y respetuosa, de acuerdo con la normativa vigente y los códigos éticos profesionales existentes.
+La institución, o en su caso la comunidad autónoma, de la que depende el 
+sistema de notificación, dispone de un procedimiento actualizado por el que se anonimizan las notificaciones en un plazo máximo de 15 días en el sistema de notificación y aprendizaje en cuanto a la identidad de la persona notificante y el resto de las personas implicadas en los EA.
+RECOMENDACIONES PARA EL ANÁLISIS DE LOS INCIDENTES DE SEGURIDAD DEL PACIENTE CON DAÑO  57Recomendaciones 
+El profesional gestor local (o en su caso autonómico) del sistema de notifica-
+ción es miembro de la comisión de calidad y seguridad del paciente o unidad funcional de gestión de riesgos o red de responsables de seguridad del pa -
+ciente o comisión “ad hoc” (genéricamente UFGR) que va a analizar los EA. 
+Cuenta con nombramiento en vigor por el equipo directivo, según la organiza -
+ción estructural y funcional de calidad y seguridad del paciente de las organi -
+zaciones sanitarias.
+Los EA con daño se analizan en la UFGR según la organización estructural y 
+funcional de calidad y seguridad del paciente de la organización sanitaria. Se 
+recomienda su elaboración en un plazo no superior a 30 días.
+Los resultados de los informes de los APEA son recogidos en el acta de la 
+reunión de UFGR o en los documentos de registro establecidos por las organi -
+zaciones sanitarias en función de su estructura funcional de seguridad del pa -
+ciente. En todo caso, guardará el informe del APEA anonimizado en el registro 
+de la documentación de la reunión.
+Una persona del equipo de dirección pertenece a la organización estructural 
+y funcional de calidad y seguridad del paciente con nombramiento en vigor. Esta persona será la encargada de incorporar las mejoras identificadas en el informe de mejoras del APEA en el plan de calidad de la organización sanitaria.
+Las mejoras propuestas tras el APEA están incluidas en el plan de calidad de 
+la organización. 
+Se realiza el seguimiento de las acciones propuestas según cronograma esta -
+blecido para su implementación y se cierran al final del periodo establecido del 
+plan global de calidad de la organización.
+Las organizaciones sanitarias tendrán establecidos los criterios para remitir a 
+otros servicios, como los servicios jurídicos de la organización, el informe de mejoras del APEA.
+58 INFORMES, ESTUDIOS E INVESTIGACIÓNGOBIERNO MINISTERIO 
+DE ESPAÑA DE SANIDAD 
+Sociedad Española
+de Calidad Asistencial Fundación Española
+de Calidad Asistencial 

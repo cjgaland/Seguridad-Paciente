@@ -329,3 +329,83 @@ body {
         left: 10px;
     }
 }
+
+/* Aviso de origen de los datos (almacen.js) */
+.aviso-almacen {
+    margin: 6px 0 12px;
+    padding: 8px 12px;
+    border-left: 4px solid #0b7a3e;
+    background: #eef7f1;
+    color: #1f3d2b;
+    font-size: 0.9rem;
+    border-radius: 6px;
+}
+.aviso-almacen:empty { display: none; }
+
+/* Cabecera: los logos ya no desbordan la pantalla (v2.0.0) */
+.sp-header { gap: 14px; }
+.sp-header-left, .sp-header-right { width: auto; flex: 0 1 auto; min-width: 0; }
+.sp-logo, .sp-logo-right { max-width: 100%; object-fit: contain; }
+.sp-title { min-width: 0; }
+@media (max-width: 600px) {
+    .sp-header { padding: 8px 12px; gap: 8px; flex-wrap: wrap; }
+    .sp-header-left, .sp-header-right { flex: 0 1 44%; }
+    .sp-header-left { justify-content: flex-start; }
+    .sp-header-right { justify-content: flex-end; }
+    .sp-logo, .sp-logo-right { height: 34px; }
+    .sp-title { order: 3; flex: 1 1 100%; font-size: 1.05rem; }
+}
+@media (max-width: 600px) {
+    /* El botón de menú va dentro de la cabecera, junto a los logos, sin tapar el contenido */
+    .sp-header .menu-toggle { position: static; flex: 0 0 auto; padding: 7px 11px; font-size: 1.05rem; }
+    .sp-header .menu-toggle ~ .sp-header-left,
+    .sp-header .menu-toggle ~ .sp-header-right { flex: 0 1 38%; }
+}
+
+/* Contraste AA: texto oscuro sobre el ámbar corporativo (antes blanco, ilegible) */
+.btn-home, .menu-toggle { color: #3a2a00 !important; }
+.btn-home:hover { background: #e39a1c; }
+
+/* =========================================================
+   ORDENADOR: LA PÁGINA NO SE DESPLAZA (v2.1.0)
+   La cabecera queda fija y, si el contenido no cabe, se desplaza
+   solo la caja de contenido (o el menú lateral), nunca la página.
+   En móvil y tableta estrecha se mantiene el desplazamiento normal.
+   ========================================================= */
+@media (min-width: 901px) {
+    html, body { height: 100%; }
+    body { display: flex; flex-direction: column; overflow: hidden; }
+    body > .sp-header, body > .sp-footer { flex: 0 0 auto; }
+    body > .sp-footer { margin-top: 0; padding: 8px 20px; }
+
+    body > .sp-main {
+        flex: 1 1 auto; min-height: 0; overflow: auto;
+        width: 100%; max-width: none; margin: 0; box-sizing: border-box;
+        padding-block: 20px;
+        padding-inline: max(24px, calc((100% - 1240px) / 2));
+    }
+    body > .sp-layout { flex: 1 1 auto; min-height: 0; }
+    .sp-layout > .sidebar,
+    .sp-layout > .main-content { min-height: 0; overflow: auto; }
+    .sp-layout > .main-content { min-width: 0; }
+}
+/* Portátil bajo (p. ej. 1280×720): cabecera y márgenes más compactos */
+@media (min-width: 901px) and (max-height: 800px) {
+    .sp-header { padding-block: 6px; }
+    .sp-logo { height: 44px; }
+    .sp-logo-right { height: 40px; }
+    .sp-title { font-size: 1.35rem; }
+    body > .sp-main { padding-block: 12px; }
+    .sp-layout > .main-content { padding: 14px 24px; }
+    .sp-layout > .sidebar { padding: 10px 12px; }
+}
+
+/* MÓVIL: nada se sale por el lateral */
+@media (max-width: 600px) {
+    body .mt-panel, body .traffic-light, body .sim-form-wrapper, body .player-input {
+        width: auto !important; max-width: 100% !important; box-sizing: border-box !important;
+    }
+    body .player-input { width: 100% !important; }
+    body #rankingTable { display: block; max-width: 100%; overflow-x: auto; }
+    body > .sp-main { padding-inline: 12px; box-sizing: border-box; max-width: 100%; }
+}

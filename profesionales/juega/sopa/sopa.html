@@ -25,9 +25,9 @@
 <body>
 
     <header class="sp-header">
-        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" alt="Estrategia para la Seguridad del Paciente" class="sp-logo">
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
-        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right">
     </header>
 
     <main class="sp-main">
@@ -56,7 +56,7 @@
         import { initSopa } from "./sopa.js";
         import { saveScore } from "../../../js/core/scores.js";
 
-        function saveScoreFirebase(nivel, puntos, tiempo) {
+        function guardarPuntuacion(nivel, puntos, tiempo) {
             const jugador = localStorage.getItem("jugador-sp") || "Anónimo";
             // Nivel: 'nivel1' (10x10) o 'nivel2' (15x15)
             return saveScore("sopa", nivel, jugador, puntos, tiempo);
@@ -64,9 +64,10 @@
 
         initSopa({
             root: document.getElementById("game-root"),
-            saveScoreFirebase
+            guardarPuntuacion
         });
     </script>
 
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
 </body>
 </html>

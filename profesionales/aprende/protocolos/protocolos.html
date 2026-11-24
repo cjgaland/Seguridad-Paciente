@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de protocolos y documentos · Aprende</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="../../../css/sidebar.css">
+    <link rel="stylesheet" href="protocolos.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body class="tool-page">
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú lateral"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+        <div class="sp-header-left"><img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo" alt="Estrategia para la Seguridad del Paciente"></div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right"><img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right" alt="Consejería de Sanidad, Presidencia y Emergencias"></div>
+    </header>
+
+    <div class="sp-layout">
+        <aside class="sidebar">
+            <div class="sidebar-header"><i class="fa-solid fa-graduation-cap"></i> <span>Zona de Aprendizaje</span></div>
+            <nav class="sidebar-nav" aria-label="Navegación">
+                <div class="sidebar-group">
+                    <div class="sidebar-label">Esta herramienta</div>
+                    <a href="protocolos.html" class="sidebar-btn sidebar-link" aria-current="page"><i class="fa-solid fa-book-open"></i> Buscador de protocolos</a>
+                </div>
+                <div class="sidebar-group sidebar-group-end">
+                    <a href="../aprende.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-arrow-left"></i> Volver a Aprende</a>
+                    <a href="../../../profesionales.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-user-doctor"></i> Volver a Profesionales</a>
+                    <a href="../../../index.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-house"></i> Volver al Inicio</a>
+                </div>
+            </nav>
+        </aside>
+
+        <main class="main-content pr-main">
+            <div class="top-bar">
+                <h2><i class="fa-solid fa-book-open" style="color:#2563eb;"></i> Buscador de protocolos y documentos</h2>
+                <a href="../aprende.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Salir</a>
+            </div>
+
+            <div class="pr-tabs" role="tablist" aria-label="Secciones">
+                <button type="button" role="tab" id="tab-buscar" class="pr-tab" aria-selected="true" aria-controls="panel-buscar"><i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i> Buscar en documentos</button>
+                <button type="button" role="tab" id="tab-faq" class="pr-tab" aria-selected="false" aria-controls="panel-faq" tabindex="-1"><i class="fa-solid fa-circle-question" aria-hidden="true"></i> Preguntas frecuentes</button>
+            </div>
+
+            <!-- PESTAÑA BUSCADOR -->
+            <section id="panel-buscar" class="pr-panel" role="tabpanel" aria-labelledby="tab-buscar">
+                <div id="aviso-servidor" class="pr-aviso-servidor" role="alert" hidden>
+                    <i class="fa-solid fa-circle-info" aria-hidden="true"></i>
+                    <div>
+                        <strong>La búsqueda dentro de los documentos necesita un servidor web.</strong>
+                        Parece que ha abierto este archivo directamente desde su ordenador, y el navegador no permite leer los documentos así.
+                        Ábralo desde la dirección web de la aplicación o, si trabaja en local, desde un servidor sencillo (por ejemplo, ejecutando <code>python3 -m http.server</code> en la carpeta de la aplicación).
+                        Mientras tanto puede consultar el listado de documentos y las preguntas frecuentes.
+                    </div>
+                </div>
+
+                <div class="pr-grid">
+                    <section class="pr-docs" aria-label="Documentos disponibles">
+                        <div class="pr-docs-cab">
+                            <div class="pr-label" id="lbl-org">Organismo</div>
+                            <div class="pr-orgs" id="orgs" role="group" aria-labelledby="lbl-org"></div>
+                        </div>
+                        <ul id="lista-docs" class="pr-lista-docs"></ul>
+                    </section>
+
+                    <section class="pr-busq" aria-label="Búsqueda">
+                        <label for="q" class="pr-label">Buscar palabras en los documentos</label>
+                        <div class="pr-caja-busq">
+                            <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+                            <input type="search" id="q" placeholder="Ej.: higiene de manos, identificación, conciliación..." autocomplete="off">
+                        </div>
+                        <div class="pr-estado" id="estado" aria-live="polite"></div>
+                        <div id="resultados" class="pr-resultados" tabindex="0" aria-label="Resultados de la búsqueda"></div>
+                    </section>
+                </div>
+            </section>
+
+            <!-- PESTAÑA FAQ -->
+            <section id="panel-faq" class="pr-panel" role="tabpanel" aria-labelledby="tab-faq" hidden>
+                <div class="pr-faq-cab">
+                    <span class="pr-label" id="lbl-temas">Tema</span>
+                    <div class="pr-orgs" id="temas" role="group" aria-labelledby="lbl-temas"></div>
+                </div>
+                <div id="faq-lista" class="pr-faq-lista"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="../../../js/sidebar.js"></script>
+    <script src="protocolos_data.js"></script>
+    <script src="protocolos.js"></script>
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
+</body>
+</html>

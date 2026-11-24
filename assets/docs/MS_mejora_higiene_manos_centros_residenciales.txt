@@ -1,0 +1,1029 @@
+EN EL MARCO DE:  | Estrategia de Seguridad del Paciente del Sistema Nacional de Salud  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INFORMES, ESTUDIOS E INVESTIGACI ÓN 202 4.  
+ MINISTERIO DE SANIDAD. 2024  
+En el marco de la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud  PROGRAMA 
+PRINCESS   
+PROGRAMA PARA  LA PREVENCIÓN DE 
+INFECCIONES EN CENTROS RESIDENCIALES 
+DIRIGIDOS A PERSONAS MAYORES DE SERVICIOS 
+SOCIALES  
+ 
+ 
+PROGRAMA PARA LA MEJORA DE HIGI ENE 
+DE MANOS EN CENTROS RESIDENCIALES 
+DIRIGIDOS A PERSONAS MAYORES  
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+2 
+ 
+ 
+Coordinación técnica y redacción  
+Subdirección General de Calidad Asistencial. Dirección General de Salud Pública y Equidad en 
+Salud del Ministerio de Sanidad.  
+Nuria Prieto Santos. Subdirectora adjunta. Subdirección General de Calidad Asistencial.  
+Rebeca Padilla Peinado. Coordinadora téc nica de la Estrategia de Seguridad del Paciente del 
+Sistema Nacional de Salud.  
+Itamar Yepes Crespillo. Técnica superior de sanidad. Seguridad del Paciente.  
+Comité Técnico Institucional  
+Andalucía  
+Paloma Trillo López  
+Elvira Eva Moreno Campoy  
+Elena Corpas Nogales  
+ 
+Aragón  
+Mabel Cano del  Pozo  
+ 
+Asturias  
+María Belén  Suárez Mier  
+Jesus Vicente García González  
+ 
+Cantabria  
+José Luis Teja Barbero  
+María Oro Fernandez  
+ 
+Castilla - La Manch a 
+Sonia Cercenado Sorando  
+Félix Alcázar Casanova  
+ 
+Castilla y León  
+Tomas Maté Enríquez  
+ 
+Cataluña  
+Glòria Oliva Oliva  
+Laura Navarro Vila  
+Roser Bosser Giralt  
+ 
+Ceuta y Melilla (INGESA)  
+María Antonia Blanco Galán  
+Javier de la Vega (Melilla)  
+Julián Domínguez (Ceuta)  
+ 
+Comunidad Valenciana  
+María José Merino Plaza  
+Maria José Avilés Martínez  
+ 
+           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+3 
+ 
+Extremadura  
+Manuel García Toro  
+ 
+Galicia  
+Olga Roca Bergantiños  
+Pilar Seco Maqueira  
+Isabel Losada Castillo  
+ 
+Islas Baleares  
+Marta Torres Juan  
+Isabel Maria Borras Rosselló  
+ 
+Islas Canarias  
+Paloma García de Carlos  
+Nuria Bañón Morón  
+ 
+Madrid  
+Alberto Pardo Hernández  
+Cristina Navarro Royo  
+Francisca García -Lizana  
+ 
+Murcia  
+Jose Eduardo Calle Urra  
+ 
+Navarra  
+Aránzazu Elizondo Sotro  
+  
+La Rioja  
+Belén  Ruiz Nicolás  
+Pilar Sáenz  Ortiz  
+ 
+País Vasco  
+María Luisa Iruretagoyena Sánchez  
+Enrique Peiró Callizo  
+ 
+Agra decimientos :  
+Quisiéramos expresar nuestro sincero agradecimiento a todas las personas que han contribuido 
+a la elaboración y puesta en marcha de este programa  por su tiempo, esfuerzo y dedicación, 
+especialmente a los responsables de Servicios Sociales de las Comunidades Autónomas que han 
+participado en alguna de las fases de elaboración del documento.  
+También agradecer al Instituto de Mayores y Servicios Sociales (Ministerio de Derechos Sociales , 
+Consumo  y Agenda 2030), al Centro Nacional de Epidemiología (Instituto Carlos III, del Ministerio 
+de Ciencia, Innovación y Universidades) al Centro de Coordinación de Alertas y Emergencias 
+Sanitarias (Mi nisterio de Sanidad) y a la Agencia Española de Medicamentos y Productos 
+Sanitarios (Ministerio de Sanidad)  que han favorecido la red interinstitucional necesaria para 
+comenzar a trabajar en este programa.   
+ 
+           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAMA 
+PRINCESS   
+PROGRAMA PARA  LA PREVE NCIÓN DE 
+INFECCIONES EN CENTROS RESIDENCIALES 
+DIRIGIDOS A PERSONAS MAYORES DE 
+SERVICIOS SOCIALES  
+ 
+PROGRAMA PARA LA MEJORA DE 
+HIGI ENE DE MANOS EN CENTROS 
+RESIDENCIALES DIRIGIDOS A PERSONAS 
+MAYORES  
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+5 
+ 
+ 
+PROGRAMA PARA LA MEJORA DE LA HIGIENE DE MANOS 
+EN LOS CENTROS RESIDENCIALES DIRIGIDOS A 
+PERSONAS MAYORES  
+ 
+JUSTIFICACIÓN  
+Este documento pretende adaptar un programa que mejore la higiene de manos del 
+personal de los centros sanitarios con el fin de e vitar la transmisión cruzada de 
+microrganismos en los mismos .  
+ 
+DEFINICIONES DE INTER ÉS: 
+A continuación, se exponen una serie de conceptos básico s referidos en el Censo de Centros 
+Residenciales de Servicios Sociales en España: situación año 2022 (1), publicado en 2024 por el 
+Instituto de Mayores y Servicios Sociales (IMSERSO) del Ministerio de Derechos Sociales, 
+Consumo y Agenda 2030 , necesarios para comprender el alcance de este documento.  
+Se entiende por centro residencial  los establecimientos destinados al alojamiento temporal o 
+permanente, con servicios y programas de intervención adecuados a las necesidades de las 
+personas objeto de atención, dirigidos a la consecución de una mejor calidad de vida y a la 
+promoción de la autonomía personal, en este caso dirigidos de manera concreta a las personas 
+mayores y personas con discapacidad. Este documento se centra en los centros d irigidos a las 
+personas mayores, aunque más adelante pueda ser adaptado a otros centr os. 
+Se excluyen aquellas instalaciones que se consideran viviendas, que engloban las 
+viviendas tuteladas, los apartamentos residenciales y los acogimientos familiares, donde 
+las personas viven de forma independiente en sus propios apartamentos o habitacion es 
+y tienen acceso a asistencia de forma habitual, por ejemplo, con mantenimiento del 
+hogar, con actividades diarias o el cuidado personal.  
+Las plazas ofrecidas por los centros pueden ser, bien de tipo permanente o bien de tipo 
+temporal, en este último caso la persona  residente ingresa de forma transitoria, principalmente 
+debido a enfermedades y sale del centro una vez recuperada la salud o re suelta la circunstancia 
+que le generó e l ingreso en el centro residencial.  
+Se define persona residente  como aquella que tiene concedida una plaza en uno de los centros 
+mencionados anteriormente.  
+Se entiende como servicio de atención residencial  el conjunt o de servicios destinados a 
+proporcionar alojamiento, temporal o permanente según los casos, a las personas y familias que 
+carecen de este recurso básico, o que por necesidades especiales se considere adecuado su 
+alojamiento en diferentes tipos de equipami entos que ofrecen una atención personalizada y 
+continuada. Con carácter general incluyen una atención integral a los colectivos sociales a los 
+que va dirigido.            Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+6 
+ 
+También es importante aclarar conceptos relacionados con el personal de estos centros. La ratio  
+de personal por residente  hace referencia al personal que trabaja en el centro residencial 
+dividido entre el número de residentes de dicho centro. Se analizan las ratios en función del 
+nivel de atención del personal (Ad1N, AD2N e indirecta) y del tipo de jornada del trabajador.  
+Personal de  atención directa de primer nivel (Ad1N),  es el personal técnico cuidador, auxiliar o 
+gerocultor, según se denomine en cada territorio y/o sector.  
+Personal de atención directa de segundo nivel (Ad2N) : es el personal profe sional generalmente 
+de las ramas sanitaria y social que cuenta con titulación de grado universitario o equivalente.  
+Personal de atención indirecta (AI)  es el resto del personal del centro dedicado a todo tipo de 
+procesos y tareas de soporte necesarios para  el correcto funcionamiento del centro. Comprende 
+personal de limpieza, cocina, lavandería, transporte, mantenimiento, etc., así como los servicios 
+administrativos necesarios.  
+Los requisitos mínimos para la acreditación de los centros  residenciales se recogen en el 
+Acuerdo sobre Criterios comunes de acreditación y calidad de los centros y servicios del 
+Sistema para la Autonomía y Atención a la Dependencia (SAAD)  (2).  
+Además,  es necesario definir, de acuerdo a lo establecido por la Red Nacional de Vigilancia 
+Epidemiológica (RENAVE) , que hablamos de infecciones relacionadas con la asistencia sanitaria 
+(IRAS)  para referirnos a aquellas infecciones que la persona residente puede contraer como 
+consecuencia de la asistencia o atención recibi da en un centro asistencial (3).  
+Estas infecciones son un importante problema de Salud Pública en España, Europa y a nivel 
+mundial. Provocan un aumento de las estancias hospitalarias, discapacidad a largo plazo, mayor 
+resistencia de los microorganismos a l os antimicrobianos, costes adicionales tanto para el propio 
+paciente como para el sistema sanitario, y muertes innecesarias. La prevención y control de 
+estas infecciones constituyen una línea de actuación prioritaria de las estrategias de seguridad 
+del pac iente.  
+Una vía  de transmisión importante y frecuente de las IRAS es por contacto indirecto, mediante 
+material clínico o superficies contaminadas, manos contaminadas que no han sido lavadas o 
+guantes contaminados que no han sido retirados (3).  
+Hasta un 20 o  30 % de las IRAS son prevenibles mediante programas de control de la infección 
+e higiene y los sistemas de vigilancia son una importante herramienta en la consecución  de este 
+objetivo (3).  
+ 
+ANÁLISIS DE SITUACIÓN : 
+En España, la evolución demográfica y social muestra un progresivo envejecimiento poblacional  
+que, consecuentemente, origina un incremento de la población en situación de dependencia.  
+De acuerdo con el Instituto Nacional de Estadística, España es uno de lo s países con una mayor 
+proporción de personas mayores, con una proyección de ciudadanos de 65 años o más del 26,5% 
+del total de la población, para 2035 ( 4). 
+No sólo se incrementa el número de personas mayores, sino que también se incrementa el 
+número de añ os que vivimos las personas, muchas veces acompañado de una disminución en la 
+autonomía personal que nos aboca al uso de los distintos recursos sociales disponibles: atención           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+7 
+ 
+domiciliaria, centros de día, centros de atención residencial, etc. Por ello los servicios sociales 
+especializados se convierten en un pilar fundamental para garantizar la calidad de vida de las 
+personas más vulnerables (1).  
+De acuerdo con el Censo  de Centros Residenciales de Servicios Sociales  (1), en 2022, España 
+cuenta con 381.514 plazas distribuidas entre  5.188 centros residenciales dirigidos a personas 
+mayores. El 75% de estos centros residenciales son de titularidad privada, frente al 25% de 
+titularidad pública , siendo el 14% de titularidad y gestión pública.  
+En el ámbito de las  personas mayores, el 63% de los centros acumulan un tercio de las plazas 
+del sistema y tienen un tamaño inferior o igual a 75 plazas . La mitad de los centros de personas 
+mayores ofrece servicios de proximidad (51,6%) y de estos, un 39% ofrece el servicio de Centro 
+de día . 
+En relación con las habitaciones son más comunes las de uso doble (55,6%). Las de uso individual 
+suponen un 43,2% mientras que las de uso triple o superior solo suponen el 1,2%.  
+En cuanto al  perfil de los residentes, en los centros de personas mayores el 70% de las personas 
+que residen son mujeres  y el 75% tienen 80 o más años.  
+Los trabajadores de los centros de personas mayores pertenecen principalmente a las plantillas 
+de los centros  (más del 95% ) y son principalmente mujeres  (más del 86% ) estando en  torno al 
+70% de los trabajadores contratados a jornada completa. Los trabajadores de primer nivel de 
+atención directa (AdN1) suponen el 57,3% de la plantilla y los de segundo nivel de atención 
+directa (AdN2) el 19%.  
+En relación con las infecciones relacionadas con la asistencia , de acuerdo con la Sociedad 
+Española de Medicina Preventiva, Salud Pública y Gestión Sanitaria, sociedad científica que 
+promueve el Estudio de Prevalencia de Infecciones  Nosocomiales en España (EPINE), causan 
+anualmente en España 7.414 muertes y originan unos costes directos de 2.025 millones de €.   
+Además, los datos de este estudio, en 2023, indican que la prevalencia de tener alguna infección 
+relacionada con la asistencia sanitaria en los pacientes hospitalizados de 70 años o más fue del 
+10,02%  (5). 
+A nivel europeo, la e ncuesta de prevalencia puntual de infecciones asociadas a la atención 
+sanitaria y uso de antimicrobianos en centros de atención a largo plazo eur opeos 2016 -2017  
+(HALT -3), realizada por el ECDC señala que u n 3,7% de los residentes  de los centros residenciales 
+de larga estancia de personas mayores presentaron al menos una infección relacionada con la 
+asistencia sanitaria, lo que supone unos 4,4 millo nes de episodios distintos de IRAS por año, 
+similar al número de episodios que se producen anualmente en los hospitales de agudos  (6). En 
+2023 se publicó el protocolo del ECDC para actualizar esta encuesta (HALT -4) (7).  
+ 
+Las personas residentes en centros residenciales de servicios sociales dirigidos a personas 
+mayores, presentan un alto riesgo de adquisición de infecciones, no sólo por su vulnerabilidad, 
+al ser en su mayoría, personas de edad av anzada, fragilidad y limita ción de la autonomía, sino 
+también por la mayor presencia de comorbilidades y polimedicación, donde existe un riesgo 
+mayor de aparición de efectos adversos e interacciones asociados a la prescripción de 
+antimicrobianos  y por las características propias de estos centros  (8). 
+ 
+Además, el uso frecuente de dispositivos externos y el hecho de que compartan zonas y 
+cuidadores comunes, facilitan la adquisición, desarrollo y diseminación cruzada de 
+microorganismos multirresistentes haciendo que la incidencia de inf ecciones por bacterias 
+multirresistentes, aunque variable, sea elevada en estos centros  (8).            Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+8 
+ 
+Por todo lo anterior, desde la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud  
+(SNS)  (9) se considera relevante promover programas de prevención y control de infecciones en 
+al ámbito de los centros residenciales de servicios sociales  de personas mayores  y es en este 
+contexto en el que surge el presente documento.   
+ 
+OBJETIVOS Y MÉTODOS :  
+ 
+Objetivos principales:  
+- Optimizar el cumplimiento de la técnica de higiene de manos en los centros 
+residenciales de personas mayores.  
+- Mejorar la seguridad de los usuarios  y/o residentes de centros residenciales de 
+personas mayores.  
+- Contribuir a la reducc ión de las infecciones relacionadas con la asistencia sanitaria (IRAS) 
+en los centros sociosanitarios  
+Objetivos secundarios:  
+- Fomentar la cultura de seguridad entre trabajadores, usuarios y familiares de los 
+centros sociosanitarios a través de un programa de higiene de manos  
+- Conocer las principales barreras y los elementos facilitadores  para los trabajadores de 
+estos centros a la hora de realizar la higiene de manos  
+Metodología:  adaptación del programa multimodal de la O rganización Mundial de la Salud 
+(OMS)  de higiene de manos (10) al contexto de los centros residenciales de personas mayores 
+en España.  
+ADAPTACIÓN DEL PROGRAMA MULTIMODAL DE LA OMS 
+DE HIGIENE DE MANOS:  
+ 
+5 PILARES DE ACTUACIÓN  
+ 
+1. Infraestructuras y recursos:   
+Para poder llevar a cabo un programa de mejora de la higiene de manos es fundamental contar 
+con la existencia de infraestructuras y recursos adecuados, entre los cuales están:  
+- Dispensadores de productos de base alcohólica (PBA) individuales para los 
+trabajadores y de uso común para los familiares y residentes del centro. Es necesario 
+tener en cuenta las condiciones de seguridad, o necesidades de vigilancia particulares 
+que pueden tener determinadas unidades .  
+- Instalaciones adecuadas para el lavado de ma nos con agua, jabón y toallas de papel.  
+Medidas :            Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+9 
+ 
+• Disponer de  dispensadores de bolsillo  individuales para trabajadores  y de dispensadores 
+en carritos de curas o que puedan desplazar se de una habitación a otra.  
+• Disponer de  dispensadores fijos, distribuidos  de manera racional que permitan 
+mantener una higiene adecuada, a valoración del responsable del programa de Higiene 
+de manos del centro. S e deberá priorizar disponer de los mismos en aquellas 
+habitaciones donde se encuentren personas con patol ogías en curso, donde se lleven a 
+cabo procedimientos invasivos o de curas  y siempre que exista riesgo de contacto por 
+parte del personal con fluidos corporales del residente (orina, sangre…por ejemplo en 
+habitaciones donde el residente use pañal ). 
+• Dispone r de dispensadores en las zonas de trabajo específicas del staff de los centros 
+(donde preparan medicación, materiales, etc.).  
+• Garantizar que las habitaciones  y baños de zonas comunes  tengan lavabo con agua, 
+jabón y toallas de papel para el secado . 
+ 
+2. Forma ción y entrenamiento del personal:   
+Se realizará formación a directores de los centros (sólo una vez) y trabajadores (en el momento 
+de la incorporación y repetir periódicamente, al menos 1 vez al año) en higiene de manos , 
+siguiendo el modelo de los 5 momentos de la OMS adaptado a 4 momentos en los centros de 
+mayores (Anexo 1) (11), así como de la técnica correcta de realización en función de las 
+circunstancias (Anexo s 2, 6 y 7 ) (12, 13). Del mismo modo, se realizará formac ión también en la 
+observación de la correcta higiene de manos de forma independiente.  
+En relación con l os momentos de higiene de manos de los anexos  1 y 6 :  
+La rigidez para los momentos antes y después de tocar al paciente  en los anexos 1 y 6  será la 
+exigible según las condiciones de riesgo, y estará acordada por  el responsable de higiene de 
+manos del centro residencial con  el responsable de Higiene de manos de la estrategia de 
+seguridad del paciente de la CCAA  
+El formato que se seleccione para la formación debe adecuarse a la capacidad del centro para 
+llevarla a cabo, pudiendo ser online [*] o presencial  y según planifique el responsable del 
+Programa de Higiene de manos del centro .  
+[*] El Ministerio de Sanidad actualmente ofrece el siguiente curso de higiene de manos: 
+https://cursos.seguridaddelpaciente.es/login/index.php  (en proceso de adaptación al ámbito sociosanitario). Se 
+recomienda consultar los cursos disponibles en cada CC.AA.  
+ Medidas:   
+• Formación en: definición, impacto y carga de las IRAS  y principales pautas de 
+transmisión de las IRAS con especial hincapié en la transmisión a través de las manos.  
+• Por qué, cuándo y cómo realizar la higiene de manos de acuerdo a las directrices de la 
+OMS. Formación en el  correcto uso de guantes, tanto de las indicaciones de uso como 
+de la técnica de puesta y retirada de los mismos (Anexos 3 y 4) (13, 14). Todo ello con 
+ejemplos y casos prácticos impartido  por una persona con experiencia.  Si no se puede 
+realizar presencial, se habilitará la formación por vía telemática . 
+• También se recomienda  hacer hincapié en la importancia de , en la medida de lo posible , 
+realizar higiene de manos en las siguientes circunstancias: cuando las manos estén 
+visiblemente sucias (agua y jabón primero); antes de iniciar el turno, tras realizar las 
+tareas y antes de irse a casa; antes de ponerse (en caso de necesidad) y después de           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+10 
+ 
+quitarse el equipo de protección personal (EPP) y/o guantes; antes y después de los 
+descansos y de ir al lavabo;  después de realizar tareas limpieza o lavandería , si estas se 
+realizan con guantes será necesario lavarse las manos una vez retirados los guantes ; 
+después de toser, sonarse la nariz...etc. (11). En todos estos casos, la higiene de manos 
+deberá realizarse con una duración y técnica correcta s, de acuerdo con las indicaciones 
+de la OMS (Anexo 2).   
+• Para la prevención de las IRAS se añadirá formación sobre la importancia de:  
+o Los 4 momentos de la OMS en los momentos de mayor riesgo  (3).  
+o Estar descubiertos por debajo de los codos en el momento de entrar en 
+contacto con los residentes  para evitar la contaminación de los uniformes y que 
+estos actúen como foco de transmisión  (15). 
+o No llevar joyas en muñecas y manos  (16). 
+o No llevar piercings en muñecas y manos  (16).  
+o No llevar  esmalte/gel de uñas, así como acrílicas o accesorios que pueda n 
+conllevar más riesgo de contaminación (16).  
+• Se reconocerá la realización de la formación de manera nominativa (sistema de 
+verificación de la competencia).  
+ 
+3.  Evaluación del programa:  
+En el futuro este programa deberá someterse a una evaluación. Para ell o será necesario 
+reevaluar, actualizar y consensuar con las CC.AA ., indicadores y criterios de evaluación  que 
+garanticen:  
+- Identificar resultados exitosos  y fomentar el  aprendizaje  colaborativo para la mejora.  
+- Poner de manifiesto oportunidades de mejora  para enfocar nuevas acciones.  
+Será necesario llevar a cabo la identificación y selección de indicadores válidos, relevantes y 
+factibles .  
+Este documento incluye un Anexo  (Anexo 8)  con una propuesta inicial de indicadores , teniendo 
+en cuenta l os ind icadores utilizados  en el actual Informe de Indicadores de Higiene de Mano  (17, 
+18) y otros que se consideran oportunos para las primeras fases de implementación del 
+programa .  
+ 
+4. Recordatorios en zonas estratégicas del lugar de trabajo:   
+Es importante que en zonas estratégicas  de los centros haya presencia de recordatorios de los 
+4 momentos aplicados de la OMS, así como de la adecuada técnica de higiene de manos. Puede 
+ser en forma de pósteres, folletos informativos para familiares, etc.  
+Zona estratégica:  aquellas zonas en que pueda existir un mayor riesgo de transmisión 
+cruzada de microorganismos y tenga más importancia el recordatorio visual de la higiene 
+de manos, como en las salas de preparación de medicación, salas de curas, salas de 
+fisioterapia...etc.   
+Medidas:   
+• Pósteres de los 4 momentos de la OMS y de la técnica de higiene de manos 
+preferiblemente en las áreas reservadas para el personal (Ad1N , Ad2N  y AI) del centro           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+11 
+ 
+de manera específica, con el fin de  preservar , en la medida de lo posible , el ambiente 
+cotidiano y familiar que beneficia a los usuarios de estos centros, y disminuir así la 
+distorsión que pueda suponer la implantación de un programa de estas características.  
+ 
+5. Fomentar un buen clima de seguridad:   
+Es fundamental crear un ambiente en el cual se sensibilice a todas las personas involucradas de 
+la importancia que tiene la higiene de manos en la seguridad de todos: trabajadores, familiares 
+y usuarios.  
+El clima de seguridad debe conllevar un cambio de para digma . Dado que errar es humano y los  
+sistemas son falibles, incluso los mejores, el error debe comprenderse desde una dimensión 
+sistémica motivada por factores contribuyentes latentes en la organización, y debe abordarse 
+cambiando las condiciones de traba jo. La cultura de seguridad debe ir acompañada de un 
+sistema de aprendizaje del error sin miedo a consecuencias punitivas por parte de los 
+profesionales a los que se les debe motivar a aprender de los errores, avanza ndo hacia la 
+disponibilidad de sistemas de notificación de incidentes  (19). 
+Debe haber colaboración entre los gestores/directores y los trabajadores de los centros a la hora 
+de identificar las barreras que puedan existir o surgir con el desarrollo del programa para 
+evaluarlas y proponer soluciones.  
+ 
+CÓMO IMPLEMENTAR UN PROGRAMA DE HIGIENE DE 
+MANOS  
+ 
+Es necesario c onocer el centro, y adaptar un programa específico al mismo según el número  de 
+usuarios, los espacios comunes y los momentos de mayor riesgo de una contaminació n cruzada.  
+Momentos de mayor riesgo : aquellos en los que los trabajadores  tengan que atender a 
+usuarios que tengan una infección activa, úlceras por presión (más frecuentes en esta 
+población), realización de curas, cambios de pañal, etc.  
+Medidas  para la im plementación en un centro :  
+• Conocer el riesgo de cada residencia respecto a las IRAS ; número de residentes, 
+número de habitaciones,  grado de  dependencia de los usuarios, porcentaje  de 
+residentes con sonda urinaria, profesionales sanitarios (enfermería y medicina), 
+program as de vacunación  (tanto en residentes como en trabajadores) , posibilidades de 
+aislamiento, ratio de residentes por profesional, porcentaje  de residentes con 
+inconti nencia fecal, porcentaje  de residentes que utilizan pañal, coordinación con el 
+Sistema Nacional de Salud  (SNS) . 
+La Tabla 1  muestra la propuesta de clasificación que proponen algunos autores ( 20). Sin 
+embargo, es probable que esa tabla requiera una posterio r adaptación a las diferentes 
+realidades y necesidades de las diversas Comunidades Autónomas.  
+• Realizar un mapeo de los lugares con mayor riesgo de contaminación cruzada (zona de 
+curas …).           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+12 
+ 
+• Identificar los residentes en  riesgo por uso de dispositivos  (sondas…) , 
+inmunodeprimidos, piel discontinua , estado de consciencia , incontinencia fecal y uso de 
+pañal.  
+• Seguir una serie de r ecomendaciones para la prevención de la infección sociosanitaria 
+en residencias de mayores  (Tabla  2) (20), en las que, destacamos : 
+o Elaborar  un programa de prevención y control de infecciones en centros 
+residenciales de personas mayores.  
+o Designar un responsable/coordinador en cada centro : Crear la figura de un/a  
+“Responsable  de Higiene de Manos”  en cada centro (funciones concretas por 
+definir). En caso de no ser posible por el tamaño del centro o por falta de 
+recursos de personal, se podría plantear la figura de  un responsable de varios 
+centros agrupados.  Los requisitos para esta figura deben incluir:  
+▪ Conocimientos y experiencias suficientes en el control de 
+enfermedades infecciosas (manifestaciones clínicas, mecanismos de 
+transmisión y propagación, y medidas de prevención).  
+▪ Capacidad de liderazgo y de comunicación.  
+▪ Habilida des de trabajo en equipo.  
+▪ Capacidad para transmitir toda la información al resto de los 
+profesionales de la institución, así como a los residentes y sus 
+familiares.  
+▪ Garantizar que se lleven a cabo todas las medidas necesarias para la 
+prevención de infecc iones.  
+o Realizar  un programa  de formación del personal  
+o Medidas de prevención ambiental  
+o Implantar  el programa  de Higiene de manos  
+o Uso correcto de guantes  
+o Documento  de prevención de infecciones urinarias  
+• Establecer una estrecha colaboración con los responsa bles del Programa de Higiene de 
+Manos de la C omunidades Autónomas . 
+• Adaptar las acciones que se lleven a cabo al nivel de riesgo de infección del centro.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+13 
+ 
+ 
+Tabla 1. Sistema de clasificación de las residencias  en función del riesgo de infección.  
+INDICADORES    PUNTOS  
+Número de residentes  <75 0 
+  75-120 1 
+  >120  2 
+Habitaciones  (>65%)  Individuales  0 
+  Dobles  1 
+  >= 3  2 
+Mediana de la puntuación en la escala de Barthel de cada residente  >55 p untos  0 
+  35-55 p untos 1 
+  <35 p untos 2 
+% residentes con sondaje vesical  <10%  0 
+  11-25%  1 
+  >25%  2 
+Enfermeras  Tiempo completo  0 
+  Tiempo parcial  1 
+  Visitas únicas  2 
+Personal médico  Tiempo completo  0 
+  Tiempo parcial  1 
+  Visitas únicas  2 
+Plan de Prevención de Infecciones (vacunación, uso de antibióticos, 
+medidas generales, entrenamiento del personal…)  Total,  y en 
+funcionamiento  0 
+  Parcial  1 
+  No disponible  2 
+Posibilidad de aislamiento  Total  0 
+  Parcial  1 
+  No disponible  2 
+Disponibilidad de derivación hospitalaria y comunicación 
+directa/telefónica con farmacia hospitalaria/comunitaria  Total  0 
+  Parcial  1 
+  No disponible  2 
+Proporción de personal (a tiempo completo) en atención directa de 
+primer nivel  >0.43  0 
+  Entre 0.31 y 0.43  1 
+  <0.31  2 
+Fuente:  “Bouza E, Asensio Á, García Navarro JA, González P, Acosta Benito MÁ, Aguilar J, et  al. Recommendations for 
+the prevention of healthcare -associated infections in nursing homes. Revista Española de Quimioterapia 
+2023;36(6):552 –61.” 
+ 
+ 
+ 
+ 
+ 
+           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+14 
+ 
+Tabla 2. Guía de Recomendaciones para la prevención de la infección sociosanitaria en 
+residencias de mayores  
+Elaborar  un programa de prevención y control de infecciones en C entros residenciales para personas mayores  
+Designar un responsable/coordinador en cada centro  
+Realizar programa s de formación del personal.  
+Medidas de prevención ambiental  
+Implantar un programa  de Higiene de manos  
+Uso correcto de guantes  
+Documento  de prevención de infecciones urinarias  
+Documento de prevención de infecciones respiratorias  
+Evaluación periódica del estado vacunal de residentes y personal  
+Protocolo de prevención de infecciones  de piel y partes blandas (UPP).  
+Protocolo de prevención y control  de infecciones gastrointestinales ( Clostridium ). 
+Protocolo de actuación frente a brotes  
+Recomendaciones escritas para prevención de infecciones oculares y conjuntivitis  
+Prevención  de infección y aspectos relacionados con salud bucodental.   
+Fuente:  “Bouz a E, Asensio Á, García Navarro JA, González P, Acosta Benito MÁ, Aguilar J, et  al. Recommendations for 
+the prevention of healthcare -associated infections in nursing homes. Revista Española de Quimioterapia 
+2023;36(6):552 –61.”           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+15 
+ 
+ 
+BIBLIOGRAFÍA  
+1. Instituto de Mayores y Servicios Sociales. Ministerio de Derechos Sociales, Consumo y 
+Agenda 2030. Censo de Centros Residenciales De Servicios Sociales en España: Situación 
+2022. 2024.  
+2. Ministerio de Derechos Sociales, Consumo y Agenda 2030.  Secretaría de Estado de 
+Derechos Sociales. Acuerdo sobre Criterios comunes de acreditación y calidad de los 
+centros y servicios del Sistema para la Autonomía y Atención a la Dependencia (SAAD) . 
+2022.  
+3. Ministerio de Ciencia, Innovación y Universidades.  Instituto de Salud Carlos III. Red 
+Nacional de Vigilancia Epidemiológica. Infecciones Relacionadas con la Asistencia 
+Sanitaria . 2021.  
+4. Instituto Nacional de Estadística. Proyecciones de Población 2020 -2070 . 2020 . 
+5. Sociedad Española de Medicina Preventiva, Salud Pública y Gestión Sanitaria. Estudio de 
+Prevalencia de las Infecciones Nosocomiales en España. Informe España. Prevalencia de 
+infecciones (relacionadas con la asistencia y comunitarias) y uso de antimicrobianos en 
+hospitales de agudos. 2023.  
+6. Centro E uropeo para la Prevención y el Control de las Enfermedades (ECDC) . Point 
+prevalence survey of healthcare -associated infections and antimicrobial use in 
+European long -term care facilities 2016 –2017. 2023 . 
+7. Centro Europeo para la Prevención y el Control de la s Enfermedades (ECDC). Protocol 
+for point prevalence  surveys of healthcare -associated  infections and antimicrobial use 
+in European long -term care facilities  Version 4.0 . 2023.  
+8. Gallego P, García San Miguel L, Pérez de Vargas E, Sastre García M, Llanos Hijon osa M, 
+Arias Bohigas P, et al. Centros residenciales de mayores: la vigilancia de las 
+enfermedades transmisibles como parte del cuidado y la protección de la salud. Revista 
+Española de Salud Pública. Volumen 96. 2022.  
+9. Ministerio de Sanidad. Dirección Gene ral de Salud Pública. Subdirección General de 
+Calidad Asistencial. Estrategia de Seguridad del Paciente en el Sistema Nacional de 
+Salud. Periodo 2015 -2020. 2015.  
+10. Organización Mundial de la Salud. Guía de aplicación de la estrategia multimodal de la 
+OMS pa ra la mejora de la higiene de las manos. 2009.  
+11. Organización Mundial de la Salud. La higiene de las manos en la asistencia ambulatoria 
+y domiciliaria y en los cuidados de larga duración. Guía de aplicación de la estrategia 
+multimodal de la OMS y del modelo “Los 5 momentos para la higiene de las manos”. 
+2013.   
+12. OMS. Sus 5 Momentos para la Higiene de Manos. 
+https://www.areasaludcaceres.es/docs/files/13260_oms -2018 -5-momentos.pdf: 2018.  
+13. World Health Organization. Glove Use Information Leaflet. 
+https://cdn.who.int/media/docs/default -source/integrated -health -services -
+(ihs)/infection -prevention -and-control/hand -hygiene/tools/glove -use-information -
+leaflet.pdf?sfvrsn=13670aa_10: 2009.  
+14. Junta de Castilla y Le ón. Sacyl. NO CON GUANTES. Calidad y Segurid ad del  Paciente s/f. 
+https://www.saludcastillayleon.es/profesionales/es/calidad -seguridad -
+paciente/seguridad -paciente/higiene -manos/material -grafico -apoyo/utilizacion -
+guantes (consultado el 15 de enero de 2024).            Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+16 
+ 
+15. Gaspard P, Eschbach E, Gunther D, Gayet S, B ertrand X, Talon D. Meticillin -resistant 
+Staphylococcus aureus contamination of healthcare workers' uniforms in long -term care 
+facilities. J Hosp Infect. 2009 Feb;71(2):170 -5. doi: 10.1016/j.jhin.2008.10.028. Epub 
+2008 Dec 18. PMID: 19100661.  
+16. Community Inf ection Prevention and Control. National Health Service. Community 
+Infection Prevention and Control Policy for Care Home settings. Hand hygiene. 2023 abr  
+17. Dirección General de Salud Pública. Ministerio de Sanidad. Programa de Higiene de 
+Manos del Sistema Na cional de Salud. 2022.  
+18. Organización Mundial de la Salud. Manual técnico de referencia para la higiene de las 
+manos. Dirigido a los profesionales sanitarios, a los formadores y a los observadores de 
+las prácticas de higiene de las manos [Internet]. 2009. D isponible en: 
+https://seguridaddelpaciente.sanidad.gob.es/practicasSeguras/higieneDeManos/docs/
+manual_tecnico.pdf  
+19. Linda T. Kohn, Janet M.  Corrigan, Molla S. Donaldson editors.  To Err is Human: Building 
+a Safer Health System . Institute of Medicine (US) Committee on Quality of Health Care 
+in America . Washington (DC): National Academies Press (US); 2000  
+20. Bouza E, Asensio Á, García Navarro JA, G onzález P, Acosta Benito MÁ, Aguilar J, et  al. 
+Recommendations for the prevention of healthcare -associated infections in nursing 
+homes. Revista Española de Quimioterapia 2023;36(6):552 –61. 
+21. World Health Organization. Hand hygiene for all initiative. Improving access and 
+behaviour in health care facilities. 2020.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+18 
+ 
+ 
+ANEXO 1: 4 MOMENTOS DE LA OMS ADAPTADOS  (21) 
+ 
+ 
+Procedimiento aséptico : tareas que impliquen contacto con mucosas, piel no intacta (heridas), 
+incluyendo aquellos casos de preparación de material para medicación y curas.  
+Riesgo de exposición a fluidos corporales : exposición de las manos del trabajador a fluidos del 
+usuario como secrecione s, mucosas, piel no intacta, drenajes, vendajes y apósitos de heridas, 
+etc. 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+19 
+ 
+ 
+ANEXO 2: TÉCNICA CORRECTA DE HIGIENE DE MANO S 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+20 
+ 
+ 
+ANEXO 3: INDICACIONES PARA EL USO DE GUANTES (OMS)  (13). 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+21 
+ 
+ 
+ 
+ 
+CUANDO  NO USAR  LOS GUANTES:  
+Si no existe riesgo de exposición a sangre, fluidos corporales o entorno contaminado  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXPOSICIÓN DIRECTA AL USUARIO:  
+• Tomar temperatura  
+• Tomar pulso/presión arterial  
+• Inyecciones 
+subcutáneas/intramusculares  
+• Bañar y vestir al usuario  
+• Cuidados en ojos/oídos si NO HAY 
+secreciones  
+• Transportar al usuario  
+• Manipulaciones de catéter venoso si 
+no hay fugas de sangre  EXPOSICIÓN INDIRECTA AL USUARIO:  
+• Usar el teléfono/móvil  
+• Anotar datos del usuario en gráficas  
+• Dar medicación oral  
+• Distribuir/recoger comidas  
+• Cambiar/Quitar sábanas de habitación  
+• Conectar al usuario a sistemas de 
+ventilación no invasivos/cánulas de 
+oxígeno  
+• Desplazar muebles de la h abitación del 
+usuario            Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+22 
+ 
+ 
+ANEXO 4: TÉCNICA DE PUESTA/RETIRADA DE GUANTES (OMS) ( 13). 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+23 
+ 
+ANEXO 5: EJEMPLOS DEL USO INADECUADO DE GUANTES. CAMPAÑA “NO 
+CON GUANTES” DE LA JUNTA DE CASTILLA Y LEÓN ( 14). 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+24 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+25 
+ 
+ANEXO 6: FICHAS DE EJEMPLOS PRÁCTICOS DE LA GUÍA DE LA OMS PARA 
+LA APLICACIÓN DE UN PROGRAMA DE HIGIENE DE MANOS EN CENTROS 
+DE CUIDADOS SANITARIOS DE LARGA DURACIÓN ( 11). 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+26 
+ 
+ 
+Sería equiparable a la misma situación desarrollada en un entorno sociosanitario en la 
+habitación de un usuario del centro. (página 41 del documento)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+31 
+ 
+ANEXO 7: 5 MOMENTOS DE LA HIGIENE DE MANOS (OMS) EN CUIDADOS 
+DE SONDA URINARIA Y CATÉTER VENOSO PERIFÉRICO ( 12). 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+          Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+33 
+ 
+ANEXO 8: PROPUESTA DE INDICADORES PARA LA EVALUACIÓN DEL 
+PROGRAMA  
+1. Indicador : Existencia de la figura de “Responsable  de Higiene de Manos ” 
+Fórmula: Dicotómico (si/no)  
+2. Indicador: Existencia de carteles, pósteres o recordatorios en zonas estratégicas  
+Fórmula:  Dicotómico (si/no)  
+3. Indicador: Profesionales que han participado, al menos, en una actividad formativa 
+relacionada con la HM en el último año.  
+Formula:  
+Numerador: Nº de profesionales que ha participado en una actividad formativa 
+relacionada con la HM  
+Denominador: Nº total de  profesionales del centro.  
+4. Proporción de salas dedicadas a la atención sanitaria de los usuarios (más riesgo de 
+infección/colonización cruzada) que cuentan con dispensadores de PBA:  
+Fórmula de cálculo:  
+Denominador:  Nº de salas del centro dedicadas a la a tención sanitaria con PBA 
+x100  
+Numerador: Nº de salas del centro dedicadas a la atención sanitaria  
+Aclaraciones:  
+Se tendrán en cuenta  las salas, incluidas salas de curas, sala preparación de 
+medicación, salas de fisioterapia...etc . con disponibilidad  de PBA en el lugar 
+donde se va a desarrollar la actividad, estando visibles y accesibles, incluyendo 
+aquellas en las que el PBA se encuentre fuera de la habitación.  No se 
+considerarán los PBA que no estén  fijos en el área de atención (carros, bateas…)  
+5. Proporc ión de habitación/es que cuentan en la entrada/salida con dispensador de PBA 
+o a una distancia próxima :  
+Fórmula de cálculo:  
+Denominador: Nº de habitaciones del centro que cuentan con PBA x100  
+Numerador: Nº total de habitaciones del centro.  
+Aclaraciones:  
+Se tendrán en cuenta las habitaciones del centro que cuenten con dispensador de 
+PBA visibles y accesibles, incluyendo los que se encuentren fuera y dentro de la 
+habitación.            Programa para la mejora de la Higiene de manos en los centros residenciales dirigidos a 
+personas mayores  
+Subdirección General de Calidad Asistencial  
+34 
+ 
+6. Cumplimiento de la higiene de manos:   
+ 
+Fórmula de cálculo:  
+ 
+Numerador: Nº de acciones de higiene de las manos x 100  
+Denominador: Nº de oportunidades de higiene de manos observadas  
+ 
+Aclaraciones:  
+ 
+Acciones de higiene de manos que se realizan con prepara do de base alcohólica 
+(PBA) o con agua y jabón según la metodología de los 5 momentos de la OMS. 
+Oportunidad para la higiene de las manos: Momento durante la actividad 
+asistencial en el que es necesario realizar una higiene de manos para interrumpir 
+la tra nsmisión manual de microorganismos. Observación: Se seguirá la 
+metodología de observación de la OMS. Se realizará la observación al menos de 
+los momentos 1 (antes del contacto con el paciente) y 2 (antes de un 
+procedimiento limpio/aséptico).  
+Se observará un mínimo de 30 oportunidades de higiene de manos por periodo 
+y servicio evaluado. Aunque se recomienda aumentar este mínimo.  El resultado 
+del indicador se daría por centro. Las CCAA que lo deseen pueden aumentar el 
+número de observaciones para dar resulta dos por servicios.  
+ 
+7. Tendencia del consumo de PBA:  
+ 
+Fórmula de cálculo:  
+ 
+Numerador: Nº litros entregados x 1000  
+Denominador: Nº total de estancias en el centro durante periodo evaluado  
+ 
+Aclaraciones:  
+ 
+Se refiere a los días de estancia de los residentes en el centro, siendo estancia= 
+Fecha de alta del centro – Fecha de ingreso en el centro, durante el periodo de 
+cálculo del indicador. Fecha de ingreso: fecha en la que el paciente es admitido 
+en el centro y ocupa una habitación/ cama del mismo. F echa de alta: Fecha en 
+la que el paciente es dado de alta (por traslado a otro centro, alta voluntaria, 
+fuga o fallecimiento) en el centro y abandona una cama o habitación.  
+ 

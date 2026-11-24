@@ -1,0 +1,164 @@
+Autoría  
+Paloma Trillo López. Asesora técnica de la Estrategia para la Seguridad del Paciente del SSPA. Consejería de Salud y 
+Consumo.  
+Elena Corpas Nogales. Escuela Andaluza de Salud Pública. Consejería de Salud y Consumo.   
+ 
+Funcionalidad es generales  
+del sistema  para  
+Gestores  notificASP  
+ 
+Actualización notificASP  2023 _v1 
+ 
+Índice  
+Apartado “INCIDENTE”  ................................ ................................ ................................ ..................  2 
+Apartado “ESTADÍSTICAS”  ................................ ................................ ................................ .............  5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _fu n c i o n a l i d a d e s  s i s t e ma  G E S T O R E S  2 | 7 
+ 
+ 
+Apartado  “INCIDENTE ” 
+Esta e s la pantalla pri ncipal que nos aparece cuando nos logamos con nuestro  perfil:  
+ 
+ 
+Nos aparecerán  todas las notificaciones recibida s en nuestra unidad/centro  por fecha de 
+entrada al sistema.  
+La tabla resumen es co nfigurable  por el gestor , se puede decidir que columnas 
+muestre la tabla . Por ejemplo, e s posible que para gestores que solo tienen 
+asignad a una unidad , no necesit en que la tabl a muestre  el nombre de  centro y nombre  de 
+la unidad .  
+ 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _fu n c i o n a l i d a d e s  s i s t e ma  G E S T O R E S  3 | 7 
+ 
+ 
+ 
+También tenemos la op ción de filt rar el listado que queramos que nos muestr e la 
+tabla, por ejemplo,  en el caso de que queramos buscar un incidente con el 
+Identificador (ID) o localizador , o bien si queremos ver el li stado para un periodo de tiempo 
+en concreto, o  gestio nar los incidentes por cualquiera de los parámetros de los que muestra 
+el filtro: categoría  de incidente, estado , nivel de riesgo etc. 
+ 
+ 
+La tabla resumen es interactiva, podemos ordenar por cualquier de las columnas que tienen 
+las flechas  
+ 
+ 
+ID: Corresponde al numero identificador de la notificación  (es un número  interno y  único) . 
+Localizador : Es el código  que se le asigna a la notificación d e forma ale atoria, es el có digo 
+que t iene el notificante . 
+Fecha : Fecha que se ha creado la notificaci ón. 
+Centro : Centro directivo sanitario primero al que esta as ignada la notificación . 
+Unidad:  Unidad/es a las que se ha asignado la notificación . 
+Notificant e: nos indica si la notificación viene d el formulario de  profesionales o de l de la 
+ciudadanía.  
+Contacto : si aparece  un sobre  significa que el notificante ha de jado su correo electrón ico 
+de forma opcional . 
+Categoría  incidente : nos muestra la/s categorías a signadas  en la  notificación.  
+Estado : Nos muestra el estado de gestión d e la notificación,  nueva, en estudio, 
+implementando  acciones d e mejora o  resuelto.   
+Riesgo:  Aparece el riesgo  inicial  del notificante  (si está asignado) y el riesgo  evaluado por 
+el gestor . 
+AM: Indica el número de acciones de mejora vinculadas a la notificación . 
+ 
+ 
+ 
+n o t i f i c A S P _fu n c i o n a l i d a d e s  s i s t e ma  G E S T O R E S  4 | 7 
+ 
+ 
+F eval AM: nos muestra las fechas previstas para la evaluaci ón de las acciones  de mejora . 
+Gestionar:  En este apartado podemos : 
+ Visualizar la información completa de la notificación .  
+Editar  La localización del incidente, si detectamos que est á mal asignada por el 
+notificante.   
+Se puede solicitar el borrado de la notifi cación si se detecta que es un error de prueba  
+(para cursos solicitar mó dulo de formación al referente de S P del centro) o n o es un 
+incidente de seguridad del paciente.  
+Accedemos a pantalla para la gestión de l incidente.  
+ 
+ 
+ 
+La opción descargar Excel , descargará la información que se muestre e n la tabla según las 
+columnas y/o filtros que hayamos aplicado.   
+ 
+ 
+ 
+n o t i f i c A S P _fu n c i o n a l i d a d e s  s i s t e ma  G E S T O R E S  5 | 7 
+ 
+ 
+Apartado  “ESTAD ÍSTICAS” 
+ 
+En este apartado podemos ver el resumen  numérico de las notificaciones por “estado ” y el 
+número de notificaciones  totales.  
+ 
+ 
+La tabla e s intera ctiva, por ejemplo,  si clicamos en e l número  que corresponde a los  
+incidentes “nuevos ” nos llevar á al listado de incidentes nuevo de esa unidad.  
+ 
+En la opción  “Generar informe ”, podremos generar un 
+informe semia utomático  para un periodo concreto , según 
+nuestro perfil (micro, macro y referente de SP), para una  
+unidad, un conjunto d e unid ades o el centro directivo 
+sanitario en su totalidad.  
+Se realizará una descarga de los  gráficos y tablas de los  indicadores generales de la 
+notificación y d e las áreas de mejora para ese periodo  seleccionado,  en una plantilla  
+formato  “Word” , para que el gestor pueda añadir su análisis de los da tos. 
+El objeti vo de es ta funcionalidad es facilitar  una herramienta para  que los gestores puedan 
+dar un feedback  periódico , con los datos agre gados  de las notificaciones  y acciones de 
+mejora,  a los profesionales de las unidades/centros . 
+ 
+En el caso de que queramos hacer alguna consulta de algún  
+apartado específico de la s notificac iones , tenemos la  opción 
+a través de  la opción  “tablas y gráficos ”. 
+ Según  nuestro perfil de gestión  asignado , podremos ver y 
+descargar , para el centro, unidad o conjunto d e unidades , y 
+para un perio do de tiempo  determinado , la información que seleccionemos en el filtro de 
+búsqueda.  
+ 
+ 
+ 
+n o t i f i c A S P _fu n c i o n a l i d a d e s  s i s t e ma  G E S T O R E S  6 | 7 
+ 
+ 
+ 
+Las consultas disponibles variarán dependiendo  de si lo que queremos es información de 
+los datos acumulados d e las no tificaciones o queremos una evolución  temporal  de algún  
+parámetro . 
+Nota: dado que el sistema acaba de implementarse, esta funcio nalidad precisa  de un  
+periodo de tiempo  notificando para poder tener datos suficientes para mostrar en g ráficos  
+la evolución temporal . 
+La información  se mostrará en pantalla y podremos  descargar la  imagen de l gráfico  en 
+formato p ng y la tabla en formato Excel . 
+ 
+ 
+ 
+ 
+ 
+n o t i f i c A S P _fu n c i o n a l i d a d e s  s i s t e ma  G E S T O R E S  7 | 7 
+ 
+ 
+ 
+El la pantalla “Descargar datos ” podemos descargarnos 
+toda la información del  sistema en formato Excel  tanto de 
+los incidentes  como de las acciones d e mejora.  
+Es posible filtrar los parámetro s que deseemos c licando el 
+en icono filtro.  
+Si no ponemos filtro, descarga toda la información del sistema  para nuestra unidad o 
+centro.  
+ 
+ 
+ 

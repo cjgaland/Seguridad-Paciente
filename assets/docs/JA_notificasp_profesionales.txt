@@ -1,0 +1,419 @@
+Autoría :  
+Paloma Trillo López. Asesora técnica de la Estrategia para la Seguridad del Paciente del SSPA. Consejería de Salud y 
+Consumo.  
+Elena Corpas Nogales. Escuela Andaluza de Salud Pública. Consejería de Salud y Consumo.  
+Estrategia para la Seguridad del Paciente del Sistema Sanitario Público de Andalucía. 2023   
+ 
+ 
+ 
+Cómo hacer una  notificación  
+Formulario profesionales  del 
+ámbito sanitario  
+Actualización notificASP  2023 _v1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  2 | 19 
+ 
+ 
+ 
+ 
+Índice  
+1. Inicio de la Notificación  ................................ ................................ ................................ .........  4 
+2. Incidente  ................................ ................................ ................................ ................................  7 
+3. Paciente  ................................ ................................ ................................ ...............................  11 
+4. Mejoras  ................................ ................................ ................................ ...............................  13 
+5. Finalización de la notificación  ................................ ................................ .............................  15 
+Seguimiento de la notificación  ................................ ................................ ................................  18 
+ 
+ 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  3 | 19 
+ 
+CÓMO REALIZAR UNA NOTIFICACIÓN:  
+Formulario para profesionales del ámbito sanitario  
+El acceso a notificASP está en webESSPA   
+https://www.seguridadpaciente.es/notificasp  
+En el menú principal seleccionamos el formulario” Notificaci ón para profesionales” . 
+ 
+ 
+El cuestionario se divide en 5 apartados:  
+ 
+ 
+ 
+1. Inicio de la notificación
+2. Incidente
+3. Paciente 
+(solo si ha llegado al paciente)
+4. Mejoras
+5. Finalización notificación   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  4 | 19 
+ 
+ 
+1. Inicio de la Notificación  
+Para comenzar la notificación , seleccionamos la categoría del incidente que queremos 
+notificar. 
+ 
+Estas categorías vienen  determinada s por la Clasificación Internacional para la Seguridad 
+del Paciente de la Organización Mundial de la Salud, teniendo en cuenta el principal 
+aspecto y/o parte del proceso con el que están relacionados  y con las diferentes líneas que 
+recoge la Estrategia para  la Seguridad del Paciente de Andalucía : 
+Accidente del paciente (excluye caídas ) Ej. contusión, penetración, mecanismo térmico, compromiso 
+respiratorio, exposición a productos químicos, etc.  
+Atención telemáti ca  
+Caídas  Ej. tropiezo, resbalón, desplome, pérdida de equilibrio, etc. 
+Centros coordinación  061  Proceso de atención especifico 061  
+Conducta - Comportamiento    
+Diagnóstico    
+Dieta - Alimentación  Ej. prescripción,  petición, elaboración, presentación, reparto, 
+entrega, administración, almacenamiento, etc.  
+Dispositivos  del paciente (tubos, sondas,  
+accesos vasculares, etc .)   
+Documentación  Ej. Peticiones, historias clínicas, registros de valoración, hojas de 
+interconsulta, formularios, certificados, consentimientos 
+informados, listados de verificación, informes, result ados, 
+imágenes, cartas, email, notificaciones, procedimientos, 
+protocolos, notas informativas, etc. 
+Equipamiento electro médico    Ej. disponibilidad, embalaje, presentación, adecuación, 
+funcionamiento, limpieza, esterilidad, etc.  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  5 | 19 
+ 
+Gestión organizativa - Recursos   
+Fuga   
+Identificación    
+Infección asociada a la asistencia sanitaria    
+Infraestructura - instalaciones  Ej. disponibilidad, adecuación, funcionamiento, etc.  
+Inmovilización de pacientes - contenciones    
+Lesión por presión   
+Medicación  Ej. prescripción, trascripción, validación, preparación, envasado, 
+administración, monitorización, almacenamiento, conservación, 
+etc. 
+Oxígeno - Gas - Vapor    
+Procedimiento quirúrgico  Todo lo relacionado con el circuito específico quirúrgico  
+Proceso administrativo  Ej. citas, listas de espera, derivaciones, admisiones, altas, 
+traslados, etc.  
+ 
+Proceso asistencial  Ej. Atención general, tareas de screening, prevención o 
+chequeo, anamnesis, exploración, valoración clínica…  
+Pruebas diagnósticas in vitro  Anatomía Patológica  
+Laboratorios  
+Radiaciones ionizantes  Radioterapia  
+Radiodiagnóstico  
+Medicina Nuclear  
+Radiología Intervencionista  
+Otros  
+Sangre y productos sanguíneos   Ej. desviaciones en los procedimientos establecidos en el 
+proceso de la transfusión: muestras, solicitudes, prescripciones, 
+laboratorio, administración, etc.     
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  6 | 19 
+ 
+Vía aérea – ventilación mecánica   
+Transporte / traslados    
+Tecnologías de Información   
+Seleccionar la categoría del incidente le ayuda al gestor a poder hacer gestión global de 
+los incidentes notificados en la unidad. En está nueva versión del formulario, se pueden 
+seleccionar hasta tres categorías, ya que , a veces, los incidentes pueden estar relacionados 
+con más de una categoría.  
+Cuando el profesional se leccione las categorías : caídas,  dispositivos del paciente, 
+equipamiento electro médico , medicación , procedimiento quirúrgico , pruebas diagnósticas 
+in vitro , radioterapia/radiaciones ionizantes y lesiones por presión  aparecerán 
+automáticamente nuevos campo s para  detallar al máximo el incidente  en la siguiente 
+página en el apartado “Incidente” . 
+ 
+En la pregunta sobre el tipo de incidente, seleccionamos que queremos notificar:  
+• Riesgo  o situación con capacidad de causar un incidente . (Ej. Se encuentra n ampollas 
+de “x” mezcladas con las de “y” en la revisión del carro de parada) . 
+• Incidentes  relacionados con la seguridad que no llegaron al paciente : circunstancia o 
+incidente con capacidad de causar error, que podría haber causado un daño, pero no 
+lo llegó  a causar, bien por suerte o bien porque fue interceptado antes de llegar al 
+paciente. También se conocen como cuasiincidentes. (Ej. Se prepara medicación 
+errónea, al identificar al paciente antes de administrarlo se detecta que no es la 
+medicación prescri ta para ese paciente  y no se llega a administrar la medicación ). 
+• Incidentes que sí llegaron al paciente , causando o no daño al paciente. El daño se 
+pregunta en el apartado del paciente.   (Ej. Se realiza una prueba diagnóstica al paciente 
+equivocado) . 
+  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  7 | 19 
+ 
+ 
+2. Incidente  
+Una vez clicamos en siguiente , llegamos al apartado “Incidente”, donde obtenemos el 
+código localizador de nuestra notificación, que debemos guardar por si tenemos que 
+interrumpir  la notificación para poder terminarla después.  
+ Descripción del  incidente
+ 
+En este apartado, el primer aspecto fundamental es “Describir el incidente” de forma clara 
+y detalla da lo que ha sucedido: que ha pasado, cómo se produjo, cómo se descubrió el 
+incidente y qué medidas se tomaron para reparar las consecuencias de l incidente .  
+Siempre manteniendo la confidencialidad de los datos personales del paciente y 
+profesionales.  
+Posteriormente , de manera opcional, podrá poner el NUHSA del paciente si considera que 
+puede ayudar a gestionar la notificación, este dato será anonimizado automáticamente 
+pasados 45 días y /o cuando se resuelva la notificación.  
+Determinar la frecuencia con la que el no tificante considera que ocurren incidentes 
+similares al notificado nos ayudará a estimar el riesgo de la notificación.  
+• Muy infrecuente: es poco probable que vuelva a ocurrir, ocurriría sólo bajo 
+circunstancias excepcionales, (quizás en un plazo de entre 5 y 30 años) . 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  8 | 19 
+ 
+• Poco frecuente: podría ocurrir en algún momento (quizás en un plazo de entre dos 
+y cinco años) . 
+• Ocasional: es posible que vuelva a ocurrir en algún momento (podría ocurrir una o 
+dos veces al año) . 
+• Frecuente: es esperable que ocurra en muchas ci rcunstancias (probablemente 
+ocurra varias veces al año) . 
+• Casi seguro: es lógico esperar que el incidente ocurra de nuevo inmediatamente o 
+en un periodo de tiempo breve (probablemente ocurra la mayoría de las semanas 
+o meses) . 
+Una vez estimada la frecuencia  de ocurrencia de este tipo de incidentes  y la gravedad que 
+se ha indicado de lo sucedido (que se cumplimenta en el apartado del paciente  si el 
+incidente ha llegado al paciente ), se calcula el nivel de riesgo de forma automática para el 
+gestor de las notif icaciones. Éste puede ser: bajo, moderado, alto o muy alto y determinará 
+la inmediatez de acción de los gestores.  
+Información adicional  
+Si en la selección de la categoría del incidente hemos seleccionado alguna de estas 
+opciones: caídas,  dispositivos del p aciente, e quipamiento electro médico , medicación , 
+procedimiento quirúrgico , pruebas diagnósticas in vitro , radioterapia/radiaciones 
+ionizantes y lesiones por presión , nos aparecerán automáticamente nuevos campos de 
+preguntas como  “Información  adicional” para poder detallar al máximo el incidente . 
+Para ayudar a ilustrar la notificación se permite adjuntar hasta 4 imágenes, d ado el carácter 
+anónimo de la notificación, y por la LOPD, asegúrese que las imágenes no identifican a 
+pacientes ni a profesionales.   
+ 
+Asimismo, podemos incluir la fecha y hora real o aproximada del incidente, esta 
+información nos ayuda a detectar franjas vulnerables en el sistema. Además, también es 
+muy importante notificar lo antes posible lo que sucede, ya que con el tiempo se olvida n 
+los detalles de lo sucedido.  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  9 | 19 
+ 
+ 
+Localización del incidente  
+Otro aspecto fundamental de este apartado es la “Localización del incidente”. Para poder 
+hacer  una gestión local del mismo es importante localizar donde se ha detectado o ha 
+sucedido el incidente.  Si consideramos que el incidente afecta a otra unidad, tenemos la 
+opción de poner hasta dos unidades involucradas:  
+ 
+Si conocemos el nombre de nuestra unidad, podemos escribirla directamente .  
+En el caso de l as unidades de  distritos de atención primaria, que suelen tener nombres de 
+poblaciones únicas , es muy útil.  En el caso de las unidades genéricas, como las unidades 
+de atención hospitalaria , ej. anestesia, cirugía digestiva etc. , recomendamos que se utilicen 
+los filtros de provincia y/o centro, que va a  ayudar a reducir el listado que muestre el 
+desplegable.  
+Si no tenemos claro el nombre de la unidad a la que queremos notificar, seleccionamos 
+provincia y/o centro y nos despliega todas las unidades que dispone ese centro.  
+Si queremos indicar que este incidente puede afectar a todo el centro directivo, una vez 
+seleccionada la unidad que lo ha detectado o donde ha ocurrido el incidente, tenemos una 
+casilla de texto libre donde podemos indicarlo. Asimismo, en esta casilla tamb ién podemos  
+especificar el área donde ha ocurrido, en muchas ocasiones una misma unidad asistencial 
+dispone de varias ubicaciones físicas (planta de hospitalización, consultas, salas específicas, 
+salas de espera, etc.) 
+ 
+Es obligatorio seleccionar al menos  una unidad asistencial, de manera opcional se puede 
+añadir una segunda unidad:  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  10 | 19 
+ 
+ 
+En general, como primera unidad ponemos la unidad donde ha ocurrido el incidente o se 
+ha detectado, y como segunda unidad, la otra unidad afectada . 
+ 
+ 
+ 
+  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  11 | 19 
+ 
+ 
+3. Paciente  
+Si hemos indicado que el incidente SI ha llegado al paciente, aparecerán una serie de 
+preguntas en relación al paciente.  
+En primer lugar,  valoramos el grado del daño que le ha causado al paciente:  
+ 
+Las opciones de respuesta son:  
+• Ninguno, no le ha causado  daño  (Ej. Se ha administrado una analgesia al paciente 
+diferente a la prescrita y no es alérgico ni le ha provocado ningún daño) . 
+• Leve. El paciente requiere observación o tratamiento menor o se ha provocado un 
+mínimo daño a uno o más pacientes: primeros a uxilios, terapia o medicación 
+adicional.  (Ej. Se administra dosis superior  de insulina  obligando a monitorizar 
+síntomas o signo s de hipoglucemia y cambiar la sueroterapia) . 
+• Moderado. El paciente requiere un aumento moderado en el tratamiento o un daño 
+no permanente a consecuencia del incidente: prolongación hospitalización, 
+intervención quirúrgica, reintervención, reingreso no planeada, incremento de 
+tiempo de cuidados, cance lación del tratamiento, transferencia a otra área como la 
+de cuidados intensivos, etc.  (Ej. Paciente anciano que sufre c aída durante la noche, 
+al no estar puestas las barreras de la cama  ni acompañado , que provoca fractura 
+de cadera ). 
+• Grave. Ha provocado u n daño permanente o ha comprometido la vida del paciente: 
+pérdida de alguna función corporal, sensorial, motora, psicológica o intelectual, 
+incluida la extirpación del órgano o extremidad afectados, lateralidad equivocada . 
+(Ej. Intervención con e xtirpación  de riñón sano por error de lateralidad ). 
+• Contribuyó o causó la muerte del paciente. La muerte ha de estar directamente 
+relacionada con el incidente y no con la enfermedad o estado general del paciente.  
+(Ej. Administración de quimioterapia intravenosa por vía intratecal, produciendo la 
+muerte del paciente) . 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  12 | 19 
+ 
+A continuación, se realizan dos preguntas de  las características del paciente  implicado en 
+el incidente:  
+ 
+• Edad del paciente: se puede introducir la edad exacta o, cuando no se conozca este  dato, 
+un rango de edad aproximado.  
+• Sexo del paciente: seleccionar entre las opciones que aparecen.  
+Y, por último , en este apartado, indicamos si conocemos si el incidente ha sido comunicado 
+o informado al paciente o cuidador.  
+ 
+  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  13 | 19 
+ 
+ 
+4. Mejoras  
+Este apartado es opcional , pero esta información puede ser fundamental para el gestor 
+para ayudar a entender los factores que han contribuido a que ocurra el incidente, y con 
+ello poder poner acciones de mejora más específicas.  
+Se denominan factores contribuyentes a cualqu ier circunstancia que puede haber 
+desempeñado un papel en el origen o la evolución del incidente o que ha aumentado el 
+riesgo de que se haya producido.  
+En esta versión nueva del formulario hemos agrupado los factores contribuyentes más 
+comunes utilizando una adaptación de  la Clasificación del National Patient Safety Agency. 
+Asimismo, existe la posibilidad de incorporar “otros” factores contribuyentes, si lo necesita.  
+ 
+Los factores están agrupados en las siguientes categorías:  
+• Pacientes. Incluyen aspectos relativos al paciente que sufre el daño: Condición del 
+paciente como edad  (ej edad avanzada o corta edad) , complejidad clínica ( ej. comorbilidad, 
+gravedad ...), creencias, lenguaje y comunicación con paciente y familia … 
+• Prof esionales. Incluyen aspectos únicos y específicos de los profesionales involucrados: 
+aspectos de la personalidad como el comportamiento  y conductas en relación a los riesgos , 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  14 | 19 
+ 
+factores emocionales, relaciones laborales, estrés, falta de motivación, carga de traba jo, 
+distracciones etc. También se han incluido factores ligados a la formación y entrenamiento 
+como la competencia profesional, formación, entrenamiento, actualización, 
+desconocimiento de las tareas,  supervisión de tareas . 
+• Tareas a desarrollar. Incluyen aspectos que facilitan el desarrollo seguro y efectivo de las 
+funciones relacionadas con los procesos sanitarios : guías, procedimientos, normas y 
+protocolos (existencia, accesibilidad y u tilización de los mismos, sencillez, actualización, 
+consenso de aplicación, seguimiento ) 
+• Comunicación. Incluyen aspectos relacionados con la comunicación en todas sus formas: 
+escrita, verbal y no verbal: difusión de la información, ambigüeda d, confusión, retrasos, falta 
+de estandarización ... Comunicación con el paciente, entre el equipo, entre servicios, entre 
+niveles asistenciales, entre centros.  
+• Equipamiento. Incluyen aspectos relacionados con el equipamiento y su utilización y los 
+recurs os para proporcionar la atención requerida: Disponibilidad, diseño, usabilidad y 
+mantenimiento de equipos y dispositivos, almacenaje adecuado, instrucciones de manejo 
+(legibilidad, idioma, claridad) …  
+• Condiciones ambientales o del  trabajo. Incluyen facto res que afectan a la capacidad de 
+trabajar en condiciones óptimas en el puesto de trabajo: diseño arquitectónico, limpieza 
+insuficiente, falta de espacio, ruido, interrupciones, calor o frío excesivo, iluminación, 
+equipamiento disponible, diseño … 
+• Organiz ativos y estratégicos. Incluyen factores adquiridos o propios de la organización : 
+estructura organizativa, cultura de seguridad, prioridades y los factores de Equipo . Aspectos 
+que pueden afectar la cohesión y forma de trabajar de un equipo: n º de profesion ales, 
+estructura del equipo (consistencia, liderazgo, estilo de gestión, definición de 
+responsabilidades,…), relaciones y conflictos entre el grupo, relaciones con otros equipos 
+asistenciales, carga de trabajo, apoyo administrativo . 
+El siguiente apartado, esta destinado a que e l notificante, en base a su conocimiento y 
+experiencia, pued a ayudar  en la gestión del incidente  indicando que mejoras podrían 
+ponerse en marcha para evitar que vuelva a ocurrir.   
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  15 | 19 
+ 
+ 
+ 
+5. Finalización de la notificación  
+Para finalizar  la notificación indicamos nuestra profesión. Están reflejadas las categorías con 
+más número de profesionales, no obstante, si su categoría si no esta reflejada, podemos 
+añadir la en texto libre en la opción “otros” . 
+ 
+De manera opcional, puede dejar su correo electrónico para contactar en caso de necesitar 
+información adicional que ayude a gestionar el incidente.  
+Asimismo, servirá para  avisarle cuando el incidente se haya resuelto y  comunicarle las 
+acciones de mejora p ropuestas por los gestores relacionadas con su notificación.  
+Dado el carácter anónimo de la notificación, sus datos de contacto se borrarán 
+automáticamente una vez analizado el riesgo o incidente.  
+ 
+ 
+ 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  16 | 19 
+ 
+Una vez tengamos toda la notificación cumplimentada , clicamos en finalizar . 
+ 
+Nos saldrá un aviso recordando que, a partir de aquí, una vez enviada la notificación no 
+podremos modificar el contenido de la misma.  
+ 
+Cuando se finaliza  la notificación,  aparece una pantalla resum en indicando  que nuestra 
+notificación se ha registrado correctamente . Además,  en la pantalla resumen podremos  
+realizar las siguientes acciones:  
+• Copiar el localizador de la notificación.  
+• Imprimir en PDF el localizador de la notificación.  
+• Generar y descargar un informe de la notificación en formato PDF.  
+• Enviar el localizador a la dirección de correo deseada.  
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  17 | 19 
+ 
+Le recomendamos que guarde el código localizador  de la notificación, ya que este código  
+le permite hacer un seguimiento de la gestión de la misma . 
+También l e recom endamos que c onsulte periódicamente el estado de la notificación, el 
+gestor le puede solicitar información adicional que le ayude a gestionar el incidente.  
+En la pantalla resumen , en la parte derecha  existe un apartado se “Sugerencias” donde nos 
+pueden sugerir o  proponer  mejoras al sistema de notificación . 
+ 
+ 
+  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  18 | 19 
+ 
+Seguimiento  de la notificación  
+En la pantalla inicial de notificASP, existe una casilla que se denomina:  “Consultar o 
+continuar una notificación”, donde escribiremos el código localizador que previamente 
+hemos guardado / copiado cuando creamos la notificación , donde podremos realizar el 
+seguimiento anónimo de una notificación  
+ 
+Al “consultar” la notificación podremos volver a ver el informe de nuestra notificación y ver 
+el estado de la notifica ción:  
+• Nuevo: La notificación del incidente remitido ha sido recibida en la unidad/centro.  
+• En estudio: El incidente está siendo evaluado por la unidad/centro, para analizar sus 
+causas y posibles medidas correctoras.  
+• Implementación de acciones de mejora: El  centro/unidad está poniendo en marcha 
+las medidas correctoras establecidas tras el análisis del incidente.  
+• Resuelto: Todas las medidas propuestas previamente han sido aplicadas 
+satisfactoriamente.  
+Si los incidentes est án en estado “ implementación de accio nes de mejora ” o “resuelto ”, 
+podremos ver las acciones de mejora que la unidad/centro han puesto en marcha tras el 
+análisis del incidente.  
+ 
+En caso de que el gestor , tras analizar la notificación, requiera información adicional al 
+notificante , que le pueda ayudar a entender lo sucedido , aparecerá una casilla donde el 
+notificante de forma anónima y voluntaria pueda aportar dicha información . 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  p r o f e s i o n a l e s  19 | 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

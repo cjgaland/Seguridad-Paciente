@@ -42,11 +42,6 @@
 .card-header.purple { background: #f3e8ff; color: #9333ea; }
 .card-header.orange { background: #ffedd5; color: #f97316; }
 
-/* NUEVO: Color específico para el Chatbot (Verde Esperanza/Esmeralda) */
-.card-header.ai-citizen { 
-    background: #ecfdf5; 
-    color: #10b981; 
-}
 
 /* Efecto Hover en cabeceras */
 .learn-card:hover .card-header.red { background: #ef4444; color: white; }
@@ -54,7 +49,6 @@
 .learn-card:hover .card-header.green { background: #16a34a; color: white; }
 .learn-card:hover .card-header.purple { background: #9333ea; color: white; }
 .learn-card:hover .card-header.orange { background: #f97316; color: white; }
-.learn-card:hover .card-header.ai-citizen { background: #10b981; color: white; }
 
 
 .card-body {

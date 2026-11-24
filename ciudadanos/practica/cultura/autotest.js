@@ -1,18 +1,5 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
-import { getFirestore, collection, addDoc } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
+import { guardar } from "../../../js/core/almacen.js";
 
-// TU CONFIGURACIÓN DE FIREBASE
-const firebaseConfig = {
-    apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
-    authDomain: "seguridadpaciente-f0860.firebaseapp.com",
-    projectId: "seguridadpaciente-f0860",
-    storageBucket: "seguridadpaciente-f0860.firebasestorage.app",
-    messagingSenderId: "394227294182",
-    appId: "1:394227294182:web:5bd4cc318ea4d9cf9ac027"
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
 
 // PREGUNTAS CIUDADANÍA
 const QUESTIONS = [
@@ -108,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     selCat.addEventListener('change', () => selCat.classList.remove('input-error'));
     selAmb.addEventListener('change', () => selAmb.classList.remove('input-error'));
 
-    // 3. ENVIAR A FIREBASE (Colección ciudadanos)
+    // 3. GUARDAR ENCUESTA (colección ciudadanos)
     form.addEventListener('submit', async (e) => {
         e.preventDefault();
         const btn = form.querySelector('.btn-submit');
@@ -139,15 +126,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             // CAMBIO CLAVE: Colección "encuestas_ciudadanos"
-            await addDoc(collection(db, "encuestas_ciudadanos"), surveyData);
-            // console.log("Encuesta ciudadana enviada");
+            await guardar("encuestas_ciudadanos", surveyData);
+            console.log("Encuesta ciudadana enviada");
             
             form.classList.add('hidden');
             finalScreen.classList.remove('hidden');
             showResults(avg);
         } catch (error) {
             console.error("Error:", error);
-            alert("Error de conexión.");
+            alert("No se ha podido guardar la encuesta en este dispositivo.");
             btn.disabled = false;
             btn.innerHTML = "Reintentar";
         }

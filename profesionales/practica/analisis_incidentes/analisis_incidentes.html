@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de análisis de incidentes · Práctica</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+    <link rel="stylesheet" href="../../../css/sidebar.css">
+    <link rel="stylesheet" href="analisis_incidentes.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body class="tool-page">
+
+    <header class="sp-header">
+        <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú lateral"><i class="fa-solid fa-bars"></i></button>
+        <div id="sidebar-overlay" class="sidebar-overlay"></div>
+        <div class="sp-header-left"><img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo" alt="Estrategia para la Seguridad del Paciente"></div>
+        <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
+        <div class="sp-header-right"><img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right" alt="Consejería de Sanidad, Presidencia y Emergencias"></div>
+    </header>
+
+    <div class="sp-layout">
+        <aside class="sidebar">
+            <div class="sidebar-header"><i class="fa-solid fa-clipboard-check"></i> <span>Zona de Práctica</span></div>
+            <nav class="sidebar-nav" aria-label="Navegación">
+                <div class="sidebar-group">
+                    <div class="sidebar-label">Esta herramienta</div>
+                    <a href="analisis_incidentes.html" class="sidebar-btn sidebar-link" aria-current="page"><i class="fa-solid fa-magnifying-glass-chart"></i> Análisis de incidentes</a>
+                </div>
+                <div class="sidebar-group sidebar-group-end">
+                    <a href="../practica.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-arrow-left"></i> Volver a Práctica</a>
+                    <a href="../../../profesionales.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-user-doctor"></i> Volver a Profesionales</a>
+                    <a href="../../../index.html" class="sidebar-btn sidebar-link sidebar-back"><i class="fa-solid fa-house"></i> Volver al Inicio</a>
+                </div>
+            </nav>
+        </aside>
+
+        <main class="main-content ai-main">
+            <div class="top-bar no-print">
+                <h2><i class="fa-solid fa-magnifying-glass-chart" style="color:#16a34a;"></i> Guía de análisis de incidentes</h2>
+                <a href="../practica.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Salir</a>
+            </div>
+
+            <p class="ai-aviso no-print" role="note">
+                <i class="fa-solid fa-user-shield" aria-hidden="true"></i>
+                <span><strong>No introduzca datos identificativos</strong> de pacientes ni de profesionales (nombres, iniciales, DNI, NUHSA, nº de historia, teléfono, cama...). Use roles ("enfermera de turno", "paciente de 80 años"). Todo se queda en este navegador; no se envía a ningún sitio.</span>
+            </p>
+
+            <div id="alerta-ident" class="ai-alerta no-print" role="alert" hidden>
+                <i class="fa-solid fa-triangle-exclamation" aria-hidden="true"></i>
+                <span id="alerta-ident-txt"></span>
+            </div>
+
+            <nav class="ai-pasos no-print" aria-label="Pasos del análisis">
+                <ol id="pasos"></ol>
+            </nav>
+
+            <div class="ai-card no-print">
+                <!-- PASO 1 -->
+                <section class="ai-paso" id="paso-1" aria-labelledby="t1" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t1" tabindex="-1">1. Descripción del hecho</h3>
+                        <p>Relate <strong>qué pasó, no quién lo hizo</strong>. Describa los hechos de forma objetiva y ordenada, cómo se detectó y qué se hizo de inmediato para proteger al paciente.</p>
+                        <p>El análisis debe hacerse con enfoque <strong>sistémico</strong>: el incidente es la consecuencia, pero casi nunca la única causa; suele resultar de la confluencia de varios factores.</p>
+                        <p class="ai-fuente">Fuente: Recomendaciones para el análisis de incidentes con daño (Ministerio de Sanidad / SECA, 2021).</p>
+                    </aside>
+                    <div class="ai-form">
+                        <div class="ai-fila2">
+                            <div class="ai-campo">
+                                <label for="f-titulo">Título breve del caso (sin datos identificativos)</label>
+                                <input type="text" id="f-titulo" data-k="desc.titulo" maxlength="120" autocomplete="off">
+                            </div>
+                            <div class="ai-campo">
+                                <label for="f-fecha">Fecha aproximada del incidente</label>
+                                <input type="date" id="f-fecha" data-k="desc.fecha">
+                            </div>
+                        </div>
+                        <div class="ai-campo">
+                            <label for="f-ambito">Ámbito o unidad (genérico, p. ej. "planta de medicina interna", "consulta de AP")</label>
+                            <input type="text" id="f-ambito" data-k="desc.ambito" maxlength="120" autocomplete="off">
+                        </div>
+                        <div class="ai-campo">
+                            <label for="f-hecho">¿Qué ocurrió? Descripción objetiva de los hechos</label>
+                            <textarea id="f-hecho" data-k="desc.hecho" rows="5"></textarea>
+                        </div>
+                        <div class="ai-fila2">
+                            <div class="ai-campo">
+                                <label for="f-deteccion">¿Cómo y cuándo se detectó?</label>
+                                <textarea id="f-deteccion" data-k="desc.deteccion" rows="3"></textarea>
+                            </div>
+                            <div class="ai-campo">
+                                <label for="f-medidas">Medidas inmediatas adoptadas</label>
+                                <textarea id="f-medidas" data-k="desc.medidas" rows="3"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- PASO 2 -->
+                <section class="ai-paso" id="paso-2" aria-labelledby="t2" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t2" tabindex="-1">2. Clasificación</h3>
+                        <p>Clasifique según el modelo de la OMS (CISP): un incidente puede <strong>no llegar al paciente</strong> (cuasi-incidente), <strong>llegar sin daño</strong> o <strong>producir daño</strong> (evento adverso).</p>
+                        <p>La gravedad indicada aquí es orientativa. Si no lo ha hecho, <strong>notifique el incidente en notificASP</strong>, que calcula el nivel de riesgo.</p>
+                        <p class="ai-fuente">Fuentes: OMS (CISP); notificASP, guía para profesionales (Junta de Andalucía, 2023).</p>
+                    </aside>
+                    <div class="ai-form">
+                        <div class="ai-fila2">
+                            <div class="ai-campo">
+                                <label for="f-tipo">Tipo de incidente</label>
+                                <select id="f-tipo" data-k="clas.tipo">
+                                    <option value="">Seleccione...</option>
+                                    <option>Medicación</option>
+                                    <option>Caída</option>
+                                    <option>Identificación del paciente</option>
+                                    <option>Procedimiento quirúrgico o anestesia</option>
+                                    <option>Infección relacionada con la asistencia</option>
+                                    <option>Úlcera por presión / cuidados</option>
+                                    <option>Diagnóstico o pruebas (retraso, error, resultado no comunicado)</option>
+                                    <option>Dispositivo o equipamiento</option>
+                                    <option>Comunicación o transferencia de información</option>
+                                    <option>Transfusión / hemoderivados</option>
+                                    <option>Otro</option>
+                                </select>
+                            </div>
+                            <div class="ai-campo">
+                                <label for="f-frec">Frecuencia con que podría repetirse (estimación)</label>
+                                <select id="f-frec" data-k="clas.frecuencia">
+                                    <option value="">Seleccione...</option>
+                                    <option>Muy infrecuente (excepcional)</option>
+                                    <option>Poco frecuente (cada 2-5 años)</option>
+                                    <option>Ocasional (una o dos veces al año)</option>
+                                    <option>Frecuente (varias veces al año)</option>
+                                    <option>Casi seguro (la mayoría de semanas o meses)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <fieldset class="ai-grupo">
+                            <legend>¿Llegó al paciente?</legend>
+                            <label class="ai-opcion"><input type="radio" name="alcance" value="No llegó al paciente (cuasi-incidente)" data-k="clas.alcance"> No llegó al paciente (cuasi-incidente)</label>
+                            <label class="ai-opcion"><input type="radio" name="alcance" value="Llegó al paciente, sin daño" data-k="clas.alcance"> Llegó al paciente, sin daño</label>
+                            <label class="ai-opcion"><input type="radio" name="alcance" value="Llegó al paciente y causó daño (evento adverso)" data-k="clas.alcance"> Llegó al paciente y causó daño (evento adverso)</label>
+                        </fieldset>
+
+                        <fieldset class="ai-grupo">
+                            <legend>Gravedad del daño (si lo hubo)</legend>
+                            <label class="ai-opcion"><input type="radio" name="gravedad" value="Sin daño" data-k="clas.gravedad"> Sin daño</label>
+                            <label class="ai-opcion"><input type="radio" name="gravedad" value="Leve (síntomas leves, mínima intervención)" data-k="clas.gravedad"> Leve: síntomas leves o pérdida mínima de función; poca o ninguna intervención</label>
+                            <label class="ai-opcion"><input type="radio" name="gravedad" value="Moderado (requirió intervención o aumentó la estancia)" data-k="clas.gravedad"> Moderado: requirió intervención adicional o prolongó la estancia</label>
+                            <label class="ai-opcion"><input type="radio" name="gravedad" value="Grave (daño importante, riesgo vital o secuelas permanentes)" data-k="clas.gravedad"> Grave: riesgo vital, daño importante o secuelas permanentes</label>
+                            <label class="ai-opcion"><input type="radio" name="gravedad" value="Fallecimiento relacionado" data-k="clas.gravedad"> Fallecimiento relacionado con el incidente</label>
+                        </fieldset>
+
+                        <div class="ai-fila2">
+                            <fieldset class="ai-grupo">
+                                <legend>¿Notificado en notificASP?</legend>
+                                <label class="ai-opcion"><input type="radio" name="notif" value="Sí" data-k="clas.notificado"> Sí</label>
+                                <label class="ai-opcion"><input type="radio" name="notif" value="No" data-k="clas.notificado"> No</label>
+                                <label class="ai-opcion"><input type="radio" name="notif" value="Pendiente" data-k="clas.notificado"> Pendiente</label>
+                            </fieldset>
+                            <fieldset class="ai-grupo">
+                                <legend>¿Se ha informado al paciente o a su familia?</legend>
+                                <label class="ai-opcion"><input type="radio" name="inform" value="Sí" data-k="clas.informado"> Sí</label>
+                                <label class="ai-opcion"><input type="radio" name="inform" value="No" data-k="clas.informado"> No</label>
+                                <label class="ai-opcion"><input type="radio" name="inform" value="Pendiente" data-k="clas.informado"> Pendiente</label>
+                            </fieldset>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- PASO 3 -->
+                <section class="ai-paso" id="paso-3" aria-labelledby="t3" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t3" tabindex="-1">3. Cronología</h3>
+                        <p>Reconstruya la secuencia de hechos <strong>en orden temporal</strong>, desde antes del incidente hasta su detección y las medidas posteriores. Anote en cada punto qué se hizo y qué <strong>rol</strong> lo hizo (nunca nombres).</p>
+                        <p>Ver la secuencia completa ayuda a descubrir <strong>puntos de decisión</strong> y momentos en que una barrera podía haber detenido el error.</p>
+                        <p class="ai-fuente">Fuente: Protocolo de Londres, paso de reconstrucción cronológica.</p>
+                    </aside>
+                    <div class="ai-form">
+                        <div class="ai-filas-cab ai-cols-crono" aria-hidden="true"><span>Cuándo (fecha/hora o "día 1, 10:00")</span><span>Qué ocurrió</span><span>Rol implicado</span><span></span></div>
+                        <div id="filas-crono"></div>
+                        <button type="button" class="ai-btn-sec" id="add-crono"><i class="fa-solid fa-plus"></i> Añadir hecho</button>
+                    </div>
+                </section>
+
+                <!-- PASO 4 -->
+                <section class="ai-paso" id="paso-4" aria-labelledby="t4" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t4" tabindex="-1">4. Factores contribuyentes</h3>
+                        <p>Marque los factores que <strong>pudieron contribuir</strong>, por categorías (marco del Protocolo de Londres). Busque condiciones latentes del sistema, no culpables individuales.</p>
+                        <p>Puede añadir una nota en cada categoría para explicar el porqué. No hace falta marcar todas.</p>
+                        <p class="ai-fuente">Fuente: Protocolo de Londres (Vincent y Taylor-Adams); Recomendaciones del Ministerio de Sanidad, 2021.</p>
+                    </aside>
+                    <div class="ai-form">
+                        <div id="factores" class="ai-factores"></div>
+                    </div>
+                </section>
+
+                <!-- PASO 5 -->
+                <section class="ai-paso" id="paso-5" aria-labelledby="t5" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t5" tabindex="-1">5. Barreras y causas raíz</h3>
+                        <p>Una <strong>barrera</strong> es una defensa que debería haber impedido el incidente. Para cada una, indique si funcionó, falló o no existía.</p>
+                        <p>Después pregunte "¿por qué?" de forma repetida (técnica de los <strong>5 porqués</strong>) hasta llegar a causas que se puedan corregir en el sistema.</p>
+                        <p class="ai-fuente">Fuente: análisis de barreras y análisis causa-raíz (Recomendaciones del Ministerio de Sanidad, 2021).</p>
+                    </aside>
+                    <div class="ai-form">
+                        <div class="ai-subtitulo">Barreras y defensas</div>
+                        <div id="barreras" class="ai-barreras"></div>
+                        <div class="ai-campo">
+                            <label for="f-barreras-otras">Otras barreras relevantes</label>
+                            <textarea id="f-barreras-otras" data-k="barrerasOtras" rows="2"></textarea>
+                        </div>
+
+                        <div class="ai-subtitulo">Los 5 porqués</div>
+                        <div id="porques"></div>
+                        <div class="ai-campo">
+                            <label for="f-causa">Causa(s) raíz identificada(s)</label>
+                            <textarea id="f-causa" data-k="causaRaiz" rows="3"></textarea>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- PASO 6 -->
+                <section class="ai-paso" id="paso-6" aria-labelledby="t6" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t6" tabindex="-1">6. Acciones de mejora</h3>
+                        <p>Proponga acciones <strong>concretas, con responsable y plazo</strong>. Priorice las que actúen sobre el sistema (protocolos, diseño, formación, recursos) frente a las que dependen solo de la atención individual.</p>
+                        <p>Se recomienda no demorar el análisis más de <strong>30 días</strong> y hacer seguimiento de las acciones hasta su cierre. Las mejoras se incorporan al plan de calidad.</p>
+                        <p class="ai-fuente">Fuente: Recomendaciones del Ministerio de Sanidad / SECA, 2021 (listado de verificación APEA).</p>
+                    </aside>
+                    <div class="ai-form">
+                        <div class="ai-filas-cab ai-cols-acc" aria-hidden="true"><span>Acción de mejora (qué)</span><span>Responsable (cargo o unidad)</span><span>Plazo</span><span>Indicador de seguimiento</span><span></span></div>
+                        <div id="filas-acc"></div>
+                        <button type="button" class="ai-btn-sec" id="add-acc"><i class="fa-solid fa-plus"></i> Añadir acción</button>
+                    </div>
+                </section>
+
+                <!-- PASO 7 -->
+                <section class="ai-paso ai-paso-resumen" id="paso-7" aria-labelledby="t7" hidden>
+                    <aside class="ai-guia">
+                        <h3 id="t7" tabindex="-1">7. Resumen</h3>
+                        <p>Revise el resumen y, si es necesario, vuelva a cualquier paso para corregirlo. Puede <strong>imprimirlo o guardarlo como PDF</strong> desde el diálogo de impresión.</p>
+                        <p>Este resumen es un <strong>documento de trabajo</strong>. No sustituye al informe formal de análisis ni a la notificación en notificASP.</p>
+                        <div class="ai-acciones-resumen">
+                            <button type="button" class="ai-btn-prim" id="btn-imprimir"><i class="fa-solid fa-print"></i> Imprimir / guardar PDF</button>
+                        </div>
+                    </aside>
+                    <div class="ai-form">
+                        <article id="resumen" class="ai-resumen"></article>
+                    </div>
+                </section>
+
+                <div class="ai-nav">
+                    <div class="ai-borrador">
+                        <span id="estado-borrador" aria-live="polite"></span>
+                        <button type="button" class="ai-btn-borrar" id="btn-borrar"><i class="fa-solid fa-trash-can"></i> Borrar todo</button>
+                    </div>
+                    <div class="ai-nav-botones">
+                        <button type="button" class="ai-btn-sec" id="btn-ant"><i class="fa-solid fa-arrow-left"></i> Anterior</button>
+                        <button type="button" class="ai-btn-prim" id="btn-sig">Siguiente <i class="fa-solid fa-arrow-right"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Zona de impresión (copia del resumen) -->
+            <div id="zona-impresion" class="solo-print"></div>
+        </main>
+    </div>
+
+    <script src="../../../js/sidebar.js"></script>
+    <script src="analisis_incidentes.js"></script>
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
+</body>
+</html>

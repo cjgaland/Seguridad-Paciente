@@ -264,3 +264,22 @@
     transition: transform 0.15s, background 0.2s;
 }
 .btn-primary:hover { background: #d68b1a; transform: translateY(-2px); }
+/* Ordenador: dos columnas (escenario a la izquierda, mandos a la derecha) para que el juego quepa
+   entero en la ventana. El escenario es cuadrado y se ajusta a la altura disponible. */
+@media (min-width: 901px) {
+    .mt-panel:has(> .sec-wrapper) {
+        display: grid; max-width: none; width: fit-content; margin-inline: auto;
+        grid-template-columns: auto minmax(260px, 340px);
+        grid-template-areas: "esc bar" "esc kpi" "esc nav";
+        grid-template-rows: auto auto 1fr;
+        gap: 12px 24px; align-items: start;
+    }
+    .mt-panel > .sec-wrapper {
+        grid-area: esc; margin: 0; max-width: none;
+        width: clamp(300px, calc(100vh - 296px), 760px);
+    }
+    .mt-panel > .levelbar { grid-area: bar; margin: 0; flex-wrap: wrap; justify-content: flex-start; }
+    .mt-panel > .kpi { grid-area: kpi; margin: 0; flex-wrap: wrap; justify-content: flex-start; }
+    .mt-panel > .kpi .box { flex: 1 1 110px; width: auto; }
+    .mt-panel > .qz-meta { grid-area: nav; margin: 0; }
+}

@@ -1,6 +1,6 @@
 import { bancoPreguntas } from "./questions.js";
 
-export async function initQuiz({ root, saveScoreFirebase }) {
+export async function initQuiz({ root, guardarPuntuacion }) {
 
     // --- ESTADO DEL JUEGO ---
     const st = {
@@ -270,11 +270,11 @@ export async function initQuiz({ root, saveScoreFirebase }) {
         clearInterval(st.timerInterval);
         st.enPausa = true;
 
-        // Guardar en Firebase (si la función existe)
-        if (typeof saveScoreFirebase === "function") {
+        // Guardar puntuación (si la función existe)
+        if (typeof guardarPuntuacion === "function") {
             try {
                 // Guardamos el nivel exacto y el tiempo empleado (60 - restante)
-                await saveScoreFirebase(st.nivel, st.puntos, (60 - st.tiempoTotal)); 
+                await guardarPuntuacion(st.nivel, st.puntos, (60 - st.tiempoTotal)); 
             } catch (e) { console.error(e); }
         }
 

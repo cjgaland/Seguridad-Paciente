@@ -1,0 +1,285 @@
+Autoría   
+Paloma Trillo López. Asesora técnica de la Estrategia para la Seguridad del Paciente del SSPA. Consejería de Salud y Consumo.  
+Elena Corpas Nogales. Escuela Andaluza de Salud Pública. Consejería de Salud y C onsumo.  
+Estrategia para la Seguridad del Paciente del Sistema Sanitario Público de Andalucía. 2023   
+ 
+ 
+ 
+ 
+Cómo hacer una  notificación  
+Formulario ciudadanía  
+Actualización notificASP  2023 _v1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  2 | 14 
+ 
+ 
+ 
+ 
+CÓMO REALIZAR UNA NOTIFICACIÓN: Formulario para la ciudadanía . ................................ .......  3 
+1. Inicio de la Notificación  ................................ ................................ ................................ .........  4 
+2. Incidente  ................................ ................................ ................................ ................................  6 
+3. Paciente  ................................ ................................ ................................ ................................ . 8 
+4. Mejoras  ................................ ................................ ................................ ...............................  10 
+5. Finalización de la notificación  ................................ ................................ .............................  11 
+Seguimiento de la notificación  ................................ ................................ ................................  13 
+ 
+ 
+ 
+     
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  3 | 14 
+ 
+CÓMO REALIZAR UNA NOTIFICACIÓN: Formulario para la 
+ciudadanía.  
+El acceso a notificASP está en webESSPA   
+https://www.seguridadpaciente.es/notificasp  
+En el menú principal seleccionamos el formulario” Notificación para ciudadanía ” 
+ 
+ 
+El cuestionario se divide en 5 apartados:  
+ 
+ 
+ 
+ 
+1. Inicio de la notificación
+2. Incidente
+3. Paciente 
+4. Mejoras
+5. Finalización notificación   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  4 | 14 
+ 
+ 
+1. Inicio de la Notificación  
+Para comenzar la notificación , seleccionamos la categoría del incidente que queremos 
+notificar. 
+ 
+Estas categorías vienen  determinada s por la Clasificación Internacional para la Seguridad 
+del Paciente de la Organización Mundial de la Salud, teniendo en cuenta el principal 
+aspecto y/o parte del proceso con el que están relacionados , y con las diferentes líneas que 
+recoge la Estrategia par a la Seguridad del Paciente de Andalucía : 
+Accidente del paciente (excluye caídas ) Ej. contusión, penetración, mecanismo térmico, compromiso 
+respiratorio, exposición a productos químicos, etc.  
+Atención telemática   
+Caídas  Ej. tropiezo, resbalón, desplome, pérdida de equilibrio,  etc. 
+Centros coordinación  061  Proceso de atención especifico 061  
+Conducta - Comportamiento    
+Diagnóstico    
+Dieta - Alimentación  Ej. prescripción, petición, elaboración, presentación, reparto, 
+entrega, administración, almacenamiento, etc.  
+Dispositivos del paciente (tubos, sondas,  
+accesos vasculares, etc .)   
+Documentación  Ej. Peticiones, historias clínicas, registros de valoración, hojas de 
+interconsulta, formularios, certificados, consentimientos 
+informados, listados de verificación, informes, resultados, 
+imágenes, cartas, email, notificaciones, procedimientos, 
+protocolos,  notas informativas, etc. 
+Equipamiento electro médico    Ej. disponibilidad, embalaje, presentación, adecuación, 
+funcionamiento, limpieza, esterilidad, etc.  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  5 | 14 
+ 
+Fuga   
+Identificación    
+Infección asociada a la asistencia sanitaria    
+Infraestructura - instalaciones  Ej. disponibilidad, adecuación, funcionamiento, etc.  
+Inmovilización de pacientes - contenciones    
+Medicación  Ej. prescripción, trascripción, validación, preparación, envasado, 
+administración, monitorización, almacenamiento, conservación, 
+etc. 
+Procedimiento quirúrgico  Todo lo relacionado con el circuito específico quirúrgico  
+Proceso administrativo  Ej. citas, listas de espera, derivaciones, admisiones, altas, 
+traslados, etc.  
+ 
+Proceso asistencial  Ej. Atención general, tareas de screening, prevención o 
+chequeo, anamnesis, exploración, valoración clínica…  
+Pruebas de laboratorio  Ej. Laboratorio, anatomía patológica etc.  
+Pruebas de radiología  Ej. Radiodiagnóstico, radioterapia, medicina nuclear, etc  
+Sangre y productos sanguíneos   Ej. desviaciones en los procedimientos establecidos en el 
+proceso de la transfusión: muestras, solicitudes, prescripciones, 
+laboratorio, administración, etc.  
+Transporte / traslados    
+   
+Seleccionar la categoría del incidente le ayuda al gestor a poder hacer  gestión global de 
+los incidentes notificados en la unidad. En está nueva versión del formulario, se pueden 
+seleccionar hasta tres categorías, ya que , a veces, los incidentes pueden estar relacionados 
+con más de una categoría exclusiva.  
+ 
+ 
+ 
+ 
+ 
+    
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  6 | 14 
+ 
+ 
+2. Incidente  
+Una vez clicamos en siguiente  y llegamos al apartado “Incidente”, obtenemos el código 
+localizador de nuestra notificación, que debemos guardar por si tenemos que interrumpir  
+la notificación para poder terminarla después.  
+Descripción del incidente  
+En este apartado, el primer aspecto fundamental es “Describir el incidente” de forma clara 
+y con detalle lo que ha sucedido: que ha pasado, cómo se produjo, cómo se descubrió el 
+incidente y qué medidas se tomaron para reparar las consecuencias del inciden te, siempre 
+manteniendo la confidencialidad de los datos personales del paciente y profesionales.  
+ 
+En la siguiente pregunta , podemos incluir la fecha y hora real o aproximada del incidente, 
+esta información nos ayuda a detectar franjas vulnerables en el sistema. Además, también 
+es muy importante notificar lo antes posible lo que sucede, ya que con el tiempo se olvidan 
+los detalles de lo sucedido.  
+ 
+El otro aspecto fundamental de este apartado es la “Localización del incidente”. Para poder 
+hacer  una gestió n local del mismo es importante localizar donde se ha detectado o 
+sucedido el incidente.  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  7 | 14 
+ 
+ 
+Si conocemos el nombre de la unidad, podemos escribirla directamente .  
+En el caso de l as unidades de  distritos de atención primaria, que  suelen tener nombres de 
+poblaciones únicas , es muy útil.  En el caso de las unidades genéricas, como las unidades 
+de atención hospitalaria , ej. Anestesia, cirugía digestiva etc. , recomendamos que se utilicen 
+los filtros de provincia y/o centro, que va a ay udar a reducir el listado que muestre el 
+desplegable.  
+Si no tenemos claro el nombre de la unidad a la que queremos notificar, seleccionamos 
+provincia /  centro y nos despliega todas las unidades que dispone ese centro.  
+Si queremos indicar que este incidente  puede afectar a todo el centro directivo, una vez 
+seleccionada la unidad que lo ha detectado o donde ha ocurrido el incidente, tenemos una 
+casilla de texto libre donde podemos indicarlo. Asimismo, en esta casilla también podemos  
+especificar el área donde ha ocurrido , en muchas ocasiones una misma unidad asistencial 
+dispone de varias ubicaciones físicas (planta de hospitalización, consultas, salas específicas, 
+salas de espera, etc.) 
+ 
+Y, por último, en este apartado, indicamos quien ha detectado el incident e: 
+ 
+ 
+ 
+  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  8 | 14 
+ 
+ 
+3. Paciente  
+En primer lugar,  valoramos el grado del daño que le ha causado al paciente:  
+ 
+Las opciones de respuesta son:  
+• Ninguno, no le ha causado daño,  pero podría haberlo causado  
+• El paciente requiere observación o tratamiento menor o un mínimo daño: primeros 
+auxilios, monitorización extra  o medicación adicional.  
+• El paciente requiere un procedimiento o  tratamiento adicional o prolongó 
+hospitalización a consecuencia del incidente:  intervención quirúrgica, 
+reintervención, reingreso no planeada, incremento de tiempo de cuidados, tiempo 
+extra de hospitalización o como paciente externo, cancelación del tratamiento, 
+transferencia a otra área como la de cuidados intensivos, etc.  
+• Otro tipo d e daño: describir  (puede ser daño físico o psicológico ) 
+A continuación, si se ha seleccionado que se ha producido un daño, se realizan dos 
+preguntas sobre  las características del paciente  implicado en el incidente:  
+ 
+• Edad del paciente: se puede introducir la edad exacta o, cuando no se conozca este  
+dato, incluir un rango de edad aproximado.  
+• Sexo del paciente: seleccionar entre las opciones que aparecen.  
+Por último , en este apartado, indicamos , si el profesional sanitario conoce lo ocurrido, si 
+nos han informado de lo sucedido y de las medidas tomadas para resolver el incidente:  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  9 | 14 
+ 
+ 
+  
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  10 | 14 
+ 
+ 
+4. Mejoras  
+Este apartado es opcional , pero esta información puede ser de ayuda p ara e l gestor, en 
+base a su perspectiva, que mejoras podrían ponerse en marcha para evitar que vuelva a 
+ocurrir  algo similar  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  11 | 14 
+ 
+ 
+ 
+5. Finalización de la notificación  
+Para finalizar la notificación indicamos quién realiza la notificación:  
+ 
+De manera opcional, puede dejar su correo electrónico para contactar en caso de necesitar 
+información adicional que ayude a gestionar el incidente. Asimismo, servirá para 
+comunicarle las acciones de mejora propuestas por los gestores relacionadas con su 
+notificación.   Dado el carácter anónimo de la notificación, sus datos de contacto se 
+borrarán automáticamente una vez analizado el riesgo o incidente.  
+ 
+Una vez ya tengamos toda la notificación cumplimentada , clicamos en finalizar . 
+ 
+Nos saldrá un aviso rec ordando que, a partir de aquí, una vez enviada la notificación no 
+podremos modificar el contenido de la misma.  
+ 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  12 | 14 
+ 
+Cuando se finaliza  la notificación,  aparece la pantalla resum en donde podemos comprobar 
+que nuestra notificación se ha registrado correctamente. Además, en la pantalla resumen 
+podremos realizar las siguientes acciones:  
+• Copiar el localizador de la notificación.  
+• Imprimir en PDF el localizador de la notificación.  
+• Genera r y descargar un informe de la notificación en formato PDF.  
+• Enviar el localizador a la dirección de correo deseada.  
+ 
+Le recomendamos que guarde el código localizador  de la notificación, ya que este código  
+le permite hacer un seguimiento de la gestión de la misma . 
+También l e recomendamos que c onsulte periódicamente el estado de la notificación, el 
+gestor le puede solicitar información adicional que le ayude a gestionar el incidente.  
+En la pantalla resumen , en la parte derecha  existe un apartado se “Sugeren cias” donde nos 
+pueden sugerir o  proponer  mejoras al sistema de notificación . 
+ 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  13 | 14 
+ 
+Seguimiento  de la notificación  
+En la pantalla inicial de notificASP, existe una casilla que se denomina:  “Consultar o 
+continuar una notificación”, donde escribiremos el código localizador que previamente 
+hemos guardado / copiado cuando creamos la notificación , donde podremos realizar el 
+seguimiento anónimo de una notificación  
+ 
+Al “consultar” la notificación podremos volver a ver el informe de nuestra notificación y ver 
+el estad o de la notificación:  
+• Nuevo: La notificación del incidente remitido ha sido recibida en la unidad/centro.  
+• En estudio: El incidente está siendo evaluado por la unidad/centro, para analizar sus 
+causas y posibles medidas correctoras.  
+• Implementación de acciones de mejora: El centro/unidad está poniendo en marcha 
+las medidas correctoras establecidas tras el análisis del incidente.  
+• Resuelto: Todas las medidas propuestas previamente han sido aplicadas 
+satisfactoriamente.  
+En el caso de l os incidentes estén e n estado “ implementación de acciones de mejora o 
+resuelto ”, podremos ver las acciones de mejora que la unidad/centro han puesto en marcha 
+tras el análisis del incidente.  
+ 
+En caso de que el gestor , tras analizar la notificación, requiera información adicio nal al 
+notificante , que le pueda ayudar a entender lo sucedido , aparecerá una casilla donde el 
+notificante de forma anónima y voluntaria pueda aportar dicha información . 
+   
+n o t i f i c A S P _ C ó m o  h a c e r  u n a  n o t i f i c a c i ó n  c i u d a d a n í a  14 | 14 
+ 
+ 

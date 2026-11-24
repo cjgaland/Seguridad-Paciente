@@ -1,0 +1,875 @@
+RESOURCE CONSIDERATIONS 
+FOR INVESTING IN HAND 
+HYGIENE IMPROVEMENT IN 
+HEALTH CARE FACILITIESResource considerations for investing in hand hygiene improvement in health care facilities
+ISBN 978-92-4-002588-2 (electronic version)
+ISBN 978-92-4-002589-9 (print version)
+© World Health Organization 2021
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO 
+licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo ).
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the 
+work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses 
+any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you 
+must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you 
+should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health 
+Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be 
+the binding and authentic edition”. 
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the 
+World Intellectual Property Organization ( http://www.wipo.int/amc/en/mediation/rules/ ).
+Suggested citation. Resource considerations for investing in hand hygiene improvement in health care facilities. Geneva: 
+World Health Organization; 2021. Licence: CC BY-NC-SA 3.0 IGO .
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iri s.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for 
+commercial use and queries on rights and licensing, see  http://www.who.int/about/licensing .
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or 
+images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the 
+copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely 
+with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the 
+expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or 
+of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent 
+approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or 
+recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the 
+names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the 
+published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the 
+interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.
+Graphic design by Maraltro.Contents
+IV
+1
+1
+1
+1
+2
+2
+3
+5
+5
+6
+6
+7
+8
+8
+9
+10
+10
+11
+11
+12
+13
+13
+14
+15
+16Acknowledgements
+Part 1. Introduction
+1.1 Focus and purpose
+1.2 Intended audience
+1.3 Background
+1.4 Brief overview of the MMIS
+1.5 How health facilities can understand their situation and address all five 
+elements of the MMIS
+1.6 Using this document
+Part 2. Needs and resource considerations for implementation of MMIS
+Table 1. System change (Build it)
+Tools to support estimation of required resources
+Other supporting actions
+Table 2. Training and Education (teach it)
+Tools to support estimation of required resources
+Other supporting actions
+Table 3. Monitoring and feedback (check it)
+Tools to support estimation of required resources
+Other supporting actions
+Table 4. Reminders and communications (sell it)
+Tools to support estimation of required resources
+Other supporting actions
+Table 5. Safety climate/culture change (live it)
+Tools to support estimation of required resources
+Other supporting actions
+References
+AnnexIVThis document was developed by the World Health Organization (WHO) Department of Integrated 
+Health Services (Universal Health Coverage and Life Course division). WHO gratefully acknowledges the 
+contributions that many individuals and organizations have made to the development of this document. 
+Overall coordination, writing and design of the document  
+Benedetta Allegranzi (Department of Integrated Health Services, WHO) and Julie Storr (IPC consultant, 
+United Kingdom) coordinated and led the development of this document; Julie Storr led the writing.
+The following staff and experts contributed to the content development and review of the document 
+and are gratefully acknowledged. 
+Alessandro Cassini (Department of Integrated Health Services, WHO), Michele Cecchini (Public Health, 
+Organisation for Economic Co-operation and Development), Ana Paula Coutinho- Rehse (WHO Regional 
+Office for Europe), Claire Kilpatrick (IPC consultant, United Kingdom), Andrew Mirelman (Department of 
+Health Governance and Financing, WHO), Margaret Montgomery (Water, Sanitation, Hygiene and Health 
+Unit, WHO), Ece Özçelik (Public Health, Organisation for Economic Co-operation and Development), 
+Pierre Parneix (Nouvelle Aquitaine, Healthcare-Associated Infection Control Centre, France), Anthony 
+Twyman (Department of Integrated Health Services, WHO), Anne-Gaëlle Venier (National Support 
+Mission for Healthcare-associated Infection Prevention, France), Dr. Lee Yew Fong ( Sarawak General 
+Hospital, Ministry of Health, Malaysia).Acknowledgements11Introduction
+Investment in all the drivers and facilitators of hand hygiene action in health care to ensure that 
+it occurs at the point of care and other critical moments requires a multidisciplinary, multifaceted 
+approach. WHO describes such an approach as a “multimodal improvement strategy”  (MMIS) which 
+is at the core of its implementation models for hand hygiene and infection prevention and control (IPC) 
+programmes. 
+The focus of this document is on the resource considerations  for investing in hand hygiene 
+improvement in health care (primary, secondary and tertiary) using the MMIS approach. It presents the 
+inputs (such as equipment, supplies and activities) required to:
+• estimate the investments needed to implement and sustain a comprehensive hand hygiene 
+programme based on the MMIS; and 
+• support health workers to perform hand hygiene at the point of care and at other important times 
+for safe, high-quality care. 
+Where available, costing and other relevant tools that can aid in the estimation of required resources 
+are listed.
+The document strengthens the narrative around the overall resources required to develop and 
+implement hand hygiene improvements in health care using an MMIS. Strengthening this narrative will 
+also support related work of the WHO and United Nations Children’s Fund (UNICEF) Hand Hygiene for 
+All Global Initiative, launched in 2020 (1).
+The intended audience of this publication includes policy-makers, senior facility managers, infection 
+prevention and control (IPC) leads, planners and others involved in developing and implementing hand 
+hygiene improvement programmes at the primary and secondary/tertiary care level.
+Improving hand hygiene in health care is one of the key areas of focus of the global WHO/UNICEF Hand 
+Hygiene for All Initiative ; in 2020 this was reinforced with new recommendations calling to action 
+Member States to achieve universal access to hand hygiene  in the context of COVID-19 (1, 2). This 
+builds on over a decade of work by WHO on providing guidance and tools for improvement of hand 
+hygiene in health carea.
+Hand hygiene in health care is a modifiable behavioural intervention, and the MMIS is a well 
+established WHO approach (1). It is presented as part of the WHO’s minimum requirements for IPC (3) 1.1 Focus and purpose
+1.2 Intended audience
+1.3 Background
+a https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene 2and within the guidelines on core components of IPC programmes (4) as an evidence-based strategy to 
+improve hand hygiene (5), among other IPC interventions, at all levels. It was initially conceived in the 
+context of WHO’s hand hygiene guidelines (6) and related implementation tools (7). 
+The MMIS comprises five synergistic elements*, each of which is essential and complementary. They 
+must all be in place, to some degree, as part of interventions to achieve outcome improvements and 
+optimal hand hygiene behavioural change.
+The MMIS is grounded in behavioural science  and incorporates different constructs of multiple 
+behavioural models, including the Health Belief Model and the Theory of Planned Behaviour (6). These 
+models reinforce the need for the five elements that comprise the strategy:
+ 
+• system change
+• training and education
+• monitoring and feedback
+• reminders in the workplace/communications
+• safety climate/culture change. 
+To aid understanding, these MMIS elements can be simplified to just five words: build, teach, check, sell 
+and live.1.4 Brief overview of the MMIS
+* See Annex.The MMIS has proved to be highly effective, leading to a significant improvement in hand 
+hygiene compliance and other key hand hygiene indicators and a reduction in health care-
+associated infections and antimicrobial resistance (4-6,8), as well as having played an 
+important role in contributing to stop outbreaks. Multimodal hand hygiene improvement 
+programmes are also highly cost saving (9). 
+Implementation of the MMIS requires resources  at the initial planning and implementation phase 
+(including capital/infrastructure and ongoing costs), as well as for assessing its impact and ongoing costs 
+over a multiyear period. This is needed to sustain hand hygiene interventions and behaviours that will 
+help prevent health care-associated infections and antimicrobial resistance, as part of an IPC programme.
+The WHO Hand Hygiene Self-Assessment Framework (10) is a diagnostic tool  that provides a situation 
+analysis of the state of the hand hygiene programme/activities within an individual health care facility, 
+according to the five elements of the MMIS.  It can provide key information, if used on a regular 
+basis, to support decision-making on the actions and associated resources required for hand hygiene 
+improvement, no matter what the context. The Framework provides information on the extent to which 
+each of the five elements of the MMIS are being met. It therefore supports incremental improvement 1.5 How health facilities can understand their situation and address all five elements of 
+the MMIS3and, inherently, behaviour change. The Framework has been used to inform three global surveys on hand 
+hygiene improvement based on the MMIS (11).
+The MMIS is relevant to all countries, but the approach and the required inputs will be different 
+in each individual case, guided by the results derived from the Hand Hygiene Self-Assessment 
+Framework. The percentage of resources to be allocated to each of the five elements of the MMIS 
+depends on the local situation. Taking the example of system change , weaknesses/deficits – such 
+as lack of access to hand hygiene products – can be identified using the Framework, irrespective of 
+the income level of a country.
+In order for the intended audience to both consider and estimate all the resources required, Tables 
+1–5 provide prompts for those working at the national, subnational and facility levels by supporting 
+them to estimate the associated costs. The tables highlight what should be in place for each of the 
+five elements of the MMIS and the associated resource considerations – both set-up and ongoing – for 
+primary and secondary/tertiary care settings. They also list tools to support estimation of required 1.6 Using this documentAll these weaknesses/deficits negatively affect the ability of health workers to clean their hands 
+at the point of care, but at a different order of magnitude. In addition, all elements of the MMIS are 
+equally important and thus, each one of them should be assessed and improved in different aspects 
+depending on the local situation, including resources available and cultural factors. The Hand 
+Hygiene Self-Assessment Framework again enables plans to be developed to bridge these gaps and 
+achieve incremental improvements. 
+In situations such as the least-developed countries example above, the majority of costs will initially 
+be on system change. Even at the outset, however, resource considerations should be given to the 
+other elements of the MMIS: each element must be addressed to support the requisite long-term 
+behaviour change  in the target audience of the hand hygiene programme. 
+The precise composition of IPC teams on the ground will also vary by country. The IPC team 
+composition will be important to take into account when considering resource requirements. • In least-developed countries  where half of health-care facilities lack basic water 
+services, “system change” to provide hand hygiene facilities will be the first element 
+of the MMIS to be prioritized and weaknesses will be likely to relate to the water 
+infrastructure, and costs will be centred around this. Costs in this situation should also 
+immediately address alcohol-based handrub (ABHR), which can support hand hygiene 
+improvement while water services are being addressed, as well as facilitating hand 
+hygiene at the point of care on an ongoing basis. Local production of ABHR formulations 
+in national, subnational or hospital pharmacies or by private companies is strongly 
+encouraged (as recommended by WHO guidance), especially if commercial options are 
+limited or too costly (2).
+• In many low- and middle-income countries , system change weaknesses have been 
+found to include lack of continuous availability of clean water, soap and ABHR, as well as 
+maintenance issues, such as broken taps, missing handles and leaking pipes (12). 
+• In high-income countries , a continuous supply of clean running water is likely to be the 
+norm, yet weaknesses may still be present, such as a lack of ABHR dispensers at each 
+point of care or systems to replenish stocks of ABHR regularly. 4resources, including costing toolsc where they are available. WHO’s CHOosing Interventions that are 
+Cost-Effective (WHO-CHOICE) Costing Interventions templates (CostIt)d (13) is not included, but the 
+intended audience might find this a useful tool to consult at the start of the process of development 
+and implementation of hand hygiene improvement programmes. Each table concludes with a number 
+of other supporting actions. This is summarized in Fig. 1.
+b Note, the tools included across Tables 1–5 are those that support cost estimates to be made in relation to hand hygiene improvement. 
+Academic studies on the costing or cost–effectiveness of hand hygiene interventions are not included as “tools”.
+c CostIt software helps the user calculate the economic costs of interventions, but it can also be used to estimate financial costs. It provides a 
+set of separate templates for reporting and analysis of costs at the programme, hospital and primary health facility.Fig. 1. Summary of the MMIS tables
+Table 1.  
+System change 
+(Build it)Table 2.  
+Training
+and Education
+(Teach it)Table 3.  
+Monitoring 
+and feedback
+(Check it)Table 4.  
+Reminders and
+communications
+(Sell it)Table 5.  
+Safety climate/
+culture change 
+(Live it)
+What the tables contain
+For each element of the MMIS the tables present:
+• what should be in place
+• resource considerations (set-up and ongoing)
+• tools to support estimation of required resources
+• other supporting actions
+Level of the health system
+The tables address: 
+• primary care
+• secondary/tertiary care52Needs and resource considerations for implementation of MMIS
+Table 1.  System change (Build it)
+GOAL
+Health workers, patients and visitors are able to access hand hygiene infrastructure 
+and productse
+WHAT SHOULD BE IN PLACERESOURCE CONSIDERATIONS 
+(SET UP AND ONGOING)
+Human resources
+• A trained IPC officer at the next 
+administrative level (e.g. district) to support 
+primary care facilities to ensure that all the 
+infrastructures listed below are reliably/
+sustainably in place 
+Water supply
+• Supply available from a source on the 
+premises, e.g. a deep borehole or a treated, 
+safely managed piped water supply
+Soap and towels or other hand drying 
+methods
+• At the point of care 
+• Where personal protective equipment (PPE) 
+is put on or taken off
+• Where health care waste is handled
+• Within 5 metres of toilets, entrances and 
+exits of health-care facilities, waiting and 
+dining rooms, and other public areas
+ABHR  
+• At the point of care
+• Within 5 metres of toilets
+• Where PPE is put on/taken off
+• Where health care waste is handled
+• At entrances and exits of health-care 
+facilities, waiting and dining rooms, and other 
+public areas
+Human resources
+• At least one full-time equivalent (FTE) trained 
+IPC focal point (nurse or doctor) per 250 beds in 
+charge of ensuring that all the infrastructures 
+listed below are in place, as part of his/her roleAt the primary care level
+• Numbers and types of personnel required to 
+ensure hand hygiene products are available, 
+operational and maintained where required 
+At the next administrative level (e.g. district)
+• Quantities and types of materials and 
+equipment for installation, operation and 
+maintenance (O&M) of a high-quality water 
+supply
+• Numbers and types of personnel for 
+installation and O&M of water supply
+• Quantity and unit costs of soap, towels and 
+dispensers
+• Quantity and unit costs of ABHR
+• Costs associated with production and 
+distribution – local, central or commercial – 
+of ABHR
+• Costs associated with waste management/
+recycling of ABHR containers
+• Handling costs – e.g. tariffs/customs 
+associated with ABHR and other hardware 
+• Ability to produce and make available policies 
+and procedures
+• Quantities and types of materials and 
+equipment for installation and O&M of water 
+supply
+• Numbers and types of personnel for 
+installation and O&M of water supply
+• Numbers and type of personnel required 
+to ensure that hand hygiene products are PRIMARY CARESECONDARY 
+AND TERTIARY CARE
+d According to the WHO/UNICEF coverage indicators (14), to achieve basic services, water should be available from an improved source 
+on the premises, and hygiene should be functional and available at points of care and within 5 metres of toilets (with water and soap 
+and/or ABHR).6Water supply
+• A safe and sufficient quantity of water 
+available and piped inside the facility at all 
+times – at a minimum to high-risk wards (for 
+example, maternity ward, operating rooms 
+and intensive care unit)
+Soap/towels or other hand drying methods
+• At the point of care 
+• Where PPE is put on or taken off
+• Where health care waste is handled
+• Within 5 metres of toilets, entrances and 
+exits of health-care facilities, waiting and 
+dining rooms, and other public areas
+ 
+ABHR 
+• At the point of care
+• At toilets and service areas (for example, the 
+decontamination unit)
+• Within 5 metres of toilets
+• Where PPE is put on/taken off
+• Where health care waste is handled
+• At entrances and exits of health-care 
+facilities, waiting and dining rooms, and other 
+public areasavailable and maintained where required 
+• Quantity and unit costs of soap, towels and 
+dispensers
+• Quantity and unit costs of appropriate hand 
+wash basins
+• Quantity and unit costs of ABHR
+• Costs associated with production and 
+distribution (local, central or commercial) of 
+ABHR (raw materials, equipment, dispensing 
+and personnel salary costs for local 
+production)
+• Costs associated with waste management/
+recycling of ABHR containers
+• Handling costs – e.g. tariffs/customs 
+associated with ABHR and other hardware 
+• Ability to produce and make available policies 
+and procedures
+Tools to support estimation of required resources
+• Hand Hygiene Self-Assessment Framework 2010. Geneva: World Health Organization; 2010 ( https://www.
+who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Guide to implementation: a guide to the implementation of the WHO multimodal hand hygiene improvement 
+strategy. Geneva: World Health Organization; 2009 ( https://www.who.int/publications/i/item/a-guide-to-the-
+implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy ). This includes template action 
+plans (also available at: https://www.who.int/campaigns/world-hand-hygiene-day/clean-hands-2012 ). See 
+section II.1 for a full list of resources.
+• Global progress report on water, sanitation and hygiene in health care facilities: fundamentals first. Chapter 
+6: An investment opportunity. Geneva: World Health Organization; 2020 ( https://www.who.int/publications/i/
+item/9789240017542 ).
+• Alcohol-based Handrub planning and costing tool. Geneva: World Health Organization; 2010 ( https://www.
+who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Ward infrastructure survey. Geneva: World Health Organization; 2009 ( https://www.who.int/teams/integrated-
+health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Soap/handrub consumption survey. Geneva: World Health Organization; 2009 ( https://www.who.int/teams/
+integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Water and Sanitation for Health Facility Improvement Tool (WASH FIT): a practical guide for improving quality 
+of care through water, sanitation and hygiene in health care facilities. Geneva: World Health Organization; 
+2017 ( https://apps.who.int/iris/handle/10665/254910 ). 
+• Guide to local production: WHO-recommended handrub formulations. Geneva: World Health Organization; 
+2010 ( https://www.who.int/publications/i/item/WHO-IER-PSP-2010.5 ).
+• Technical guide for handwashing facilities in public places and buildings. In: WaterAid [website]. London: 
+WaterAid; 2021 ( https://washmatters.wateraid.org/publications/technical-guide-for-handwashing-facilities-
+in-public-places-and-buildings ).
+Other supporting actions  
+• Use of the Hand Hygiene Self-Assessment Framework to understand the current situation and identify local gaps 
+regarding system change
+• Collection of information on:
+ -numbers of beds/points of care to be equipped with hand hygiene facilities (and other critical areas: preparing 
+medication, donning/doffing of PPE and so on)
+ -numbers of health workers and associated salaries
+ -numbers of anticipated hand hygiene opportunities per time period (based on, for example, workflow analysis)
+ -people responsible for ensuring ongoing O&M of systems
+ -local producers of ABHR and regional, national and international companies and distributors
+• Development of a hand hygiene improvement action plan using WHO’s Guide to implementation and template 
+action plans SECONDARY AND TERTIARY CAREWHAT SHOULD BE IN PLACERESOURCE CONSIDERATIONS 
+(SET UP AND ONGOING)7Table 2.  Training and Education (teach it)
+GOAL
+Health workers, patients and visitors are trained on why and when hand hygiene is 
+needed and how to perform it appropriately
+WHAT SHOULD BE IN PLACERESOURCE CONSIDERATIONS 
+(SET UP AND ONGOING)
+Human resources
+• A trained IPC link person with dedicated 
+(part-time) availability to deliver training
+Programmes
+• A funded programme for all health workers 
+(at all levels) to be trained on why, when 
+and how to ensure hand hygiene, at least 
+annually 
+• Training materials, as necessary
+Human resources
+• Trained IPC team member(s) or at least one 
+FTE trained IPC focal point (nurse or doctor) 
+per 250 beds in charge of delivering training, 
+as part of his/her role
+Programmes
+• A funded programme 
+• All health workers trained on why, when and 
+how to ensure hand hygiene, at least annually 
+(a minimum 2-hour training session) • Numbers and types of personnel required to 
+undertake needs assessments and training, 
+including who, how many and where they will 
+be sourced – this role may be included within 
+an IPC programme budget and may not be 
+listed as a separate cost, depending on the 
+setting
+• Personnel required to update training 
+materials
+• Personnel to determine whether training will 
+be delivered locally or centrally (e.g. through 
+online mechanisms) 
+• Personnel required to translate/adapt 
+training materials
+• Quantity and type of training materials, 
+including a schedule to be made widely 
+available (paper or electronic) and printing
+• Training venue
+• Per diem – e.g. for travel required to deliver/
+receive training 
+• Numbers and types of personnel required 
+to undertake regular training sessions, 
+including who, how many and where they will 
+be sourced – this role may be included within 
+an IPC programme budget and may not be 
+listed as a separate cost, depending on the 
+setting
+• Personnel required to update training 
+materials
+• Personnel to determine whether training 
+will be developed and delivered locally or 
+centrally (e.g. through online mechanisms)
+• Personnel required to translate/adapt 
+training materials
+• Quantity and type of training materials, 
+including a schedule to be made widely 
+available (paper or electronic) and printing – 
+including a hand hygiene technical reference 
+manual
+• Information technology (IT) and internet 
+access – e.g. to enable training videos to be 
+shown to participants and remote training to 
+take place
+• Training venue
+• Per diem – e.g. for travel required to deliver/
+receive trainingPRIMARY CARE SECONDARY AND TERTIARY CARE8Tools to support estimation of required resources
+• Hand Hygiene Self-Assessment Framework 2010. Geneva: World Health Organization; 2010 ( https://www.
+who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Guide to implementation: a guide to the implementation of the WHO multimodal hand hygiene improvement 
+strategy. Geneva: World Health Organization; 2009 ( https://www.who.int/publications/i/item/a-guide-to-the-
+implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy ). This includes template action 
+plans (also available at: https://www.who.int/campaigns/world-hand-hygiene-day/clean-hands-2012 ). See 
+sections II.2 and III.1 for a full list of resources.
+• Water and Sanitation for Health Facility Improvement Tool (WASH FIT): a practical guide for improving quality 
+of care through water, sanitation and hygiene in health care facilities. Geneva: World Health Organization; 
+2017 ( https://apps.who.int/iris/handle/10665/254910 ). 
+• OpenWHO training courses (including those on standard precautions and hand hygiene): Infection Prevention & 
+Control. In: OpenWHO [website]. Geneva: World Health Organization; 2021 ( https://openwho.org/channels/ipc ). 
+• Education session for trainers, observers and health workers. Geneva: World Health Organization; 2018 
+(https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/
+training-tools ).  
+• Hand hygiene training films and slides accompanying the training films. Geneva: World Health Organization; 
+2009 ( https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/
+training-tools ).
+Other supporting actions  
+• Use of the Hand Hygiene Self-Assessment Framework to understand the current situation and identify gaps 
+regarding training and education
+• Collection of information on:
+ - numbers and type of health workers to be trained, and associated salaries
+ - people responsible for ensuring both up-to-date materials and delivery of training
+ - Internet access
+ - IT requirements and/or other practical props
+ - printing requirements
+ - overheads
+ - training room/venue costs
+• Development of a training action plan using WHO’s Guide to implementation and template action plans 9Table 3.  Monitoring and feedback (check it)
+GOAL
+Health care workers are monitored and given feedback on their compliance with 
+best practices care and highlights of good performance and areas for improvement
+WHAT SHOULD BE IN PLACERESOURCE CONSIDERATIONS 
+(SET UP AND ONGOING)
+Human resources
+• A trained IPC officer at the next 
+administrative level (e.g. district) 
+to support primary care facilities 
+to monitor hand hygiene structural 
+and process indicators
+Human resources
+• Trained IPC team member(s) or at 
+least one FTE trained IPC focal point 
+(nurse or doctor) per 250 beds in 
+charge of periodic or continuous 
+monitoring (at least annual) of hand 
+hygiene process and structure, and 
+timely and regular feedback, as part 
+of their roleAt the next administrative level (e.g. district)
+• Numbers and types of personnel (who, how many and 
+where they will be sourced) required to undertake:
+ -periodic or continuous observational monitoring 
+and feedback (at least annually) – this role may be 
+included within an IPC programme budget and may 
+not be listed as a separate cost, depending on the 
+setting
+ -periodic use of the WHO Hand Hygiene Self-
+Assessment Framework
+ -data entry, report writing and feedback to 
+stakeholders and managers
+• Quantity and types of tools and supportive materials 
+for monitoring IPC structural and process indicators 
+and presenting results – e.g. printing if paper forms/
+reports used; IT requirements if electronic data used, 
+including internet access
+• Per diem – e.g. for travel required to deliver/receive 
+training – this role may be included within an IPC 
+programme budget and may not be listed as a 
+separate cost, depending on the setting
+• Numbers and types of personnel (who, how many and 
+where they will be sourced) and associated salaries 
+required to undertake:
+ -periodic or continuous observational monitoring 
+and feedback (at least annually): between 150 
+and 200 opportunities for hand hygiene should 
+be observed in each surveyed unit (department, 
+service or ward) – this role may be included within 
+an IPC programme budget and may not be listed as 
+a separate cost, depending on the setting
+ -periodic use of the WHO Hand Hygiene Self-
+Assessment Framework
+ -data entry, report writing and feedback to 
+stakeholders and managers
+• Numbers and types of personnel to be trained on 
+observational methodology
+• Quantity and types of tools and supportive materials 
+for monitoring IPC structural and process indicators 
+and presenting results – e.g. printing if paper forms/
+reports used; IT requirements if electronic data used, 
+including internet access
+• Costs associated with automated monitoring systems, 
+if used
+• Per diem – e.g. for travel required to deliver/receive 
+training – this role may be included within an IPC 
+programme budget and may not be listed as a 
+separate cost, depending on the settingPRIMARY CARE SECONDARY AND TERTIARY CARE10Tools to support estimation of required resources
+• Hand Hygiene Self-Assessment Framework 2010. Geneva: World Health Organization; 2010 ( https://www.
+who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Guide to implementation: a guide to the implementation of the WHO multimodal hand hygiene improvement 
+strategy. Geneva: World Health Organization; 2009 ( https://www.who.int/publications/i/item/a-guide-to-the-
+implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy ). This includes template action 
+plans (also available at: https://www.who.int/campaigns/world-hand-hygiene-day/clean-hands-2012 ). See 
+section II.3 for a full list of resources.
+• Water and Sanitation for Health Facility Improvement Tool (WASH FIT): a practical guide for improving quality 
+of care through water, sanitation and hygiene in health care facilities. Geneva: World Health Organization; 
+2017 ( https://apps.who.int/iris/handle/10665/254910 ).
+• Hand hygiene technical reference manual. Geneva: World Health Organization; 2009 ( https://www.who.int/
+teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Observation form. Geneva: World Health Organization; 2009 ( https://www.who.int/teams/integrated-health-
+services/infection-prevention-control/hand-hygiene/monitoring-tools ).
+• Data entry analysis tools. Geneva: World Health Organization; 2009 ( https://www.who.int/teams/integrated-
+health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Protocol for surgical site infection surveillance with a focus on settings with limited resources. Geneva: 
+World Health Organization; 2018 ( https://www.who.int/publications/i/item/protocol-for-surgical-site-
+infection-surveillance-with-a-focus-on-settings-with-limited-resources ). 
+Other supporting actions  
+• Use of the Hand Hygiene Self-Assessment Framework to understand the current situation and identify gaps 
+regarding monitoring and feedback
+• Collection of information on:
+ - numbers of wards/units/primary health facilities to be monitored
+ - numbers and types of health workers to be trained, and associated salaries
+ - IT requirements
+ - printing requirements
+ - training rooms/venue costs
+• Development of a hand hygiene monitoring action plan (outlining units to be surveyed) using WHO’s Guide to 
+implementation and template action plans 11Table 4.  Reminders and communications (sell it)
+GOAL
+Health workers, patients and visitors are reminded about when and how to perform 
+hand hygiene, and good communications are made to promote hand hygiene  
+WHAT SHOULD BE 
+IN PLACERESOURCE CONSIDERATIONS 
+(SET UP AND ONGOING)
+Human resources
+• Trained IPC link person 
+with responsibility for 
+ensuring reminders 
+and communications 
+are in place
+Human resources
+• At least one FTE 
+trained IPC focal point 
+(nurse or doctor) per 
+250 beds in charge of 
+ensuring reminders 
+and communications 
+are in place, as part of 
+his/her roleAt the next administrative level (e.g. district)
+• Numbers and types of personnel (who, how many and where they 
+will be sourced) required to:
+ -display/refresh posters and other communication methods on 
+why, when and how to ensure hand hygiene
+ -distribute hand hygiene leaflets and other communications – e.g. 
+mailing costs
+ -undertake audits of posters/reminders
+ -support periodic local, national and international hand hygiene 
+campaigns
+• Quantity and types of posters/leaflets and other communications 
+messages and requirements for adaptation and printing (including 
+translation to local languages)
+• Internet access 
+• Numbers and type of personnel (who, how many and where they 
+will be sourced) required to:
+ -display/refresh posters and other communication methods on 
+why, when and how to ensure hand hygiene
+ -distribute hand hygiene leaflets and other communications – e.g. 
+mailing costs
+ -undertake audits of posters/reminders
+ -support periodic local, national and international hand hygiene 
+campaigns
+ -set up and maintain webpages, screen savers, radio messages, 
+podcasts and other media
+ -determine the need for and source (as required) specialist 
+communications input
+• Quantity and types of posters/leaflets and other communications 
+messages
+• Requirements for adaptation and printing (including translation to 
+local languages) and estimated costs
+• Internet access
+• Social media messages
+Tools to support estimation of required resources
+• Hand Hygiene Self-Assessment Framework 2010. Geneva: World Health Organization; 2010 ( https://www.
+who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Guide to implementation: a guide to the implementation of the WHO multimodal hand hygiene improvement 
+strategy. Geneva: World Health Organization; 2009 ( https://www.who.int/publications/i/item/a-guide-to-the-
+implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy ). This includes template action 
+plans (also available at: https://www.who.int/campaigns/world-hand-hygiene-day/clean-hands-2012 ). See 
+section II.4 for a full list of resources.
+• Water and Sanitation for Health Facility Improvement Tool (WASH FIT): a practical guide for improving quality 
+of care through water, sanitation and hygiene in health care facilities. Geneva: World Health Organization; 
+2017 ( https://apps.who.int/iris/handle/10665/254910 ). PRIMARY CARE SECONDARY AND TERTIARY CARE12Other supporting actions  
+• Use of the Hand Hygiene Self-Assessment Framework to understand the current situation and identify gaps 
+regarding reminders and communications
+• Collection of information on:
+ - numbers of wards/units/primary care facilities where posters will be displayed
+ - IT requirements
+ - printing requirements
+ - translation requirements
+• Development of a hand hygiene reminders and communications action plan (outlining printing requirements 
+and overheads) using WHO’s Guide to implementation and template action plans 13Table 5.  Safety climate/culture change (live it)
+GOAL
+Health workers and patients are nurtured and supported in a milieu that values 
+hand hygiene, including allocation of a budget for hand hygiene
+WHAT SHOULD BE IN PLACERESOURCE CONSIDERATIONS 
+(SET UP AND ONGOING)
+Human resources
+• A trained IPC officer at the 
+next administrative level (e.g. 
+district) to secure leadership 
+commitment and action on 
+hand hygiene improvement 
+within primary care
+• A trained IPC link person 
+with dedicated (part-time) 
+availability to advocate for 
+hand hygiene 
+Human resources
+• At least one FTE trained IPC 
+focal point (nurse or doctor) 
+per 250 beds in charge 
+of securing leadership 
+commitment and action on 
+hand hygiene improvement, as 
+part of his/her roleProportion of costs listed for the next administrative level 
+(e.g. district) (see secondary and tertiary care row, below) 
+• Includes costs of hand hygiene coordinators/project 
+managers overseeing improvement at the primary care 
+level, leadership time to be a role model for and champion 
+hand hygiene
+• Numbers and types of personnel (e.g. hand hygiene 
+coordinators/project managers) to: 
+ -direct/coordinate hand hygiene improvement plans
+ -coordinate a hand hygiene improvement team, including 
+monthly meetings
+ -secure senior leadership commitment
+ -establish hand hygiene leaders/champions and role 
+models across all disciplines
+ -develop newsletters
+ -undertake baseline assessments (including of barriers 
+and levers); develop and implement action plans 
+ -develop (innovative) leadership and patient inclusive 
+communications/information – e.g. advocacy videos
+ -develop and implement reward schemes/incentives – 
+e.g. free participation in training or conferences, awards 
+ -participate in and lead on local, national and 
+international hand hygiene campaigns
+• Time of senior leaders/managers and other stakeholders 
+to attend meetings (virtual and in person) if considered 
+necessary in the setting (may be already considered part of 
+the role, depending on the culture)
+• Meeting rooms for high-level meetings to secure support 
+from leadership
+• Printing of action plans, leaflets, newsletters and other 
+materials 
+Tools to support estimation of required resources
+• Hand Hygiene Self-Assessment Framework 2010. Geneva: World Health Organization; 2010 ( https://www.
+who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools ). 
+• Guide to implementation: a guide to the implementation of the WHO multimodal hand hygiene improvement 
+strategy. Geneva: World Health Organization; 2009 ( https://www.who.int/publications/i/item/a-guide-to-
+the-implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy ). This includes template 
+action plans (also available at: https://www.who.int/campaigns/world-hand-hygiene-day/clean-hands-2012 ) 
+and template letters to advocate hand hygiene to managers and to communicate hand hygiene initiatives to 
+managers. See section II.5 for a full list of resources.  PRIMARY CARE SECONDARY AND TERTIARY CARE14• Water and Sanitation for Health Facility Improvement Tool (WASH FIT): a practical guide for improving quality 
+of care through water, sanitation and hygiene in health care facilities. Geneva: World Health Organization; 
+2017 ( https://apps.who.int/iris/handle/10665/254910 ).
+Other supporting actions  
+• Use of the Hand Hygiene Self-Assessment Framework to understand the current situation and identify gaps 
+regarding safety climate/culture change
+• Collection of information on:
+ - key stakeholders (leaders/champions/role models) to be targeted, and associated salaries
+ - IT requirements
+ - printing requirements
+• Development of a hand hygiene engagement action plan (outlining units to be surveyed) using WHO’s Guide 
+to implementation and template action plans 151. Hand hygiene for all initiative: improving access and behaviour in health care facilities. Geneva: 
+World Health Organization; 2021 ( https://www.who.int/publications/i/item/9789240011618 ).
+2. Recommendations to Member States to improve hand hygiene practices to help prevent the 
+transmission of the COVID-19 virus. Geneva: World Health Organization; 2020 ( https://www.
+who.int/publications/i/item/recommendations-to-member-states-to-improve-hand-hygiene-
+practices-to-help-prevent-the-transmission-of-the-covid-19-virus ). 
+3. Minimum requirements for infection prevention and control (IPC) programmes. Geneva: World 
+Health Organization; 2019 ( https://www.who.int/publications/i/item/9789241516945 ).
+4. Guidelines on core components of infection prevention and control programmes at the national 
+and acute health care facility level. Geneva: World Health Organization; 2016 ( https://www.who.int/
+publications/i/item/9789241549929 ).
+5. Allegranzi B, Gayet-Ageron A, Damani N, Bengaly L, McLaws ML, Moro ML et al. Global 
+implementation of WHO’s multimodal strategy for improvement of hand hygiene: a quasi-
+experimental study. Lancet Infect Dis. 2013;13:843–51.
+6. WHO guidelines on hand hygiene in health care. Geneva: World Health Organization; 2009 ( https://
+www.who.int/publications/i/item/9789241597906 ). 
+7. Guide to implementation: a guide to the implementation of the WHO multimodal hand hygiene 
+improvement strategy. Geneva: World Health Organization; 2009 ( https://www.who.int/
+publications/i/item/a-guide-to-the-implementation-of-the-who-multimodal-hand-hygiene-
+improvement-strategy ). 
+8. Luangasanatip N, Hongsuwan M, Limmathurotsakul D, Lubell Y, Lee AS, Harbarth S, et al. 
+Comparative efficacy of interventions to promote hand hygiene in hospital: systematic review and 
+network meta-analysis. BMJ 2015; 28;351:h3728.
+9. OECD (2018), Stemming the Superbug Tide: Just A Few Dollars More, OECD Publishing, Paris. 
+https://doi.org/10.1787/9789264307599-en
+10. Hand Hygiene Self-Assessment Framework 2010. Geneva: World Health Organization; 2010 
+(https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-
+hygiene/monitoring-tools ). 
+11. Kilpatrick C, Tartari E, Gayet-Ageron A, Storr J, Tomczyk S, Allegranzi B, et al. Global hand hygiene 
+improvement progress: two surveys using the WHO Hand Hygiene Self-Assessment Framework. J 
+Hosp Infect 2018;100:202-206.
+12. Global progress report on water, sanitation and hygiene in health care facilities: fundamentals 
+first. Geneva: World Health Organization; 2020 ( https://www.who.int/publications/i/
+item/9789240017542 ).
+13. Cost effectiveness and strategic planning (WHO-CHOICE): CostIt. In: World Health Organization 
+[website]. Geneva: World Health Organization; 2021 ( https://www.who.int/choice/toolkit/cost_it/en/ ).
+14. Core questions and indicators for monitoring WASH in health care facilities in the Sustainable 
+Development Goals. Geneva: World Health Organization and United Nations Children’s Fund; 2018 
+(https://www.who.int/water_sanitation_health/publications/core-questions-and-indicators-for-
+monitoring-wash/en/ ). 
+Note: all URLs accessed 12 April 2021.ReferencesANNEX: IMPROVING HAND 
+HYGIENE THROUGH A 
+MULTIMODAL STRATEGY
+REMINDERS 
+IN THE WORKPLACE/
+COMMUNICATIONS
+(Sell it )
+• Posters, stickers, visual and vocal 
+prompts, banners, screensavers.  
+They can continually prompt and remind  
+health workers about the importance of 
+hand hygiene and the indications when to 
+perform it. 
+• They also help to involve patients and 
+their visitors and inform them of the level 
+of care they should expect from health 
+workers with regards to hand hygiene.SAFETY 
+CLIMATE/CULTURE 
+CHANGE
+(Live it )MONITORING AND 
+FEEDBACK OF HAND 
+HYGIENE INDICATORS
+(Check it )
+• Regular monitoring and evaluation 
+(ideally using standardized tools) of 
+hand hygiene infrastructures (location of 
+facilities at the point of care, consumption 
+of soap and alcohol-based hand rubs), 
+including knowledge of and compliance 
+with best practices. 
+• Providing regular feedback  to health 
+workers and senior management using 
+local data is a very powerful approach to 
+raise awareness and achieve improvement 
+of practices.• Creating an organizational environment 
+that prioritizes high compliance with hand 
+hygiene to achieve patient and health 
+worker safety. 
+• At the institutional level,  this should 
+include the allocation of resources  for 
+hand hygiene programmes and clear 
+messages of support  for hand hygiene 
+from leaders  within the institution, setting 
+benchmarks or targets, and having hand 
+hygiene champions. 
+• At an individual level,  the aim is to 
+ensure that health workers identify hand 
+hygiene as a priority  that reflects their 
+commitment to do no harm to patients. 
+Partnering with patients and patient 
+organizations to promote hand hygiene may 
+also promote a climate of patient safety, 
+but should be undertaken sensitively and 
+in close consultation with key stakeholders, 
+including health workers and patient 
+representatives.SYSTEM CHANGE
+(Build it )
+TRAINING 
+AND EDUCATION
+(Teach it )• Achievement of continuous availability of 
+the necessary infrastructure, materials 
+and equipment to effectively perform hand 
+hygiene at the point of care. 
+• This includes the reliable and 
+uninterrupted provision of alcohol-based 
+hand rub at the point of care,  continuous 
+supplies of safe, clean water, soap, single-
+use towels, and an adequate number of 
+functioning sinks.
+• Tailored education and practical training 
+of clinical staff, patients and visitors  
+about the importance of hand hygiene to 
+better understand when and how it should 
+be performed. 
+• Education should also address all other 
+health workers, including hospital 
+administrators, cleaning personnel and 
+community health workers.Use the five elements 
+to drive improvement
+All elements are essential  and 
+complementary.
+The five critical elements  to 
+be implemented as part of an 
+infection prevention and control 
+programme at the health care 
+facility level, in an integrated 
+manner, can be simplified as: 
+Build it; Teach it; Check it; Sell it 
+and Live it (see visual).
+Track progress 
+• Track progress over time 
+through use of the Hand 
+Hygiene Self-Assessment 
+Framework.
+• The Framework is a 
+diagnostic tool,  identifying 
+strengths and gaps requiring 
+improvement across each of 
+the five elements.WHO’s multimodal hand hygiene improvement strategy
+• Effective hand hygiene improvement programmes can prevent up to 50% avoidable infections acquired during 
+health care delivery and generate economic savings on average 16 times the cost of implementation.
+• The multimodal improvement strategy is highly effective, leading to significant improvement of key hand hygiene 
+indicators in health care facilities. It comprises five elements.
+• Implementing a multimodal strategy leads to a reduction of health care-associated infections and antimicrobial 
+resistance, and substantially helps to stop outbreaks.

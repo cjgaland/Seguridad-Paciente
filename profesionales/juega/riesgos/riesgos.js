@@ -1,10 +1,10 @@
 // ======================================================
 //   Juego: Identificación de Riesgos - Versión 3.0
-//   Autor: Carlos (con ayuda de Gemini)
+//   Autor: Carlos J. Galán Doval
 //   Mejoras: Feedback inmediato, Resumen visual, UX pulida
 // ======================================================
 
-export async function initGame({ root, saveScoreFirebase }) {
+export async function initGame({ root, guardarPuntuacion }) {
 
     // --- CONFIGURACIÓN DE IMÁGENES Y ESCENARIOS ---
     const IMGS = {
@@ -286,8 +286,8 @@ export async function initGame({ root, saveScoreFirebase }) {
         if(win) st.puntos += Math.ceil(st.t*10);
 
         // Guardar score
-        if(typeof saveScoreFirebase === "function"){
-            try{ await saveScoreFirebase(st.escenario, st.puntos, Math.round(st.t)); }
+        if(typeof guardarPuntuacion === "function"){
+            try{ await guardarPuntuacion(st.escenario, st.puntos, Math.round(st.t)); }
             catch(e){ console.error(e); }
         }
 

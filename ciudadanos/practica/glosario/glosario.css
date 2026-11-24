@@ -1,0 +1,73 @@
+/* ==========================================
+   DICCIONARIO DE TÉRMINOS MÉDICOS
+   ========================================== */
+
+.tool-page .sidebar-label { padding: 0 10px 5px; font-size: 0.85rem; color: #8A5B00; font-weight: bold; text-transform: uppercase; }
+.tool-page .sidebar-link { text-decoration: none; margin-top: 5px; }
+.tool-page .sidebar-link[aria-current="page"] { background: #FFC96E; }
+.tool-page .sidebar-group-end { margin-top: 20px; border-top: 1px solid #F2C273; padding-top: 20px; }
+.tool-page .sidebar-back { background-color: #FFE4B3; }
+.tool-page a:focus-visible, .tool-page button:focus-visible, .tool-page input:focus-visible,
+.tool-page [tabindex]:focus-visible { outline: 3px solid #1d4ed8; outline-offset: 2px; }
+
+/* Escritorio: la página no se desplaza, solo la caja de resultados */
+@media (min-width: 901px) {
+    body.tool-page { height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+    .tool-page .sp-layout { flex: 1; min-height: 0; }
+    .tool-page .sidebar { overflow-y: auto; }
+    .tool-page .glos-main { display: flex; flex-direction: column; min-width: 0; min-height: 0; padding: 14px 24px; }
+    .tool-page .top-bar { margin-bottom: 10px; }
+    .tool-page .top-bar h2 { font-size: 1.4rem; }
+}
+
+.aviso-fijo { display: flex; gap: 10px; align-items: flex-start; text-align: left; margin: 0 0 12px; padding: 8px 12px; background: #fff7ed; border: 1px solid #fdba74; border-left: 5px solid #f97316; border-radius: 8px; font-size: 0.9rem; color: #7c2d12; }
+.aviso-fijo i { margin-top: 3px; }
+
+.glos-grid { display: grid; grid-template-columns: 300px 1fr; gap: 20px; flex: 1; min-height: 0; text-align: left; }
+
+.glos-filtros { background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px 14px; overflow-y: auto; min-height: 0; }
+.glos-label { display: block; font-weight: 700; font-size: 0.85rem; color: #444; margin: 12px 0 6px; text-transform: uppercase; letter-spacing: 0.4px; }
+.glos-label:first-child { margin-top: 0; }
+
+.glos-busqueda { position: relative; }
+.glos-busqueda i { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: #6b7280; }
+.glos-busqueda input { width: 100%; box-sizing: border-box; padding: 11px 12px 11px 34px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 1rem; }
+.glos-busqueda input:focus { border-color: #f97316; }
+
+.glos-cats { display: flex; flex-direction: column; gap: 4px; }
+.glos-cat { display: flex; align-items: center; gap: 8px; text-align: left; background: #fff; border: 1px solid #d1d5db; border-radius: 8px; padding: 6px 10px; font-size: 0.9rem; color: #374151; cursor: pointer; }
+.glos-cat i { width: 18px; text-align: center; color: #c2410c; }
+.glos-cat .n { margin-left: auto; font-size: 0.8rem; color: #6b7280; }
+.glos-cat:hover { background: #fff7ed; border-color: #fdba74; }
+.glos-cat[aria-pressed="true"] { background: #c2410c; border-color: #9a3412; color: #fff; }
+.glos-cat[aria-pressed="true"] i, .glos-cat[aria-pressed="true"] .n { color: #fff; }
+
+.glos-letras { display: flex; flex-wrap: wrap; gap: 4px; }
+.glos-letra { min-width: 30px; height: 28px; padding: 0 4px; background: #fff; border: 1px solid #d1d5db; border-radius: 6px; font-weight: 700; font-size: 0.9rem; color: #374151; cursor: pointer; }
+.glos-letra:hover:not(:disabled) { background: #fff7ed; border-color: #fdba74; }
+.glos-letra[aria-pressed="true"] { background: #c2410c; border-color: #9a3412; color: #fff; }
+.glos-letra:disabled { color: #9ca3af; background: #f3f4f6; cursor: not-allowed; }
+
+.glos-limpiar { margin-top: 14px; width: 100%; background: #fff; border: 1px solid #9ca3af; color: #374151; border-radius: 8px; padding: 9px; cursor: pointer; font-size: 0.92rem; }
+.glos-limpiar:hover { background: #f3f4f6; }
+
+.glos-resultados { display: flex; flex-direction: column; min-height: 0; min-width: 0; }
+.glos-cabecera { font-size: 0.9rem; color: #4b5563; margin-bottom: 6px; min-height: 1.2em; }
+.glos-lista { flex: 1; min-height: 0; overflow-y: auto; padding: 2px 6px 6px 2px; display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 12px; align-content: start; }
+
+.glos-card { background: #fff; border: 1px solid #e5e7eb; border-top: 4px solid #f97316; border-radius: 10px; padding: 12px 14px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.glos-card h3 { margin: 0 0 2px; font-size: 1.08rem; color: #1f2937; }
+.glos-tag { display: inline-block; font-size: 0.75rem; color: #7c2d12; background: #ffedd5; border-radius: 10px; padding: 1px 8px; margin-bottom: 6px; }
+.glos-card p { margin: 0; font-size: 0.95rem; line-height: 1.45; color: #374151; }
+.glos-consejo { margin-top: 8px !important; padding: 7px 9px; background: #ecfdf5; border-left: 4px solid #059669; border-radius: 6px; color: #064e3b !important; font-size: 0.9rem !important; }
+.glos-consejo i { margin-right: 4px; }
+.glos-card mark { background: #fde68a; color: #111; padding: 0 1px; border-radius: 2px; }
+.glos-vacio { grid-column: 1 / -1; text-align: center; color: #6b7280; padding: 40px 10px; font-style: italic; }
+
+/* Móvil y tablet */
+@media (max-width: 900px) {
+    .glos-grid { grid-template-columns: 1fr; }
+    .glos-lista { grid-template-columns: 1fr; overflow: visible; }
+    .glos-cats { flex-direction: row; flex-wrap: wrap; }
+    .glos-main { max-width: 100%; overflow-x: hidden; }
+}

@@ -1,134 +1,43 @@
 // ======================================================
 //  MÓDULO CENTRAL DE PUNTUACIONES (scores.js)
-//  Guarda y recupera puntuaciones en una sola colección
-//  /scores  (un documento por partida)
+//  Misma interfaz que antes (saveScore, getRanking...), pero
+//  ahora apoyado en almacen.js: sin servicios externos.
 // ======================================================
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js";
-import { 
-    getFirestore, 
-    collection, 
-    addDoc, 
-    query, 
-    orderBy, 
-    getDocs, 
-    where,
-    limit
-} from "https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js";
+import { guardar, listar, descripcionModo } from "./almacen.js";
 
-// Configuración de tu proyecto Firebase
-const firebaseConfig = {
-    apiKey: "AIzaSyA3QGjEZuBySF_UFhAT1c51FGOMTnnQ49Q",
-    authDomain: "seguridadpaciente-f0860.firebaseapp.com",
-    projectId: "seguridadpaciente-f0860",
-    storageBucket: "seguridadpaciente-f0860.firebasestorage.app",
-    messagingSenderId: "394227294182",
-    appId: "1:394227294182:web:5bd4cc318ea4d9cf9ac027"
-};
+const COLECCION = "scores";
 
-// Inicializar Firebase y Firestore
-const app = initializeApp(firebaseConfig);
-const db  = getFirestore(app);
+export { descripcionModo };
 
-// ======================================================
-//  GUARDAR UNA PUNTUACIÓN
-//  saveScore(juego, nivel, jugador, puntuacion, tiempo)
-// ======================================================
+/** saveScore(juego, nivel, jugador, puntuacion, tiempo) */
 export async function saveScore(juego, nivel, jugador, puntuacion, tiempo = null) {
-    try {
-        const fecha = new Date().toISOString();
-
-        await addDoc(collection(db, "scores"), {
-            juego,
-            nivel,
-            jugador,
-            puntuacion,
-            fecha,
-            tiempo
-        });
-
-        // console.log("Puntuación guardada correctamente");
-        return true;
-
-    } catch (error) {
-        console.error("Error guardando puntuación:", error);
-        return false;
-    }
+    return guardar(COLECCION, { juego, nivel, jugador, puntuacion, tiempo });
 }
 
-// ======================================================
-//  OBTENER RANKING POR JUEGO Y NIVEL
-//  getRanking("riesgos", "nivel1")
-// ======================================================
+function ordenar(lista, maxResultados) {
+    return lista
+        .sort((a, b) => (b.puntuacion || 0) - (a.puntuacion || 0))
+        .slice(0, maxResultados);
+}
+
+/** Ranking de un juego y nivel: getRanking("riesgos", "nivel1") */
 export async function getRanking(juego, nivel, maxResultados = 20) {
-    try {
-        const q = query(
-            collection(db, "scores"),
-            where("juego", "==", juego),
-            where("nivel", "==", nivel),
-            orderBy("puntuacion", "desc"),
-            limit(maxResultados)
-        );
-
-        const snap = await getDocs(q);
-        const ranking = [];
-
-        snap.forEach(doc => ranking.push(doc.data()));
-
-        return ranking;
-
-    } catch (error) {
-        console.error("Error obteniendo ranking:", error);
-        return [];
-    }
+    const todos = await listar(COLECCION);
+    return ordenar(todos.filter(s => s.juego === juego && s.nivel === nivel), maxResultados);
 }
 
-// ======================================================
-//  RANKING GLOBAL DE UN JUEGO (todos los niveles)
-// ======================================================
+/** Ranking de un juego (todos los niveles) */
 export async function getGlobalRanking(juego, maxResultados = 20) {
-    try {
-        const q = query(
-            collection(db, "scores"),
-            where("juego", "==", juego),
-            orderBy("puntuacion", "desc"),
-            limit(maxResultados)
-        );
-
-        const snap = await getDocs(q);
-        const ranking = [];
-
-        snap.forEach(doc => ranking.push(doc.data()));
-
-        return ranking;
-
-    } catch (error) {
-        console.error("Error obteniendo ranking global:", error);
-        return [];
-    }
+    const todos = await listar(COLECCION);
+    return ordenar(todos.filter(s => s.juego === juego), maxResultados);
 }
 
-// ======================================================
-//  HISTORIAL COMPLETO DE UN JUGADOR
-// ======================================================
+/** Historial de un jugador, del más reciente al más antiguo */
 export async function getPlayerStats(jugador) {
-    try {
-        const q = query(
-            collection(db, "scores"),
-            where("jugador", "==", jugador),
-            orderBy("fecha", "desc")
-        );
-
-        const snap = await getDocs(q);
-        const historial = [];
-
-        snap.forEach(doc => historial.push(doc.data()));
-
-        return historial;
-
-    } catch (error) {
-        console.error("Error obteniendo historial del jugador:", error);
-        return [];
-    }
+    const todos = await listar(COLECCION);
+    return todos
+        .filter(s => s.jugador === jugador)
+        .sort((a, b) => String(b.fecha).localeCompare(String(a.fecha)));
 }
 

@@ -5,9 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resultados · Percepción Ciudadana</title>
 
-    <link rel="icon" type="image/png" href="../../../assets/images/icons/favicons/favicon_32.png">
-    
-   <link rel="stylesheet" href="../../../css/style(ciudadanos).css">
+    <link rel="icon" type="image/png" sizes="16x16"  href="../../../assets/images/icons/favicons/favicon_16.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../../../assets/images/icons/favicons/favicon_32.png">
+    <link rel="icon" type="image/png" sizes="48x48"  href="../../../assets/images/icons/favicons/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="64x64"  href="../../../assets/images/icons/favicons/favicon_64.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="../../../assets/images/icons/favicons/favicon_128.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/images/icons/favicons/favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/images/icons/favicons/favicon_192.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="../../../assets/images/icons/favicons/favicon_256.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../../assets/images/icons/favicons/favicon_512.png">
+    <link rel="stylesheet" href="../../../css/style(ciudadanos).css">
     <link rel="stylesheet" href="resultados.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
@@ -17,15 +24,16 @@
 <body>
 
     <header class="sp-header">
-        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" class="sp-logo">
+        <img src="../../../assets/images/icons/logos/logo_Estrategia.png" alt="Estrategia para la Seguridad del Paciente" class="sp-logo">
         <h1 class="sp-title">Estrategia para la Seguridad del Paciente</h1>
-        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" class="sp-logo-right">
+        <img src="../../../assets/images/icons/logos/logo_CSPyE.svg" alt="Junta de Andalucía. Consejería de Sanidad, Presidencia y Emergencias" class="sp-logo-right">
     </header>
 
     <main class="sp-main">
         
         <div class="top-bar">
             <h2><i class="fa-solid fa-square-poll-vertical" style="color:#0ea5e9;"></i> Termómetro de Seguridad (Ciudadanía)</h2>
+            <p id="avisoAlmacen" class="aviso-almacen" role="note"></p>
             <div class="actions">
                 <a href="autotest.html" class="btn-home"><i class="fa-solid fa-arrow-left"></i> Volver a la Encuesta</a>
             </div>
@@ -108,29 +116,6 @@
 
         </div>
 
-        <div class="chart-card" style="margin-top: 30px; border-left: 5px solid #0ea5e9;">
-            <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px;">
-                <h3 style="margin:0; border:none; color: #0284c7;">
-                    <i class="fa-solid fa-robot" style="color:#0ea5e9; margin-right:10px;"></i> 
-                    Analista de Experiencia (IA)
-                </h3>
-                <button id="btn-analizar-ia" class="btn-refresh" style="background:#0ea5e9; color:white; border:none;">
-                    <i class="fa-solid fa-wand-magic-sparkles"></i> Analizar Resultados
-                </button>
-            </div>
-
-            <div id="ia-loading" style="display:none; text-align:center; padding: 40px; color:#666;">
-                <i class="fa-solid fa-circle-notch fa-spin" style="font-size: 2rem; color:#0ea5e9; margin-bottom:15px;"></i>
-                <p>Analizando la voz de los pacientes para detectar puntos de mejora...</p>
-            </div>
-
-            <div id="ia-result" class="ia-content" style="display:none; padding: 10px; line-height: 1.6; color: #333;"></div>
-            
-            <div id="ia-disclaimer" style="display:none; margin-top: 20px; font-size: 0.8rem; color: #999; text-align: center; border-top: 1px solid #eee; padding-top: 10px;">
-                * Informe generado por IA basado en los datos agregados de las encuestas ciudadanas.
-            </div>
-        </div>
-
     </main>
 
     <footer class="sp-footer">
@@ -138,5 +123,6 @@
     </footer>
 
     <script type="module" src="resultados.js"></script>
+    <script type="module" src="../../../js/core/actualizaciones.js"></script>
 </body>
 </html>
