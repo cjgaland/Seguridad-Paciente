@@ -1,5 +1,10 @@
 # Historial de versiones
 
+## 2.2.0 — 24/11/2026
+- Rediseño de escritorio (`css/escritorio.css`): las 44 pantallas caben enteras a 1280×720, 1440×900 y 1920×1080, repartidas en columnas. El móvil no cambia.
+- Infografías de higiene de manos ampliables.
+- Manual de usuario en PDF (se regenera con `Documentación/Manual/fuentes/generar_manual.sh`).
+
 ## 2.1.0 — 24/11/2026
 - Ordenador: la página no se desplaza (cabecera fija; solo se mueve la caja de contenido). Juegos de imagen en dos columnas.
 - Imágenes optimizadas: de 28 MB a 8,5 MB (originales en `Archivo/imagenes_originales`).

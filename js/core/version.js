@@ -2,9 +2,18 @@
 // AL PUBLICAR UNA VERSIÓN: cambiar VERSION aquí, añadir la entrada en HISTORIAL,
 // poner el mismo número en /version.json y anotarlo en CHANGELOG.md.
 
-export const VERSION = "2.1.0";
+export const VERSION = "2.2.0";
 
 export const HISTORIAL = [
+    {
+        version: "2.2.0",
+        fecha: "2026-11-24",
+        cambios: [
+            "Todas las pantallas caben enteras en la ventana del ordenador, sin desplazarse: el contenido se reparte en columnas (simuladores, listas de comprobación, escalas, encuestas, estadísticas, higiene de manos, medicación…).",
+            "Las infografías de higiene de manos se pueden abrir a tamaño completo pulsando sobre ellas.",
+            "El manual de usuario se descarga ahora en PDF."
+        ]
+    },
     {
         version: "2.1.0",
         fecha: "2026-11-24",

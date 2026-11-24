@@ -1,0 +1,246 @@
+/* =========================================================
+   ESCRITORIO: CADA PANTALLA CABE ENTERA (v2.2.0)
+   Reglas solo para ordenador (≥ 901 px). Reparten el contenido
+   en columnas y compactan alturas para que no haga falta
+   desplazarse a 1280×720, 1440×900 ni 1920×1080.
+   Lo importa css/style.css; el prefijo «body» da prioridad sobre
+   la hoja propia de cada pantalla. El móvil no se toca.
+   ========================================================= */
+@media (min-width: 901px) {
+
+    /* ---------- Comunes ---------- */
+    body .top-bar { margin-bottom: 10px; }
+    body .main-intro { margin: 0 0 10px; max-width: none; }
+    body > .sp-main > .sp-footer,
+    body .main-content > .sp-footer { display: none; }   /* el pie institucional está en la portada y en Ayuda */
+
+    /* ---------- Paneles Aprende / Practica (tarjetas) ---------- */
+    body .learn-grid, body .tools-grid { gap: 14px; margin-top: 8px; }
+    body .learn-card .card-header { height: auto; min-height: 0; padding: 14px 0; }
+    body .learn-card .card-header i { font-size: 2rem; }
+    body .learn-card .card-body { padding: 12px 16px 14px; }
+    body .learn-card .card-body h3 { margin: 0 0 6px; font-size: 1.05rem; }
+    body .learn-card .card-body p { margin: 0 0 10px; font-size: .9rem; line-height: 1.4; }
+    body .tool-card { padding: 16px 18px; }
+    body .tool-card .tool-icon { width: 44px; height: 44px; margin-bottom: 8px; }
+    body .tool-card .tool-icon i { font-size: 1.3rem; }
+    body .tool-card h3 { margin: 0 0 6px; font-size: 1.05rem; }
+    body .tool-card p { margin: 0 0 10px; font-size: .9rem; line-height: 1.4; }
+
+    /* ---------- Casos clínicos (menú) ---------- */
+    body .case-grid { gap: 14px; }
+    body .case-card-menu .card-icon { height: 54px; font-size: 1.6rem; }
+    body .case-card-menu .card-content { padding: 10px 16px 12px; }
+    body .case-card-menu .card-content h3 { margin: 0 0 4px; font-size: 1.02rem; }
+    body .case-card-menu .card-content p { margin: 0 0 8px; font-size: .88rem; line-height: 1.35; }
+
+    /* ---------- Ciudadanía › Comunicación: tres tarjetas en fila ---------- */
+    body .comm-container { max-width: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; align-items: start; }
+    body .comm-container .final-tip { grid-column: 1 / -1; margin: 0; }
+    body .comm-container .comm-card { margin: 0; }
+
+    /* ---------- Higiene de manos (Ciudadanía): texto a la izquierda, infografía a la derecha ---------- */
+    body .tabs-container { max-width: none; }
+    body .tabs-header .tab-btn { padding-block: 10px; }
+    body .tabs-content { padding: 14px 18px; }
+    body .tab-pane.active { display: flex; gap: 18px; align-items: flex-start; }
+    body .tab-pane .info-box { flex: 0 0 260px; max-width: 260px; margin: 0; flex-direction: column; }
+    body .tab-pane .info-img, body .tab-pane a.info-zoom { flex: 1 1 auto; min-width: 0; }
+    body .tab-pane .info-img { width: auto; max-width: 100%; max-height: calc(100vh - 325px); object-fit: contain; display: block; margin: 0 auto; }
+    body .tab-pane a.info-zoom { display: block; cursor: zoom-in; }
+
+    /* ---------- Medicación: tarjetas más bajas ---------- */
+    body .section-title { margin: 8px 0 6px; font-size: 1.05rem; }
+    body .flip-grid { gap: 12px; margin-bottom: 4px; }
+    body .flip-card { height: calc((100vh - 400px) / 2); min-height: 120px; max-height: 220px; }
+    body .flip-card-front i { font-size: 1.8rem; margin-bottom: 6px; }
+    body .flip-card-back { padding: 10px 14px; font-size: .9rem; }
+    body .tips-box { padding: 10px 16px; margin-top: 4px; }
+    body .tips-box .tip-icon { width: 44px; height: 44px; }
+
+    /* ---------- Paciente activo / Proceso ---------- */
+    body .steps-interactive { max-width: 1100px; }
+    body .steps-interactive .step-btn { padding-block: 8px; }
+    body .steps-interactive .info-panel { min-height: 0; padding: 16px 22px; margin-top: 10px; }
+    body .steps-interactive .info-placeholder { padding: 20px 0; }
+    body .timeline-container { max-width: 1000px; gap: 8px; }
+    body .timeline-header { padding-block: 10px; }
+    body .timeline-header .icon-box { width: 40px; height: 40px; }
+    body .timeline-content ul { margin: 8px 0; }
+    body .timeline-content li { margin-bottom: 4px; }
+
+    /* ---------- La Mochila ---------- */
+    body .game-info-bar { padding-block: 8px; margin-bottom: 10px; }
+    body .game-area { min-height: 0; height: calc(100vh - 275px); }
+    body .game-area .items-shelf { align-content: start; overflow: auto; }
+    body .game-area .item-card { min-height: 0; padding: 8px 6px; }
+
+    /* ---------- Semáforo: caso a la izquierda, semáforo a la derecha ---------- */
+    body .game-container:has(> .traffic-light) {
+        max-width: 980px; display: grid; grid-template-columns: 1fr 1fr; gap: 14px 28px; align-items: center;
+    }
+    body .game-container > .traffic-light { margin: 0 auto; padding-block: 14px; gap: 10px; }
+    body .game-container > .traffic-light .light-btn { padding-block: 10px; }
+    body .game-container > .case-card { margin: 0; }
+    body .game-container > .score-board { grid-column: 1 / -1; margin: 0; }
+
+    /* ---------- Simuladores (Buzón y NotificASP): contexto en dos columnas + formulario en dos columnas ---------- */
+    body .sim-container { max-width: none; gap: 16px; align-items: flex-start; margin-bottom: 0; }
+    body .sim-container .sim-context { flex: 0 0 46%; display: block; column-count: 2; column-gap: 12px; }
+    body .sim-container .sim-context > * { margin: 0 0 12px; break-inside: avoid; }
+    body .sim-container .case-selector-box { padding: 10px 14px; }
+    body .sim-container .context-card { padding: 12px 16px; }
+    body .sim-container .context-card h3 { margin: 0 0 6px; }
+    body .sim-container .scenario-text { margin: 8px 0; padding: 10px 12px; font-size: .92rem; }
+    body .sim-container .alert-box-real { padding: 10px 12px; font-size: .86rem; }
+    body .sim-container .tips-box, body .sim-container .severity-legend { padding: 10px 14px; font-size: .88rem; }
+    body .sim-container .severity-legend .legend-item { padding: 4px 8px; margin-bottom: 4px; }
+    body .sim-container .sim-form-wrapper { flex: 1 1 auto; min-width: 0; }
+    body .sim-container .form-header { padding: 8px 16px; }
+    body .sim-container .sim-form { padding: 8px 18px 10px; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 18px; align-items: start; }
+    body .sim-container .sim-form > * { margin: 0; min-width: 0; }
+    body .sim-container .sim-form > .form-row,
+    body .sim-container .sim-form > .btn-submit,
+    body .sim-container .sim-form > button,
+    body .sim-container .sim-form > #final-message,
+    body .sim-container .sim-form > .final-message { grid-column: 1 / -1; }
+    body .sim-container .sim-form label { margin-bottom: 4px; }
+    body .sim-container .sim-form textarea { min-height: 0; height: 64px; }
+
+    /* NotificASP tiene más campos: contexto más estrecho y las opciones de gravedad en 2×2 */
+    body .sim-container:has(.severity-legend) .sim-context { flex-basis: 37%; }
+    body .sim-container .radio-grid.compact { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+    body .sim-container .radio-grid.compact .radio-card { padding: 6px 8px; font-size: .85rem; }
+    body .sim-container .factors-grid.compact { gap: 6px; }
+    body .sim-container .factors-grid.compact .check-factor { padding: 5px 8px; font-size: .85rem; }
+    body .sim-container .risk-matrix-box { padding: 6px 12px; }
+    body .sim-container .risk-matrix-box .matrix-body { gap: 8px; }
+    body .sim-container .risk-matrix-box .matrix-header { margin-bottom: 6px; }
+    body .sim-container .sim-form > .form-group[style] { grid-column: 1 / -1; margin-top: 0 !important; }
+    body .sim-container .sim-form > .form-group[style] textarea { height: 44px; }
+    body .sim-container .form-row { gap: 18px; }
+    body .sim-container .feedback-msg { min-height: 0; margin: 2px 0 0; }
+    body .sim-container .feedback-msg:empty { display: none; }
+    body .sim-container .sim-form .form-group, body .sim-container .sim-form .form-row { margin-bottom: 0; }
+    body .sim-container .sim-form #descripcion { height: 54px; }
+    body .sim-container .btn-submit { padding-block: 9px; margin-top: 0; }
+
+    /* ---------- Prepara tu consulta: cuatro bloques en fila ---------- */
+    body .progress-box { max-width: none; margin: 0 0 10px; padding: 10px 18px; }
+    body .progress-box p { margin: 6px 0 0; }
+    body .checklist-container { max-width: none; grid-template-columns: repeat(4, 1fr); gap: 12px; align-items: start; }
+    body .checklist-container .section-header { padding: 10px 14px; font-size: .95rem; }
+    body .checklist-container .check-item { padding: 8px 10px; font-size: .9rem; }
+
+    /* ---------- Termómetro (encuestas): presentación en dos columnas ---------- */
+    body .survey-container { max-width: 1100px; margin-block: 0; }
+    body .survey-container .survey-intro { margin: 0; padding: 0; }
+    body .intro-card { display: grid; grid-template-columns: 1fr 1fr; column-gap: 32px; align-items: center; padding: 22px 30px; text-align: center; }
+    body .intro-card > i { grid-column: 1; font-size: 2.6rem; margin: 0 auto 6px; }
+    body .intro-card > h3, body .intro-card > p, body .intro-card > .info-list { grid-column: 1; margin-block: 6px; }
+    body .intro-card > .unit-selector { grid-column: 2; grid-row: 1 / span 3; margin: 0; }
+    body .intro-card > .btn-start { grid-column: 2; grid-row: 4; justify-self: center; margin: 0; }
+
+    /* Cuestionario: cada pregunta en una fila (enunciado a la izquierda, escala a la derecha) */
+    body .survey-form .survey-section { margin: 0 0 4px; }
+    body .survey-form .section-title { margin: 2px 0 3px; padding-bottom: 2px; font-size: .92rem; }
+    body .survey-form .question-card { flex-direction: row; align-items: center; gap: 16px; padding: 4px 14px; margin: 0 0 4px; }
+    body .survey-form .question-card .question-text { flex: 1 1 auto; margin: 0; font-size: .9rem; text-align: left; }
+    body .survey-form .question-card .likert-scale { flex: 0 0 56%; margin: 0; gap: 6px; }
+    body .survey-form .likert-scale > * { min-height: 0; }
+    body .survey-form .likert-scale label, body .survey-form .likert-scale .likert-option, body .survey-form .likert-scale span {
+        padding-block: 3px; font-size: .72rem; line-height: 1.15; min-height: 0;
+    }
+    @media (max-height: 800px) {
+        body .survey-form .likert-scale * { padding-block: 1px !important; }
+        body .survey-form .question-card .likert-scale { flex-basis: 64%; gap: 5px; }
+        body .survey-form .likert-scale .likert-opt { height: 34px; display: flex; align-items: center; justify-content: center; }
+        body .survey-form .likert-scale .likert-label { font-size: .7rem; line-height: 1.1; padding-inline: 3px !important; }
+        body .survey-form .question-card { padding-block: 2px; margin-bottom: 3px; }
+        body .survey-form .question-card .question-text { font-size: .86rem; line-height: 1.2; }
+        body .survey-form .section-title { margin: 0 0 2px; padding-bottom: 0; font-size: .88rem; }
+    }
+    body .survey-form .btn-submit { margin-top: 4px; padding-block: 8px; }
+
+    /* ---------- Estadísticas de las encuestas ---------- */
+    body .top-bar:has(.aviso-almacen) { flex-wrap: nowrap; gap: 14px; align-items: center; }
+    body .top-bar .aviso-almacen { margin: 0; padding: 5px 10px; font-size: .8rem; }
+    body .filters-bar { padding: 8px 16px; margin-bottom: 10px; }
+    body .filters-bar select { padding-block: 6px; }
+    body .dashboard-top-section { gap: 12px; margin-bottom: 10px; }
+    body .dashboard-top-section .kpi-column { gap: 8px; }
+    body .dashboard-top-section .kpi-card { padding: 8px 14px; min-height: 0; }
+    body .dashboard-top-section .kpi-icon { width: 40px; height: 40px; }
+    body .chart-card { padding: 10px 16px; }
+    body .chart-card h3 { margin: 0 0 6px; padding-bottom: 4px; font-size: .98rem; }
+    body .chart-box.medium { height: calc((100vh - 535px) * .36); min-height: 80px; }
+    body .charts-container { gap: 12px; margin-bottom: 0; }
+    body .charts-container .chart-box { height: calc((100vh - 535px) * .64 - 40px); min-height: 110px; }
+    body .chart-tabs { margin-bottom: 6px; }
+    body .chart-tabs .chart-tab { padding: 4px 10px; font-size: .82rem; }
+
+    /* ---------- Mi lista de dudas ---------- */
+    body .builder-container { gap: 16px; }
+    body .suggestions-box { padding: 12px 18px; }
+    body .suggestions-box .check-list { max-height: calc(100vh - 470px); overflow: auto; }
+
+    /* ---------- EPI ---------- */
+    body .scenario-selector { margin-bottom: 10px; }
+    body .scenario-selector .scenario-btn { padding-block: 8px; }
+    body .epi-panel { min-height: 0; }
+    body .epi-panel .epi-info, body .epi-panel .epi-kit-container { padding: 16px 22px; min-height: 0; }
+    body .epi-panel + .alert-box { margin-top: 10px; padding: 10px 16px; }
+
+    /* ---------- Higiene de manos (Profesionales): tres columnas ---------- */
+    body .sp-main:has(> .technique-section) { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); column-gap: 18px; align-content: start; }
+    body .sp-main:has(> .technique-section) > .top-bar,
+    body .sp-main:has(> .technique-section) > .main-intro { grid-column: 1 / -1; }
+    body .sp-main:has(> .technique-section) > .interactive-container { grid-column: 1; grid-row: 3; margin: 0; gap: 12px; align-items: flex-start; }
+    body .sp-main:has(> .technique-section) > .extra-resource { grid-column: 1; grid-row: 4; margin: 6px 0 0; padding: 8px 14px; }
+    body .sp-main:has(> .technique-section) > .technique-section { grid-column: 2; grid-row: 3 / span 2; margin: 0; padding: 12px 16px; }
+    /* el dibujo coloca sus botones con medidas fijas: se reduce entero con zoom para no descolocarlos */
+    body .interactive-container .hand-graphic { flex: 0 0 auto; zoom: .7; margin: 0; }
+    body .sp-main:has(> .technique-section) > .interactive-container { flex-direction: row; flex-wrap: nowrap; min-height: 296px; }
+    body .interactive-container .info-panel { min-height: 0; max-width: none; flex: 1 1 auto; padding: 12px 16px; }
+    body .extra-resource h3 { margin: 0 0 4px; font-size: 1rem; }
+    body .extra-resource .method-card { padding: 5px 10px; }
+    body .extra-resource .method-card small { font-size: .74rem; }
+    body .extra-resource .method-card i { font-size: 1.3rem; }
+    body .extra-resource .method-card h4, body .extra-resource .method-card p { margin: 2px 0; }
+    body .technique-section .tech-header { margin-bottom: 4px; }
+    body .technique-section .tech-intro { margin: 0 0 8px; font-size: .9rem; }
+    body .technique-section .tech-grid { grid-template-columns: repeat(5, 1fr); gap: 6px; }
+    body .technique-section .tech-step { padding: 6px 4px; min-height: 0; }
+    body .technique-section .tech-step .step-num { width: 22px; height: 22px; font-size: .78rem; }
+    body .technique-section .tech-step .step-icon { font-size: 1.2rem; height: auto; margin: 2px 0; }
+    body .technique-section .tech-step p { font-size: .74rem; line-height: 1.25; margin: 0; }
+
+    /* ---------- Escalas Braden y Downton ---------- */
+    body .calc-container { max-width: none; }
+    body .calc-container .items-grid { gap: 10px; }
+    body .calc-container .calc-card .card-header { padding: 8px 12px; min-height: 0; }
+    body .calc-container .calc-card .card-options { padding: 8px 10px; gap: 5px; }
+    body .calc-container .calc-card .card-options > * { padding-block: 6px; font-size: .86rem; }
+    body .calc-container .result-panel { margin-top: 10px; padding: 10px 20px; }
+    body .calc-container .items-grid:has(> .multi-select) { grid-template-columns: repeat(5, 1fr); }
+
+    /* ---------- Checklist quirúrgico: pasos a la izquierda del título, lista en tres columnas ---------- */
+    body .steps-container { margin: 0 auto 8px; }
+    body .steps-container .step-circle { width: 38px; height: 38px; font-size: .95rem; }
+    body .checklist-card { max-width: none; }
+    body .checklist-card .phase-header { padding: 10px 22px; }
+    body .checklist-card .phase-header h3 { margin: 0 0 2px; font-size: 1.15rem; }
+    body .checklist-card .phase-header p { margin: 0; }
+    body .checklist-card .items-list { grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 12px 18px; }
+    body .checklist-card .check-item { padding: 8px 12px; min-height: 0; }
+    body .checklist-card .action-bar { padding: 10px 22px; }
+    body .checklist-card .action-bar .btn-action { padding-block: 10px; }
+}
+
+/* Pantallas bajas (portátil 1280×720): un punto más compacto */
+@media (min-width: 901px) and (max-height: 800px) {
+    body .learn-card .card-header { padding: 10px 0; }
+    body .learn-card .card-body .btn-learn { padding-block: 6px; }
+    body .tool-card { padding: 12px 16px; }
+    body .tool-card .tool-badge { top: 12px; }
+}
