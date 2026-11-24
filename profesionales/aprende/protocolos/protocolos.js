@@ -36,7 +36,8 @@
 
     /* ---------- carga de documentos ---------- */
     function prepararTexto(d, bruto) {
-        d.texto = bruto.normalize("NFC").replace(/\s+/g, " ").trim();
+        d.bruto = bruto.normalize("NFC");
+        d.texto = d.bruto.replace(/\s+/g, " ").trim();
         d.pl = plano(d.texto);
         if (d.pl.length !== d.texto.length) { d.pl = ""; d.texto = ""; d.estado = "error"; return; }
         d.estado = "ok";
@@ -96,7 +97,54 @@
 
     function palabras() { return plano(filtro.q).split(/\s+/).filter(function (p) { return p.length >= 2; }); }
 
+    /* ---------- lector: leer un documento dentro de la aplicación ---------- */
+    function cerrarLector() {
+        var L = $("lector");
+        if (!L || L.hidden) return;
+        L.hidden = true; L.textContent = "";
+        $("estado").hidden = false; $("resultados").hidden = false;
+    }
+
+    function abrirLector(d, posicion) {
+        if ($("panel-buscar").hidden) $("tab-buscar").click();
+        var L = $("lector"), ps = palabras();
+        var largas = ps.filter(function (x) { return x.length >= 3; });   // en el lector no se marcan «de», «la»…
+        if (largas.length) ps = largas;
+        L.textContent = "";
+        var volver = el("button", { type: "button", "class": "pr-lector-volver", text: "← Volver a la búsqueda" });
+        volver.addEventListener("click", function () { cerrarLector(); $("q").focus(); });
+        var cab = el("div", { "class": "pr-lector-cab" }, [
+            el("span", { "class": "pr-badge org-" + d.m.org, text: d.m.org }),
+            el("strong", { text: d.m.titulo }),
+            volver,
+            el("a", { href: d.url, target: "_blank", rel: "noopener", "class": "pr-lector-nueva", text: "Abrir en pestaña nueva" })
+        ]);
+        var cuerpo = el("div", { "class": "pr-lector-texto", tabindex: "0", "aria-label": "Texto del documento " + d.m.titulo });
+        if (d.estado !== "ok" || !d.bruto) {
+            cuerpo.appendChild(el("p", { "class": "pr-vacio", text: terminados < docs.length
+                ? "El documento todavía se está cargando. Inténtelo de nuevo en unos segundos."
+                : "No se ha podido cargar este documento. Pruebe con «Abrir en pestaña nueva»." }));
+        } else {
+            var lineas = d.bruto.split(/\r?\n/), TROZO = 40;
+            for (var i = 0; i < lineas.length; i += TROZO) {
+                var t = lineas.slice(i, i + TROZO).join("\n"), parr = el("p");
+                if (ps.length) parr.appendChild(resaltar(t, plano(t), ps)); else parr.textContent = t;
+                cuerpo.appendChild(parr);
+            }
+        }
+        L.appendChild(cab); L.appendChild(cuerpo);
+        $("estado").hidden = true; $("resultados").hidden = true; L.hidden = false;
+        if (typeof posicion === "number" && d.texto.length) {
+            cuerpo.scrollTop = Math.max(0, (cuerpo.scrollHeight * posicion / d.texto.length) - cuerpo.clientHeight / 3);
+        } else {
+            var m = cuerpo.querySelector("mark");
+            if (m) cuerpo.scrollTop = Math.max(0, m.offsetTop - cuerpo.offsetTop - 60);
+        }
+        cuerpo.focus();
+    }
+
     function buscar() {
+        cerrarLector();
         var ps = palabras();
         resultados = []; porDoc = {}; parcial = false;
         if (!ps.length) { pintarResultados(); pintarDocs(); return; }
@@ -203,7 +251,8 @@
             if (f.pre) p.appendChild(document.createTextNode("… "));
             p.appendChild(resaltar(f.texto, f.plano, ps));
             if (f.post) p.appendChild(document.createTextNode(" …"));
-            var enlace = el("a", { href: r.d.url, target: "_blank", rel: "noopener", text: "Abrir documento" });
+            var enlace = el("a", { href: r.d.url, text: "Leer en el documento" });
+            enlace.addEventListener("click", function (e) { e.preventDefault(); abrirLector(r.d, r.ini); });
             var cab = el("div", { "class": "pr-res-cab" }, [
                 el("span", { "class": "pr-badge org-" + r.d.m.org, text: r.d.m.org }),
                 el("strong", { text: r.d.m.titulo }),
@@ -231,18 +280,22 @@
             if (d.estado === "error" && terminados === docs.length) meta.appendChild(el("span", { "class": "pr-badge pr-badge-err", text: "No disponible" }));
             if (filtro.q && porDoc[d.m.file]) meta.appendChild(el("span", { "class": "pr-badge pr-badge-hits", text: porDoc[d.m.file] + " coincidencias" }));
 
-            var b = el("button", { type: "button", "class": "pr-doc", "aria-pressed": String(filtro.doc === d.m.file),
-                                   title: filtro.doc === d.m.file ? "Quitar el filtro de este documento" : "Buscar solo en este documento" }, [
+            var activo = filtro.doc === d.m.file;
+            // Pulsar el documento lo abre para leerlo; el botón pequeño limita la búsqueda a ese documento.
+            var b = el("button", { type: "button", "class": "pr-doc", title: "Leer este documento" }, [
                 el("span", { "class": "pr-doc-t", text: d.m.titulo }),
                 el("span", { "class": "pr-doc-d", text: d.m.desc }),
                 meta
             ]);
-            b.addEventListener("click", function () {
-                filtro.doc = (filtro.doc === d.m.file ? "" : d.m.file);
+            b.addEventListener("click", function () { abrirLector(d); });
+            var f = el("button", { type: "button", "class": "pr-doc-filtrar", "aria-pressed": String(activo),
+                                   text: activo ? "✓ Buscando solo aquí · quitar" : "Buscar solo en este documento" });
+            f.addEventListener("click", function () {
+                filtro.doc = (activo ? "" : d.m.file);
                 buscar();
                 $("q").focus();
             });
-            ul.appendChild(el("li", null, [b]));
+            ul.appendChild(el("li", { "class": activo ? "pr-doc-activo" : "" }, [b, f]));
         });
     }
 
@@ -282,7 +335,11 @@
         cont.textContent = "";
         PROT_FAQ.forEach(function (f) {
             if (temaFaq && f.tema !== temaFaq) return;
-            var enlace = el("a", { href: PROT_RUTA_DOCS + f.file, target: "_blank", rel: "noopener", text: "Abrir documento" });
+            var enlace = el("a", { href: PROT_RUTA_DOCS + f.file, text: "Leer el documento" });
+            enlace.addEventListener("click", function (e) {
+                var doc = docs.filter(function (x) { return x.m.file === f.file; })[0];
+                if (doc) { e.preventDefault(); abrirLector(doc); }
+            });
             var cuerpo = el("div", { "class": "pr-faq-cuerpo" }, [
                 el("p", { text: f.r }),
                 el("p", { "class": "pr-fuente" }, [el("strong", { text: "Fuente: " }), f.fuente + ". ", enlace])

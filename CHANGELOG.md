@@ -1,5 +1,12 @@
 # Historial de versiones
 
+## 2.3.0 — 24/11/2026
+- Buscador de protocolos: lector de documentos dentro de la pantalla; los resultados llevan al punto del documento. «Buscar solo en este documento» pasa a un botón aparte.
+- Higiene de manos (Ciudadanía): panel propio de los 5 momentos; se retira la infografía con erratas (`Archivo/imagenes_retiradas`).
+- Diccionario: 20 textos corregidos (ver `Documentación/Revision_textos_medicos_24_11_2026.md`).
+- Ayuda: botones «Ver» y «Descargar» el manual; logotipo en la portada del manual.
+- Edición para el SAS sin enlaces externos: `scripts/crear_edicion_sas.sh`.
+
 ## 2.2.0 — 24/11/2026
 - Rediseño de escritorio (`css/escritorio.css`): las 44 pantallas caben enteras a 1280×720, 1440×900 y 1920×1080, repartidas en columnas. El móvil no cambia.
 - Infografías de higiene de manos ampliables.

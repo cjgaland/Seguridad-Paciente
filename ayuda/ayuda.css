@@ -71,3 +71,7 @@
 
 .ayuda-descarga { margin: 0 0 10px; }
 .ayuda-col a.ayuda-boton { color: #fff; text-decoration: none; display: inline-block; }
+
+.ayuda-descarga { display: flex; gap: 8px; flex-wrap: wrap; }
+.ayuda-col a.ayuda-boton--claro { background: #fff; color: #0b7a3e; border: 1px solid #0b7a3e; }
+.ayuda-col a.ayuda-boton--claro:hover { background: #eef7f1; }

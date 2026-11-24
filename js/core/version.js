@@ -2,9 +2,19 @@
 // AL PUBLICAR UNA VERSIÓN: cambiar VERSION aquí, añadir la entrada en HISTORIAL,
 // poner el mismo número en /version.json y anotarlo en CHANGELOG.md.
 
-export const VERSION = "2.2.0";
+export const VERSION = "2.3.0";
 
 export const HISTORIAL = [
+    {
+        version: "2.3.0",
+        fecha: "2026-11-24",
+        cambios: [
+            "Buscador de protocolos: al pulsar un documento se abre para leerlo dentro de la propia pantalla, y cada resultado lleva al punto exacto del documento. Antes solo filtraba la búsqueda.",
+            "Higiene de manos (Ciudadanía): los cinco momentos se explican ahora en un panel claro y accesible, pensado para pacientes y familiares, en lugar de la infografía anterior.",
+            "Diccionario de términos médicos: revisión de exactitud y prudencia de las definiciones y los consejos (20 textos corregidos).",
+            "Ayuda: dos botones para el manual, «Ver» y «Descargar». El manual lleva el logotipo en la portada."
+        ]
+    },
     {
         version: "2.2.0",
         fecha: "2026-11-24",
